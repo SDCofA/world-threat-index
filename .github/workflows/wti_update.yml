@@ -42,7 +42,7 @@ jobs:
 
       - uses: actions/cache@v4
         with:
-          path: ~/.cache/bnti
+          path: ~/.cache/wti
           key: wti-feed-cache-v2-${{ runner.os }}-${{ matrix.shard }}
 
       - name: Install Dependencies
@@ -128,3 +128,22 @@ jobs:
           done
           exit 0
         continue-on-error: true
+
+  deploy-pages:
+    needs: merge-and-publish
+    if: always()
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: git pull origin main || true
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - uses: actions/deploy-pages@v4
+        id: deployment

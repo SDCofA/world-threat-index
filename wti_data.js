@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-06-22T10:17:12.595351",
+    "generated_at": "2026-06-29T16:14:49.442368",
     "main_index": 2.68,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-06-22T12:00:00",
+    "next_update": "2026-06-29T18:00:00",
     "publishable": true
   },
   "countries": {
@@ -23293,7 +23293,8 @@ window.WTI_DATA = {
           "llm_primary_country": "MM",
           "llm_subject": "A State Welcome, but at a Price: What Min Aung Hlaing’s China Visit Reveals Abou"
         }
-      ]
+      ],
+      "stale": true
     },
     "NA": {
       "name": "Namibia",
@@ -25157,7 +25158,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CN",
           "llm_subject": "Is China Overtaking The US As The World’s Largest Outbound Travel Market? - Trav"
         }
-      ]
+      ],
+      "stale": true
     },
     "DM": {
       "name": "Dominica",
@@ -30031,7 +30033,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IL",
           "llm_subject": "Netanyahu orders Shin Bet probe Israel's Channel 12 over alleged Iran war leak -"
         }
-      ]
+      ],
+      "stale": true
     },
     "KG": {
       "name": "Kyrgyzstan",
@@ -35961,7 +35964,8 @@ window.WTI_DATA = {
           "llm_primary_country": "TW",
           "llm_subject": "Most Taiwanese prioritize ties with US, Japan: survey - Taipei Times"
         }
-      ]
+      ],
+      "stale": true
     },
     "VN": {
       "name": "Vietnam",

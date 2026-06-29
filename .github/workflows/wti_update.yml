@@ -124,7 +124,12 @@ jobs:
         run: |
           git config user.name 'WTI Intelligence Bot'
           git config user.email 'bot@monarchcastle.tech'
-          git add wti_data.json wti_data.js wti_history.csv 2>/dev/null || true
+          # Stage only files the pipeline actually produces. `git add` aborts and
+          # stages NOTHING if any pathspec matches no file, so listing the
+          # never-generated wti_history.csv here silently blocked every commit
+          # (data frozen despite green runs). Add each file independently.
+          git add wti_data.json 2>/dev/null || true
+          git add wti_data.js 2>/dev/null || true
           git diff --cached --quiet || git commit -m "WTI UPDATE: $(date -u +'%Y-%m-%d %H:%M UTC')" || true
           for i in 1 2 3; do
             git pull --rebase origin main 2>/dev/null || true

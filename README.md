@@ -89,9 +89,9 @@ The methodology is adapted from the production [Border Neighbor Threat Index (BN
 
 ### Preview
 
-![World Threat Index — global dashboard and world threat map](docs/screenshot-1.png)
+<!-- ![World Threat Index — global dashboard and world threat map](docs/screenshot-1.png) (screenshot pending) -->
 
-![World Threat Index — bloc indices and country rankings detail](docs/screenshot-2.png)
+<!-- ![World Threat Index — bloc indices and country rankings detail](docs/screenshot-2.png) (screenshot pending) -->
 
 ---
 

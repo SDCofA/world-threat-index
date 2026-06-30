@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T16:14:49.442368",
+    "generated_at": "2026-06-30T23:40:35.924548",
     "main_index": 2.68,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-06-29T18:00:00",
+    "next_update": "2026-07-01T01:00:00",
     "publishable": true
   },
   "countries": {
@@ -663,7 +663,8 @@
           "llm_primary_country": "JP",
           "llm_subject": "Ukrainian drone makers target Asia as Taiwan tensions spur demand - Japan Today"
         }
-      ]
+      ],
+      "stale": true
     },
     "SY": {
       "name": "Syria",
@@ -13051,7 +13052,8 @@
           "llm_primary_country": "ZA",
           "llm_subject": "South Africa needs to get agricultural politics off social media and back into t"
         }
-      ]
+      ],
+      "stale": true
     },
     "AG": {
       "name": "Antigua and Barbuda",
@@ -18193,7 +18195,8 @@
           "llm_primary_country": "ET",
           "llm_subject": "Ethiopia: Persecution of Tigrayans Unrelenting - Human Rights Watch"
         }
-      ]
+      ],
+      "stale": true
     },
     "GM": {
       "name": "Gambia",
@@ -36401,7 +36404,8 @@
           "llm_primary_country": "AU",
           "llm_subject": "Dane’s payout for historical sexual abuse meant the NDIS slashed his funding. He"
         }
-      ]
+      ],
+      "stale": true
     },
     "BJ": {
       "name": "Benin",
@@ -39341,7 +39345,8 @@
           "llm_primary_country": "SA",
           "llm_subject": "Germany Joins UAE, Qatar, France, Saudi Arabia, Lebanon, Israel and Others as Ir"
         }
-      ]
+      ],
+      "stale": true
     },
     "SN": {
       "name": "Senegal",

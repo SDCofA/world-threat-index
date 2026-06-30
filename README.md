@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/logo.png" alt="World Threat Index — institutional seal" width="140"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SDCofA/world-threat-index/main/docs/logo-dark.png"><img src="docs/logo.png" alt="World Threat Index — institutional seal" width="140"></picture>
 
   # World Threat Index
   ### A standing geopolitical assessment of 195 states and 13 blocs

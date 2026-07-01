@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T04:55:04.995833",
+    "generated_at": "2026-07-01T20:13:46.195551",
     "main_index": 2.68,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-01T06:00:00",
+    "next_update": "2026-07-01T22:00:00",
     "publishable": true
   },
   "countries": {

@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T23:40:35.924548",
+    "generated_at": "2026-07-01T04:55:04.995833",
     "main_index": 2.68,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-01T01:00:00",
+    "next_update": "2026-07-01T06:00:00",
     "publishable": true
   },
   "countries": {
@@ -227,7 +227,8 @@
           "llm_primary_country": "DE",
           "llm_subject": "Nico Schlotterbeck undergoing MRI on ankle, World Cup status in jeopardy - Bavar"
         }
-      ]
+      ],
+      "stale": true
     },
     "GB": {
       "name": "United Kingdom",
@@ -1100,7 +1101,8 @@
           "llm_primary_country": "TR",
           "llm_subject": "The war is ending, but will its effects end too? - Yeni Şafak English"
         }
-      ]
+      ],
+      "stale": true
     },
     "UA": {
       "name": "Ukraine",
@@ -1536,7 +1538,8 @@
           "llm_primary_country": "US",
           "llm_subject": "Lindsey Graham: 'Obliterate' Iran if there's Strait of Hormuz resistance - USA T"
         }
-      ]
+      ],
+      "stale": true
     },
     "AD": {
       "name": "Andorra",
@@ -22698,7 +22701,8 @@
           "llm_primary_country": "ID",
           "llm_subject": "Who Gets to Belong? Indonesia’s Minority Faiths and the Limits of Legal Protecti"
         }
-      ]
+      ],
+      "stale": true
     },
     "KZ": {
       "name": "Kazakhstan",
@@ -30579,7 +30583,8 @@
           "llm_primary_country": "MA",
           "llm_subject": "World Cup 2026 today: Live updates, latest news as it happened - June 20 - ESPN"
         }
-      ]
+      ],
+      "stale": true
     },
     "MR": {
       "name": "Mauritania",
@@ -31015,7 +31020,8 @@
           "llm_primary_country": "NG",
           "llm_subject": "Oduwole: FMCG Sector Key to Nigeria’s $1trn Economy Vision - THISDAYLIVE"
         }
-      ]
+      ],
+      "stale": true
     },
     "PG": {
       "name": "Papua New Guinea",
@@ -36771,7 +36777,8 @@
           "llm_primary_country": "CD",
           "llm_subject": "How Trump's diplomacy is shaping the war in the eastern Congo - Responsible Stat"
         }
-      ]
+      ],
+      "stale": true
     },
     "CU": {
       "name": "Cuba",
@@ -37833,7 +37840,8 @@
           "llm_primary_country": "IQ",
           "llm_subject": "Iraqi PM names Qasim Al-Araji Special Security Adviser - Shafaq News | Latest br"
         }
-      ]
+      ],
+      "stale": true
     },
     "KI": {
       "name": "Kiribati",

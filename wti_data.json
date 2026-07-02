@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T20:13:46.195551",
-    "main_index": 2.68,
+    "generated_at": "2026-07-02T04:25:41.845173",
+    "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-01T22:00:00",
+    "next_update": "2026-07-02T06:00:00",
     "publishable": true
   },
   "countries": {
@@ -887,15 +887,15 @@
     },
     "TR": {
       "name": "Türkiye",
-      "index": 3.77,
-      "raw_score": 1.53,
+      "index": 1.0,
+      "raw_score": -0.07,
       "status": "STABLE",
       "events": [
         {
-          "title": "Türkiye Calls for Mechanism to Ease Tensions in Ongoing US-Iran Negotiations - Kurdistan24",
+          "title": "Turkiye's economic confidence index rises 1.8% in June 2026 - Fibre2Fashion",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkpPakloYUduZ1czSHl3aHE5VnZ1aWQ4elNhRG1iSmpDUThjUHNTZ2tRcnM1Wm5TbUtHOGdvRi01b1czSVlDbDdNcFdsU2pVcHVmOFJ4ZlpGN2RFSkFMZWZRT0syeDhTSXA2c0pUSlhqZGRXdTFIQmtSNlV2UmpTU2lYaGxUempnU1lTbDVtRV9FOGpqbFR4UzI4aGdqazRJS1Fpa1JHaGlRWm9uVGVIQlNQOHFvQnBPY2oxQ21oN0JERWc?oc=5",
-          "date": "Sun, 21 Jun 2026 17:55:09 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZy1vSFFmcl84SDVmcnNxdUJ5UFN5NXBGR08tUWlsa01kQjVHSVUyLWR1dkFCVVI5bHFod3BsamF2ZzdHakJhcGtEOTRXaHFaRFBIWjVVZEdPRjRNXzFGRzcxbDRhR1VkcjUxeGZ0dnpDbmxJWFA4eG10eVBqd01GV3YxRlRMTkZCNi1Yd3ZWb3h6eFNvcmFfWlpUajFpTHZIVlRyWWQ3RkZJMm9jNlFESXduSHF1aWUyOWNqMTJsaFA0cllxeE1wcQ?oc=5",
+          "date": "Thu, 02 Jul 2026 03:32:28 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -903,41 +903,27 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Türkiye Calls for Mechanism to Ease Tensions in Ongoing US-Iran Negotiations - K"
+          "llm_subject": "Turkiye's Economic Confidence Index Increases in June 2026"
         },
         {
-          "title": "Turkish foreign minister warns US-Iran talks may face setbacks, says Israel could sabotage process - Anadolu Ajansı",
+          "title": "Why Türkiye Must Act Now Against Obesity - Caspian Post",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjlLakRxUWhZY2dKeG5qOVNrUGxnWDdEeGxGbHVzeWlhdUFpU2VIck9qV3JjVUs0ODRPT1R3cUdENnd0NFUxX3JvSTFnTC0xdUZHeFNlWlVlTkYtRDhVOG5kQ2R5WG1jRmU2RTlwdzc4TGZPWWRlWnBVdjBHQVYxOGZwQUJ2UVUzZFYyYndRSDJJa1dDcmQ5WlZBcVJ5MzRZZDc0ZzAzOGM4bTBkc2dlbTNpQ3A3dnoxSlBENmhTSUxsdkZIclNBOU9NZXVjSzBNd1ZDNA?oc=5",
-          "date": "Sun, 21 Jun 2026 15:17:35 GMT",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91UjhoTkJRcWx6cUVlRldzN1BxZjBmUDM0WTVzbVg4bDFhaWU4d01VdG1sXzRZNm5ra3BXdXcxNk5iMW9pNWNpNlJWVl9qbDdWR09Tbl9BLUpDay16MDVrX0ZGVFpaWHR1QVpiLW53c0FlaEVjd1RsODZlc1o?oc=5",
+          "date": "Wed, 01 Jul 2026 15:41:05 GMT",
           "source_country": "TR",
           "country": "TR",
-          "category": "military_conflict",
-          "weight": 8.0,
+          "category": "political_instability",
+          "weight": 4.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Turkish foreign minister warns US-Iran talks may face setbacks, says Israel coul"
+          "llm_subject": "Türkiye Urged to Address Obesity Crisis"
         },
         {
-          "title": "Turkish president meets Romanian president in Istanbul - Yeni Şafak English",
+          "title": "Türkiye's BIST 100 index climbs 1.62% at midweek close - Anadolu Ajansı",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1pQUEJtRVY2ZnU1MjJPTkczOFlUMmNLdVpZU05nNFl5S2xIeHN4ci0ya0NIT3JCZHdxNWhuN0ZMQVRSaFphVGhOR2NjNXEzbzRaX0E0bmg5UHh2MmVaRnh5ZVRra1ZLNEZ6SUtlU3lLblZnc1RZNWJEcU9wR0g4aVEwMW9QRXZOeVE5cENhQnJOVmFJTjdnZjRHWQ?oc=5",
-          "date": "Sun, 21 Jun 2026 07:32:48 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "TR",
-          "llm_subject": "Turkish president meets Romanian president in Istanbul - Yeni Şafak English"
-        },
-        {
-          "title": "NATO Summit taking place in Ankara, Türkiye from July 7-8, to bring heightened security, travel delays, and major street closures. - SafeAbroad",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORndfRkFTanVPRUEwVERPUmRybFdQTFR2N3BNN3JoWE95WVpkaTk2UnBEa0l2TlNuSC00a2NxYTdweVVJdkRGQnRLVnZvTkZzaDFtVGRsN1NkRkFTZ1o3eFVIejdzWXZhNExpWlloMVM1UkRuMkhKMTlZQVhNSjdoSm15eXFKdWtHaVFvcEh1QVhhWUlZOHMwWkExQmpVR1lPbW5JNVJZNC15ZVVzSGg1bkM4MHFpcGx6dnRrOU5iaHNETjN5azl0VVFRSnJXQ0tMTWE4ZFAzZmtPekhYQk5uNUtaR0E4aWxTNExKUEU4ZTBmdw?oc=5",
-          "date": "Sun, 21 Jun 2026 22:15:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRS1sT25iZ3Ztel91YmotZDdkQVhwaXc2SjVtYUNWeVgtOUNxdFdid2dpTXllb29JdUI2b0lXbHVzakFMUlBVQzJOOVNaVG1JaThrVWhJMmVtM1hVZU5tazh5TU1qU3lETlZfRVpwVm9nc1BYOHZLVFNkdTd5aWpMUVhWa19oMWYwZzl4VDV0UFd4bUtKYWlj?oc=5",
+          "date": "Wed, 01 Jul 2026 16:34:27 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -945,13 +931,27 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "NATO Summit taking place in Ankara, Türkiye from July 7-8, to bring heightened s"
+          "llm_subject": "Türkiye's BIST 100 Index Rises Midweek"
         },
         {
-          "title": "No withdrawal from Lebanon security zone, says Israel's Katz - Türkiye Today",
+          "title": "Turkish defense exports near $11B as sales to NATO allies accelerate - Anadolu Ajansı",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE5VcWc4dUJkOFVsTFZSamY3dzBhVnRCb01oT2NwT254eWR1TEVGeVd0NUp5bm1vdWdiQ1BfQTVFNENaNVVqa0lpcHVlZm1vbEM4U2lDTW9YSTNud0NnWTBPN1FzUW1lcEpkd3ZpMHJoelV6M1Z5NXlYZk5jaTg1Z3g5NkRRTkNPelRyU09fcFFyTG11WHZqWWY2ay1VMFZ2Y0hBLQ?oc=5",
-          "date": "Sun, 21 Jun 2026 13:43:47 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXVtYm9NcS14QU9nQ3VHeE1pVHJlckVkYVdKeEVwYnVNLVVqMTZYXzdDTmpZN21zSzlub05hOHpOZndOYXNrTUFvdVZBNkhONXp6MzE5QnY3RTZ1QmdIOEQzNnZUc05yc3JPdUlDa05sMHUxV0MzRzBYcmZQeWRBcEkzRlNxN2FSdE9KSkkxX0dYUlM3bjN2UnNkWVhqT19tSHY2dzhBU2N4Nzlz?oc=5",
+          "date": "Wed, 01 Jul 2026 09:39:37 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "trade_agreement",
+          "weight": -2.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "TR",
+          "llm_subject": "Turkish defense exports surge to NATO allies"
+        },
+        {
+          "title": "Inflation in Istanbul eases slightly in June | Daily Sabah - Daily Sabah",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVlwMVo3dG5DWHNUUkVIT3VzQnpnVEtQSEY0Z2ZoWDBSTmNBaXBYYVJobnlYLTRENExjbTBpQlYtQVk4Y1BfeTB5c21rRGhzVGNObV93ZUloTTVEcmRsZDJWa0hYcUZLMC0xbnFlLXg4UTJQODJ0eTJSdHc2S2RGMUdhX0c2eUc3UE5kNE85TEFNQdIBlwFBVV95cUxPaDNra2FwYlFEMDhybm53VlhqT1c4VkczWlNyc3VFaTJYT2tKNGhHSHM1M19pbUZNNV9TVnBkMVVLQ2ZONDlWZ01EN0k0WFNFenh2UGJ4a3I3QWo0REJuMHdsNVJjTHdJdkphaW5COHk1NjUxNDg4LWl0UURmcldXMjMxUVB3eE0tb1hEcjVVWFBVUi1DWUZJ?oc=5",
+          "date": "Wed, 01 Jul 2026 11:28:00 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -959,13 +959,41 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "No withdrawal from Lebanon security zone, says Israel's Katz - Türkiye Today"
+          "llm_subject": "Istanbul inflation shows slight easing in June"
         },
         {
-          "title": "Türkiye emerges as climate, food security hub: FAO official | Daily Sabah - Daily Sabah",
+          "title": "Türkiye, Pakistan to turn diplomatic momentum into stronger trade ties | Daily Sabah - Daily Sabah",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVVjeEg4Y1JUeXBpbExiMjlFVk9IemVDUUpaMF94bGZVYXhOSUFrNHcxa0NxeGotWmI4Ui1ubmlTMG5YOHlHd19sVFgzZ0d5SEZYZjhJSDUzQjRZZi1oRjc2QjZSWVhqM0FoblBDYUhrSXhDLXJOdzNBbXJYaWZ1eXlKZjAxbnNrLUtKSFdVUUdYeXhRd0JaN0FBTzk0VVXSAaQBQVVfeXFMUGV2MGZnQ25KZ0tLbDA5TjI1V1ozZGdjZWhJcWhwQ3VMZE8xanR1dXlDYmpmQ2plTVpZY3JkbFQyelY1Vzc0ZWwxQWFpdkNocHdQYmZZdHZ1MWtoYWw5MXpuY0xIWVUtbmFTeEt0eGRldHh5cnp0RlpucjYtNWxTM3dnRXMtdzFndmY3V3p4TnZLLWNtWlZkRTNjY041ZVdrRGNIOHU?oc=5",
-          "date": "Sun, 21 Jun 2026 06:28:25 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTS10T3RnbzNQUE9JdVNsY3lncHJsaEp3dGtHbGNCczd6cGRwT2R1MVRKSXdVTlFvQ01VMm1fWUtfSU14cXVScU5oWDZIYTdJLTVtZTVqbUhXdXk1a2s1SmVYV2tNU0VWcWI4Z3Jfa1N0clZQcVNUM2FyeVNtcUZyUWNSU2REblM5ejI4Wl9vaDdJVWNXUUktODAxZ1J1SGhiNjVHLTU4YVRyN2VYeHlkS2dMd9IBuAFBVV95cUxQQURCY2Jra2YxXzYwRmppb0pVODNjOEdibFUtTnZaak9aU1VDYzRaNlNQSng1TFJUQnR3Z1AyaWhVYXF0Y05odFpuRnRncThWNjJoUExRR3F4eWFBVXJlMTFkMW1LeTNuVkpncHNkcG4wSU1TZnVfRm5QcVZuU3p6aEZNbDdyVFVCNVVoNTNobU9iWDRSbjlGTUw0a3VLdldDdmV0bTJLNFhrMVM0bWc3c3lzNDA5OThw?oc=5",
+          "date": "Tue, 30 Jun 2026 10:33:00 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "trade_agreement",
+          "weight": -2.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye seeks stronger trade ties with Pakistan"
+        },
+        {
+          "title": "Türkiye's trade gap down 15.6% as imports fall faster than exports | Daily Sabah - Daily Sabah",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3pMM21VNlNFcjJmdU43WmhiTEMtWWp6eDdqQUZ4QngwWG4tZmM3MGpDLWlXb21sNlhPLTV4UC05Mml2WXRIQi1VYnVYZlZvajN2d0pwRVZfWnUyckFlaGctejZXY1dJR2p6UExqcHVBOE1CZHRHQ3ZqQzBJWHIyMkFNM1VRYzBoS1Rpd0R1bFhLdnZILTdYWlR5U0l2cHkzZ2lrbmxGVkdLSWPSAbABQVVfeXFMUDVfVXZ5WVk4bjEyejlJTU5RZnpJZURlZE42RGVQeEx4VmZzVEN0RzM2LXhvLVphdF9rRGJjMzJCTEhXLVE3dDdrYjEyRTIyM3c5MnIzckNXSm95VUFqQ1ZpSVJic3V5VTVhX1ZoeTZ5QU9UTnZVOTVNVGx2T3VaeVJoOW1qdDNpdjVDUUwyQ3hrazdXT0NxaWV6cXZSNWpjeTFtSDBRQmpzVm1lOHZldkM?oc=5",
+          "date": "Tue, 30 Jun 2026 09:47:00 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "trade_agreement",
+          "weight": -2.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye's trade deficit narrows significantly"
+        },
+        {
+          "title": "Türkiye's unemployment rate unchanged at 8.2% in May | Daily Sabah - Daily Sabah",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX190VWxITGstUlFFdlJpSElsb09FbzZsY0R0YXRScU9TY1JKdkhwOEhrb0RiVzFBTDZuOXV6bHZUdUg0S0xFYVBnby1KQlJpS0hoMFJ6S2dGVDNGdkhHS1NJNWwyaFVnbTA1UGJmOEJBMTFyMzBzbThxd25kaVgtZE5mcDU3bmotU1BsQjJGV0VTRWdqeEhHbtIBngFBVV95cUxNc2NVRHJlOFBVQklEakRtX2dfcGpkcEhGRDdQNF9WWWVZWXh0OVpkQTZELTBfMWlfSzdxOWtZSVltaU4tdF80V25teEkwekRkSW55dnZnS0JBaE5vT3FjcmppQ3VfaFd6QnZMS3d6YTBaaXFjOE8zNlBKelBQVi04VGNPU0M4cmZvaWNnRDBsUnJ3Y3V0R1A2SWpkeG9xQQ?oc=5",
+          "date": "Tue, 30 Jun 2026 09:59:00 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -973,13 +1001,27 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Türkiye emerges as climate, food security hub: FAO official | Daily Sabah - Dail"
+          "llm_subject": "Türkiye's unemployment stays at 8.2% in May"
         },
         {
-          "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - Gulf News",
+          "title": "Türkiye flags visa hurdles, seeks clarity on 'Made in EU' framework | Daily Sabah - Daily Sabah",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc2ZsNWxOUmIzUUczRl9IWVJJU3V6M3lsUVNDY1lIVS13ZHVmR0tzWFBVVFJJcVpWakN2M19nZUc3Y3hkUk1jUWZLSEROVzd6X29lZWM1c1hyYU5iLThQY3VOLWV6WGtCVEYtVC0yejV5SDFMeXhhRTBHeThoUXRudHVhbEdGZ3dGTHp1VnhyUjRoaFRLY3B4RUpaYnpPbTYyR0JLOTgyQUJWd2pNRFg3UFNsNk1XaWpFYjIyb1NIU2tjQkFPNDU5ZHY2QlpFVEJoYzJhYXVLZVQyUTc0Z0YwNS1JNlpHRjdmLXBqNV9tT2RITXfSAYYCQVVfeXFMUFdiSDJWMmhDcExELWFKQVVROUpvclFobXZOcm82aVl5bUt1WC1Qc1Z0MlJXSWdmWVZfcWRuZTZpRzRfWE1PSVQ1enAtaVBqVU0xVloxZVFXeDdhVm5zMl90R1JSZUFmTUhtOUVhVzNTRXN3TXBNaFg0NklZR0V1aUJSVUtPZ1JmT0IzRkNjOF9aT3RweHdHbUFZNkJKaWFGR2FGQkxvdk5VV0s0LXlxTVJhLXNDWWtWZHdvem5MdVd4SkNuVHVxMDZ3a015N2gwMk5HNGRYcE9nMFJETkZwRGs5OWk1X2RtakFsR0s2em5mYlA2M0J0UjJYZ01MQWNNVTlmMTFFdw?oc=5",
-          "date": "Sun, 21 Jun 2026 22:22:04 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS3RDdVN5ZVhkb01SUmt1R2RiTktuUzQ0dzdJSHNMa0VCRFVIRHFOT3U0ZFhvcjJjR2FOcTI4Z0UwUExCMU1sZEdhZk9jOFprR2EwWEFGZ0NndVdCN1VhM3lUMUlPdm5GQnAxempmSDlXRTlTSmNpNi1pdDJsUkhZaFozR1dhcG5uaHlrSXBTUV92bWk2TGcxb1ltNzBHYUF3b3FnbzB3YmJWWmwz0gGyAUFVX3lxTE44Wjk0c3NYZ21HZlVvdHZGei14TFFmaFZ2c3g1WHRiYTJMcTd1U3hhVDhNNDZSQkZteGdHZHFsMkZPVkJkWHI2VTJBZzlBWTlOd3N2YXkxS1ZBT0hmejREcHJCMElYSm13V1BjTzduY09fR21aNnJoazZIOFJJU3gtSENaTDVuMENQdHhuZGJGeE5mSWU0ZHRLeUl6NlNNVTV2UEJDT2pRcW9JQ1BJbGRQTkE?oc=5",
+          "date": "Tue, 30 Jun 2026 12:04:12 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye raises visa concerns over EU 'Made in EU' rules"
+        },
+        {
+          "title": "Kallas meets Erdogan in Turkiye and issues joint statement with Hakan Fidan - commonspace.eu",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yVkE1OUFaY0VlOXl6NjYzWFNiekJ0UU5qT0l2UGJXSTMxNkc2N1JVRG5TVGQ3dmF3ZlVfUHB5aVhha1hqWG0zdk5oY0drdw?oc=5",
+          "date": "Wed, 01 Jul 2026 06:22:36 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -987,27 +1029,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure se"
+          "llm_subject": "Kallas and Erdogan issue joint statement after meeting in Ankara"
         },
         {
-          "title": "Dozens of West Bank terror attacks directed by Turkey-based Hamas operatives foiled, Shin Bet says - Ynetnews",
+          "title": "Türkiye launches nationwide waste return scheme - Hürriyet Daily News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qU0Y1UDFEX29YVTh3YzJXMG5iU0lfMFNNaUVjNW8wSW9Qdl94b0wyaUhaVWQ2Q2U4VGxiakp5eUtZendpSHhCTzBGV3FNUHhDN1UyUWRB?oc=5",
-          "date": "Sun, 21 Jun 2026 11:20:48 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "terrorism",
-          "weight": 7.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "TR",
-          "llm_subject": "Dozens of West Bank terror attacks directed by Turkey-based Hamas operatives foi"
-        },
-        {
-          "title": "Peace in Ukraine key to regional security, stability: Turkish FM - TRT Afrika",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WMXVoMG1URFQxeGMtWUJISEgwX2ZiZU55dlRNTlhjUlh2NXZ2emc4RkpCczI4eDREY2lOSWxuMVV3ZWl2dHVUejcwS1B2Ui1nMVBQNVEySDdXdkU1YTU1VE54eWc?oc=5",
-          "date": "Sun, 21 Jun 2026 02:22:23 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZVVEp5ZC1VZ21BRUdBRUp4d3BoQlBiYzJSOEoxMlRzQ0I0M1I1Nm9mWmh3RHNYNGdFa3dmR3FiWENjRVNfdTFfRE9UY3pEb0FiMFN0UHZhOXhVbUJBb1pmcmZkLXRpVkVsSlg5bS1fNlNnS0c5QTlQUWFXemlOZmRkV0hkeG9MSU1FSU9zc1FVQQ?oc=5",
+          "date": "Wed, 01 Jul 2026 02:57:39 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -1015,94 +1043,51 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Peace in Ukraine key to regional security, stability: Turkish FM - TRT Afrika"
+          "llm_subject": "Nationwide waste return program"
         },
         {
-          "title": "Fidan Meets Russia’s Spy Chiefs: What Was Really Discussed in Moscow? - Caspian Post",
+          "title": "'Made in EU' could revamp Türkiye's position within European market | Daily Sabah - Daily Sabah",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUxmODFoRGJUNzRBMEFKMWhkYjdyX2p4SjlIcVdFSkdhZDREZGNCZF9SMVpFYnNxamtILU82RlhLdUNwTHBXdUF5Tm9pZi1OYzRjczktTk02ZWxPWFhQQThyMk5oSWQybEFFY284eFQ2S3lPNThNbGdPQVNOT1Q0ajhzcEFRS2NJcTBrWWd2cWhHekFkS0JQVVoyeWFFdnNw?oc=5",
-          "date": "Sat, 20 Jun 2026 19:06:56 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkJ4SmdJSmdrTU53VExWemJOcmEzN3piR3BvdjNfU21uZmNhRTEzbWlTTTBWRDZJVExyVFBzME1ZbkVreUlITzUzanFaSjl4bGZMRU9vMDQ0Vm9kVjc3amVSUEt4bFNmUE5UOGtOWEtUdm1tVENsc01XeHczNlFBckppa0RmYjVKYjAtY2tfVUYwenUyNmljS2JCZjZjQnV4cC12WWxNUkNYaUhX0gGyAUFVX3lxTE9naVZjMEpSTzhORHNsSVZnTzJCWDdpb08zM0dvaWo2YWZocXVTY1RRN0RuSWc2WTktWTlDUURSYXVadEs3U0ZEdmpONW42REhPY2RWZnBUdlFZMFp2TnY5ZHNLYzFqMUZORUtBdGUzRl9kb0c1UEJhSjR4UGtVN29tM2F4eDQyRU8wZ2RzU1dYcFZhcWdwVjN2dFNYTktOM29CREFrMzZqMWhQY0Y3RXhSdUE?oc=5",
+          "date": "Tue, 30 Jun 2026 10:00:00 GMT",
           "source_country": "TR",
           "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "trade_agreement",
+          "weight": -2.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Fidan Meets Russia’s Spy Chiefs: What Was Really Discussed in Moscow? - Caspian "
+          "llm_subject": "EU label impact on Turkish exports"
         },
         {
-          "title": "Egypt, S. Arabia, Türkiye stress importance of regional security - Egyptian Gazette",
+          "title": "Türkiye, Kyrgyzstan to map out next steps in bilateral ties - Hürriyet Daily News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemNqNVdfZFdzUFV5RDlpMDAwNnlUYmJJMURDQVBncExvZVExQm1pX01Mc2stRkFfQVN1RjNVMzBnRmlGQ1Z1dEJyM0V6WnNheFZLOWpwdDc0SnREaExHQ3dyal9qcTZBaGtDTFFRbWlRV1JUeVBYYmRQOVVkMmZ4OC1wNlZBUWFxNG5yVjdtYXQwUmNUSHB3Slkwd3l1dw?oc=5",
-          "date": "Sun, 21 Jun 2026 09:20:34 GMT",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWZyU3pFRWlqSVZUU0VlMUdpa3pucTVuWnhQQ19Rd2ZZTUpXR0xQdUV5Q1JWU3VSZUFlc3FBclFNTC1mNmRubHV4TElSb25qTGpVVE13bVI1UlFreWFwVml3UFJSTndlazdlZ1NJMnNiS0RDcEVDV1ctRkpDNXIzYlJvOEhPaGdlQWRMWFlZVExfMzFHTTJucnpST3dVa2lr?oc=5",
+          "date": "Tue, 30 Jun 2026 07:43:03 GMT",
           "source_country": "TR",
           "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Egypt, S. Arabia, Türkiye stress importance of regional security - Egyptian Gaze"
+          "llm_subject": "Bilateral cooperation talks with Kyrgyzstan"
         },
         {
-          "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - MSN",
+          "title": "Syria, Türkiye discuss joint investment, border trade facilitation - سانا",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU2dWNnRKMF9pbmdELWN6ZE1qZUhWeXF2NXdqdHNZZmJZbW05bjNOcEd1V0Rzdkl3UkhsN0NYYjNvcDVfVm1oQ3JHUnpXSXljbmFWTmc4ZElQOE93akNwWHNhRUlPaDJicENwRGlEbVRnaUpoVlBVUEpUMjdwUGR5eXhwSHNoZU9pbEN4N1lUSUNocXNBXzNEMzlyYTY2OHJDQU9walgzZ0RDSWsySjJHYkJ6ZWhwdE5NdHgwRjRqOWlYYWoyOTlYMnhpQy04ZDZ3bHlEMHA1Tm5PQlFGcHBXY1RXeU1sR2JSTXl5SWNOdGVZTUVjYlJLbVZB?oc=5",
-          "date": "Sun, 21 Jun 2026 19:08:51 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YaWxxbGlIYms1TDZBS2hyX1NSSkNTbW1RNnloMUpreEN2elpISEQxWVgweDJfS0Z5d3ljbXVUYXpyd0czZ29RajVlM3g?oc=5",
+          "date": "Wed, 01 Jul 2026 18:40:29 GMT",
           "source_country": "TR",
           "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "trade_agreement",
+          "weight": -2.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TR",
-          "llm_subject": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure se"
-        },
-        {
-          "title": "Unknown drone washes ashore on Turkish beach, raises security concerns - RBC-Ukraine",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelJVUFVLaDR2MENoSzNVU3d6a21NYV9jNkpPQUktazZkdm1IVFphTVFuQk96QmxLUTFwQURMSTlXeHEySURsbGc0dVJMZEVlQVJOR1NuV29sU0MwWHRLQnBkVm1uZzlGZGxfS0lwTC14ZWxHbVMyWWhOWm14ZlpCM2lPTDNuVm9qeExMN1BfYWlxajd4cTEw?oc=5",
-          "date": "Sat, 20 Jun 2026 14:31:03 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "TR",
-          "llm_subject": "Unknown drone washes ashore on Turkish beach, raises security concerns - RBC-Ukr"
-        },
-        {
-          "title": "Erdogan’s strongest move: Why Türkiye’s 20-year tax break could reshape its economy - Latest news from Azerbaijan",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDVNQjlzVzdKSjZweEtjRTZFWFlscHFJUktlamlLemhSZDJDMWxieGJ3ckFIZmpxOGRXUTlNdlhsOUJGZnBheUdhLTBUTl8yRHAzUk1pNk1FME1oMl81TDJ0aTNuYlJ1Vk5FTFl3cE5WdHMxOUJWYzJfX29yYlR5X2JGTzRWenB6ODZHR3ZubVZRVVpaYmh3RUpPZjFwaDY0cW9B?oc=5",
-          "date": "Sat, 20 Jun 2026 15:06:46 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "TR",
-          "llm_subject": "Erdogan’s strongest move: Why Türkiye’s 20-year tax break could reshape its econ"
-        },
-        {
-          "title": "The war is ending, but will its effects end too? - Yeni Şafak English",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajF3ZVRZQXVSdlZza2cwZHYzdTJ5WHUzbmJFUTFIVFdRX1MzNndGai0yb2IzcnFMRFVJWWJ5MDlCc1JRa2NER3JHeHYzM3g1WTdTaHp3RUM1dDZ4WEktMFFKczF3RmMwRlloR2ZaYWZpSEJGME1EZ1JuUTRuTUxNT2VEXzJGQlZ3THcwTWI5dnh5WDc1YTEtcGQwV3Z4MkZUSTI0?oc=5",
-          "date": "Sun, 21 Jun 2026 17:32:04 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "TR",
-          "llm_subject": "The war is ending, but will its effects end too? - Yeni Şafak English"
+          "llm_subject": "Joint investment and border trade facilitation with Syria"
         }
-      ],
-      "stale": true
+      ]
     },
     "UA": {
       "name": "Ukraine",
@@ -22487,15 +22472,15 @@
     },
     "ID": {
       "name": "Indonesia",
-      "index": 3.03,
-      "raw_score": 1.07,
+      "index": 1.41,
+      "raw_score": 0.19,
       "status": "STABLE",
       "events": [
         {
-          "title": "Indonesia and Kuwait Reaffirm Energy Security Cooperation in Jakarta Talks - IndexBox",
+          "title": "Primary Guard and JumpCloud to Co-Exhibit at World AI Show Indonesia 2026, Bringing Zero Trust Identity Security to Southeast Asia's Fastest-Growing AI Market - 24-7 Press Release Newswire",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQzk3VklESDNNbWdZNUp5LUlfN3RiUXZZb1ppbWRjaVltbUhPQ3ZUSFNjUEtIZDk2YmYxTkwybTVZMy0tWVpLNjJzNjN5cFpZbUxUNk5SeWxKTl81ZnpYSHhSRUdxQUhRQ1VHNWwwZXBiY0RBQVBOaW41dklXb19raDFHQXZBVU4teWJPTTctdDhoTDBjTkFDMHFSdXRzY3JZNGtZdlNTTQ?oc=5",
-          "date": "Sun, 21 Jun 2026 00:50:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOaVB2aHZheTVhTnFTSW0zandUay1lMTRlY00tbTNoRVk2cjBDUWtJeHlEWWdOSWFUcnpobkc3b2lMZFVweVJpUG1SaWFHU0pYSkd0NFFLVmp0T1lIX0VDc1oyOHpQcVNxMEZWOWFrNjc3MUZHWnZ2cWozdHRpSmdMNmluOENNR1B5ZGtnYnJVMTdFTHVQWFVDRTFDOVlLQUUtbWZXeEV4WnFMcDRBSmNDLVdSNHp1bDhCY3d3QjJlQl8tUjNYSXYwRjRRMjFyWk91dXBudnlDZHdrN0hDWFV0aFRDbUF3TVdCZmlLeXhDcmV3ZnNsYWU5RTdfY1ZtWHBzbmhUbmNRUVN1SjZmMW80aDlpV2laVnQ5UnNUYVhZV2R3WE5qVXJsa28yU1pQczhIZE9COQ?oc=5",
+          "date": "Wed, 01 Jul 2026 07:00:46 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22503,13 +22488,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Indonesia and Kuwait Reaffirm Energy Security Cooperation in Jakarta Talks - Ind"
+          "llm_subject": "AI security exhibition in Indonesia"
         },
         {
-          "title": "Beyond the harvest: Indonesias quest for lasting food security - ANTARA News",
+          "title": "Indonesia delegation visits UoH to study sustainable agriculture, food security - Hyderabad Mail",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0Rla0s4dDM0VG5IQTMyWHprSEtMRFcwb0pGaTZDQjU3MzlzZVAtRVBHNjVIazlHZi1oRDVfcXh3a3gxMmNYYXUxUDJ1TFZVOFpvVnFpOXN1RkRCN3JXWG1XMW56ek82T2NjU011cW15Y2txd044T0JEUDNSODdGZ3JlYTFMQVB1d1BGdHp1ZDU2a3RPZEQ2STEtRUJPWVdv0gGmAUFVX3lxTE12SUJSMWxuNzJBY1IxWEc4SEtXUFFYbVFoN3RTYnBLVkN2YUYwOFhJaHJhY1o4RHNtOS1SeTRHV01mRnFTSG54OWlRWklWOXZpd1czXzlaa3VzMlB4ODV5QmFjNXBRcFJjNmFnQ2ZoWFVDVjdTcGUxcUJHUXRtbUM1NG1sdU1RRmNuaGNFT0NvdHJvaHNGYVJRZGpCWTEwR2FaWXVMM3c?oc=5",
-          "date": "Sat, 20 Jun 2026 12:13:23 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX05RTngweV9sTW1TWVlwdktkTHI2eWU4UjlMZE5ncG9SUE03ZHNCYW1TMENBUFh2dVg1ai1ZRXJTYldRbzMtVEJfYVdISTlHMzRGLURpTkhZNkVLYmwxUEpmZUVUeHZRNS1xYzNmX0hYalNLbWZYN280Yy0weFp5QXNMZVlnUTZPdFJmYXV1SnlmUHBRVkFkV0t5LWtvZ3B6LU81UnNXOA?oc=5",
+          "date": "Thu, 02 Jul 2026 03:05:15 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22517,13 +22502,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Beyond the harvest: Indonesias quest for lasting food security - ANTARA News"
+          "llm_subject": "Indonesian delegation study on agriculture"
         },
         {
-          "title": "KF-21 Fighter Aircraft Export Push Accelerates as Indonesia, UAE, Malaysia and Philippines Reshape Global Airpower Competition - Defence Security Asia",
+          "title": "Food Security First: UoH Hosts Prominent Ministry & Defense University Delegates from Indonesia - UoH Herald",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGhleGNBejIteVVOMWFDaE9PcjIwaDM1bl9LR3l4UUFfWVlOTXRhR0Fyb3lkRjNOY1BFZkZSbFZxSUp2bl9ibW5FWmpGWm4tVUYtUHZGeS1nWEszam5IekUzdHN3MkVuR3lCeExMd2c0WFBUYy1WY2lTNkVXYzR3WHo4VkJkVTJuT3JxMFZDeTJDVVR3RVhjaDhyODI3bnhpSklGWlA0eGZOeUxOcUE?oc=5",
-          "date": "Sat, 20 Jun 2026 17:42:27 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVRzS3NrVkRTZy1GdS1xT2J3V2tyMnpWeE9FdTBBVjdoTVJsQjJKQ1ZpaXZpazU2UzUzYmVqcEI1S2c5ODFqTW5kdlcyQklGaE1zY0dmakZ6ZjE0SFJPSVVoUU1iZHVfM292dE1GWDY5UVRxcHRTYjJkMEFkUVFycXlqRDJja1VPOVFBMGNkajRTNDRIVDU2XzBxWWMtR0FmVDZkZ2F4TVpRTElSTU5xUnh5czM4S1hBamd5VA?oc=5",
+          "date": "Wed, 01 Jul 2026 10:22:40 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22531,27 +22516,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "KF-21 Fighter Aircraft Export Push Accelerates as Indonesia, UAE, Malaysia and P"
+          "llm_subject": "Indonesian delegates visit UoH for food security"
         },
         {
-          "title": "President Prabowo Affirms Transformation Towards Just Pancasila Economy - Sekretariat Kabinet Republik Indonesia",
+          "title": "S’pore and Indonesia to cooperate on nuclear security and radiation protection - The Straits Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT1B5RmV2R1BBVTl4ZXhWY2VtM3AwbWlMRWxGdU9TUDMyTzhQSFhtNDhOMnFRY2xKVGlKbWdXbGFfc2pqRDFjWFFGTUE4RU5ZNU9RUV9GR1FvdzZRemdfdUZzX2J5MVh5NVRiRHE3NkVvMVpuWmFQTGMzYTl3WkVnRUd0ZzJnZmtfdjRiNkoxbzloN3U4bUFiRVdCT2Y?oc=5",
-          "date": "Mon, 22 Jun 2026 05:15:16 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "ID",
-          "llm_subject": "President Prabowo Affirms Transformation Towards Just Pancasila Economy - Sekret"
-        },
-        {
-          "title": "Indonesia's sold-out concerts, higher 6.6 sales amid market uncertainty: Is 'lipstick effect' at play? - CNA",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0l1YjlhUERacUl2OGRjVldsUkJDaUExa0N0dTkza19iUUdLaENYX1BBUTNMOURBMEo3VFdkbzJkSUN0TWFSZU1WWS1MeUNEN0VoMEcwM2xLaDB4bjdLSTVRUVY4bWowU0x4N25BUmlyY0E3RDBjal92RlVvQVBBbHotVFM2cFgtWWNfYmpWQW1jQi1EeGVMS0JuTUU2TTFlNWtGdGpvdXQ4QQ?oc=5",
-          "date": "Mon, 22 Jun 2026 06:42:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmhnLXBGXzFsLTJkRGpWblVvaTJvZVFTSXR0VEZQeHVhX2V1eVAxR1lHUVlvRG9PRHQyZS0xSEVPOEdVNEVlZXdLRkxIaTZmQUNqZlpjZy0xWTlSNjBuYkJDUjU4NzFUYWowVWF3ZlBXYUVCSlpaOW5jaXExU2Vjb1M1LVRnLUFtcjN3dlpDdHgyRXJJMFNwMXRWMUgwT3ZhQ2xRMWNBZ283c0Z4Z2dNaVcyRUJqVzgzc1RZRk95akV3UVR0X0M4?oc=5",
+          "date": "Tue, 30 Jun 2026 10:35:00 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22559,13 +22530,27 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Indonesia's sold-out concerts, higher 6.6 sales amid market uncertainty: Is 'lip"
+          "llm_subject": "Singapore-Indonesia nuclear security cooperation"
         },
         {
-          "title": "Indonesia Q1 growth outpaces G20, ASEAN averages, minister says - ANTARA News",
+          "title": "Indonesia's Blackouts Are Prabowo's Latest Problem - Foreign Policy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzJKeDEtRWk1cVlUNFNHOG9RRjVYaHVCRWJVd1dWeEZMYzBBWnNaZEEzTnpvdTc0M1hROTFZZFFnbXJMbEJFVzRxYUJkSjdMNGRRNEszVVp2NnVFWVhiWWZLOU1ZUWxtYl9xTkE1WDJlNUF5VGpJQWlmT0NsTHMybWtjRU9Jb2xfeVlmWlBCdUdJWUhSRnN5ZF80NUJKbXVJ0gGmAUFVX3lxTE5hWGF2T2cweFNlQ0U0QXkzRHNydnhkSHRRM2doQUxlVkFTMy1BU2Zmd1NaQmZGRHAtUVlHTmdCZllFWE5IWFh6ZkxSQmlvS0RuekxEcXJZeDAyLXNTQ0c5OWNqSWZKZF8wd2dYWU9QQ1cwNlRXcXZOLU1oX0dyRENsNjZUcm1iSHZCdWd1a09nQmFTb3pEU1R6NkR0RWQxV3lVVkhRQVE?oc=5",
-          "date": "Sun, 21 Jun 2026 12:12:47 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUGw2SXNJdExJMmRWcGhDek56cmZ3YVowZ1pXeXhIZVZ3SWlJaUljRVIwMUd2dEU2SnJBWmYzUkV1UUJjclZLWEs1c2JwZE9JQllkWnBOTkVONGdaeXhlSFY3YkZuZWpqNm1kOVVGVWVsd2JfeFVFbkpn?oc=5",
+          "date": "Wed, 01 Jul 2026 05:02:15 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "political_instability",
+          "weight": 4.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "ID",
+          "llm_subject": "Power blackouts in Indonesia"
+        },
+        {
+          "title": "“A Thousand Friends and Zero Enemies”: How Indonesia Makes Sense of BRICS - Indonesia Business Post",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1HaU85QWdIc2txM0pHZC1iWWw4enNHOURZWXBpSXhieWMzWWFUWERCT2dOMUg1bVRuU2pMR1QybGQ2bjdGdHlFR3g5NnNNcVhzXzdVMXFCVUNFQmstczhGdVVIbDVhR19JZnBJT1I1Sm9XMEhaZDA1R2t0NzNjck1nczRYWHNaZExHMUhiaFdnaFpiVi1FMlZXSm1JaVJ2S1c4QW5lM1FmemZrTWdqb2VNY1B3RXRaQU9zbkVn?oc=5",
+          "date": "Wed, 01 Jul 2026 09:14:30 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22573,13 +22558,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Indonesia Q1 growth outpaces G20, ASEAN averages, minister says - ANTARA News"
+          "llm_subject": "Indonesia's approach to BRICS"
         },
         {
-          "title": "Can Danantara Deliver Growth Without Undermining Investor Trust in Indonesia's Economy? - Devdiscourse",
+          "title": "Economic Census 2026 to map Indonesia’s creative economy potential - Independent Observer",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJVMmY3a012Z2NUVUZkMjZDWnpKVml4RDRwVHM3cjdaelpaZ3FqV0VkZkJnUlppRUI4X2wwOUlRcWdTNWVCS0VFMF9UWldzWnYxU3lhenlMQnluNWZYUVYyWDVGWkpDc2paNXhNZ01PYnduUUU0U0NTTlA1OEtvRU1aeHdpSHVORGlqOHp1SE5OTFlFY2pUSGdweURrbjlya3FrWTBMQmFLY1FfcUtNNDI1ZENsQ3ZNeDdzUERLNTFpNnlJc2d2Nmd1RTVWcDQ0UEHSAdcBQVVfeXFMUFNfa2pXVjh4SUNnMU5DMlBTWkZydGhJREF5RkZ5Wmxlb2NXdTE5Smp1eF9Wa3RDV2J3bUJNQndfMUNSV285SU44NlpSRFpCZ3hRTkZJZmxXaGRYQmJtbktucG9zQXRjRkxhTG5zaG9ldVVHSW5GdmV0Q1gwZmwweEE5OGVzTlJ4V241QWRsMGw3ZUxnX2hFeUpsNUNNOXh2Zi1fM0dwX0ZPTE81bXItVlRNd1l0dnhRVFdzZ0dCNmxWc3hVcFlkSllXR2VPTTdtaGY0NkVrVWs?oc=5",
-          "date": "Sun, 21 Jun 2026 04:13:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjhmbExGaWU1ZkIyRnFDVHhqNlNGd0RvRko3OHR5aUZxRVg4NExNbWFFVERsdFRZYWR1QWJlZEpBVG1OUkVrV3NGVkVXbzh0MmJnMW1PV19pMnpfTmRlWlVZQkFHOWQ4OXo4Z25lRmlIeTQ0Y052dExNUmI0VGFCSDRaa1BKMTBGelVEYUlWWnVlNUE?oc=5",
+          "date": "Tue, 30 Jun 2026 07:00:40 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22587,13 +22572,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Can Danantara Deliver Growth Without Undermining Investor Trust in Indonesia's E"
+          "llm_subject": "Indonesia creative economy census"
         },
         {
-          "title": "Purbaya Says Indonesia's Economic Indicators Continue to Strengthen - Tempo.co English",
+          "title": "Indonesia Stocks Fall 3% as Investors Await Key Economic Data - Jakarta Globe",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1plZzFyTW5maG1CeDFsSS1LLUJCeVF2U1I5YzZSSkpRWkNlSjdUa3Mwd2hPREM5S0U2RGtmUUZlLVNlcjB3S0dhVFRTUFIzcEdlYnRzMzFnclM4a0ZCeUFZWXZJbFFqYllhV3I1cWFTbmJtYVVlR3lpc3ZqTjhqVU1GSVZFMGU2dHp0Uk02ZUdiaFQ2V1F6MXlKMnFPWVVQ?oc=5",
-          "date": "Sun, 21 Jun 2026 22:39:22 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjJka3BSVERjaTlZSWNhNHRMNnNwbGxRblhGMXdKVUtDVV9uRWtTd0FvTTAwYnhVSVlnaTNPUzY1TG5QSmtQZEhJZnEyYmI5U2hPVVpYYXRJck5zS0dMSmk2VkJZRE9Eb3VDLUpvbWR3djlUZjl2MEJnbkN5X2s4eXB0dndRZmg2NVRqQTYyalFZNy13Rk1BTQ?oc=5",
+          "date": "Tue, 30 Jun 2026 10:16:00 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22601,13 +22586,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Purbaya Says Indonesia's Economic Indicators Continue to Strengthen - Tempo.co E"
+          "llm_subject": "Indonesia's stock market decline amid economic data anticipation"
         },
         {
-          "title": "Indonesia’s MSCI moment of truth looms over global index standing - The Business Times",
+          "title": "Bank Indonesia steps up short-term measures to shield economy from global volatility - Indonesia Business Post",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2s3emRSaUhKX3VhTkV2QVp4RmJWWk8wRFVudnIzUl9INVVzTWI3OUxSbmtmdzJiQ05VR3Y3UGh1UkhNOHRYU1hCbU9fZHM5eTg1czhRY2tPWDlpendpWFJfWm0tSGlJSlNLUVdsZGgtN3B0RTlnRFBHc1NyLXlKczhvX3F0TjdoSldUakhPSTlVQ3Q3WEdtamtvbkxzSjMtNXJMcXR1WXlOSmNJMEFMU01iRzI?oc=5",
-          "date": "Sun, 21 Jun 2026 07:23:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUJweEZwTzh0c1VkU0dZMnJJcVo0YVAwMHVfdTU2MHMzTDMwQmFqSGRKSFk4VEFvS0ZEbVQ0R0YwVFNKNjIyWG5rWk8yU185cjVDRV9CY3Q3OTlieWVxck9lWTVENXA4YlpLcldCX3V5YmYwYXZ0TGl6T2ZlanI2RTlCR0FSSWVKNGRlcTM1NldjTUk2X2R2bER4aUhEZnYtc0xoak1XUHl1clJSQWV6MzZ1NDE1dUw0ODNqNUw3QU5YT3lnYjBYYWdJaldnMFZ6VTh6Y083cFgwMlU?oc=5",
+          "date": "Tue, 30 Jun 2026 09:29:16 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22615,13 +22600,27 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Indonesia’s MSCI moment of truth looms over global index standing - The Business"
+          "llm_subject": "Bank Indonesia's economic stabilization measures"
         },
         {
-          "title": "Jogja Marathon helps boost tourism, economy: Minister - ANTARA News",
+          "title": "Lukashenko arrives in Indonesia on official visit - Belarus.by",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFJ6V0x5Q1hqNmpEbGg1c0VPVG90d0hrQTlmZjA0VUNpRjZvelpiTnQ5d2ViQV9iRUZKN0xVZW1tdUlqckVXTlBkcU44UkpXM25KOXJsdVlEajlwR1V0alhTbFFkekdJWERBaFdPbGpoeGhvbTZTRVBaZktnLVc4a1pNM0N5cGFhZS1TbzJWWFBSYnfSAZgBQVVfeXFMTkNJaTQzU244TGE1NzVzVWhTWE9LeW9FUkdlalFpMVNyRlVXNkhGUzZYMTNKVFdOYmdsZ1FYYUFJNWF2M09CNHFsWHlmOWM5YTYtNm5LR1NyQ1AwZXAwUUI1dG5aOGlpT0dpQ3RCb2NQckQzQWlkTHRYTlI3TzVmN0FRZERTUTRJREhLRElNRUk3R2piOC15VW4?oc=5",
-          "date": "Sun, 21 Jun 2026 13:20:48 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjlsYkY2WHpvbEhVNDhxRnE5TVVEazctdlpmb1h1QjRUbTg1clNCVzFTcW1CWU9XZjRrR1pucmZuUGZyOS1KcEdXbHh4VTluUHlra3haOGNhcHBTZm5UYzlncXc4OXF0MjFXY0ZxMlJwVnBoLXZkclBNSFJkcHpjN3pKOWZOME8yRXE0d2xfOHVyTnhQclFlYTRKN0Q0X183MmtxbE9CeVh6X3ZwWDVjMA?oc=5",
+          "date": "Wed, 01 Jul 2026 12:08:47 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "ID",
+          "llm_subject": "Belarus leader's official visit to Indonesia"
+        },
+        {
+          "title": "Indonesia's 'nobar economy' scores as World Cup fever boosts businesses - CNA",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFPeFp4a1FxS00zamxUdzQxUnRCNzZxVy04TFVIbnA3WDZNV3hFczFXZUQxQUZLcVVFTmZ6c096Y1NHQU5TWmRhdEhRVmp4Yi0wb2t1WDFQS25lNUZiLXRHdzdqZG5nOW5ISlFEaENMMEpkMnB6NTBMUW5BRmZZZG9xOXM1TzZ5UWJn?oc=5",
+          "date": "Tue, 30 Jun 2026 12:48:25 GMT",
           "source_country": "ID",
           "country": "ID",
           "category": "neutral",
@@ -22629,80 +22628,37 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Jogja Marathon helps boost tourism, economy: Minister - ANTARA News"
+          "llm_subject": "Indonesia's economy boosted by World Cup"
         },
         {
-          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Spain, Belgium, More - FOX Sports",
+          "title": "Indonesia posts first trade deficit in 6 years - The Straits Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGlhcTZoNTN1c1ZUNmZ3VkpvRk5TSXZ6UDFKRmFGaDVwOWhRSWtvYXlhZWd0OXd5bmp6RGpVMDIyM1dWVEdpMGZpWHdvWC1MYk40OGxTMEJsV3BTcmU2VzhiTWM4LTVLeHF3bl85T3ZhazRveUpqZWJpVmN6RU5CNUFacElqTkZ3RTY4bXBhTlA5b1NjaWRPc1ItVXpIamJ1amFSUTZFUEVCeXdVRC1uZjFnUQ?oc=5",
-          "date": "Sun, 21 Jun 2026 11:29:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDdiX3ZQb3pnSDFOQ0g1VkJNN3F3cVhLb3JLNjc1U19xZ2RpU1RNN2FLWEUxQnZUTDZFY2RzU1FWYXZZdklDUVRZaXFNMnd4cU9XaGtyYTFTcWhPeldidW1zbkw2aTJOQzF2cTl5cGdobG1obDBzeDdfbmhGV3dlNXlPTXJpWnNkZlhVNQ?oc=5",
+          "date": "Thu, 02 Jul 2026 02:40:00 GMT",
           "source_country": "ID",
           "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "trade_agreement",
+          "weight": -2.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Spain, Belg"
+          "llm_subject": "Indonesia records first trade deficit in six years"
         },
         {
-          "title": "Investors Warned to Monitor MSCI Review Impact on Indonesia Stocks - Tempo.co English",
+          "title": "Indonesia, Russia Deepen Industrial Cooperation and Economic Ties - Tempo.co English",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjFsN2ZYcF9QMF9lYThtNDB5Um5nUmpkM0Q3TTZYVmpSNEJkWUFuNUdLbUphX0hUOHRfOTZhcVdHOGxoTHVVT1p1WXoyTGpaWHc4MVpRTmp1bGQwaUdmUnh1YWJCdVlWVFNDUzg1bFRJMUhmQ2VHVHFlN0pSenFiYXlETW51dkx6dEZmd1ZVUGFmQ3pxWHhJazl0NTRjdjU4?oc=5",
-          "date": "Mon, 22 Jun 2026 05:50:41 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX01uODVBdi1BelhHc0hOVXdWOXZrZTc0ZWE1TUwtcWl6Q196dnN3eThranJfTk9ESkIyMGtjT3NyQmpMOGw1b25Fd0d6OFZpa1NjS2c4S3BzNXBaV0JLNF81SFVjWUZZWVVzSVNRRkZXZjUzMnJ0ME5tNURpTWVBTHMxSFhFSHJsOWRiUmxZYWFKenhFaDhub1d4Wm9Fdw?oc=5",
+          "date": "Tue, 30 Jun 2026 11:57:20 GMT",
           "source_country": "ID",
           "country": "ID",
-          "category": "military_conflict",
-          "weight": 8.0,
+          "category": "trade_agreement",
+          "weight": -2.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "ID",
-          "llm_subject": "Investors Warned to Monitor MSCI Review Impact on Indonesia Stocks - Tempo.co En"
-        },
-        {
-          "title": "PT Unilever Indonesia Stock - Sunday background on the consumer giant - AD HOC NEWS",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUDJKNzZYdDZHVHI3UDFiejk3YXljZml5NzBIalVZSHBPaUFpYmU4NXNja05IZEV6S2hNSjR6My1JNURmMy1fVmt2OXFPeEwweUs5bTdnNXRaWUcxMUpGVzV5V2t6WTZxUEhaV3hxRWRRQllfTGx1bnFINEl2QkhBQm1IY0dKTzVKTFBrRWZ6c2wwaDdGRVdkZUI3d1lDQ2dsSG52Q3VCUFVPdDV3eG5hdWFyLTRKSklnbi05cVRUZVdJUk1r?oc=5",
-          "date": "Sun, 21 Jun 2026 14:13:43 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "ID",
-          "llm_subject": "PT Unilever Indonesia Stock - Sunday background on the consumer giant - AD HOC N"
-        },
-        {
-          "title": "Sumber Alfaria Stock - Sunday background on Indonesia’s Alfamart operator - AD HOC NEWS",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTNtYTlURDNhaERDUDJ6NTEtR09iMzV3SjlsM3ctaXNncGZheXB5UVdkSU9aRzQxNE1FazRaamtRQUE4bnF0MkgySFl6U2VtZzgxVk9iZFlmUzdCVU1kNmdfTGp5UjhkLUZvMGVFOEdDUk9MM1FpNUZtVFFLcnQzNlpaNS1mOUY2aDQwWUdLOFVEb1dDYjluVTMyU1dQZlBLb3BTT2VLSks4OE83WWVneUQ2WjI0czg3M2FNQWd3?oc=5",
-          "date": "Sun, 21 Jun 2026 19:13:22 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "ID",
-          "llm_subject": "Sumber Alfaria Stock - Sunday background on Indonesia’s Alfamart operator - AD H"
-        },
-        {
-          "title": "Who Gets to Belong? Indonesia’s Minority Faiths and the Limits of Legal Protection - Jurist.org",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQnRSUVFDWmRkbVVXbUlYa3R2eXlNeTc5clh1N1pSSGxiMUd3RW56bFIxVnZPM1IxWk1jMUgzOWNHVDhGOU9ZT0YzbEc0cVdkVDItYVdlVjM2WjFXc0NTRWxYaDNSaDRUZDUzd1dWRjV0YmZHdnlvR2FxN08zTG9vaGgtSTEwZXE2UFRoSnQ5T2Vqbzg1Y2hfLXpaOGllMTNsMFJmRTVINGd3amwtV1FjTmd4Um5TYTBSUGlCZEd0dTA?oc=5",
-          "date": "Sat, 20 Jun 2026 09:14:59 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "ID",
-          "llm_subject": "Who Gets to Belong? Indonesia’s Minority Faiths and the Limits of Legal Protecti"
+          "llm_subject": "Indonesia expands industrial cooperation with Russia"
         }
-      ],
-      "stale": true
+      ]
     },
     "KZ": {
       "name": "Kazakhstan",
@@ -30453,15 +30409,15 @@
     },
     "MA": {
       "name": "Morocco",
-      "index": 4.13,
-      "raw_score": 1.78,
-      "status": "ELEVATED",
+      "index": 1.0,
+      "raw_score": 0.0,
+      "status": "STABLE",
       "events": [
         {
-          "title": "Morocco pushes industrial integration as AfCFTA seeks to unlock Africa’s economic potential - HESPRESS English - Morocco News",
+          "title": "Facing Morocco is 'gory, horrible nightmare,' Canada coach Jesse Marsch says - USA Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU19iVmptUDF2TlowMnhPaUxXYmpZaEkzaDJxOURXMnVJYVFUSUxCeDZ5VWxhSjNLSXh1V0d5czZqODBUYldQRFYwZVd0WHFweUxwZUdmY3dFVV9faUJ4V29xa2lEcG9zbXdpSjI5RjJIaEx3UUtVMkFNYTREQ0QwZkRWb0NEbk5SRmJ2TjdNcDgwMWVQYzZsV1k5azFabDBrczhXb0VWZnVuZFdNZnJmWjhTUHhybXlSVWQtMU5zMlhtS29M?oc=5",
-          "date": "Sun, 21 Jun 2026 13:41:15 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3A2N2YyQTFSa2RTblRER0dvOTdldVFFdFpDdDlsemdKVTVZeFRxUnI1RlBDNklRLWs1LV9HRHk4U3dSTEpLc2hRSEF6aXg1NU52RkJVRmRya1lTcmVFTEh4Vi16UUlrT1U5NWtld0Z5UGZTdkVzay1Dbk9MYTRJdnMzNHVQOWhQNEN0SHJ6a1VCNndCQUdQcWJRb2pjd3BQS3UzSl94MWdvOXNmYVVKNFZ6Tk1qbURqSXN5cGpubkN1V1k?oc=5",
+          "date": "Wed, 01 Jul 2026 22:36:00 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -30469,13 +30425,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MA",
-          "llm_subject": "Morocco pushes industrial integration as AfCFTA seeks to unlock Africa’s economi"
+          "llm_subject": "Canada coach describes facing Morocco as nightmare"
         },
         {
-          "title": "Marrakech Hosts Fourth Economic Parliamentary Forum - Morocco World News",
+          "title": "Saibari's shootout winner sends Morocco past the Netherlands, earliest World Cup exit for the Dutch - AP News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWRwTHlMdndLZ20ycVBwR0U3MVRLWW0xRjVDNkFwS2JqRlNsTnVRU19wTjdlc1BXMFdGMGJDb0Y5RkZiNUMwYVJIVEI2bXFkYTc2YVpaWmZpcHJzZUNoOHppM2VlYko1SUJET01uWXlfTFVpbGNPNHpjazNUQ2JvY0dqeExnU19vSlpIUjFobVFoVVlHZzg5MFNTZW5uemZYLXc?oc=5",
-          "date": "Sat, 20 Jun 2026 17:36:02 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF8wdk5UMmR1MGNFTGVCVjlOXzgtdVIxU0w1dE85dHdnM2RNQ0FSSGlUdXlmYzcwMU5rWHJHS0pIVjlRQjdDQkZHUUMxN0ZxUEx4TDZLcXJQUXJ1MWNzdlMwT2JHdXFjTjBIb09pajdMNXh3R2s0V2UwU0lKVFcwcVVxcERnTGRTQkxoV0tRLWV2MUdkQnFXZnRBdw?oc=5",
+          "date": "Tue, 30 Jun 2026 06:47:00 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -30483,13 +30439,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MA",
-          "llm_subject": "Marrakech Hosts Fourth Economic Parliamentary Forum - Morocco World News"
+          "llm_subject": "Morocco defeats Netherlands in World Cup shootout"
         },
         {
-          "title": "2026 World Cup Security: FBI Highlights Morocco’s Key Role - Atalayar",
+          "title": "World Bank Board Of Directors Today Approved $265 Million To Support Ifahsa Pumped Hydropower Storage Project In Morocco - Statement - TradingView",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDFjZVhHaVdEUlprOGE2WFp3TmhqenkyYVdPZHBUT1F4c0pDMTNhY1hLdDR1TFRnY2prdGJWMUVmeHh2LUJybjQ3ZmVWdFliZndCT19YWFA0bWNwaVhNR0tobUdWV1JCWE5RdWxsSGFQUE1MZEJQVnR1TG1HRzNkRzgzaTNGMHc5X21YNEVnQkpoLXoxOXA0RnhZSlZsMHFyYkVPUUlWeW5FcDN3VXB6aTlKakpNT1FVSjNrLV9GX042aGRvR0RuVtIBzgFBVV95cUxNeS1sUFNZcGk5Wi1DYW8yeXJOcm9wcVk4YzhkWlY0YXBnYnRDWHN5QWJWdk5IOWpXZm1TOTR6dTJySTdKRUFhUURQQUg0TUEtMWp1QndLWHY3dzFxX3BTQktPaFp4X3g3dGdoYm1CYlVGSWQ2T2liR0JDMlZCWDVHLVNZcUx0cVAyVHFyMlBmdVJscFZzajQtb1hIWllMcklPNnlEQ1dzb19PbTlXSG0yNFJYYkdrOTlfdGVJX0VjamU3ZnBLSG1HcjRiUkg4dw?oc=5",
-          "date": "Sun, 21 Jun 2026 15:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeVl3Z3VjV1N5YkppbWF0bEFETi1LWmgwWE5kTnFwSEx2VURDS0FwbUM3cWJRVjRXaDNkeTJuOF9kUlB2Y256LUsxZlV0bmF4bGNZNE9ZY3FqUVdQWGpMYXJZdVh0NDI0NHFMWUVLaUNfY1NMQ1BEVGF2bVU5UXFFOGZpNVR0Mk55LU1reDhfZ2ZzRThuSUNwcW5TSVE2N19FSkVqLUdtYk1rWmcwVGNsSDlFcnZkMDNsaVpSWWUtcTFvSkxhcFdRZ2pYWUVJSWZGSlZ1dGZTaTdEWUZEMTIyMXhwYzg2cnMzNmwxUXF4Mi13MFdCRHBNM2VKN2dvUUE5QmFfS2F5aEpORTlyUkRmSjQ1TUFGRlNWclF1V084VmxvYjNoSlE?oc=5",
+          "date": "Wed, 01 Jul 2026 22:21:53 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -30497,13 +30453,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MA",
-          "llm_subject": "2026 World Cup Security: FBI Highlights Morocco’s Key Role - Atalayar"
+          "llm_subject": "World Bank funds $265M hydropower project in Morocco"
         },
         {
-          "title": "Drone hub, cyber defense and Gibraltar: Inside the new US-Morocco security vision - HESPRESS English - Morocco News",
+          "title": "'Our joy today is Moroccan': Sheikh Mohammed hails team's dramatic World Cup win - thenationalnews.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEJBNU92c0RHa2RwZFVyS2ZMREVZM0pqN194VjRFUlNZQ1FuTWFxQ0hCaU1CNVNzZzdCbWpKLVpIX0RhNC1LdThMWlhJajEyWnp1TmJBdjB6VlNuZUhoM195UVFsNEJhTEtzeXV4dUxHNUxsQjNmMjk1ZFJpc3gyTkt6ZkpyWHRjOE1PNlE3b2d3MGdyYmhLTEFvU2VYQnZSMDAxNTFWS2hwbTFjOW9xZk5MLXNNQQ?oc=5",
-          "date": "Sun, 21 Jun 2026 19:34:17 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWdScDRIWmNsZmkzdGtXU2VIWks0TkY4Q0d0cmh3VnE4bUxFcFlGUFBYQ1ppZ3M2RFZIQkpYZ2tQTFVNNjFMZWt5QUJKV3dad0hNcUFKd3FwR0hEZzQ2cnl0LWRPUHV0S3FoeFpwRjRKa0lPRkFlYXdxMmxWeVFqdkpESVNDS240TjRuX20zYnlLUm4tY1Ytc3Y2V0NQc2FqMnhGLVNQU2M1azNua1dJVmVydDl5NWpVSE8wMGxJVXV1RWlNMWFfRQ?oc=5",
+          "date": "Tue, 30 Jun 2026 11:32:56 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -30511,13 +30467,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MA",
-          "llm_subject": "Drone hub, cyber defense and Gibraltar: Inside the new US-Morocco security visio"
+          "llm_subject": "Morocco's World Cup Victory Celebrated by Sheikh Mohammed"
         },
         {
-          "title": "Moroccan Sahara: A Path to Stability, Development, and Civilian Protection - Morocco World News",
+          "title": "Today's Top 3 News: Morocco Knocks Out Netherlands from 2026 World Cup - Tempo.co English",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdm5FREZ1OGRvOHliekRBTkMtOVlYWGV5YUktamJ6UGxlYjVyTFc3amxSM21YZFRweGFNNjRoREJqVFZQOGI1Tjl6anJ5VEVncFIyUlNwQV9kdDhUY2taRWVXdHc2NU9CTGxVU3V0MGhEZ3U3Wm9vb3luUHZuNDRpTmdYdjh0eWVRUGMxMVRPcFl5U1JOeUtDNXdyLWxtVWQ5QXVyOU4wMXd0bXphMWFiMzhGQXZLbGF3eXZoSg?oc=5",
-          "date": "Sat, 20 Jun 2026 13:39:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkJPd1R6NzRtWmlub0trZjRpMkRxWDdNWTMtdFlDUEI1dm42VnhGUTVWRm85ZGU4MHhMOVVRTzh4dENiX0pPcUxPNVFxWHBsNFNJeGhrTl9NZnlnR3M2RVhURFJQeG1pVEZaa3I2NjdWdmsxT2p4S0tjMk92NWFxNU1FTUJTOG1WS1V0QXQ2MTU0OG04VXBDU3JTN1FpN3M3cXR3?oc=5",
+          "date": "Tue, 30 Jun 2026 09:15:26 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -30525,41 +30481,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MA",
-          "llm_subject": "Moroccan Sahara: A Path to Stability, Development, and Civilian Protection - Mor"
+          "llm_subject": "Morocco Eliminates Netherlands in 2026 World Cup"
         },
         {
-          "title": "DGSSI Warns of Major Fortinet Data Leak Affecting Moroccan Entities - Morocco World News",
+          "title": "Morocco 'unstoppable' says coach after Netherlands thriller - RTL Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUE12WXN3U2ZUZ3RnOW9wTnpzNldlcEZRb0dWdHc3V2lOUW92TXhaSDhrekUtc2VrT1VUdTYxNGxudzg0d1pJTW9vZFZCZEMxaUU3SjhXc3lFWFFtdnBfbGEtQjBMX1l0aml1Q1BuM2NOaWNraE1UR2xjNmRWbDBPTHFhbl9YUW5YTC1UWHFGRHlsZkR3bXM3UldsYTJQYVR6YTk0NFpCR3FqX2JCdkRiOUV2ZnplNXM?oc=5",
-          "date": "Sat, 20 Jun 2026 12:08:21 GMT",
-          "source_country": "MA",
-          "country": "MA",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MA",
-          "llm_subject": "DGSSI Warns of Major Fortinet Data Leak Affecting Moroccan Entities - Morocco Wo"
-        },
-        {
-          "title": "Morocco warns institutions after massive data leak exposes thousands of devices worldwide - HESPRESS English - Morocco News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHd5Y2JoeXhfRldvdlhuYTllNXBnbHlLZVBrdHhhbl9PTW5FS2J4aUQ5TURwdEpPUzZQcjhOelJYVFRteER3OVJ1U3lseFAwVzFxdTMxT1otOGRSUjFYOGJJZ0pjd2NnY19KS1E1RFRldE1FeXQtdncxYXdBT21OUlAyQUlpSlR6TjF3a2ZZM0VzNFQ3c0ZkTWQyZndlRi13THJaS1JkZEgzWFhxcEJhMUtkWjJFZGExZXNqeE9aVUk0dGc?oc=5",
-          "date": "Sun, 21 Jun 2026 11:55:28 GMT",
-          "source_country": "MA",
-          "country": "MA",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MA",
-          "llm_subject": "Morocco warns institutions after massive data leak exposes thousands of devices "
-        },
-        {
-          "title": "FortiBleed: More than 30 entities in Morocco hit by global data leak - Yabiladi.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjhXUmxyVG1IYy1iRnNIQTdIb0Nuc3U4NnlTWjI4bzVuYkpOcXg5RjJpUnJ5NE54bmIwNFFiOG82ZHBUZnJsTTV3LWM4R3lIN0FHY29wSGQwbjdXWDY3MUlkRXhQLTN4Y0JVQTFPY185WHlqN3dqZUY5UEx2ajRYUVMweGtHRS03bHhyelpETmN6WUNy?oc=5",
-          "date": "Sat, 20 Jun 2026 13:15:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTVVTkxVbTdzUXR0UTJySGtzc0c2ckwxOXlKNnlsRTZXT2JMZ0h5YmFFeXJPNHpST3hZZ2JxSUF6bEFMVkZ5VGtQczYyOVZZaHJEQ2h1Y0ZvX1hualhnSm80Z3pHV0NaM19Ydk5RczZJV0JFQ3R0azkwNWZkcVJiOHMtNi1ZZFNveGFNYjFiMXpVZDlIMmxKT3R0SzB3RDdP?oc=5",
+          "date": "Tue, 30 Jun 2026 05:47:30 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -30567,24 +30495,9 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MA",
-          "llm_subject": "FortiBleed: More than 30 entities in Morocco hit by global data leak - Yabiladi."
-        },
-        {
-          "title": "World Cup 2026 today: Live updates, latest news as it happened - June 20 - ESPN",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNHk2clgtX2Y4U1NMY0k1eWYxYjk0YkROYXJaRVJKN0pEUmZwbXgtbVc2bE1fYzlpN3VhYW9CajBjVkk4M2hvM3Y2NHN1akdJcGcyeWdJcTFtQm1sbGpLQ0lwZm1rQTVoUlY3S0trYUVIajNxWmg5VDRIajVtUGktMkQzcGRabnNuQ1UyRnpFNVRRSmxrc0xDM3VLS1ZiMGxrOXJVZ2lrRGRQalMyMm5GbzIzZmlfUXl6TGxtWml1NDRmQlhXVzRwQ1A0dlZaTmdUdW1rMlhYdml3eW5EQzBaZTM4Ym54TWc?oc=5",
-          "date": "Sat, 20 Jun 2026 15:32:00 GMT",
-          "source_country": "MA",
-          "country": "MA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MA",
-          "llm_subject": "World Cup 2026 today: Live updates, latest news as it happened - June 20 - ESPN"
+          "llm_subject": "Morocco's Coach Hails Team as Unstoppable After Netherlands Match"
         }
-      ],
-      "stale": true
+      ]
     },
     "MR": {
       "name": "Mauritania",
@@ -36563,15 +36476,15 @@
     },
     "CD": {
       "name": "DR Congo",
-      "index": 3.03,
-      "raw_score": 1.07,
+      "index": 1.0,
+      "raw_score": 0.0,
       "status": "STABLE",
       "events": [
         {
-          "title": "Ebola in DR Congo: One month on, scaled up response remains insufficient - UN News",
+          "title": "England vs DR Congo: A $4 Trillion Economy Meets the World’s Cobalt King - Business Model Analyst",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yUzlJVkM1cmpJUWY1bVJCZnZOSE9PcGlVMHJCWjFidVFNR00zaUM2TGtjTk85d2Z4WDV4bUhLR0xKNlR2aF9STFZEcVZmX3hKYUhISG11WQ?oc=5",
-          "date": "Sat, 20 Jun 2026 16:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5OW56RHZZZXhSakloZEhQcWg5ekxFV1VpTVhCT0x5bDdhWUNyQ2RMRU5WV0JFMTlqSy15VElaRngzejZpaWd0Vm5FTmVFY3ZnWEJzc1U0WmZtUU9WZ2UzMUN4X0JPVG9iYldWR3BR?oc=5",
+          "date": "Tue, 30 Jun 2026 19:26:11 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36579,13 +36492,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Ebola in DR Congo: One month on, scaled up response remains insufficient - UN Ne"
+          "llm_subject": "England vs DR Congo World Cup clash"
         },
         {
-          "title": "Colombia vs. Congo DR at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "title": "When sanctions become strategy: The limits of economic pressure in eastern DR Congo - The New Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNTFWVEU3MXhDandxbEZwWWNNSzBhNkJSdDRwYjctd2RiY3RjOFItelQ5WWZXa0l3VG1VTmhUV01RN184Rzl3cUFxRnN0ODFBRHhJZlV5V2hKcG0wWW5oejBWdkJpWDByZ251dGoyTlNaekliOTM5NDhxbS1aRWNBNlh2WEJNcXV2UkxOUUxldHJnMHFIUzhaZHBENmZlWVQtNms3TldrWUZueGNlM0ZtWmNzM3B1MHhuSjRabzVRMXFGUzVudUdEeTY2UFNCb1laejBjNkNYRkJRQkRhX3RuUnFKUjNfYkVH?oc=5",
-          "date": "Sun, 21 Jun 2026 19:30:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTJWUTUyTno3SXRWVU5VSE45b3dXU2kwNkhWdVJ6SUxuVmdaX0dEd0ltZU1zM3VnR0F2ZXNEOXRycFJTbS1ISHdLSUtoRHdwc1hCUjFRendOS0VDcks3dnVGM2ZGeGJjVDF1Ri1WWWktZ1E1UTIySmlvdnFzSE93LVNLUl9JcXZVTVNhaHJjbnY5S1lFcXdjd1J6VUFNNktHSGhaZmZJMmM2eTV2QldLc0ZHTGtPOFRLU2FGdDQxQXM5RFZPVGg0?oc=5",
+          "date": "Wed, 01 Jul 2026 12:08:36 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36593,13 +36506,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Colombia vs. Congo DR at World Cup 2026: TV channel, how to watch, kick-off time"
+          "llm_subject": "Sanctions in eastern DR Congo"
         },
         {
-          "title": "PREVIEW | Colombia vs DR Congo: team news, lineups, predictions (World Cup 24/06) - Yahoo Sports Canada",
+          "title": "When sanctions become strategy: The limits of economic pressure in eastern DR Congo| The New Times - The New Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3U1c05WVXJrQUcwX2ZsWWFZREtmeFBMN1N4YWpoeVlyb2h1YXFySFBJS3VTdjdVZ1pFRXAzWlBOSmg4N2NHVFVuRHYxY2Fna0hmUDVVbXBsN21VNXJVcUtNdDgwQ054N284NHJaOFVBZkNBS0R6S2EySVlaVy16TFJ3?oc=5",
-          "date": "Mon, 22 Jun 2026 02:05:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS2NVUk9MaHloaERhR1REVElQaGJneFJyMDRxaGVkVFdTbGdEVHhlbjdiUUJJOTVUQjFYaW93MHNkdEo0UUFvbDZaRXVNZ1E2WXdoc0NmdHl1RC1lZGgydDljZVVOc2FMSUE2Snp4LVFIOG5MbnpkQXNOYndDNjdyVGFqcGNfeFpRckFTU3p0R3ZkbTJXeWE0b2pscE04Ym1OeUU0eE41Yl9NSmt4d0ZSTkxfYW81UUVlVUNZSzhVQ3BUX3hYbjBsb1FNTEhkVDls0gHQAUFVX3lxTE1LY1VST0xoeWhoRGFHVERUSVBoYmd4UnIwNHFoZWRUV1NsZ0RUeGVuN2JRQkk5NVRCMVhpb3cwc2R0SjRRQW9sNlpFdU1nUTZZd2hzQ2Z0eXVELWVkaDJ0OWNlVU5zYUxJQTZKengtUUg4bkxuemRBc05id0M2N3JUYWpwY194WlFyQVNTenRHdmRtMld5YTRvamxwTThibU55RTR4TjViX01Ka3h3RlJOTF9hbzVRRWVVQ1lLOFVDcFRfeFhuMGxvUU1MSGRUOWw?oc=5",
+          "date": "Wed, 01 Jul 2026 12:28:37 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36607,13 +36520,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "PREVIEW | Colombia vs DR Congo: team news, lineups, predictions (World Cup 24/06"
+          "llm_subject": "Sanctions in eastern DR Congo"
         },
         {
-          "title": "Confirmed Ebola cases in DR Congo cross 1,000 as new infections recorded - Anadolu Ajansı",
+          "title": "Kane saves England from huge World Cup upset against DR Congo: Live updates and reaction - The New York Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGlMMVhMNF9Rc3gwd0J1anpGWG80U1lEd2RYOFJ2N290TmlNQm1SLWdhbUEyUVQxc0xqSXlma2VYQmVxN21uZWdaZXkyUlZlaE50c0gxVlVRUEpPblV3Y0JxV3JZdlU1RDZPQ0NNZThIVTZQVnZzVElIenhkbi11T0RMSVZva0JMcTNlR1hHSk8xbTk2VTdjRWpZZU5pdFJyN1NWS0RCNEVHTUtudkdz?oc=5",
-          "date": "Sun, 21 Jun 2026 22:16:33 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakd0WEJUQmdEOV9NbXM3R2lTakE5cEJxQ2N5Q1hQWEgwdnp6Snc0ckJZaC14OWhJdC05WkRWQU9WVFhIdGpzQzRLVE80LWxoN0RXVFF6X3F3WFkyODZ4T0p2RXp1ZGsxM3VzWXJtWnRILTBzcTljM09aanRhMzJEcEtod3RRWEVmaW5lZFhJSXhaczN1ZGdhc0VuZU4yTG93S1NvdFo3bFhfdTI1VUhqT0tJeWk2MXhmY0E?oc=5",
+          "date": "Wed, 01 Jul 2026 21:20:36 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36621,13 +36534,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Confirmed Ebola cases in DR Congo cross 1,000 as new infections recorded - Anado"
+          "llm_subject": "England vs DR Congo World Cup upset"
         },
         {
-          "title": "Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda - Al Jazeera",
+          "title": "England vs DR Congo: Thomas Tuchel battling selection dilemmas, fitness issues and low blocks ahead of last-32 clash - Sky Sports",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMjE0cmhPQy1MMy1JOGNxcXNzR2pOVTBpcTZlM2Q0cUkybTdtMGJzbTRKa0lkNFRvNGJUUE95ekY1Wk1jY2t0VmZ2THp0cXZPcTdtUkV2SDFLSzVHd0FZeFJyZVJLbXcwV2JlVmJRT2RQVmJYZUVmNV9DeGhrT3h4VUFUM1ZNaUZfTmcwbXNkY3N1R2I3ZXZMXzhicVUwSmpES2NubmF30gGrAUFVX3lxTE9ORFZqRk1oTklCakpORmREeUVDQ3RoelJtNnU1YXVDVUtfMlZuazByWTY0b0N0cEFLbER3U05FWVRPcV8zcDNJczhJVW9WR1JsVlRFSUFsY3FCSGhsUnlNRm1aN194cU9nX240SGZUMldrTmstOFRnd040TUVKckR2MlpPUUFNSDNvRmcxbWZGNjNIVjZ5a0JUejdYNmVzdHhlZGV2Ny02ZEZJYw?oc=5",
-          "date": "Mon, 22 Jun 2026 01:09:37 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTNDUlBpajNSZU53Rmd0QlZzZ1BjLWFxNHdWYWFWcEUzZnBzeDRWZTJWcGd2MTB3NjhLVWEtcGJIQ2ZGeVc3SS1KT1dnZUl2QnhPemtGNDlxbU5Uc19TdWNjQU9OdGJEajV5eUFfeHdtQUxTdGtWS3NyWExFRXZaQmRvZlN0TWFTNGlZeHJjYjB5SS1QMS1IaEZudTNTTU91YU16LXBRMVJvNXdTM2tPQUtlUXZwTEVwNFNzVDhIdDNFNHlSRV92b1JMaGJRX0JhYk5yd1YyV1pfUEZCcm5LeGtrQjNqM3VvQ0ltUE5uVEYtZE91NFB6ZXlZU05yZw?oc=5",
+          "date": "Tue, 30 Jun 2026 23:22:14 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36635,13 +36548,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda - Al Jazeera"
+          "llm_subject": "England vs DR Congo selection drama"
         },
         {
-          "title": "Second person hospitalized in Israel for possible Ebola after trip to DR Congo - The Times of Israel",
+          "title": "England's Kane delivers in dramatic World Cup win vs. Congo DR - ESPN",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0lRWFQzcXNfdXV4TmZmZmtTdUVyUUlrUlZLT0xNVk9ZcmpLQmwzdGJqd3Q3WElDLTJIbEFheHlfZC1iUGRVMlpBUlUxbGdBaW1QNVU1Y3RIQXBOSm1tb3dqVUpRWjhsTTFTN0hQdHZDaTVjSDRXb2U5MnFkdzVhR1Q3QVczazAySWRhM3ZzS1FBSDRoTURHR0Ezc2VETTFVNzYtWUdDTmRXNzdXUEHSAbMBQVVfeXFMTjR3czdSMDJvc2JjVUFiT1Z2TnJLejRLUWdhY0VjX2ZqdVR2Y1NhVVRtZ2RTQ1AtNlpXR3Y1TUJrenhQclplRy1vVmt2cm90LVUxX0Y4Vk1QcVhQem5QXzZvY3NsdjhxWmx0Rk54S2p6Q21NU0lXNWgweENtNTFwVUdzN29XY1paN2p6YUNOR3BncEtzSUdPTlBzRGlRTm53Z0ZyZHAzUlU3VmYyZU1lY0QyaW8?oc=5",
-          "date": "Sun, 21 Jun 2026 13:49:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRk9XN2F3OE5mNTFFRExOWjA2eE5jLU80QjBBZUhoM0lRZjlvbVJGNE81LUdnUzVrazFYY0hYSDYyLTNCM1dWUU1YdG1RaURVZ0J3ZzA1UTdQbzN1WVdBdTlQNm5wNUhrSnZIN2RXV1JoWE4zYWFYYUk3MlY2VFlzSm9CWU5nMWF1TEh2OFI0aWhYOTZBNFZ0VjJfWkJEaDRXaFRNSFVKWmNxcDYtdl9R?oc=5",
+          "date": "Wed, 01 Jul 2026 19:00:00 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36649,13 +36562,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Second person hospitalized in Israel for possible Ebola after trip to DR Congo -"
+          "llm_subject": "England vs DR Congo World Cup win"
         },
         {
-          "title": "Death rate at camp in DR Congo spikes amid fears of Ebola spiralling - Sky News",
+          "title": "How to watch England vs. DR Congo today: TV channel, streaming and kickoff time - CBS News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVS1Wa3pVX0dRVWY5cTJsSnhfNEhSTS1LOVZLcmVtY3ZVWHpteVBZNUR0UFFFQkJtMFRCbHFyclhoZW9RQ2VPeFNkS3Y2Xy14VVRZMmNvOGZzclZCc3FjeEtfaGNDX2lnNWtsMEYxZmVBMXBRWlllb0J3U1BqOU1OOGJuZzhXOFV5S3pTN2RGSkZvUENWMzc0MGdyUGw2eTFCYmphdkNGWQ?oc=5",
-          "date": "Sat, 20 Jun 2026 12:54:13 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2E0MUJ4bU5laWdWU3VCM1FheDRTMUxoeEdaTElrN00yb3pMdWY1SHJneV82SFNvM1Z3ZGJyTjdIbnE0ZndHd2ROV2tJNzU4MWdlVFk0RmxlZWJYQXJDdzdUYkR0YmNnR2NSaEZCSEFUSURsSXZJVTVDbkxsRmx4QjRCQ1p6YTRObHp5Z1gwWkhKNGVwRUpOS3NYU1pBb3VVRHdPeG45MlpOclM1Ty1HQ3JHZEI?oc=5",
+          "date": "Wed, 01 Jul 2026 12:22:12 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36663,13 +36576,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Death rate at camp in DR Congo spikes amid fears of Ebola spiralling - Sky News"
+          "llm_subject": "Watch England vs DR Congo"
         },
         {
-          "title": "Ebola in DR Congo: Response Still Falls Short - Mirage News",
+          "title": "Kane double rescues England in comeback win over DR Congo - Reuters",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3JwaDRXb3hocG5BazBPb0pqa3k3MUJZVzE5Y2JMaXAySGRidXh2RHlweFI2NERzX29oMW9wUFFZbTZTOWUtb2I5NmxQN3djYV9NNXhoRjFkbW9nMlVDbmR6Q0hYY3d2QjRCUTBpSHNwU3pRTVJqUk1MdUlCZHdlWnJwOThrcWs?oc=5",
-          "date": "Sat, 20 Jun 2026 20:14:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXdweDg0ak14djdFVHg4YnA5T0NoeVRUM1ExcEhvV0dPZWtWRzViVXFzaUFMd3Q1UVUzaVlUdjBqOXVWaXZaNFlXT2dxU3V1cl82QmhlaGxyYUsyNUFJQWFITHI0djRmLTVQM2x3cTl3SDJsNFQ4TzlsVzFPdXgtalAxNTkyYlR5S1ZrbHNiTlhJZTJSUVdSazlOM21EZUZrbWdOUmUwdw?oc=5",
+          "date": "Wed, 01 Jul 2026 18:32:14 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36677,13 +36590,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Ebola in DR Congo: Response Still Falls Short - Mirage News"
+          "llm_subject": "England vs DR Congo comeback win"
         },
         {
-          "title": "Colombia vs DR Congo prediction: 4-1 Bet Builder tip, odds, team news | World Cup 2026 - Racing Post",
+          "title": "Who is Lionel Mpasi? Meet DR Congo goalkeeper stunning England in knockout stage - Yahoo Sports",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTU5mOVkxd3p5cnpzQS1CNUp3aTFlcTZQc0loR2VKMXFMSzUzSVRLYlZHUFZQUjNoYUNuLWNOcHBRYnFheVpQQmJMUVN1NnpuVXVFQTBjbklNT052UUR0YktrcWRFbHdJX2NhQ0xQdWd5ZFF0UXRuTU1rTmN2UWpLV1pIR1VzQ1hlanB0WGtPaXVXNWtVNU5IRWxHWmVYV3pBMmUxUVdMdTBOUmZjclppSkJJR1hRcFJOTUZaSzQwVEtHTHZwWHFrYVdFWWUza1dqNFBpWFphR1kwU3FLbFJvX2VzeUh2Z1Z0MlduOGtmc0xUaTg?oc=5",
-          "date": "Sun, 21 Jun 2026 17:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWjh1bFZNbVBWbjJvUmxDVnQ5Wmo3dk10dWFGX2dJQnlVZGs2QzVyMEZ2aFBldmVzaVJ6ei1pXzBmTjZ4d2JWd0prdjB0SS1yVVZmZC1fWm9wSFdTdVdPSEJUOGFnaEhEWUd3dEJKMno2QWE3OEpaZ1RmY1pYTHAzLQ?oc=5",
+          "date": "Wed, 01 Jul 2026 17:37:25 GMT",
           "source_country": "CD",
           "country": "CD",
           "category": "neutral",
@@ -36691,94 +36604,9 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CD",
-          "llm_subject": "Colombia vs DR Congo prediction: 4-1 Bet Builder tip, odds, team news | World Cu"
-        },
-        {
-          "title": "Confirmed Ebola cases in DR Congo cross 1,000 as new infections recorded - NST Online",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaE5aam93ZV8wa1VxcmFFMFFWaU0tMWx4amFpblhVY1daWnh5YlNnbFFLN1hFeV9yenlIVXdGLTZuMkdCZ0pnU1hmVFpNZGZrVTNLYUYtRTlLV3JBb0cyblE3ZEs3SGJVRnJUeHFra2paTjJBbFJ1aDJYcUJndzVQQkVMamd1OWU3TEdXX3dZUXdlQTBiMEkzZElwTTNKamt1LWdqTkJzSmRBVmlmS0lHbExuZmRkZTQ?oc=5",
-          "date": "Mon, 22 Jun 2026 00:24:59 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CD",
-          "llm_subject": "Confirmed Ebola cases in DR Congo cross 1,000 as new infections recorded - NST O"
-        },
-        {
-          "title": "From Rwanda 1994 to DR Congo Today: How Rwamucyo’s trial exposes the genocidal network behind DR Congo’s 30‑year war| The New Times - The New Times",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY3VCT2NZVjllVmY0QkRiZm5ndldrSW9weEhDbG8wazh6NnFkU3hnOTB5ZVJqVnZNckhqcHh2R2h2QjNranJ5c2x0aktwZHRuazB0NEEwWWppeGNuaGlocnBuYUFBN0VlUVk3TUk3aEJCSE1JY2lGSVNHOEpQaHE5Q1piTi1fSnd3bG5TMkprRG5jWEFLMTNVbnZiZFVoYmdOSDRzM1lqQlpDckZ2Wl9xenBFQXlMaXNoMHgtM2tqWE9XYU1zU2xidGloc2g5SWs5NGFabzFJODIxcVFIZ3NKZ0cwNTVBdmp3S0ktOU1Fa3NuRVdD0gH4AUFVX3lxTE9rQU50TTc4YzdoX2V6MmllQVVkZzJjUTBqYjM1TUZERDRpRC1OeE5zbFdQaC1XazkwYldrQ3JXcGxfbndYLXRsLXN1TGtfZWU4UXk2c3BhSjM0US1aT0RTSVRHV084b1VVR2tWbXotM244Q3cyWjN0cGRNSkRFMVJjb3gtcjBqZXQ5SDJtMGRJYXNMNlR5bk9tWEcyb21oOTM1WlJGRm53SWc0NTRPYnBTU3lrZEJSdFpZLW1hSlpyb1FPS0pjNjVhLXhoN2VVXzNPTDZlVW1saVNNcDVjQnM3dFBhLWdzSEQ1ejEwM1JNenhXMmlQNXhl?oc=5",
-          "date": "Sat, 20 Jun 2026 12:46:32 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CD",
-          "llm_subject": "From Rwanda 1994 to DR Congo Today: How Rwamucyo’s trial exposes the genocidal n"
-        },
-        {
-          "title": "Félix Tshisekedi | Family, Wife, Children, President, & Fatshi - Britannica",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mRnhNUE9vcm83WVJsZjNKdzFnMGdJM1VCUDl4cDlOT3M4aG5NSE56ZElWcGdlRVFSaWRnZUpYNlZpckJ4UndZalRWcUtxRmVQN1pGcUh4cnRRQklYMFBsR0ZIdw?oc=5",
-          "date": "Tue, 16 Jun 2026 05:00:00 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CD",
-          "llm_subject": "Félix Tshisekedi | Family, Wife, Children, President, & Fatshi - Britannica"
-        },
-        {
-          "title": "No vaccine, conflict, mistrust: Ebola's return to DR Congo - KMVU FOX 26 Medford",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTHh3TzZ6VEFMODdUNWo1X3B4U1ppLVhkWGZMYjdnekNGVnVVUlJQYlRCRzh6VllMd0NmTTZVTldETnlybGJpYXhIaHRxa0FXczJkV0wzeDJWOWozcTJEZ29CREdyOXhCZEFpaURFYm1tREtMcGJGaEdFVzBjS2M3elEtdXg2VTVEQ3dPNHY1eF9OcHhnS09fRE5LUEVpQzNYbDV5cERYNkNGaUZRN3J1SjRYcWIxZTJCbnE4TFlrZTJJWFFFdDA3NmRBUTRrUnhZSXpKODZ0OWZGOHNBRVE5UA?oc=5",
-          "date": "Fri, 19 Jun 2026 08:14:03 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CD",
-          "llm_subject": "No vaccine, conflict, mistrust: Ebola's return to DR Congo - KMVU FOX 26 Medford"
-        },
-        {
-          "title": "Conflict in the Democratic Republic of Congo | Global Conflict Tracker - Council on Foreign Relations",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSG9La2pKSXhlanRJOFoxTWZ2aWFmWkR0Rkx4U3RyeWVXVnBXZFlyN1ZlWThiM3JHMzVlcERuYzRSOUtkRUlMYy1vQ1A3R295UG9rTlppbGN1M202TGhta3pSSWEzZi13SzhsTVJwTlNpaDFBZTl0bTlNblhSSmFDQ0d6OUgySURLcFh0V1NQX1Y?oc=5",
-          "date": "Wed, 18 Feb 2026 08:00:00 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CD",
-          "llm_subject": "Conflict in the Democratic Republic of Congo | Global Conflict Tracker - Council"
-        },
-        {
-          "title": "How Trump's diplomacy is shaping the war in the eastern Congo - Responsible Statecraft",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSUjJDN3gwMVhtT2xUMk5LU2NKU0R5UjBkY3RXa1NYNUtTbG51MjVvbS1XeUFVTWhmYm9hS28xUTNRMUJYUm8xWVpza3NpV3dnei1uTXdQa2NJN0pKRi04?oc=5",
-          "date": "Mon, 04 May 2026 07:00:00 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CD",
-          "llm_subject": "How Trump's diplomacy is shaping the war in the eastern Congo - Responsible Stat"
+          "llm_subject": "DR Congo goalkeeper Lionel Mpasi impresses against England"
         }
-      ],
-      "stale": true
+      ]
     },
     "CU": {
       "name": "Cuba",
@@ -40232,7 +40060,7 @@
   "groups": {
     "oecd": {
       "name": "OECD",
-      "index": 2.42,
+      "index": 2.25,
       "status": "STABLE",
       "member_count": 38,
       "active_members": 38,
@@ -40297,7 +40125,7 @@
     },
     "g20": {
       "name": "G20",
-      "index": 2.92,
+      "index": 2.77,
       "status": "STABLE",
       "member_count": 19,
       "active_members": 19,
@@ -40376,7 +40204,7 @@
     },
     "nato": {
       "name": "NATO",
-      "index": 2.61,
+      "index": 2.36,
       "status": "STABLE",
       "member_count": 32,
       "active_members": 32,
@@ -40418,7 +40246,7 @@
     },
     "asean": {
       "name": "ASEAN",
-      "index": 2.22,
+      "index": 1.56,
       "status": "STABLE",
       "member_count": 10,
       "active_members": 10,
@@ -40438,7 +40266,7 @@
     },
     "au": {
       "name": "African Union",
-      "index": 2.23,
+      "index": 2.01,
       "status": "STABLE",
       "member_count": 54,
       "active_members": 54,
@@ -40502,7 +40330,7 @@
     },
     "brics": {
       "name": "BRICS",
-      "index": 3.06,
+      "index": 2.94,
       "status": "STABLE",
       "member_count": 11,
       "active_members": 11,
@@ -40604,11 +40432,11 @@
       "SY"
     ],
     "lowest_threat": [
-      "AT",
       "CA",
       "DZ",
       "FR",
       "VN",
+      "CD",
       "EC",
       "GA",
       "MU",
@@ -40696,12 +40524,6 @@
       "status": "ELEVATED"
     },
     {
-      "iso2": "MA",
-      "name": "Morocco",
-      "index": 4.13,
-      "status": "ELEVATED"
-    },
-    {
       "iso2": "ER",
       "name": "Eritrea",
       "index": 4.06,
@@ -40741,12 +40563,6 @@
       "iso2": "HU",
       "name": "Hungary",
       "index": 3.87,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "TR",
-      "name": "Türkiye",
-      "index": 3.77,
       "status": "STABLE"
     },
     {
@@ -40888,12 +40704,6 @@
       "status": "STABLE"
     },
     {
-      "iso2": "ID",
-      "name": "Indonesia",
-      "index": 3.03,
-      "status": "STABLE"
-    },
-    {
       "iso2": "LV",
       "name": "Latvia",
       "index": 3.03,
@@ -40914,12 +40724,6 @@
     {
       "iso2": "AU",
       "name": "Australia",
-      "index": 3.03,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "CD",
-      "name": "DR Congo",
       "index": 3.03,
       "status": "STABLE"
     },
@@ -41404,6 +41208,12 @@
       "status": "STABLE"
     },
     {
+      "iso2": "ID",
+      "name": "Indonesia",
+      "index": 1.41,
+      "status": "STABLE"
+    },
+    {
       "iso2": "MH",
       "name": "Marshall Islands",
       "index": 1.35,
@@ -41424,6 +41234,12 @@
     {
       "iso2": "GB",
       "name": "United Kingdom",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "TR",
+      "name": "Türkiye",
       "index": 1.0,
       "status": "STABLE"
     },
@@ -41704,6 +41520,12 @@
       "status": "STABLE"
     },
     {
+      "iso2": "MA",
+      "name": "Morocco",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
       "iso2": "MR",
       "name": "Mauritania",
       "index": 1.0,
@@ -41754,6 +41576,12 @@
     {
       "iso2": "VN",
       "name": "Vietnam",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "CD",
+      "name": "DR Congo",
       "index": 1.0,
       "status": "STABLE"
     },

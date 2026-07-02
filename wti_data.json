@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T04:25:41.845173",
+    "generated_at": "2026-07-02T12:26:18.446959",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-02T06:00:00",
+    "next_update": "2026-07-02T14:00:00",
     "publishable": true
   },
   "countries": {
@@ -3332,7 +3332,8 @@
           "llm_primary_country": "KM",
           "llm_subject": "Comoros builds resilient seed systems to strengthen food security - Food and Agr"
         }
-      ]
+      ],
+      "stale": true
     },
     "LK": {
       "name": "Sri Lanka",
@@ -3670,7 +3671,8 @@
           "llm_primary_country": "ME",
           "llm_subject": "The wider Mediterranean (including the Balkans) is Europe’s strategic test - Il "
         }
-      ]
+      ],
+      "stale": true
     },
     "MV": {
       "name": "Maldives",
@@ -5436,7 +5438,8 @@
           "llm_primary_country": "BA",
           "llm_subject": "After Being Set on Fire, the New BiH and RBiH Flags Redisplayed - Sarajevo Times"
         }
-      ]
+      ],
+      "stale": true
     },
     "BO": {
       "name": "Bolivia",
@@ -20702,7 +20705,8 @@
           "llm_primary_country": "TO",
           "llm_subject": "Tongan government branches come together for Commonwealth dialogue on separation"
         }
-      ]
+      ],
+      "stale": true
     },
     "UZ": {
       "name": "Uzbekistan",
@@ -23475,7 +23479,8 @@
           "llm_primary_country": "NA",
           "llm_subject": "Namibia: Germany must deliver reparatory justice for its brutal colonial past - "
         }
-      ]
+      ],
+      "stale": true
     },
     "PA": {
       "name": "Panama",
@@ -28906,7 +28911,8 @@
           "llm_primary_country": "BZ",
           "llm_subject": "Feeding the hungry in Caye Caulker, Belize - CentralAmerica.com"
         }
-      ]
+      ],
+      "stale": true
     },
     "CO": {
       "name": "Colombia",
@@ -35450,7 +35456,8 @@
           "llm_primary_country": "SM",
           "llm_subject": "Former Bulgarian foreign minister suggests decoupling Andorra from San Marino fo"
         }
-      ]
+      ],
+      "stale": true
     },
     "TG": {
       "name": "Togo",
@@ -37232,7 +37239,8 @@
           "llm_primary_country": "GA",
           "llm_subject": "AUC Chairperson thanked the people & Government of Gabon for hosting a timely di"
         }
-      ]
+      ],
+      "stale": true
     },
     "GW": {
       "name": "Guinea-Bissau",

@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-02T12:26:18.446959",
+    "generated_at": "2026-07-03T23:20:23.562881",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-02T14:00:00",
+    "next_update": "2026-07-04T01:00:00",
     "publishable": true
   },
   "countries": {
@@ -883,7 +883,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SY",
           "llm_subject": "US-Iran Deal leaves Lebanon in Limbo, Israel as Spoiler - Informed Comment"
         }
-      ]
+      ],
+      "stale": true
     },
     "TR": {
       "name": "Türkiye",
@@ -14528,7 +14529,8 @@ window.WTI_DATA = {
           "llm_primary_country": "HT",
           "llm_subject": "Orengo alleges political infiltration of peaceful protests, warns Kenya risks Ha"
         }
-      ]
+      ],
+      "stale": true
     },
     "JM": {
       "name": "Jamaica",
@@ -30411,7 +30413,8 @@ window.WTI_DATA = {
           "llm_primary_country": "LB",
           "llm_subject": "Hezbollah chief rejects any Israeli security zone in Lebanon - Middle East Eye"
         }
-      ]
+      ],
+      "stale": true
     },
     "MA": {
       "name": "Morocco",
@@ -32818,7 +32821,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CA",
           "llm_subject": "Lessons from Trump’s Iran Deal for Canada’s CUSMA Negotiators - Policy Magazine"
         }
-      ]
+      ],
+      "stale": true
     },
     "CR": {
       "name": "Costa Rica",

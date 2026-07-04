@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-04T13:59:29.550779",
+    "generated_at": "2026-07-04T17:20:40.441590",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-04T15:00:00",
+    "next_update": "2026-07-04T19:00:00",
     "publishable": true
   },
   "countries": {
@@ -1306,7 +1306,8 @@ window.WTI_DATA = {
           "llm_primary_country": "UA",
           "llm_subject": "Polish PM Tusk calls Ukraine-Poland tensions strategic mistake - RBC-Ukraine"
         }
-      ]
+      ],
+      "stale": true
     },
     "US": {
       "name": "United States",
@@ -11848,7 +11849,8 @@ window.WTI_DATA = {
           "llm_primary_country": "MX",
           "llm_subject": "Grupo Mexico Stock - background and analyst view on the miner - AD HOC NEWS"
         }
-      ]
+      ],
+      "stale": true
     },
     "NR": {
       "name": "Nauru",
@@ -29132,7 +29134,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CO",
           "llm_subject": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election - Al J"
         }
-      ]
+      ],
+      "stale": true
     },
     "DO": {
       "name": "Dominican Republic",
@@ -33744,7 +33747,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IN",
           "llm_subject": "US notifies sale of support services for India's Apaches, M777A2 howitzers - Bus"
         }
-      ]
+      ],
+      "stale": true
     },
     "KH": {
       "name": "Cambodia",

@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-03T23:20:23.562881",
+    "generated_at": "2026-07-04T13:59:29.550779",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-04T01:00:00",
+    "next_update": "2026-07-04T15:00:00",
     "publishable": true
   },
   "countries": {

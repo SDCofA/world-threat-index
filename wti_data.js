@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-04T17:20:40.441590",
+    "generated_at": "2026-07-04T19:38:21.855791",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-04T19:00:00",
+    "next_update": "2026-07-04T21:00:00",
     "publishable": true
   },
   "countries": {
@@ -446,7 +446,8 @@ window.WTI_DATA = {
           "llm_primary_country": "GB",
           "llm_subject": "Trump says UK Prime Minister Keir Starmer to resign: 'Failed' - USA Today"
         }
-      ]
+      ],
+      "stale": true
     },
     "JP": {
       "name": "Japan",
@@ -4722,7 +4723,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SO",
           "llm_subject": "Opposition Unveils Election Plan - FTL Somalia"
         }
-      ]
+      ],
+      "stale": true
     },
     "TJ": {
       "name": "Tajikistan",
@@ -9781,7 +9783,8 @@ window.WTI_DATA = {
           "llm_primary_country": "BR",
           "llm_subject": "Millions in Brazil get fake government mobile alert after hack - The Edge Malays"
         }
-      ]
+      ],
+      "stale": true
     },
     "CH": {
       "name": "Switzerland",
@@ -14926,7 +14929,8 @@ window.WTI_DATA = {
           "llm_primary_country": "KR",
           "llm_subject": "The new superpower: The lesson that Israel must learn - The Jerusalem Post"
         }
-      ]
+      ],
+      "stale": true
     },
     "LT": {
       "name": "Lithuania",

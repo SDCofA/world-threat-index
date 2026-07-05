@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-04T19:38:21.855791",
+    "generated_at": "2026-07-05T04:21:42.907631",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-04T21:00:00",
+    "next_update": "2026-07-05T06:00:00",
     "publishable": true
   },
   "countries": {
@@ -6315,7 +6315,8 @@ window.WTI_DATA = {
           "llm_primary_country": "EG",
           "llm_subject": "Are New Zealand out of 2026 World Cup after loss to Egypt? - bolavip.com"
         }
-      ]
+      ],
+      "stale": true
     },
     "GD": {
       "name": "Grenada",
@@ -9157,7 +9158,8 @@ window.WTI_DATA = {
           "llm_primary_country": "YE",
           "llm_subject": "UN Security Council Discusses Yemen Amid Calls to Harness Political Momentum - Y"
         }
-      ]
+      ],
+      "stale": true
     },
     "AF": {
       "name": "Afghanistan",
@@ -11064,7 +11066,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IT",
           "llm_subject": "Italian heatwaves, droughts drive inflation in Malta - MaltaToday"
         }
-      ]
+      ],
+      "stale": true
     },
     "KP": {
       "name": "North Korea",
@@ -28497,7 +28500,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AR",
           "llm_subject": "Argentina vs. Austria prediction, pick for Monday 6/22/26 - DraftKings Network"
         }
-      ]
+      ],
+      "stale": true
     },
     "BH": {
       "name": "Bahrain",
@@ -31386,7 +31390,8 @@ window.WTI_DATA = {
           "llm_primary_country": "RU",
           "llm_subject": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home - BBC"
         }
-      ]
+      ],
+      "stale": true
     },
     "SL": {
       "name": "Sierra Leone",

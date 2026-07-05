@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-05T04:34:05.098476",
+    "generated_at": "2026-07-05T11:50:33.071390",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-05T06:00:00",
+    "next_update": "2026-07-05T13:00:00",
     "publishable": true
   },
   "countries": {
@@ -1089,7 +1089,8 @@ window.WTI_DATA = {
           "llm_primary_country": "TR",
           "llm_subject": "Joint investment and border trade facilitation with Syria"
         }
-      ]
+      ],
+      "stale": true
     },
     "UA": {
       "name": "Ukraine",
@@ -22673,7 +22674,8 @@ window.WTI_DATA = {
           "llm_primary_country": "ID",
           "llm_subject": "Indonesia expands industrial cooperation with Russia"
         }
-      ]
+      ],
+      "stale": true
     },
     "KZ": {
       "name": "Kazakhstan",
@@ -30517,7 +30519,8 @@ window.WTI_DATA = {
           "llm_primary_country": "MA",
           "llm_subject": "Morocco's Coach Hails Team as Unstoppable After Netherlands Match"
         }
-      ]
+      ],
+      "stale": true
     },
     "MR": {
       "name": "Mauritania",
@@ -36630,7 +36633,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CD",
           "llm_subject": "DR Congo goalkeeper Lionel Mpasi impresses against England"
         }
-      ]
+      ],
+      "stale": true
     },
     "CU": {
       "name": "Cuba",

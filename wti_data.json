@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T11:50:33.071390",
+    "generated_at": "2026-07-05T14:13:25.545788",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-05T13:00:00",
+    "next_update": "2026-07-05T16:00:00",
     "publishable": true
   },
   "countries": {
@@ -3118,7 +3118,8 @@
           "llm_primary_country": "IR",
           "llm_subject": "JD Vance holds peace talks with Iran as Trump threatens strikes over Hormuz - Th"
         }
-      ]
+      ],
+      "stale": true
     },
     "KM": {
       "name": "Comoros",
@@ -9378,7 +9379,8 @@
           "llm_primary_country": "AF",
           "llm_subject": "CCI Discusses Expanding Exports to Afghanistan via Termez International Trade Ce"
         }
-      ]
+      ],
+      "stale": true
     },
     "BB": {
       "name": "Barbados",
@@ -32182,7 +32184,8 @@
           "llm_primary_country": "VE",
           "llm_subject": "Behind the shiny veneer of the ‘new’ Venezuela - CNN"
         }
-      ]
+      ],
+      "stale": true
     },
     "AT": {
       "name": "Austria",
@@ -33105,7 +33108,8 @@
           "llm_primary_country": "DZ",
           "llm_subject": "CREA hails FATF grey list removal as \"positive signal\" for Algerian economy - ap"
         }
-      ]
+      ],
+      "stale": true
     },
     "FR": {
       "name": "France",
@@ -38992,7 +38996,8 @@
           "llm_primary_country": "PK",
           "llm_subject": "Pakistan: Workers protest inflation, warn government of nationwide agitation - T"
         }
-      ]
+      ],
+      "stale": true
     },
     "SA": {
       "name": "Saudi Arabia",

@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-06T04:39:44.121829",
+    "generated_at": "2026-07-06T18:25:02.739597",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-06T06:00:00",
+    "next_update": "2026-07-06T20:00:00",
     "publishable": true
   },
   "countries": {
@@ -5663,7 +5663,8 @@ window.WTI_DATA = {
           "llm_primary_country": "BO",
           "llm_subject": "Bolivia crisis begins to ease after lawmakers back state of emergency - Devdisco"
         }
-      ]
+      ],
+      "stale": true
     },
     "CG": {
       "name": "Congo",
@@ -16677,7 +16678,8 @@ window.WTI_DATA = {
           "llm_primary_country": "UY",
           "llm_subject": "Uruguay vs. Cape Verde Prediction, Picks, Lineups for World Cup 2026 Today - Pri"
         }
-      ]
+      ],
+      "stale": true
     },
     "ZM": {
       "name": "Zambia",
@@ -18570,7 +18572,8 @@ window.WTI_DATA = {
           "llm_primary_country": "HU",
           "llm_subject": "Hungary's Parliament progressing forward: wealth tax, reforming education, regul"
         }
-      ]
+      ],
+      "stale": true
     },
     "JO": {
       "name": "Jordan",
@@ -20286,7 +20289,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SG",
           "llm_subject": "Tight security as India holds exam retest after leak scandal - The Straits Times"
         }
-      ]
+      ],
+      "stale": true
     },
     "SV": {
       "name": "El Salvador",
@@ -23116,7 +23120,8 @@ window.WTI_DATA = {
           "llm_primary_country": "LV",
           "llm_subject": "Latvian prime minister resigns after controversy over stray Ukrainian drones - A"
         }
-      ]
+      ],
+      "stale": true
     },
     "MM": {
       "name": "Myanmar",
@@ -23716,7 +23721,8 @@ window.WTI_DATA = {
           "llm_primary_country": "PA",
           "llm_subject": "Panama vs Croatia prediction: 5-2 Bet Builder tip, odds, team news | World Cup 2"
         }
-      ]
+      ],
+      "stale": true
     },
     "RO": {
       "name": "Romania",
@@ -37050,7 +37056,8 @@ window.WTI_DATA = {
           "llm_primary_country": "EC",
           "llm_subject": "What happens if Ecuador win, tie or lose vs Curacao today at the 2026 World Cup?"
         }
-      ]
+      ],
+      "stale": true
     },
     "GA": {
       "name": "Gabon",

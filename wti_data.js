@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-05T21:20:24.760705",
+    "generated_at": "2026-07-06T04:39:44.121829",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-05T23:00:00",
+    "next_update": "2026-07-06T06:00:00",
     "publishable": true
   },
   "countries": {
@@ -11218,7 +11218,8 @@ window.WTI_DATA = {
           "llm_primary_country": "KP",
           "llm_subject": "My New York childhood was like growing up in North Korea - The Times"
         }
-      ]
+      ],
+      "stale": true
     },
     "LS": {
       "name": "Lesotho",
@@ -12513,7 +12514,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SD",
           "llm_subject": "Prominent Eastern Sudan leaders warn of rising tribal polarization - Sudan Tribu"
         }
-      ]
+      ],
+      "stale": true
     },
     "SS": {
       "name": "South Sudan",
@@ -13492,7 +13494,8 @@ window.WTI_DATA = {
           "llm_primary_country": "BD",
           "llm_subject": "Violence, barriers deter women from politics - The Daily Star"
         }
-      ]
+      ],
+      "stale": true
     },
     "BS": {
       "name": "Bahamas",
@@ -33327,7 +33330,8 @@ window.WTI_DATA = {
           "llm_primary_country": "FR",
           "llm_subject": "Mbappe ready for ‘special’ 100th cap for France at World Cup - Free Malaysia Tod"
         }
-      ]
+      ],
+      "stale": true
     },
     "GT": {
       "name": "Guatemala",

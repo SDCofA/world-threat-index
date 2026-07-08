@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-08T03:44:29.891324",
+    "generated_at": "2026-07-08T06:43:00.446406",
     "main_index": 2.55,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-08T05:00:00",
+    "next_update": "2026-07-08T08:00:00",
     "publishable": true
   },
   "countries": {
@@ -8155,7 +8155,8 @@ window.WTI_DATA = {
           "llm_primary_country": "PT",
           "llm_subject": "No pressure to pass to Portugal star Ronaldo, says Conceicao - Free Malaysia Tod"
         }
-      ]
+      ],
+      "stale": true
     },
     "SC": {
       "name": "Seychelles",
@@ -10634,7 +10635,8 @@ window.WTI_DATA = {
           "llm_primary_country": "GE",
           "llm_subject": "Georgia Senate passes voting bill over Democrats’ objections - The Black Chronic"
         }
-      ]
+      ],
+      "stale": true
     },
     "HR": {
       "name": "Croatia",
@@ -18791,7 +18793,8 @@ window.WTI_DATA = {
           "llm_primary_country": "JO",
           "llm_subject": "Jordan Wright faces primary challenge in 70th Assembly District - Spectrum News "
         }
-      ]
+      ],
+      "stale": true
     },
     "KW": {
       "name": "Kuwait",
@@ -19663,7 +19666,8 @@ window.WTI_DATA = {
           "llm_primary_country": "MZ",
           "llm_subject": "Human rights violations by Mozambican security forces in the context of the Moza"
         }
-      ]
+      ],
+      "stale": true
     },
     "OM": {
       "name": "Oman",
@@ -20508,7 +20512,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SV",
           "llm_subject": "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’ - Al Jazeera"
         }
-      ]
+      ],
+      "stale": true
     },
     "TO": {
       "name": "Tonga",
@@ -21121,7 +21126,8 @@ window.WTI_DATA = {
           "llm_primary_country": "ZW",
           "llm_subject": "Understanding the evolution and state of democracy in Zimbabwe: When a coup is n"
         }
-      ]
+      ],
+      "stale": true
     },
     "AM": {
       "name": "Armenia",
@@ -21923,7 +21929,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CM",
           "llm_subject": "Cameroon Eyes AI-Driven Future: As Minpostel Engages With Canada-Africa Tech Lea"
         }
-      ]
+      ],
+      "stale": true
     },
     "DK": {
       "name": "Denmark",
@@ -24566,7 +24573,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AO",
           "llm_subject": "Pope Leo XIV lands in Angola for third leg of his Journey - Vatican News"
         }
-      ]
+      ],
+      "stale": true
     },
     "BG": {
       "name": "Bulgaria",

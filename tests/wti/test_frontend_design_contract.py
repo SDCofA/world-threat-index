@@ -1,4 +1,6 @@
+import json
 import re
+import subprocess
 from pathlib import Path
 
 
@@ -98,6 +100,47 @@ def test_editorial_type_and_warm_palette_replace_terminal_tokens():
         "scanline",
     ):
         assert old_terminal_token not in CSS.lower()
+
+
+def test_runtime_index_colors_match_mena_palette_and_thresholds():
+    palette = dict(
+        re.findall(
+            r"--(stable|elevated|critical)\s*:\s*(#[0-9a-f]{6})\s*;",
+            CSS,
+            re.IGNORECASE,
+        )
+    )
+    node_harness = r"""
+const fs = require('fs');
+const vm = require('vm');
+const source = fs.readFileSync(process.argv[1], 'utf8');
+const indices = JSON.parse(process.argv[2]);
+const sandbox = {
+  window: { WTI_DATA: null },
+  document: { addEventListener() {} },
+};
+const expression = `\nJSON.stringify(${JSON.stringify(indices)}.map(value => WTI.colorForIndex(value)));`;
+process.stdout.write(vm.runInNewContext(source + expression, sandbox));
+"""
+    result = subprocess.run(
+        [
+            "node",
+            "-e",
+            node_harness,
+            str(ROOT / "js" / "core.js"),
+            json.dumps([4, 4.01, 7, 7.01]),
+        ],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+
+    assert json.loads(result.stdout) == [
+        palette["stable"],
+        palette["elevated"],
+        palette["elevated"],
+        palette["critical"],
+    ]
 
 
 def test_phone_layout_prevents_document_overflow_and_stacks_opening():

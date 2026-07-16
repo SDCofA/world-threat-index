@@ -14,9 +14,9 @@ const WTI = {
   },
 
   colorForIndex(index) {
-    if (index > 7) return '#e74c3c';
-    if (index > 4) return '#f39c12';
-    return '#27ae60';
+    if (index > 7) return '#cf5b4e';
+    if (index > 4) return '#d8a13f';
+    return '#6fae7e';
   },
 
   escapeHtml(v) {

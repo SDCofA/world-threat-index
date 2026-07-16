@@ -1,6 +1,23 @@
 window.WTIMap = {
   selected: null,
 
+  resolveFeatureIso(feature) {
+    const properties = feature?.properties || {};
+    const candidates = [
+      properties['ISO3166-1-Alpha-2'],
+      properties.ISO_A2,
+      properties.ISO_A2_EH,
+    ];
+
+    for (const candidate of candidates) {
+      if (candidate === null || candidate === undefined) continue;
+      const iso = String(candidate).trim().toUpperCase();
+      if (iso && iso !== '-99') return iso;
+    }
+
+    return null;
+  },
+
   async init() {
     if (!WTI.data) return;
     const svg = d3.select('#world-map');
@@ -23,10 +40,11 @@ window.WTIMap = {
         .join('path')
         .attr('class', 'country')
         .attr('d', path)
-        .attr('fill', d => color(d.properties?.['ISO_A2'] || d.properties?.['ISO_A2_EH']) || '#2a3140')
+        .attr('data-iso', d => this.resolveFeatureIso(d))
+        .attr('fill', d => color(this.resolveFeatureIso(d)))
         .on('click', (_, d) => {
-          const iso = d.properties?.['ISO_A2'] || d.properties?.['ISO_A2_EH'];
-          if (iso && iso !== '-99') this.selectCountry(iso);
+          const iso = this.resolveFeatureIso(d);
+          if (iso) this.selectCountry(iso);
         });
     } catch (err) {
       svg.append('text').attr('x', 20).attr('y', 40).text('Map unavailable — use rankings table');

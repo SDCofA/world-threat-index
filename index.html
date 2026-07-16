@@ -1,15 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" href="./favicon.ico" sizes="any">
-    <link rel="apple-touch-icon" href="./apple-touch-icon.png">
-    <link rel="manifest" href="./site.webmanifest">
-    <meta property="og:image" content="./og-image.png">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>WTI | World Threat Index</title>
-  <meta name="description" content="World Threat Index — global geopolitical threat monitoring for 195 countries by Monarch Castle Technologies." />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <meta name="theme-color" content="#15130f" />
+  <title>World Threat Index | Global Strategic Intelligence</title>
+  <meta
+    name="description"
+    content="World Threat Index provides evidence-led global threat monitoring, country rankings, and geopolitical group analysis from SDCofA, part of Monarch Castle Technologies."
+  />
+  <meta property="og:title" content="World Threat Index | Global Strategic Intelligence" />
+  <meta
+    property="og:description"
+    content="A global strategic intelligence monitor covering country risk, geopolitical groups, and current threat signals."
+  />
+  <meta property="og:image" content="./og-image.png" />
+  <link rel="icon" href="./favicon.ico" sizes="any" />
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+  <link rel="manifest" href="./site.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
   <link rel="stylesheet" href="css/variables.css" />
   <link rel="stylesheet" href="css/layout.css" />
   <link rel="stylesheet" href="css/components.css" />
@@ -18,64 +32,217 @@
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to intelligence dashboard</a>
+
   <div class="app-shell">
+    <div class="utility-bar">
+      <div class="utility-inner">
+        <span>SDCofA · Strategy, data &amp; intelligence</span>
+        <span>Open global monitor</span>
+      </div>
+    </div>
+
     <header class="topbar">
-      <div class="brand">
-        <img src="logo.png" alt="MCT" class="brand-logo" />
-        <div>
-          <div class="brand-name">Monarch Castle</div>
-          <div class="brand-tag">Defense Intelligence</div>
+      <div class="topbar-inner">
+        <a class="brand" href="#global-overview" aria-label="World Threat Index overview">
+          <img
+            src="logo.png"
+            alt="World Threat Index by Monarch Castle Technologies logo"
+            class="brand-logo"
+          />
+          <span class="brand-copy">
+            <span class="brand-name">World Threat Index</span>
+            <span class="brand-tag">Part of Monarch Castle Technologies</span>
+          </span>
+        </a>
+
+        <div class="title-block">
+          <p class="eyebrow">Global strategic intelligence</p>
+          <h1>World Threat Index</h1>
+          <p class="subtitle">Comparative threat monitoring across countries and geopolitical groups.</p>
         </div>
-      </div>
-      <div class="title-block">
-        <div class="product">World Threat Index</div>
-        <div class="subtitle">Global threat scoring for 195 countries &amp; major blocs</div>
-      </div>
-      <div class="status-block">
-        <div id="status-pill" class="status-pill">STABLE</div>
-        <div class="status-meta">
-          <div>LAST</div><span id="last-update">--</span>
-          <div>COVERAGE</div><span id="coverage-text">--</span>
+
+        <div class="status-block" aria-label="Current index status and data freshness">
+          <div id="status-pill" class="status-pill" aria-live="polite">STABLE</div>
+          <dl class="status-meta">
+            <div>
+              <dt>Updated</dt>
+              <dd id="last-update">--</dd>
+            </div>
+            <div>
+              <dt>Coverage</dt>
+              <dd id="coverage-text">--</dd>
+            </div>
+          </dl>
         </div>
       </div>
     </header>
 
-    <main class="grid wti-grid">
-      <section class="panel metric-panel">
-        <div class="metric-card">
-          <div class="metric-label">Global Composite</div>
-          <div class="metric-value" id="main-index">--</div>
-          <div class="metric-meta">
-            <div id="status-text">--</div>
-            <div id="countries-active">--</div>
+    <main id="main-content" class="content-shell">
+      <div class="edition-strip">
+        <span>WTI · Current global edition</span>
+        <span>Country and group monitoring · Evidence-led analytical signal</span>
+      </div>
+
+      <section
+        id="global-overview"
+        class="opening-grid"
+        aria-labelledby="global-briefing-title"
+      >
+        <article class="composite-panel">
+          <p class="section-kicker">Global composite threat index</p>
+          <div class="score-row">
+            <div id="main-index" class="metric-value" aria-label="Global composite score">--</div>
+            <span class="score-denominator">/ 10</span>
           </div>
-        </div>
-        <div class="panel-block">
-          <div class="panel-title">Geopolitical Groups</div>
-          <div id="groups-grid" class="weights-grid"></div>
-        </div>
-        <div class="panel-block">
-          <div class="panel-title">Highest Threat</div>
-          <div id="top-threats" class="briefing-card"></div>
+          <div class="score-scale" aria-hidden="true">
+            <span class="stable-band"></span>
+            <span class="elevated-band"></span>
+            <span class="critical-band"></span>
+          </div>
+          <div class="scale-labels" aria-hidden="true">
+            <span>Stable</span>
+            <span>Elevated</span>
+            <span>Critical</span>
+          </div>
+          <dl class="metric-meta">
+            <div>
+              <dt>Current posture</dt>
+              <dd id="status-text">--</dd>
+            </div>
+            <div>
+              <dt>Active coverage</dt>
+              <dd id="countries-active">--</dd>
+            </div>
+          </dl>
+        </article>
+
+        <article class="briefing-panel">
+          <p class="section-kicker">Global intelligence briefing</p>
+          <h2 id="global-briefing-title">Signals requiring attention now</h2>
+          <p class="briefing-intro">
+            Countries with the highest current composite readings, presented as comparative
+            analytical signals rather than operational conclusions.
+          </p>
+          <div id="top-threats" class="briefing-card" aria-live="polite">
+            <div class="briefing-empty">Loading current signals…</div>
+          </div>
+        </article>
+      </section>
+
+      <section
+        id="world-intelligence"
+        class="section-block"
+        aria-labelledby="world-intelligence-title"
+      >
+        <header class="section-header">
+          <div>
+            <p class="section-kicker">Geospatial intelligence</p>
+            <h2 id="world-intelligence-title">World threat map</h2>
+          </div>
+          <p>Select a country to review its current index and supporting event signals.</p>
+        </header>
+
+        <div class="map-detail-grid">
+          <div class="map-panel">
+            <div class="map-legend" aria-label="Threat level legend">
+              <span><i class="legend-swatch stable"></i>Stable</span>
+              <span><i class="legend-swatch elevated"></i>Elevated</span>
+              <span><i class="legend-swatch critical"></i>Critical</span>
+            </div>
+            <div class="map-wrap wti-map-wrap">
+              <svg
+                id="world-map"
+                viewBox="0 0 960 500"
+                role="img"
+                aria-label="Interactive world map showing country threat levels"
+              ></svg>
+            </div>
+          </div>
+          <aside
+            id="country-detail"
+            class="country-detail"
+            aria-label="Selected country intelligence"
+            aria-live="polite"
+          >
+            Select a country to inspect its latest analytical signal.
+          </aside>
         </div>
       </section>
 
-      <section class="panel map-panel">
-        <div class="panel-title">World Threat Map</div>
-        <div class="map-wrap wti-map-wrap">
-          <svg id="world-map" viewBox="0 0 960 500" role="img" aria-label="World threat map"></svg>
-        </div>
-        <div id="country-detail" class="briefing-card">Select a country</div>
+      <section
+        id="geopolitical-groups"
+        class="section-block"
+        aria-labelledby="geopolitical-groups-title"
+      >
+        <header class="section-header">
+          <div>
+            <p class="section-kicker">Comparative monitoring</p>
+            <h2 id="geopolitical-groups-title">Geopolitical groups</h2>
+          </div>
+          <p>Composite readings for the principal regional and strategic groupings in the dataset.</p>
+        </header>
+        <div id="groups-grid" class="weights-grid" aria-live="polite"></div>
       </section>
 
-      <section class="panel stream-panel">
-        <div class="panel-title">Country Rankings</div>
-        <div class="wti-search">
-          <input id="country-search" type="search" placeholder="Search country or ISO code..." />
+      <section
+        id="country-rankings"
+        class="section-block"
+        aria-labelledby="country-rankings-title"
+      >
+        <header class="section-header rankings-header">
+          <div>
+            <p class="section-kicker">Country intelligence</p>
+            <h2 id="country-rankings-title">Country rankings</h2>
+          </div>
+          <div class="wti-search">
+            <label for="country-search">Search countries</label>
+            <input
+              id="country-search"
+              type="search"
+              inputmode="search"
+              autocomplete="off"
+              placeholder="Country or ISO code"
+            />
+          </div>
+        </header>
+        <div
+          id="rankings-table"
+          class="rankings-table"
+          role="region"
+          aria-label="Scrollable country threat rankings"
+          tabindex="0"
+        ></div>
+      </section>
+
+      <section id="methodology" class="section-block methodology" aria-labelledby="methodology-title">
+        <header class="section-header">
+          <div>
+            <p class="section-kicker">Methodology &amp; provenance</p>
+            <h2 id="methodology-title">How to read the index</h2>
+          </div>
+        </header>
+        <div class="methodology-grid">
+          <p>
+            WTI aggregates structured country, event, and group signals into a comparative
+            monitoring index. Scores indicate relative analytical conditions at the dataset
+            timestamp; they are not predictions or operational advice.
+          </p>
+          <p>
+            Review freshness, coverage, country evidence, and source context together. SDCofA
+            maintains the analytical model and publishes the generated WTI dataset for this
+            interface.
+          </p>
         </div>
-        <div id="rankings-table" class="rankings-table"></div>
       </section>
     </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <span>World Threat Index · SDCofA analytical unit</span>
+        <span>Part of Monarch Castle Technologies</span>
+      </div>
+    </footer>
   </div>
 
   <script src="wti_data.js"></script>

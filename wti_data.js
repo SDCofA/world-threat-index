@@ -1,13 +1,13 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-17T08:31:51.719359",
+    "generated_at": "2026-07-17T10:13:17.822015",
     "main_index": 3.29,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-17T10:00:00",
+    "next_update": "2026-07-17T12:00:00",
     "publishable": true
   },
   "countries": {
@@ -185,7 +185,8 @@ window.WTI_DATA = {
           "llm_primary_country": "DE",
           "llm_subject": "EU support for German chip projects"
         }
-      ]
+      ],
+      "stale": true
     },
     "GB": {
       "name": "United Kingdom",
@@ -1354,7 +1355,8 @@ window.WTI_DATA = {
           "llm_primary_country": "US",
           "llm_subject": "US debt crisis growth"
         }
-      ]
+      ],
+      "stale": true
     },
     "AD": {
       "name": "Andorra",
@@ -5875,7 +5877,8 @@ window.WTI_DATA = {
           "llm_primary_country": "EG",
           "llm_subject": "Ration card appeal process"
         }
-      ]
+      ],
+      "stale": true
     },
     "GD": {
       "name": "Grenada",
@@ -8661,7 +8664,8 @@ window.WTI_DATA = {
           "llm_primary_country": "YE",
           "llm_subject": "Houthi oil shock dual chokepoint crisis"
         }
-      ]
+      ],
+      "stale": true
     },
     "AF": {
       "name": "Afghanistan",
@@ -10231,7 +10235,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IT",
           "llm_subject": "Italy inflation June"
         }
-      ]
+      ],
+      "stale": true
     },
     "KP": {
       "name": "North Korea",
@@ -27112,7 +27117,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AR",
           "llm_subject": "Argentina beats England in World Cup"
         }
-      ]
+      ],
+      "stale": true
     },
     "BH": {
       "name": "Bahrain",
@@ -29534,7 +29540,8 @@ window.WTI_DATA = {
           "llm_primary_country": "NG",
           "llm_subject": "Oyo kidnap victims freed"
         }
-      ]
+      ],
+      "stale": true
     },
     "PG": {
       "name": "Papua New Guinea",
@@ -29956,7 +29963,8 @@ window.WTI_DATA = {
           "llm_primary_country": "RU",
           "llm_subject": "Kremlin managing economic strains"
         }
-      ]
+      ],
+      "stale": true
     },
     "SL": {
       "name": "Sierra Leone",
@@ -36199,7 +36207,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IQ",
           "llm_subject": "Iraq-US talks on economy and security"
         }
-      ]
+      ],
+      "stale": true
     },
     "KI": {
       "name": "Kiribati",

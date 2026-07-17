@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T11:40:05.925493",
-    "main_index": 3.53,
+    "generated_at": "2026-07-17T14:01:42.982308",
+    "main_index": 3.99,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-17T13:00:00",
+    "next_update": "2026-07-17T16:00:00",
     "publishable": true
   },
   "countries": {
@@ -21786,15 +21786,15 @@
     },
     "MM": {
       "name": "Myanmar",
-      "index": 5.02,
-      "raw_score": 2.46,
+      "index": 4.76,
+      "raw_score": 2.25,
       "status": "ELEVATED",
       "events": [
         {
-          "title": "Over 500 feared dead after boats carrying Rohingya refugees sink in Bay of Bengal - India Today",
+          "title": "UN says over 500 feared dead in two suspected shipwrecks off Myanmar - Free Malaysia Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUy1Salc4Rnh3dHFYUnR6M2Z5cnZJN0FMSGJtZUtPM1MzQnlYalczbnIyZHh5NHlqRXo3Q2dmUFBaQ24yLVZqQjRFa2l6VVRoMlVBdndZQUJKOGFIRGdaVWQ2TWlibWlCYzNRNk9QOGZZa0hlYThFS09LNGJlMHlUZldueDF3Um85S1NmdXl2aE9La0ZqMFFjcVpJanZnUnRUZFo0REQzeVlSX0lEV3FXdVAtelZFX3cyTWxpWGduTEdtclgwOHRKaXNoSmR2NlNM0gHWAUFVX3lxTE1VMlhLSnBpaTQ5NC14cjE4N1pRUld6c1VEVlJrcFFLTEc4VzNBSGJaZVNIYnpGOTR2MExOSDFSeGxmTmNaOGRXQ2pNM1d2d2pVUXdQbnNBWHZ5WFJacFRYMmxuV1B6bURZMkt5eGRfVEZUVTctQ25vVHlLb2g4azVNZEZFaFFWY0F1a1J0Ul9iTmNHTWxFQWZDX0lOZlBQc0UtYWtnUlhsQkZ5WnJmNzB4Y3FRdDNQMXQ3a3BJVV9WaVZIODVSZG1DU0FYNDdkQ1VOM0pCYVE?oc=5",
-          "date": "Thu, 16 Jul 2026 05:54:27 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYkFIcGdWSkdGOW15c0JBdkU0bjJrUjhtTU85a0dpMDh0OEd6SXNoWmZlVXFLSzZ2OVdwQlNQZWswdWdxT1ZzbmtCdTVuU3BDWjZJZ1hTNGY1TWx5ekZwdTdCeXRqT1NUQUdwME8tcG93OWUtRU5Nb2lqZDdRZjlaN2x5djlna1NfN2dIaXpzWnU1QWxoZDF6RjhNdEJ4NUhzTDNHTE9LN0ozd1pUc2w0NkxTWms0aXY0dFFIQU9SSU9YUS0yUzlN?oc=5",
+          "date": "Thu, 16 Jul 2026 03:33:51 GMT",
           "source_country": "MM",
           "country": "MM",
           "category": "humanitarian_crisis",
@@ -21802,7 +21802,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "Rohingya refugee boat sinking"
+          "llm_subject": "Myanmar shipwreck deaths feared"
         },
         {
           "title": "Asean envoy to update ministers on Myanmar at Manila meeting - Free Malaysia Today",
@@ -21816,27 +21816,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "Asean Myanmar update meeting"
+          "llm_subject": "Asean Myanmar briefing Manila"
         },
         {
-          "title": "UN says over 500 feared dead in two suspected shipwrecks off Myanmar - Free Malaysia Today",
+          "title": "ASEAN outreach may give Myanmar leaders legitimacy without results - Reuters",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYkFIcGdWSkdGOW15c0JBdkU0bjJrUjhtTU85a0dpMDh0OEd6SXNoWmZlVXFLSzZ2OVdwQlNQZWswdWdxT1ZzbmtCdTVuU3BDWjZJZ1hTNGY1TWx5ekZwdTdCeXRqT1NUQUdwME8tcG93OWUtRU5Nb2lqZDdRZjlaN2x5djlna1NfN2dIaXpzWnU1QWxoZDF6RjhNdEJ4NUhzTDNHTE9LN0ozd1pUc2w0NkxTWms0aXY0dFFIQU9SSU9YUS0yUzlN?oc=5",
-          "date": "Thu, 16 Jul 2026 03:33:51 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "humanitarian_crisis",
-          "weight": 3.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MM",
-          "llm_subject": "Suspected shipwrecks kill 500 off Myanmar"
-        },
-        {
-          "title": "Stop anti-India activities from your soil: Ajit Doval to Myanmar counterpart - India Today",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzVILVZWa19uSFpWMXVKc3cwMXJiOGlRcExqa2ZvbmZhUWhINFdlZXN5SW5LU0pTaE90aE9VZ1V3SlFlU01ObXByU0hGSGVHcjh2VFJGWVNsMjFPOUdvN1ktaVlRYlJUczB4aF81bkhBUElwY1lWUlJEQTdYbGk5dkQxVTB3anU4cG53YzBwbS10bUtKa000YjdfT1E1SE9FZ2Y5MlFURld5TllhMUtSUHQzWWVPMnQ5VE13SGJ2VER3cG9QSERfeHJ5bk5kN0V6enZEaWJiNDNxOURzdGfSAeMBQVVfeXFMUGExcmhESXhCbUxRRkxXS0dZNVJadExrUUxOLVBwd3ZoQTJyaHlCcVdrd3BITnV4cHFzcnBtN2dBdktSQi1VbEF5WGNVUDhOZHVFMFptUTh0d3dXNGVoUmlMV1VlN3VPbF9nQldPbkNuQjBnNy0yOERUN1l5OTZWa0FnSkgwd1JTdGt0aE1iQU9LVUZvdWFIZmk0Ni1YclRDQjE2RlEzSlZOZHAzYm9MeU5aOFZYNGNsU0VDMkY2dk43WkZwN01nZElfSHBGZDBmMVFSTG90MnAzQUR6NHNyZHNVVTQ?oc=5",
-          "date": "Wed, 15 Jul 2026 13:33:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk82MWtMSXJiNFdsclRwaGd2N1NfVUc4XzZaWGtLOXYxVkNQM01aZjE2STVsTEJHbjVHa2tQUEo0dnlGUzN0eXhxYzkxQXRvVDFuaGVkald4Y2VubE9VeU5oS182ejVib0tWajJ1MHhQZWFzeVZsT2M4T0dXdW4xYmtMc2R3bkxLcVZJamFrQ3NtbFZBem1Va1JOWW9mNi1lOWxVRkFocjNIRVlxS19xUnlPT0JBNGR4djhkdk93?oc=5",
+          "date": "Mon, 13 Jul 2026 11:35:56 GMT",
           "source_country": "MM",
           "country": "MM",
           "category": "diplomatic_tensions",
@@ -21844,7 +21830,49 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "India warns Myanmar on anti-India activities"
+          "llm_subject": "ASEAN outreach legitimacy concerns"
+        },
+        {
+          "title": "Myanmar’s Leader Min Aung Hlaing to Visit Thailand Next Month, Report Claims - The Diplomat – Asia-Pacific",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEVVZUlmQ0phNXhJalQzaWlGeXoxLXF2M0dpZnAyQTdBYnl1ZVdPVEU5eVVqdEhPMjNoWGREUU4wSExHYTJINWdDYWhnS2lHNEJtRmNDTFVjQ2g4Wm5qYnVnRmdjMVV3bXFYdHF1REhab1BNeXFpaHEwU0J1dWFhMm9jaGF0Y0xDLXlzR1ZzaUc4YjRpWnRpYXF5d25ISVduS3hWRmpFQktfNWs?oc=5",
+          "date": "Tue, 14 Jul 2026 06:54:43 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "MM",
+          "llm_subject": "Myanmar leader visit to Thailand"
+        },
+        {
+          "title": "Myanmar edges out of isolation as Asean steps up engagement - South China Morning Post",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHRQSGtiQzl5SFhDdVRnV2dZQVNBVlp3SnU1V2FwcmdsM2pRazFnZTNlZkdNM29ZRUh6TWZhY28yTjFxcmlUTGYtRERsYmVFM0RNblgzQllsZzVJSFRhdENUdnlfYkZPdVZIMnlCQnRSQl9NdVJsQzQ5ZTItQlAta29lSWhRX1UyR3cwZXotbVNmNWZHRDRRejgyaGdReVBsZzRWcEl1Z3hId9IBqgFBVV95cUxPWHpnT2I3MGhBMm14dFBybDdBWktrcEFhX2RVN3o1UllVR3QtN3JsM1R6RkdqZUVnQWluek1ISGtQMkZBcjVSeHA5TkYzWGdPYm9VWTV0T3l0bkJKSHhXeFZGeVJJR245VzJnczRfajlyRS1wYkZjYXY4RUdrQ2JJZW5iam8wRW9XakZ2YzNqd29QdjdEaWFyQXd6SGpKRW9USG85Y0pXbWVCdw?oc=5",
+          "date": "Mon, 13 Jul 2026 11:00:13 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "MM",
+          "llm_subject": "Myanmar ASEAN engagement"
+        },
+        {
+          "title": "Myanmar tells ASEAN ‘sister’ Aung San Suu Kyi will be looked after, envoy says - The Japan Times",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORE1RX1NGMURrb0h2QkN0cXZ0cENHVEM5N2NGbGFodkt1NkVwWHhCeGtZSnBDakJHZng1T3Q0c0xBV2xlLVVaWkFUdnRUT0p1bGVoZ1VNVlRsM0JaVmtoekhsRTJjMzhfaDV2WWZlazdPMUhoUEpPaVU3SVI2b0NRX29maWVNZ0dURlJmeXV0ZTIwb0wtU3JQa21FVERLaEU?oc=5",
+          "date": "Mon, 13 Jul 2026 03:36:00 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "MM",
+          "llm_subject": "Myanmar assures Suu Kyi care"
         },
         {
           "title": "How Conflict Economies And Political Volatility Drive Myanmar’s Deforestation – Analysis - Eurasia Review",
@@ -21858,7 +21886,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "Conflict economies drive Myanmar deforestation"
+          "llm_subject": "Conflict drives deforestation"
         },
         {
           "title": "Displaced Women Face Severe Economic Hardship Amid Humanitarian Restrictions in Myanmar’s Kachin State - Burma News International",
@@ -21872,7 +21900,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "Displaced women suffer in Kachin State"
+          "llm_subject": "Kachin displaced women hardship"
         },
         {
           "title": "Myanmar taps cotton as strategic cash crop to lift farmers' livelihoods - NST Online",
@@ -21886,7 +21914,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "Myanmar promotes cotton as cash crop"
+          "llm_subject": "Myanmar cotton cash crop"
         },
         {
           "title": "ASEAN Expands Myanmar Engagement Ahead of Key Summit - Modern Diplomacy",
@@ -21900,7 +21928,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "ASEAN expands Myanmar engagement"
+          "llm_subject": "ASEAN Myanmar engagement"
         },
         {
           "title": "Resilience and Hope: Myanmar’s Path Forward Amidst Global Challenges - Global New Light Of Myanmar",
@@ -21909,26 +21937,12 @@
           "date": "Thu, 16 Jul 2026 21:32:19 GMT",
           "source_country": "MM",
           "country": "MM",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "political_instability",
+          "weight": 4.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "Myanmar path forward amid challenges"
-        },
-        {
-          "title": "Key India-Myanmar Border Gate to Reopen After Five-Year Closure, Sparking Economic Hopes Amid Security Fears - Burma News International",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbUxfNERhbEJXRXVKeS16U2RqUnVnMFN4UU80ckxsNVgxelVRNEt2QzRUNjVBSFdRdGlybGFGNkdxU3ExUkxqTG9BNTZuZkhlQk5KNktSeFMxMDdVcHZ3TWE5RjVXNWJ0SklrMUdiVWZzUVBESnNGa0tUUmZpOWhKZ3c4cDd4QkdTUEs5el91QXFMVVBRSkZSZlctQzJQa1N6SWxRMHcxMW1CeXRSNmNna3Uxb3Q5MV9rQlh2TUZZa3U?oc=5",
-          "date": "Wed, 15 Jul 2026 12:16:49 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "border_security",
-          "weight": 5.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MM",
-          "llm_subject": "India-Myanmar border gate reopening"
+          "llm_subject": "Myanmar path forward"
         },
         {
           "title": "Uzbekistan, Myanmar discuss joint business forum, access to CIS and ASEAN - trend.az",
@@ -21942,49 +21956,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "MM",
-          "llm_subject": "Uzbekistan-Myanmar business forum discussion"
-        },
-        {
-          "title": "Thailand extends work permits for migrant workers from Laos, Myanmar, Vietnam - The Star",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWHhVZmJRY2xkTHFvdkRrTVdTV2RHbzdxN2ZRbDB5cVF3UnVIbDRZQjNoV19xVlVKMk9MVW1VbXk5Zm5wVmdtN3ViX2tPek9MQUVSZldSbnNNSUh1bWlqRmtJRDVjdXVGWnl6RWN1aGl6ZHJJMWs2YUVKdWpKRXhXbEZDVWZEcUx1Znp3N3djZ2MzRFpUNE42enhkRjQxaEhlRkl3MWxCX2gyaGp6dEw2SVdsOXpQcUs5VDBldlNCWTlXYjZPRnJHNjZNY2NQbFBQN2E0eg?oc=5",
-          "date": "Thu, 16 Jul 2026 04:16:00 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "humanitarian_crisis",
-          "weight": 3.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MM",
-          "llm_subject": "Thailand extends Myanmar migrant work permits"
-        },
-        {
-          "title": "ASEAN Envoy Revives Myanmar Peace Talks - Devdiscourse",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQkJtaTRfMDlSMkFYMWVEMktVM1ZreHhtcXhTZnBzQnNEcHd3Zzd0dEdwUHg0NUpCWDFmakxfNkFXYTN3TF9BTWJNN0F5X1F3RTdTeTlleTlxcmgyVWlta19zem1DanQ0dXJPWDNmRVJ0WXhrVVpmak1yNG5xTTJ2c0xRWE5wdzRGMkNZeVViSGlWT1dKTldlWNIBngFBVV95cUxObGFZN2laUVdPTlFFVXFmdi1Ea3FWelFEMzlwRmx1OXRfMWt5MTJHUVdVRDdaUHMzRTdJelRMRGNqQmhhQ2E5UVhCMzlVTFpscFJHWkdyUjBEWjZwNVk0blhBMXdmSjR5WHBETWNfbG84dEFjNU9XWEdtS3E1Z0FaaHN3ZktnOVZDYmtQT05NeF9mVDlhRHhuQVU2YWRfUQ?oc=5",
-          "date": "Wed, 15 Jul 2026 12:13:26 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "political_instability",
-          "weight": 4.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MM",
-          "llm_subject": "ASEAN-led Myanmar peace talks revival"
-        },
-        {
-          "title": "ASEAN politics: Thailand outlines 4 indicators to measure Myanmar's progress - CNA",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUlpem9HaW1rQWN6Y2JoUXhfRFZuWVUzTnBRRjR3alU5X0FoRjVYMEdKTElHUTUtNHlma1ctd1BiS3BNd012ODFhUGVyS2ZSRWhlYlg4X19mc3QyM0dYc1NMeTBwem9BaDYtc3Bya2RJdDhSYzZZaWw0Z1NyN1ZXZ1FpY2EtV0tZQllBRA?oc=5",
-          "date": "Wed, 15 Jul 2026 12:53:06 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "political_instability",
-          "weight": 4.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "MM",
-          "llm_subject": "Thailand's Myanmar progress indicators"
+          "llm_subject": "Myanmar-Uzbekistan business forum talks"
         }
       ]
     },
@@ -23539,15 +23511,57 @@
     },
     "CN": {
       "name": "China",
-      "index": 2.02,
-      "raw_score": 0.5,
-      "status": "STABLE",
+      "index": 4.65,
+      "raw_score": 2.17,
+      "status": "ELEVATED",
       "events": [
         {
-          "title": "Opinion | China’s Economy Is in Worse Shape Than You Think - WSJ",
+          "title": "Trump’s election security claims threaten China truce, raise questions over Xi’s U.S. trip - NBC News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFZjUmxWR085Y1ZkVmJCY0NGY25nN1JiV2tZTlVnYnYwRFV1UWVwWExFdk9ITVFGZ09ueDNTa0tSV0ZKSTUzR0NyYTZ3N3JpRjVTSHluV3dqZXdweEJZWnVXblZUNXVneVBHX0ktZlM4RkZUYnpEX1M2d1F5RjBxNTJZeUJRTW15d25ZdQ?oc=5",
-          "date": "Thu, 16 Jul 2026 20:01:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlRicWFRQzFaNzJ3Wm05eXVxQ1hsbnJHY0dVbWFWMWdnbGgzQ25ycUlyejFWTldSTlJNS25UQlQ0c2JGLXh1dUpvSkd2ZkhvNGZpTUNqZ0hhTW8xY1BneE8wSkdlXzVuZkdnWjdnbHlFc1AzRG5OZjhxQ1lOU3JsdHVabGdWU3QwWjlZUUY5cTZVdkV1WkUyTUJGaUQ1cTdQeWc?oc=5",
+          "date": "Fri, 17 Jul 2026 10:53:53 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "CN",
+          "llm_subject": "China truce threatened by election claims"
+        },
+        {
+          "title": "China rejects Trump’s election interference claim as ‘groundless accusations’ - WEAU",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWVpSGdGeTJUWFYxMElocDdpUnROZXFXb25lbFN6Ym1oa05oczQ2RnlSc0k1VUc2M3RJQ2JhU3lNaWNHZWM4ZElieUJsRF9WZXZiT0wzQXJfUXlseXZlWUlDQVAzX01uNEpTMGRnc05USXQ2OVBrbzRxSEV6U2EtMWlPVnZUMHY4SVhVcm0wdlFZTl93WDg5QXVxYThmVy1rZXdXZDdLVdIBuwFBVV95cUxNdHdfcGtPNTBvZTVmWmM2OHQ1WEVmYUlSdkZOamxfYm44UzctbXR5ZWpRRkdaV0dCa0VEYml1ekVhTm54NVNNWUc2ck94Wl9TcksxRHlUT3FHT2RTVHd0ejFxVHVEZXY3emRvbGZmWnhNRGJmUWRJdnh4SUw0OGN3eTFrUlk4QnEzandQOXU3Zm5PZmNERnhKaFVDaGJOYWJDb3hPTmpXYTlZalEwZ1VPRTZINERFbmRwaXVR?oc=5",
+          "date": "Fri, 17 Jul 2026 10:12:00 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "CN",
+          "llm_subject": "China rejects election interference claim"
+        },
+        {
+          "title": "China warns of reciprocal countermeasures after US shortens foreign journalist visas - AP News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZDFQa1hqTFZJU1NyWDF6OXl6ekpPRlRYR2lldk0xWjdKUUMxdDI3aFl0ekpiOWhmdW4waGpsdExnMDJOdTlVYnZMWXRaZy1XcThiY194UEZRNG90NDdmbnlLYXQyb1BkRGJ6ZURfdWV3bE1fSUtReERTQm40V2piT255aXdZbDYwUUJmT0R2UlZCQXhwRnd5amdUakZkQTZkZE54eG13?oc=5",
+          "date": "Fri, 17 Jul 2026 09:56:00 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "CN",
+          "llm_subject": "China warns on journalist visa cuts"
+        },
+        {
+          "title": "A Personal Perspective of U.S.-China Nuclear Science and Security Cooperation - James Martin Center for Nonproliferation Studies",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWNPdWtZWUtwa2tiMWlCX0tnOXkxdUJvU1hudWhNbXpYQV9aM1k4NEhNZmNxOUtlQ1l2N0pUVGQ5MzZubnRxeVd6SDdrdWpBaFZZRTc0RnhqVHBRcGZQdVA0aS1Fd2g1LTZGbHVHWEFEZGxlQ0VKU2FSTW9iZTZ0cG1MUkk5UkVYWEM4c2k3eFZFdVhNMnZXQkowOXN1RUh3RFFpU2ZjdzVLdw?oc=5",
+          "date": "Thu, 16 Jul 2026 20:43:32 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "neutral",
@@ -23555,13 +23569,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China economy opinion"
+          "llm_subject": "US-China nuclear cooperation perspective"
         },
         {
-          "title": "China’s economy grows 4.3% in Q2, slowest since late 2022 - NPR",
+          "title": "China’s AI Ascendance Gives Xi a Stage and a Security Dilemma - Bloomberg.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXMyZlhicFVULUs2VGlpUEdPQ0plU2pCeUVPUlp1aG1qaEMtU3EwamdFTGNodGozUWtJc2ZvczR1NGpSWWRTVnkzeEViVlJRbjNhcGNkVFI4M1MzTjYxbFR3VjBsMWR5Zk1ZWlVwVTdoX0xzMUdod3EwYlhCT09RczM3RUtYcms4TEZLa1FwN1dYUElxSElCNHY1bDRDdw?oc=5",
-          "date": "Wed, 15 Jul 2026 14:11:41 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmg1cGo5bG9kT2RIcDc3ajYyN3J3RG9UWTBrZGJnajBrZmRrenVmZnZleEdNWXFKT0RwYUlYV01uR2lmUnBkR216T3JVdG9zYmhhWG94R0d3NWI5d09FY1FNdnh5MHN2X2xubkFaSGtYeEdxbEpuUXpsS2cxM0l2NmpxT1l1MmVJYTFfMDMxcW44aUdUMzJYZDJvX2pGUkNjSjRJcjI0bHJvV21lQWM0VVNB?oc=5",
+          "date": "Thu, 16 Jul 2026 23:00:00 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "neutral",
@@ -23569,139 +23583,83 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China Q2 GDP growth"
+          "llm_subject": "China AI ascendance and security dilemma"
         },
         {
-          "title": "China’s Quiet Debt Problem is the World’s Problem - The Common Sense",
+          "title": "Treaty with China ensures regional, global peace, security: North Korea’s Kim - Anadolu Ajansı",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcE13enU1ZG1KRVpKeUZ4QWZjTEZteWotNktNQlNPX1o1SU1qak0zRk1HUDhMbm81bC1aY0NJMlpzWXlzV3lWV09pcnVaSWdwU0tadzNFX29jRTBhajlxZHl4ZWtfNF9ndUNNNWFRMXVyTFZ1VHRnVTlta1VSYVdkN1g0OGEyaXA0cTNoNmVjbm1sNkt3VThpRTJCekphQzQ?oc=5",
-          "date": "Fri, 17 Jul 2026 03:03:56 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlFTZzc4MlkxaTN2bWoycEVRemM2ZXZmSlRlUTJDREVITXhEY2k2SEdzdThkd09jNFI4eFBzWkg5dGNLUkJGczFBVEhONFB5SDcyQkZHLTZvbFJNNEo4dDBWN0FsZjZwX1BBa2pSVDRCdjVWWmp0VGxsdWxkQldiWTZEN2JGMnFZT2s2QTZmSVBYUGRxNjJlY0xPYmo5d0hIQ1NxbmI0MDBqc2tINTVta24wZlcxZl9aTnQ3eg?oc=5",
+          "date": "Fri, 17 Jul 2026 11:56:17 GMT",
           "source_country": "CN",
           "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China debt problem"
+          "llm_subject": "North Korea cites China treaty for peace"
         },
         {
-          "title": "Analysis-China bets on faster state-backed projects to shore up growth, avoid broad stimulus - WKZO",
+          "title": "‘Election security nightmare’: Trump says China hacked voter files - AFR",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZ2elhhbUhncG9IdEVGMlotSFNEWG12RWlWN1htUHlUd1NIcG5KTnJob3A1VzlDODZBSTB1ZE9ZVUlFX1JuT0xkenhZaXdVX0hTcTJLaGZONUNhYmlqVUZnX2I5SEpRRUlGQUpHM2F4Z1NGZDJ2dUR3cTBEX2RwWlZvUlotc3RTZUR0RUIzMFl4MmVTdUdIVUdDakJlRGZ0SFk0bG1yMVM0dE14a2lvN3dfZC1DNHNvZTlxZw?oc=5",
-          "date": "Thu, 16 Jul 2026 23:20:09 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGxQcUFHbDVwZkE3b3RmcUdmekptaWxuUGJraHlCX0J3RU44SkQzU0VnWXJjTi1nZktvWWQyNHVrUy1aS2RVR0pxRXRKYzlrTTA2VWhSQmw0Ti1ZVE4tRm9IUFQ5dlg0SEM1ZVRrZWpIcUZEajRLNDNVeFVnWWwxMU5zTmFLbjNwSUlPMEhILVRnaVRvcG54VmV6UjhyS1VIaDNiVmlCREwtOWJlSGFLaUt1ZTRDcUFiTTFZ?oc=5",
+          "date": "Fri, 17 Jul 2026 03:30:00 GMT",
           "source_country": "CN",
           "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China state-backed projects"
+          "llm_subject": "Trump alleges China hacked voter files"
         },
         {
-          "title": "China’s Two-Speed Economy Pairs High-Tech Success With Domestic Gloom - WSJ",
+          "title": "Trump gives primetime speech on elections as White House alleges Chinese access to voter data - CBS News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95WE0tVDFHS2czdDJPTHFReFRuaVBSU1piaXM3YUV1NHlrM0ZQZHhxYVIyUU9FOFV5X3hrUXBiaUtBejRjcFNUelhRNl80M2dpQnFhYm1VMUlRbmhSX1Y1M09BRU00Z2FfVjBsemlYWnpVRnpmNU5n?oc=5",
-          "date": "Thu, 16 Jul 2026 23:30:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUy1GdS1CWjY1N1dwWmhKNVhaZ1MtOVVsUGFxUXFiLVNPc0tmbWdvTnM0OFdzLVJLZVIwaVdoNXRXSHlmZzhmVG5LRVlQOWFXR0pSWjY1aGtKd09VcEg0bWhEODloY3FMNHBxRGEySGlKX1FZWU53U19IWXRtUDVleWln?oc=5",
+          "date": "Thu, 16 Jul 2026 23:02:00 GMT",
           "source_country": "CN",
           "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China two-speed economy"
+          "llm_subject": "White House alleges Chinese voter data access"
         },
         {
-          "title": "China’s Economy Grows at Weakest Pace Since 2022 - WSJ",
+          "title": "EU accuses China of seeking to reshape global order in stark new strategy paper - South China Morning Post",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHA2eWEya3pIcjd5MjZYSVRoODJvOHB2MDNBdEszZ3dETTlKbERybV9VNjk1R0JWcFJCY1VnUm9WN3BHOGktWDAzclBYckNRTzJJV2M1UHN1RFV4c3ltTmVGNndGUmloTVk5V2FKN2FPV3pMMVRLY1Bnc29qSWxfYmkySV92OU8zUVBNbGNYZzcyeDhDTF9nUzJ1cDBBUQ?oc=5",
-          "date": "Wed, 15 Jul 2026 10:42:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQmRNTmFPQVFTdHRua3RpRVV3Ny1HWEE5cXV4dzFxS0xuSi1tOFhSUnFESzA1T0lrSmVVNXV6NkVkeUlLVzYzTUR6YS02U3FiMHpsbG5JLS1SYTdzQk1jTW9ZNThTMDRabUFubVEwRzNjaWl4cUw4MWk0YXEtOXpPOTNqaVJVME1TWFpuOHg3bklzVmZQSkpCQmFKemJRVDZBTDE0cHBtQ1M5eTlISUNneEduc01DMU1lS2RkeTIzSm5SM05MSXpB0gHHAUFVX3lxTE5OdFZpdWZEd3Rlc0kwdUplOFZ1YWkwNGtwM3hNMmpMcnpzSk5kVS03T3pOVTJseHZ3UGgwTVV6aTJBOGRwakhmU3dCVUh4cDFad2wwTlBfRjQyX2NFRGZrbHJSWVE4NV90OW1nU2FiOGtiUW5lMkl0NHVEbE9fdk16bDd2eE8zaEREcGtlM1p4bVY0SWNTZlEtM19WckJCUlJtQW9WVXR2Z0JxZHowR0E1SWY3RlBIX2pEcjg3OWpETkhwZDhwTkE?oc=5",
+          "date": "Wed, 15 Jul 2026 17:46:00 GMT",
           "source_country": "CN",
           "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China weak growth"
+          "llm_subject": "EU accuses China of reshaping global order"
         },
         {
-          "title": "World in Brief: China’s economy slows; America launches fresh strikes on Iran - The Economist",
+          "title": "Trump accuses China of rigging 2020 election - The Telegraph",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZE9sVEJ4X0ozWlJlcjhPclROWWR5R2V3Y3RMVUxTenJnenlya2J3N3dQbXZlU1ZWcVBLb0xEU3BKNjI5ZmRuc0NERmYtV0tSZ0IzM2ExcW9jbGphRVNjSmpqMWs2eGRXekpYOFBzX3Z0QTZTWXQySjZiMFB0Z04wX2o2UnhURDIxSWRZem5va0lrOXB1LTRZ?oc=5",
-          "date": "Wed, 15 Jul 2026 21:25:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5cXowdmxTSnEyd1pTbjUtVkRnXzQxMFRtM280blAyNGtLQ0g5WGk0bEt2SUJzU3JrN0pVVlh6enN6YXoyLVJyMUh6em5oUXNwLXFKTEc1ejVfa1AxdW8zWWlDRWdtMGhfd2w2TnpOY3V1RVVuVEE?oc=5",
+          "date": "Fri, 17 Jul 2026 07:41:00 GMT",
           "source_country": "CN",
           "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China economy slows"
+          "llm_subject": "Trump accuses China of rigging election"
         },
         {
-          "title": "Shanghai’s Economic Growth Potential Is Declining – Analysis - Eurasia Review",
+          "title": "EU lawmakers to discuss trade, security, AI during China visit - MLex",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmlISml6UjFHcVNmYm44QzdNcjg4WlBWZ29GLU9waGpPMEVPVE02akZrcnlXTlZqS3VUZHFIVmQ2N3Z2ZjNTQU1vcnIzbXdlNzJ1MUp6aFdqekpseWk1Ql8yS1R2V0tIZ3hCZXdGUWFGY1FLY1g5X2FDSUdldTB0bGtMd3piTmQ4RXg2dkxnUFFkUXY3MkpaSDFXYTktdw?oc=5",
-          "date": "Fri, 17 Jul 2026 01:46:09 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CN",
-          "llm_subject": "Shanghai growth decline"
-        },
-        {
-          "title": "Editorial | China’s economy on the right track despite polarised economic data - South China Morning Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDJ0ZVpza2pFLVRtZkJIMkFuTmJsRE9qVUtGdF92VEdfR080ajVkeFNIc3VhaC1ZMlFLRFMzYWF4Q1J6N3FsdlhQZnYtVVBmakpuVXpDNGlWck5QbTZpQ0ZFZFNOYzgzVzBpRzFoYUd2dVYybkdpYlRtV21XMG45cmM2bklqZEd6eFQ3SWRuU01TNnRNSFN1cXZqbXVQVTZTYjFGaGV2emFQNU91ZWFtQ9IBsAFBVV95cUxOMVdOWU5paXloS2I2NVhhRDJ0VzY1YmNzTDVXV0VtN1Z1VkV5TTlxeHM0N0pUa0haX1F2SDJFWUtTV0F6YnNDWUZWQUdrcDRpTDZ0bll6QzA5anMtd0Eyb1lpUGdxVExOTEEtMmVyTkJpQlZueWlNXzc5UUlqUXJmYmtsMnVYbmlDRUdaNnRlQjZTT1prZWpsX1c3aFEzcmM2V1l2ek5VUHQzVHp1NTlZRg?oc=5",
-          "date": "Wed, 15 Jul 2026 23:15:09 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CN",
-          "llm_subject": "China economy assessment"
-        },
-        {
-          "title": "China’s population ageing seen as ‘inevitable’ by 2050. Why push more births? - South China Morning Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODBpRHpJNE5OZWpjeFlCbG11SkZ3SXBjc3o1cWhNSGpSR2hvMWJpd3JEa0NhdnZ1bU9HYzRrc2xQOTM1Ym8tdWZ1WjdGeTdibXBmcURqODNhZlFZeGJCeWVWWEZxRjFSM0UyejQ5SWJYUWM5elFUREl2WkpQeXg0LTEwc09zVjV0SUx1N2RKa3k1eTZYVUt3dkFuOTdjUnZTc1hoNnNTQ2dLM1FHa3FEYnAwdWt2NDdLSkFqbUlYU0ZfUlXSAcMBQVVfeXFMTnZQUjNQVEw4dWJrZ25MSVA3dGY2eFp5T0g4TEtJSlFtTU45THdQNWFJRWdmdUN6c2duR3E3VWNBVjZ6U2FhZFk0RkxyM21UeGR6djRLczdVcE9HUjFOSnM3MUJELWZueXNmWDJJblhBSVVGSFJjdTI1TUY5dlpwN01iU0FhLTJIejFPSzRPYmxDSjhaaWdTaFlROHlUbUItS0pFNXhNVmxHR2hIbl9UblhhdWdpMVZTclJOTW1nRW5tZmVn?oc=5",
-          "date": "Thu, 16 Jul 2026 23:30:10 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CN",
-          "llm_subject": "China population ageing"
-        },
-        {
-          "title": "China’s economy slows to 4.3% annual pace of growth in April-June - New York Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelAzc01VUi1jeGl0d1lQeTJqUF95T3RjRGY2dzJEVEhkWHBvWGhlZy0xbHVNMVVOSGkyNnhEd3dndlpkNU9ZSEItM2FHaFVsZUVGOTFMZS1OclpQSEo0Y3h3NzJJbVl6N1VVWE5WcHBEX1JVQ2dKM2F5bjJxamZoRGQ1ek9HQ3hJMkVsbkxmakJBWFEzUDdueEFQQVJlRTlOdjRIZ2Z3?oc=5",
-          "date": "Wed, 15 Jul 2026 09:51:00 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CN",
-          "llm_subject": "China GDP growth slowdown"
-        },
-        {
-          "title": "China’s imports from Africa surge after Beijing expands zero-tariff policy - South China Morning Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdllzN3U1SUYxeFZINEhKcDM4UkpxTjhhbnBVdEFEeUJ2Yk5kaHZWa09VZ0ZsNERUNTE5Rl9ib3U0YmxPblFKVjBHSWVvVnU1Y3A0M0VycnpHUkh3WDBqRHFkY2hxSW81UEhlU0Rta29wUGI1NXJEV2k4OE1OV3VZeDVTTkJqa0FzcGZqVjVRWEdnM2NNT2dTOHZPWExtMmt4OHppSDE0X3Q1a2V6QTJ6ektTM0Y1bkFDYllmQnktQkgwTFBKMEHSAcYBQVVfeXFMUEI0azk0WFZmSkRNVWJmM0czVXVHV19EbGo4QklDSVBBbzY1dk9NMkxXZGloaTR4d0NRcFRYVzhZaW1ITmhtc01BMUtQc0cxVUlZa0YtNjdpaGhNOUdZUEpCM1JjS1BVMmowVm92NHlqSE95WGpqdDBFZkkyc3Q4V1g5a2RyaUluNDdfRXhOU2VsZ3pfbWlBeVVVTHJCRERMa1B0dVIzT2dqNHozVVEzTjBLSGlUbDBzdmlqTWtHRl9Ia0pZeXl3?oc=5",
-          "date": "Thu, 16 Jul 2026 05:00:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGxHNFo0ejBQcUx6c1lFQ0VoZjFhVlRoaWJESmlEeWVyZnpXWUYtaGhFQ3lNVGNrQVhVTTB1RVZ1a3pFcU1zellsTjRuZU5yTExjY2YyOUhqV2VwbzhPZld4LWFjOVN5THFfaVZKUXpRbzJfdXFhUm9oNVhCUGcxVXhFcC1Ua0xDUUt0NE45Q2N0OEo4WDg3WVRnRWVrcTNMT05tRWZkNHNwczBoTHfSAVpBVV95cUxOb29Wbnc0Z1RET1ljRlh0Sl9oNkFucjJPZEVIVmhfeExwYjh6bFB6WkdCT01TY2FWSEpkZFVmcEM5ZWZqWWdYN1ExZm1DejJJc3UyT3RVXzI5eHc?oc=5",
+          "date": "Fri, 17 Jul 2026 08:23:00 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "trade_agreement",
@@ -23709,63 +23667,35 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China Africa tariff policy"
+          "llm_subject": "EU-China trade security AI visit"
         },
         {
-          "title": "FirstFT: China’s economy grows at one of lowest rates in years - Financial Times",
+          "title": "China Arrests U.S. Scholar on Spying Charge - The New York Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9abGp0TGc0TmpJWG5qVEVVLUU1Rjh0WUc2WkdWV2h6ajQxS08xUmlSY3JBNTZqcEpkRDU0MHpPMk1zbGRKanl0MksxaEM0Vk9KNjJBcnFGSzU1MlFiRGctRGhHUkFoYjlBVmtmeGFoaGc?oc=5",
-          "date": "Wed, 15 Jul 2026 21:57:02 GMT",
-          "source_country": "CN",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHotYmxPQlFwN3p5emI0T3Z2bzQxdVN3NExsZUZMYjZ3eENUaHRJQURiUHJEZ3dRT2ZvRjZnY3Q1X1NCLVFtUWtmWmszZTlYMzhnUU5CaXdFektLeEg4SU9ldnhtb3VaM2xZVGxGNXN1TG05TTFIRmpWS1FvY25ycFlB?oc=5",
+          "date": "Thu, 11 Jun 2026 07:00:00 GMT",
+          "source_country": "MM",
           "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "political_instability",
+          "weight": 4.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China low growth rate"
+          "llm_subject": "China arrests US scholar spying"
         },
         {
-          "title": "How Long Has China's Economy Been This Bad? - RealClearMarkets",
+          "title": "Two police officers report of interrogation in China - Taipei Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd2s0UFZIVlh3Y19ZejdzR1VuOG1jckNjRzNZUUZ2eGJGa0RaRDBReXNtWGE1OTNRbEtldF9sVVp0RW1wNFI1cmFwS1JISEZFYkl1LWFVRnZOQ2VzZDNkM2JKTm5ybWdrb0w2Ml9kbko2dGF5SVZTcm9yU29LYVg4OGdsMGVWREV0Y3A0VXM1eXRHNElCd3FHQmFJT3R4VTA?oc=5",
-          "date": "Thu, 16 Jul 2026 19:03:43 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CN",
-          "llm_subject": "China economic weakness"
-        },
-        {
-          "title": "China’s economic engine cools - GZERO Media",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GTkFpUlhBaC1IZmdoUENDdF9LQlRHVTJ3czdSemVDV1dJUHlDa0pwWmF6Vmsyc211Y1BQUVl6ckpjbFR2Wmo2eS1pT2VNV3pvOEZXRjFHR3d0b0JNbDJoX2F5dFhPYlRyU2IwTnY4c2VpWkI3M1d6OVBwWWZzQdIBekFVX3lxTFBQb0xnby1UdXFiMUFfUnhzbWZ6S2lGTUZkT3QwRnJhb2dYYzJBdmVJYXJZTUpUc3pfUldRelRVbDFncHB2SXFsRmUycF9uMzlHMU50WGxjTVdHODlVLWt5U0NuSGJjeEN3czJKVU9aRGdfNGl6MEFkclZR?oc=5",
-          "date": "Thu, 16 Jul 2026 01:45:07 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "CN",
-          "llm_subject": "China economic cooling"
-        },
-        {
-          "title": "China denies Taiwan reports of missing travelers - Taiwan News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBneU9YbnpOWjRYa29tVmlrbFlYX2hoVWVmR1B6UlRkV242a2NlQ2padk9ja01KRW9ZbWxzTDFQTV95WEwwMUE1Y1huZUtVd1RwQzJjSw?oc=5",
-          "date": "Thu, 16 Jul 2026 04:37:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vRWRXV3pZQUFoNmFoS0hINTZEUGxRRzRGa1JGN1hrLUVTcWdmbk5ubUZfT2dDU1lOZldNckVlZDVrVWpuYjdSRUV3XzZvR2h0amlhNkhCSW13bXJlVmZ1OGJRTEJCSGdiTlFGVGhiVm5kV0hyZUowQ29R?oc=5",
+          "date": "Thu, 16 Jul 2026 16:00:00 GMT",
           "source_country": "TW",
           "country": "CN",
-          "category": "diplomatic_tensions",
-          "weight": 2.5,
+          "category": "political_instability",
+          "weight": 4.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China denies Taiwan missing travelers reports"
+          "llm_subject": "Police report interrogation in China"
         },
         {
           "title": "China aims to derail Taiwan’s drone efforts, source says - Taipei Times",
@@ -23774,12 +23704,26 @@
           "date": "Thu, 16 Jul 2026 16:00:00 GMT",
           "source_country": "TW",
           "country": "CN",
-          "category": "military_conflict",
-          "weight": 8.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "CN",
-          "llm_subject": "China targets Taiwan drones"
+          "llm_subject": "China targets Taiwan drone efforts"
+        },
+        {
+          "title": "Reporters face increasingly repressive China: FCCC - Taipei Times",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SYk4xQWRVbDhhbnl5Wk9zRzk3RmtfSlNrX2c2cnRIaUpXN1dKbmxCVlZNLUVBbmlEMU95Vk02TWNKMnFFX1NzWkxLM1haT3ZmYWY5cS0xVWRvVHZBenVuWHktUF9UY1d0a0Qyb2pWbXhRV25KRGFxWg?oc=5",
+          "date": "Wed, 15 Jul 2026 16:00:00 GMT",
+          "source_country": "TW",
+          "country": "CN",
+          "category": "political_instability",
+          "weight": 4.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "CN",
+          "llm_subject": "Reporters face China repression"
         }
       ]
     },
@@ -28196,20 +28140,6 @@
       "status": "ELEVATED",
       "events": [
         {
-          "title": "Israel’s future hangs in the balance - The Economist",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEFSc253MDBUdXpDZDhmcGxzRFIxRXRYUkIyeFJPMmlVbkRPaDBmWEY3MFRJMkN5ZV9rSEt3d1U0UHZueXVzQ1BnRWhCYWNiS2l3RXQxN3hfNndaNHVqN2xhUWt4N1pBZ0xxMmQ5bWdHT1NsVFhBZ1FZbzY2RWZoUVVCWkE1RWQx?oc=5",
-          "date": "Thu, 16 Jul 2026 12:53:49 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "political_instability",
-          "weight": 4.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "IL",
-          "llm_subject": "Israel future uncertainty"
-        },
-        {
           "title": "Israel economy shrank 3.8% in first quarter amid Iran war - Reuters",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmlWUncxOHQ3UThndnFyUEh4VHpySmc4Z3huVHZzYlp0MnpEV01uTDFXZWhYMEQ3dDEzMEl4UExYNTdieC1sakVxcWI3V0VMdTZkYUd1NlJmQ1RkeURhaDN4aTR2UkxYZlRmbWZBMFNsdHJvNTBudUtrbkwxbV9aZlNnVVR3OUJpckNFbl9PbHVPblNkdXlFc014MmZRZmtNeWZF?oc=5",
@@ -28221,21 +28151,21 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "IL",
-          "llm_subject": "Israel economy shrank amid Iran war"
+          "llm_subject": "Israel economy shrinks amid Iran war"
         },
         {
-          "title": "Weaponizing the Travel Warnings: Choking Economic Sanctions Against Israel - The Media Line",
+          "title": "Israel’s future hangs in the balance - The Economist",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHdtR0Y2NjdoMTdvUVJncGFfSk1GVmJpRjAyT1RCYk5VNDZGQUhVaEIzY29WVHlXTXpaelRKdGFqVEFXRzZhdHZaaVRlRjZDT0RjdVZNSGxIOUpwWkNtcTl3bGhkeEZvbVFweloxVzBoczJsRTdjZDJtT2ItRUZJME1FTHBLbFg0Rm02SHRGMW01LXhIemJ3blNzQXFOaDBpMnFpdkN1VXA3WmNmSFlrc2Vn?oc=5",
-          "date": "Thu, 16 Jul 2026 20:02:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEFSc253MDBUdXpDZDhmcGxzRFIxRXRYUkIyeFJPMmlVbkRPaDBmWEY3MFRJMkN5ZV9rSEt3d1U0UHZueXVzQ1BnRWhCYWNiS2l3RXQxN3hfNndaNHVqN2xhUWt4N1pBZ0xxMmQ5bWdHT1NsVFhBZ1FZbzY2RWZoUVVCWkE1RWQx?oc=5",
+          "date": "Thu, 16 Jul 2026 12:53:49 GMT",
           "source_country": "IL",
           "country": "IL",
-          "category": "diplomatic_tensions",
-          "weight": 2.5,
+          "category": "political_instability",
+          "weight": 4.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "IL",
-          "llm_subject": "Economic sanctions targeting Israel"
+          "llm_subject": "Israel's uncertain future"
         },
         {
           "title": "Moody's cuts Israel's growth forecast as war risks continue to weigh on the economy - calcalistech.com",
@@ -28252,6 +28182,20 @@
           "llm_subject": "Moody's cuts Israel growth forecast"
         },
         {
+          "title": "Weaponizing the Travel Warnings: Choking Economic Sanctions Against Israel - The Media Line",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHdtR0Y2NjdoMTdvUVJncGFfSk1GVmJpRjAyT1RCYk5VNDZGQUhVaEIzY29WVHlXTXpaelRKdGFqVEFXRzZhdHZaaVRlRjZDT0RjdVZNSGxIOUpwWkNtcTl3bGhkeEZvbVFweloxVzBoczJsRTdjZDJtT2ItRUZJME1FTHBLbFg0Rm02SHRGMW01LXhIemJ3blNzQXFOaDBpMnFpdkN1VXA3WmNmSFlrc2Vn?oc=5",
+          "date": "Thu, 16 Jul 2026 20:02:00 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "IL",
+          "llm_subject": "Sanctions pressure on Israel"
+        },
+        {
           "title": "Israel Economy Contracts 3.8% in Q1 - TradingView",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaVNZX1FTeHNxM2FTUy15Y1VYdWRnSWtmbUwxUkNiVTF5bFRjblREcUhsbkI2UThKYlhRSHowQnctV0drdkNqbGhWSEFuYlBTYVY1MkdjOW1uRjc5a0d2VHZwWVdITlU1cDhGZW5TLTkyajNPSW14eERCMUllbVhEUkgtREV3cGpiSnB1Y093?oc=5",
@@ -28264,20 +28208,6 @@
           "ai_model": "openrouter/free",
           "llm_primary_country": "IL",
           "llm_subject": "Israel Q1 economic contraction"
-        },
-        {
-          "title": "Israel’s economy shrinks 3.8% in Q1 as Iran conflict hammers consumer spending - Crypto Briefing",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hNU9kbS0wNS1QQmdHTmhqRmVuV2dBbU9XbndTWHJTM3pkLWxPdlRfcVlFeDFqRjBORE5JUngyOW54aUE1MW83bXIxb1ZjU2I0WUNYQzBzZDBTLUdQVVJSVEhHRVZ5WUVKdXpYV0hqVQ?oc=5",
-          "date": "Thu, 16 Jul 2026 11:24:32 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "IL",
-          "llm_subject": "Israel shrinkage from Iran conflict"
         },
         {
           "title": "Moody’s lowers Israel’s growth outlook, cites heightened risk of conflict, ‘weakened institutions’ - The Times of Israel",
@@ -28294,6 +28224,34 @@
           "llm_subject": "Moody's lowers Israel outlook"
         },
         {
+          "title": "Israel’s economy shrinks 3.8% in Q1 as Iran conflict hammers consumer spending - Crypto Briefing",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hNU9kbS0wNS1QQmdHTmhqRmVuV2dBbU9XbndTWHJTM3pkLWxPdlRfcVlFeDFqRjBORE5JUngyOW54aUE1MW83bXIxb1ZjU2I0WUNYQzBzZDBTLUdQVVJSVEhHRVZ5WUVKdXpYV0hqVQ?oc=5",
+          "date": "Thu, 16 Jul 2026 11:24:32 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "IL",
+          "llm_subject": "Israel Q1 shrink from Iran conflict"
+        },
+        {
+          "title": "Israel's high-tech sector continues to drive economic growth: Former Bank of Israel governor - MSN",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdzFrLUlMcFVoTlc1UkZQM09mUElWVnRyam14N2lRQ1BzeU9kczNncmxPQXJrT1U0endPeVFuRFhicVpkX095S3p1XzU2X09pV044SDhsMGZDNElrSVE0ZzNxTEpFQldIR3VuNHg1TzZWOGs2dVJtVW9KN1dTTGk0ZE9rXzFtQktIUzM4VTgwUkhWREpWOWVIQXhOZ2tGQ291TjJlVVlnaVpoVVF6SnRTLXE1R3N4aDhnTHhQRWh5eFNFczQtekpnMkNrN0QwQzh2VHZNUzQ5SUlwR0xKcmM5enRHRkdOd255bWFLNno3RmlpYzlzM0hzMlVDaXhKdw?oc=5",
+          "date": "Fri, 17 Jul 2026 09:28:52 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "IL",
+          "llm_subject": "Israel high-tech growth driver"
+        },
+        {
           "title": "Israel’s Economy Shrank 3.8% in Q1 as War with Iran Stifled Spending and Exports - finance.biggo.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5VDNzSUpnQzJBc3M1eFZLRTJDRkJLMGRNRy10c1Q4T2w3ZUY4Q21WbGhyWlNjRW5NdHlVVzNvRHhRcFdVSGRnZDRTN2JLYUxHZENGSUVtQ0R0UlpmWDdJa0lBbE01amcxMnBGMFFTNVNLcEZ4NXc?oc=5",
@@ -28305,21 +28263,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "IL",
-          "llm_subject": "Israel Q1 shrink from Iran war"
-        },
-        {
-          "title": "Smotrich warns: \"An Eisenkot government will establish a Palestinian terror state\" - Israel National News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ELUxNdHZ4TlpSLUdSUzhKLTJDbE8yRnRLYnFzVFNVWXpQaFMyQ2lieUp3OUt5eFIzaGxRWU5ZRWZseWxCOWEySFp4Q3R4bDNuelllbUFub3ZJZw?oc=5",
-          "date": "Thu, 16 Jul 2026 16:53:00 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "political_instability",
-          "weight": 4.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "IL",
-          "llm_subject": "Smotrich warns on Palestinian state"
+          "llm_subject": "Israel war with Iran hits economy"
         },
         {
           "title": "Israel economy shrank 3.8% in first quarter amid Iran war - TradingView",
@@ -28333,7 +28277,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "IL",
-          "llm_subject": "Israeli economy shrinks amid Iran war"
+          "llm_subject": "Israel GDP drop amid Iran war"
         },
         {
           "title": "Israel’s economy contracted 3.8% in first quarter of 2026 - Investing.com",
@@ -28361,13 +28305,27 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "IL",
-          "llm_subject": "Metro project boost to Israeli economy"
+          "llm_subject": "Metro boost to Israeli economy"
         },
         {
-          "title": "\"I'm less concerned about the immediate impact of the dollar's weakening on high-tech\" - Clal CEO Yoram Naveh - calcalistech.com",
+          "title": "Smotrich warns: \"An Eisenkot government will establish a Palestinian terror state\" - Israel National News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56b0s4SmZqWl9kaUg4cWtCVTVyZ2xINFNvWmpqWURVbGRjaTRUcnJGdXhmMkk3eFBPR1dQSmZfLWxva1pvYThZS2ZNQTc3bVR1SFh3YVBqZDdvUnZqckhVZ2xrNUlrd3M?oc=5",
-          "date": "Wed, 15 Jul 2026 09:34:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ELUxNdHZ4TlpSLUdSUzhKLTJDbE8yRnRLYnFzVFNVWXpQaFMyQ2lieUp3OUt5eFIzaGxRWU5ZRWZseWxCOWEySFp4Q3R4bDNuelllbUFub3ZJZw?oc=5",
+          "date": "Thu, 16 Jul 2026 16:53:00 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "political_instability",
+          "weight": 4.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "IL",
+          "llm_subject": "Smotrich warns on Palestinian state"
+        },
+        {
+          "title": "Israel’s economy contracted 3.8% in first quarter of 2026 By Investing.com - Investing.com South Africa",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1k0MjdaSkZQd1lQUUc3aW56OEFEaHhpelRTbktJdTJfYjRDTXRWcndwTEh5bEpBdkNpODZKZ1ZkREVEbnZRblJMLUx0UTlGWDRSVDRock5qckZiME8tX2luS29uUGIxNVFBeWFySFFTMWt3czcwMzduWDN6MmV0Nk1pcGVtTE9yOTJvQjNtVHk0Q2haNzBBa1ZrdmVIWWZhdnFuQ0tGNHRGallnVlA2TGMxTURRdw?oc=5",
+          "date": "Thu, 16 Jul 2026 10:26:55 GMT",
           "source_country": "IL",
           "country": "IL",
           "category": "neutral",
@@ -28375,21 +28333,7 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "IL",
-          "llm_subject": "Dollar weakening high-tech impact comments"
-        },
-        {
-          "title": "Israel's high-tech sector continues to drive economic growth: Former Bank of Israel governor - MSN",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdzFrLUlMcFVoTlc1UkZQM09mUElWVnRyam14N2lRQ1BzeU9kczNncmxPQXJrT1U0endPeVFuRFhicVpkX095S3p1XzU2X09pV044SDhsMGZDNElrSVE0ZzNxTEpFQldIR3VuNHg1TzZWOGs2dVJtVW9KN1dTTGk0ZE9rXzFtQktIUzM4VTgwUkhWREpWOWVIQXhOZ2tGQ291TjJlVVlnaVpoVVF6SnRTLXE1R3N4aDhnTHhQRWh5eFNFczQtekpnMkNrN0QwQzh2VHZNUzQ5SUlwR0xKcmM5enRHRkdOd255bWFLNno3RmlpYzlzM0hzMlVDaXhKdw?oc=5",
-          "date": "Fri, 17 Jul 2026 07:31:55 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "IL",
-          "llm_subject": "Israel high-tech economic growth"
+          "llm_subject": "Israel Q1 2026 economic contraction"
         },
         {
           "title": "Moody’s cuts Israel’s 2026 growth forecast to 3.7pc amid security risks - Capitalfm.co.ke",
@@ -34194,9 +34138,9 @@
     },
     "TW": {
       "name": "Taiwan",
-      "index": 2.48,
-      "raw_score": 0.75,
-      "status": "STABLE",
+      "index": 4.54,
+      "raw_score": 2.08,
+      "status": "ELEVATED",
       "events": [
         {
           "title": "Economy to stay strong: banks - Taipei Times",
@@ -34210,7 +34154,21 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwan economic strength outlook"
+          "llm_subject": "Taiwan economic outlook by banks"
+        },
+        {
+          "title": "Taiwan Reshapes Resource Recycling Framework Toward a Circular Economy - ChemLinked",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWFGWEljcThMTDNJRWE3Rk96VDZuTTFnVlRMVGl6WHJpWEZoMzYtN2dsUGc1T3BwdHZzTnItY0pBeGExMG1GSmNITGo2VkxkdWttR25ZaENaU21HZXRsQUlscGVJSk1SeEFJclZSSWN4UnRvZ0pWaElsS0J1b08yNGFfYlljbHI3ZThvQjkxdVJKWTUwMXkxVjhST1R5eS1DZC11MUNUVU9keURHMHdyY25NTQ?oc=5",
+          "date": "Fri, 17 Jul 2026 09:32:37 GMT",
+          "source_country": "TW",
+          "country": "TW",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "TW",
+          "llm_subject": "Taiwan recycling framework reform"
         },
         {
           "title": "DBS Sees Taiwan GDP Growth at 9.4%, Leading Asia; StanChart Cuts Global Forecast to 3% on Middle East Risks - finance.biggo.com",
@@ -34238,13 +34196,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "TSMC executive removed from ITRI site"
+          "llm_subject": "TSMC exec removed from ITRI site"
         },
         {
-          "title": "[Big read] One Taiwan, two speeds: The winners and losers of the AI boom - ThinkChina",
+          "title": "Taiwan jumps nine places in freedom, prosperity indexes - Taipei Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzl4djRLTmRHa1dUclkwNURnbU5YY1JabDRxTzRrbm1vakdsdHZLYmJIY2dBcDNEUU45SFN1QWtsU1pmSWxva2g0MmxjWnphU3VYTVYxX3ZFUDFPWlVlblE0ZGRVRnJoUHd3RzJFUnJyS0xKQjFIVGQ3M2U4Vzh6ck4yNkdUVGN6LUw0bFBMYXR4YzhUMUg1VUhB?oc=5",
-          "date": "Wed, 15 Jul 2026 09:47:50 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uMjd3eXVWc1doM09CUzhfT0g2ZFQwZHo5akJCRVIyOG5kNi0zNVBrRF9VYkxjZDJFYUFkdmMtS2xzaXd5SVhlWnBZMnBwQjBXUVQtUE5LLUVJdWdwcEdYYjl2dzhyY21XU1h6NnJuU0VMajFudmdEQjRn?oc=5",
+          "date": "Thu, 16 Jul 2026 16:00:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -34252,41 +34210,27 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwan AI boom economic divide"
+          "llm_subject": "Taiwan rises in freedom index"
         },
         {
-          "title": "TSMC's most advanced technology to remain in Taiwan: Cabinet - Focus Taiwan",
+          "title": "Taiwan opposes PNG\\'s unilateral decision to close representative office - Taipei Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PQVozSnFTUl9MZjNZSV9GZWFVYnRoQllXTHBOYWxvWloxa2ZhVGY5aXUtWkMwUWtCRkRlMWJTbE5aU3dJVmt1cXFWMXpLZXV3NnJGbTkwNA?oc=5",
-          "date": "Fri, 17 Jul 2026 04:11:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0c3VvQlk1WjVMU1p1QjNPeU1iRnpMWVc4ZTJKdVlHZFZ5bVFmeC01bmhmRUVzWTh3Rm1SbXV0c3R6c0RGZGZweGJ3NVBFd2p1dTQzTW0xaU1xSTVLNzhpVmVJUGtreVlsdkZYQUN1UFdlWXNiWXQycQ?oc=5",
+          "date": "Wed, 15 Jul 2026 16:00:00 GMT",
           "source_country": "TW",
           "country": "TW",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "TSMC tech retention in Taiwan"
+          "llm_subject": "Taiwan opposes PNG office closure"
         },
         {
-          "title": "The Politics of Taiwanese Tea Terroirs - Taiwan Insight",
+          "title": "Taiwan must guard freedom, Lai says - Taipei Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd1hPTnEyaVJrTHU3cHhRM1JwcFdNTDNwam10dTVBOHJrZS03THBuU2U5a0l6NmpKR0p2MHhyR2d1bGpFVmtNdFlIN21nTjBOWVE0LVRBS3NfQmd2Q1RuLUVvdG5tOFlWb1JSSGhESWRoRUlmVVhsLTFJVUVfb1FiY3Fn?oc=5",
-          "date": "Thu, 16 Jul 2026 08:00:00 GMT",
-          "source_country": "TW",
-          "country": "TW",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "TW",
-          "llm_subject": "Taiwan tea terroir politics"
-        },
-        {
-          "title": "Taiwan Intensifies Resistance to PRC Political Warfare - The Jamestown Foundation",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOC1mV0w0czZTRVEzNUZWQnhFWTF1VlNudkJGQ2tYQlRsNF8xWWVDbVd2eXl5bUxLeXpOMmprckF5bFZ1MmZ4VUhtWGhfS1BzUWZuNUIwSnFyV1I5S2lHeXdLZWpNY1QtNjZLb21QTU9MZVc4SzhNdGFrQ09TNk81cWo1RQ?oc=5",
-          "date": "Thu, 16 Jul 2026 19:52:50 GMT",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IWHllVHNpNlNld3ZkdkVRcjRvQVE5V2tPQy1MUUliRTF5WklhUzdaWVNaUjIwTllLbDd0UDJSOHZMWWRYMGZzT0dNYVBFTFhReFJHMVJlcW1XR3lMelJkMlVuNDVkcXhabWJlZjIxM3RVNmVXcDg5UA?oc=5",
+          "date": "Wed, 15 Jul 2026 16:00:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "political_instability",
@@ -34294,13 +34238,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwan resists PRC political warfare"
+          "llm_subject": "Lai urges Taiwan freedom guard"
         },
         {
-          "title": "Taiwan lawmakers to remove legal hurdles for Starlink to operate - KMVU FOX 26 Medford",
+          "title": "Taiwan Semiconductor Tops Q2 Targets On Leading-Edge Chip Demand - Investor's Business Daily",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb2RfQjBZeC1fY3RKNGlvaEZuTFAycjJKalpmNU9kM01hMll1U1p5UTBsN044alV2T2p5VXFwT0ZMYTNybW5UcFhaT0thYUE1eFhySkE0RzBqZFJoRTFoVzhrZ1JkdV85Q0ZOM1hMeTBkVWFBSkhrWEhtN3p3eEdBaFduUUNSLTh4Ymd2MHBUTnlYUTBXc1dNdkstdm9jYnc4cC04eDRXTFI4ZXpjbzBPaTJUN2JaOEZCWmlmSVZVSUtnb2c0Ti03c2pGYjBiRkU2d2tBZHB1ZDRxbjBzRU0ya3FpcnZyYmVfSV9vakdn?oc=5",
-          "date": "Fri, 17 Jul 2026 02:30:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzNFUDhLVlQ5bUVJZ25Rc09NaldVNEU0S0lmZUhvN1pMZzBoNlR2ME1wNkZoaHVvN1dWeDktNGVTUjJENks5Wkc0T2hjT3puSkNIQjBkNmlNZWJZQ1hIc2lGWGNoWHluc0pzd1YwcHVXbTB2SE9SNl8zZ2loTUY4SWlhNHpqV2t0dHBoZk5LU25LTWhD?oc=5",
+          "date": "Thu, 16 Jul 2026 21:28:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -34308,27 +34252,13 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwan Starlink legal hurdles"
+          "llm_subject": "TSMC beats Q2 targets"
         },
         {
-          "title": "Donovan’s Deep Dives: The American lean, Greene fighting machine - Taipei Times",
+          "title": "Hsiao calls Papua New Guinea office closure a 'setback' - Taiwan News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54elNVdWwxb1A1RWp5UjQxUmtya1BRbVRvdDRvOFlEOXh0QmhmMVlXNjRINDVob0M4aUlyUFdTWHNyY0RQenRySWxKeGVYZll1Vl9LUHZmbGY3LWdOU3F1TVhkSGl4azdOaWRGMVBOUl91YnREMk44?oc=5",
-          "date": "Wed, 15 Jul 2026 16:00:00 GMT",
-          "source_country": "TW",
-          "country": "TW",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 1.0,
-          "ai_model": "openrouter/free",
-          "llm_primary_country": "TW",
-          "llm_subject": "US figures in Taiwan politics"
-        },
-        {
-          "title": "Papua New Guinea Closes Taiwan's Office Amidst Diplomatic Shift - Devdiscourse",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlNhdnB1V3BTdWJJT2pGeEZ5dkJIMUlSd2tBYnlFTUQyX3BaTTFWelBrY3ctd3FLQVBYTnUtbzZ4OHNFVGhRMXg2U2psWHRxZlgzYTZOZUFTeThJNHlTOTJnTU9IWVNmODVhZ0NYM0ZZSjlYUTdadWN0azFNTkVMOTNHeFAybzJ3TnJnX3JGV2RidVJnZThWR1dkRjREVm1jdEk5YUxNc2xzeFNyOE5aOTFXdWFDOEHSAbwBQVVfeXFMT1pNOVB6ZUszTmVuMVZfTV9jbnhvMEZmQXJ5djNFRmUzaHBLX3E0a1N5cEJOaTlSbmZCZmdETnpnQTItZWU5X0VnNkd5Q2FtVTliRGJGZ3pSMFVHSTZ1TlZlb3RBNjlzSFpLQk10d1luZGlaN05DTlFBQU1mTUFNdmJZUVNvajFzUk1YV1Y4T1d4RGdaNjdfTm5MOW1pbUk3d3RuOGFoclJkQUVIZWZrSXk5b2VrUS1KbkNId2s?oc=5",
-          "date": "Thu, 16 Jul 2026 10:04:32 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GcFkxOGJvUWJ1WGJ5dzZ6V0llVnMtTFZvbFF5NWlaU0pOb2dtWTJia1Jwa2JLRFh5MGIzM0tYSHZzSnNtNDJVaTRBbzl6cUhxdTRDOHN2NFc?oc=5",
+          "date": "Fri, 17 Jul 2026 06:15:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "diplomatic_tensions",
@@ -34336,35 +34266,49 @@
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "PNG closes Taiwan office"
+          "llm_subject": "Taiwan office closure setback"
         },
         {
-          "title": "Taiwanese woman recounts confrontation after Beijing road dispute - Taiwan News",
+          "title": "Kinmen Coast Guard officer charged with passing on secrets to China - Taiwan News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BNjlzR1NmSEtkWUhGR19OS3RkZzU2R0FtWEFHN2NPQklFUUVDX0w5d0doZWZFaTR2aDRkS1hWRW1UOHUxUUxfSkVXd0xjd044WFE0Uw?oc=5",
-          "date": "Wed, 15 Jul 2026 12:32:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11MThvN3JadlRldTViS1BzRnFCbDZVMkdjUDF2d2ZnOHYxczNFQV9zeE1kN1VsVUkyYkNJUFlmR1FMVjBHU1ZlMXRtYlM5bUg0eTNYem95WU4?oc=5",
+          "date": "Fri, 17 Jul 2026 09:50:00 GMT",
           "source_country": "TW",
           "country": "TW",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "political_instability",
+          "weight": 4.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwanese woman Beijing dispute"
+          "llm_subject": "Kinmen officer espionage charge"
         },
         {
-          "title": "PNG announces closure of Taiwan's representative office in Port Moresby - RNZ",
+          "title": "Lai urges support for drone spending to share defense burden - Taipei Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZy16aUdTbElwenRBTll2VFdvbW12QUwyRWxOUWxvVGgzOUFTVVFGamZSc29YRmQ4RHB6RFk0LThlN04ybVJ0czFsQjRqQTllLUc2X1hJMWVyWWNRR0RBOXFPOUlkeHZiZmFmNzU4TlVvRjZGSUtOUlhUY0EwT1M5UGpLZ0liWlhTeWRJcG5tdGY1ZVlhOGw0Zm53LTNuX1Y5bzE5dXd4OVVtbFN6VVd5OGx2QQ?oc=5",
-          "date": "Thu, 16 Jul 2026 19:43:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSQ0Vhd0R1aGpydFlUUk5xeXZjMmZuVnZHUzB6a2NicGc1SjRiVEQxOHJZQm1JQm9NUE10ckJlZTlXdC1FdS1YYXRuRXlMa01fU3RzS1d0NFAyM1BkT2R4U0JiZjFuSzJxOEtlc0hFNHNHZE5fUjZwcTRn?oc=5",
+          "date": "Thu, 16 Jul 2026 16:00:00 GMT",
           "source_country": "TW",
           "country": "TW",
-          "category": "diplomatic_tensions",
-          "weight": 2.5,
+          "category": "military_conflict",
+          "weight": 8.0,
           "confidence": 1.0,
           "ai_model": "openrouter/free",
           "llm_primary_country": "TW",
-          "llm_subject": "PNG closes Taiwan office"
+          "llm_subject": "Lai urges drone defense spending"
+        },
+        {
+          "title": "Taiwan group supports Hong Kong booksellers arrested in sedition case - Taiwan News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhZHFkRndyT0d1cXYzd3Z1M2tWSmNZRTNYYmtTVWw3aS04eUo1M2FkSjRLaGJidDljM2JoWDJKX3htaGhhOTlwZkZLNlpOd1R2OWtHN0NVZE8?oc=5",
+          "date": "Fri, 17 Jul 2026 09:28:00 GMT",
+          "source_country": "TW",
+          "country": "TW",
+          "category": "political_instability",
+          "weight": 4.0,
+          "confidence": 1.0,
+          "ai_model": "openrouter/free",
+          "llm_primary_country": "TW",
+          "llm_subject": "Taiwan supports HK booksellers"
         }
       ]
     },
@@ -38309,8 +38253,8 @@
     },
     "g20": {
       "name": "G20",
-      "index": 3.33,
-      "status": "STABLE",
+      "index": 4.12,
+      "status": "ELEVATED",
       "member_count": 19,
       "active_members": 19,
       "members": [
@@ -38430,7 +38374,7 @@
     },
     "asean": {
       "name": "ASEAN",
-      "index": 2.67,
+      "index": 2.64,
       "status": "STABLE",
       "member_count": 10,
       "active_members": 10,
@@ -38514,8 +38458,8 @@
     },
     "brics": {
       "name": "BRICS",
-      "index": 3.48,
-      "status": "STABLE",
+      "index": 4.42,
+      "status": "ELEVATED",
       "member_count": 11,
       "active_members": 11,
       "members": [
@@ -38584,8 +38528,8 @@
     },
     "sco": {
       "name": "SCO",
-      "index": 3.97,
-      "status": "STABLE",
+      "index": 5.06,
+      "status": "ELEVATED",
       "member_count": 9,
       "active_members": 9,
       "members": [
@@ -38810,12 +38754,6 @@
       "status": "ELEVATED"
     },
     {
-      "iso2": "MM",
-      "name": "Myanmar",
-      "index": 5.02,
-      "status": "ELEVATED"
-    },
-    {
       "iso2": "CI",
       "name": "Ivory Coast",
       "index": 5.01,
@@ -38858,9 +38796,21 @@
       "status": "ELEVATED"
     },
     {
+      "iso2": "MM",
+      "name": "Myanmar",
+      "index": 4.76,
+      "status": "ELEVATED"
+    },
+    {
       "iso2": "FR",
       "name": "France",
       "index": 4.71,
+      "status": "ELEVATED"
+    },
+    {
+      "iso2": "CN",
+      "name": "China",
+      "index": 4.65,
       "status": "ELEVATED"
     },
     {
@@ -38873,6 +38823,12 @@
       "iso2": "LT",
       "name": "Lithuania",
       "index": 4.62,
+      "status": "ELEVATED"
+    },
+    {
+      "iso2": "TW",
+      "name": "Taiwan",
+      "index": 4.54,
       "status": "ELEVATED"
     },
     {
@@ -39266,12 +39222,6 @@
       "status": "STABLE"
     },
     {
-      "iso2": "TW",
-      "name": "Taiwan",
-      "index": 2.48,
-      "status": "STABLE"
-    },
-    {
       "iso2": "SN",
       "name": "Senegal",
       "index": 2.48,
@@ -39442,12 +39392,6 @@
     {
       "iso2": "NZ",
       "name": "New Zealand",
-      "index": 2.02,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "CN",
-      "name": "China",
       "index": 2.02,
       "status": "STABLE"
     },

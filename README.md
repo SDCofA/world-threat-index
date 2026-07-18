@@ -18,7 +18,7 @@
 
 ## Executive Summary
 
-The **World Threat Index (WTI)** is a standing geopolitical assessment maintained by the Strategic Data Company of Ankara. It measures threat pressure across **195 United Nations member states (plus Taiwan, for 196 territories)** and **13 major geopolitical blocs**, rendering each onto a single, comparable **1–10 scale**. The Index ingests multilingual open-source reporting, attributes each event to a country and a canonical threat category, and applies a deterministic, audit-ready scoring model to yield decision-grade situational awareness for analysts, risk officers, and strategy teams.
+The **World Threat Index (WTI)** is a standing geopolitical assessment maintained by the Strategic Data Company of Ankara. It measures threat pressure across **195 configured country and territory rows, including Taiwan**, and **13 major geopolitical blocs**, rendering each onto a single, comparable **1–10 scale**. The Index ingests multilingual open-source reporting, attributes each event to a country and a canonical threat category, and applies a deterministic, audit-ready scoring model to yield a comparative situational signal for analysts, risk officers, and strategy teams.
 
 The assessment is regenerated every few hours and published to a live, public dashboard with full provenance. Because scoring is deterministic given fixed inputs, every headline figure on that dashboard can be traced back to the events that produced it.
 
@@ -71,7 +71,7 @@ Each attributed event carries a category weight; the country's mean weight is ma
 | **ELEVATED** | 4.0 – 7.0 |
 | **CRITICAL** | 7.0 – 10.0 |
 
-The methodology is adapted from the production [Border Neighbor Threat Index (BNTI)](https://github.com/akgularda/border-neighbor-threat-index) and is documented in full at [`docs/wti-methodology.md`](docs/wti-methodology.md).
+The methodology is adapted from the [Border Neighbor Threat Index (BNTI)](https://github.com/SDCofA/border-neighbor-threat-index) and is documented in full at [`docs/wti-methodology.md`](docs/wti-methodology.md).
 
 ### Provenance discipline
 
@@ -235,7 +235,7 @@ Original software history is maintained in Git. External datasets, reports, trad
 
 ## Forecast limitations
 
-Forecasts and model-derived scores are probabilistic, time-bound analytical outputs—not facts, guarantees, or advice. Evaluate them against their stated horizon, source timestamp, methodology, and subsequent outcomes. Missing or delayed inputs can defer publication.
+WTI does not publish Task 3 forecast records. Its index values are current assessments derived from observed event inputs; they have no declared forecast horizon, probability distribution, resolution rule, or scoring outcome. Any forward-looking scenario language is an analytical scenario—not a forecast, fact, guarantee, or advice.
 
 ## Security
 

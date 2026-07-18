@@ -1,6 +1,8 @@
 {
   "meta": {
     "generated_at": "2026-07-18T09:45:04.822422",
+    "issued_at": "2026-07-18T09:45:04.822422",
+    "record_type": "assessment",
     "main_index": 3.32,
     "status": "STABLE",
     "countries_total": 195,
@@ -39619,6 +39621,9 @@
   "methodology": {
     "name": "World Threat Index",
     "description": "LLM country attribution + deterministic threat category weights.",
+    "methodology_url": "https://github.com/SDCofA/world-threat-index/blob/main/docs/wti-methodology.md",
+    "evidence_url_field": "countries.*.events[].link",
+    "forecast_classification": "not-a-forecast",
     "weights": {
       "military_conflict": 8.0,
       "terrorism": 7.0,

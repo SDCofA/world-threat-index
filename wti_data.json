@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T03:31:53.493670",
+    "generated_at": "2026-07-18T06:22:28.321364",
     "main_index": 4.06,
     "status": "ELEVATED",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-18T05:00:00",
+    "next_update": "2026-07-18T08:00:00",
     "publishable": true
   },
   "countries": {
@@ -3825,7 +3825,8 @@
           "llm_primary_country": "NO",
           "llm_subject": "Norway ambassador to US profile"
         }
-      ]
+      ],
+      "stale": true
     },
     "PL": {
       "name": "Poland",
@@ -9610,7 +9611,8 @@
           "llm_primary_country": "CZ",
           "llm_subject": "EU electricity supply scheme for Czechia"
         }
-      ]
+      ],
+      "stale": true
     },
     "ER": {
       "name": "Eritrea",
@@ -16235,7 +16237,8 @@
           "llm_primary_country": "BE",
           "llm_subject": "Encyclopedia entry on Albert II"
         }
-      ]
+      ],
+      "stale": true
     },
     "BT": {
       "name": "Bhutan",
@@ -21702,7 +21705,8 @@
           "llm_primary_country": "KZ",
           "llm_subject": "Kazakhstan expands oilseed agri exports"
         }
-      ]
+      ],
+      "stale": true
     },
     "LV": {
       "name": "Latvia",
@@ -22653,7 +22657,8 @@
           "llm_primary_country": "RO",
           "llm_subject": "Romania May net wage decline"
         }
-      ]
+      ],
+      "stale": true
     },
     "SI": {
       "name": "Slovenia",
@@ -26691,7 +26696,8 @@
           "llm_primary_country": "TT",
           "llm_subject": "US SEALs deploy to TT"
         }
-      ]
+      ],
+      "stale": true
     },
     "VC": {
       "name": "Saint Vincent and the Grenadines",
@@ -32047,7 +32053,8 @@
           "llm_primary_country": "GT",
           "llm_subject": "Arevalo's rule of law victory cost"
         }
-      ]
+      ],
+      "stale": true
     },
     "IN": {
       "name": "India",

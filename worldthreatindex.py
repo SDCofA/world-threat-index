@@ -232,10 +232,13 @@ class WTIAnalyzer:
         status = status_from_index(main_index)
         rankings = build_rankings(merged_countries, self.registry_by_iso2)
         coverage = len([c for c in merged_countries if merged_countries[c].get("index")]) / len(self.registry)
+        issued_at = datetime.now().isoformat()
 
         dashboard = {
             "meta": {
-                "generated_at": datetime.now().isoformat(),
+                "generated_at": issued_at,
+                "issued_at": issued_at,
+                "record_type": "assessment",
                 "main_index": main_index,
                 "status": status,
                 "countries_total": len(self.registry),
@@ -255,6 +258,9 @@ class WTIAnalyzer:
             "methodology": {
                 "name": "World Threat Index",
                 "description": "LLM country attribution + deterministic threat category weights.",
+                "methodology_url": "https://github.com/SDCofA/world-threat-index/blob/main/docs/wti-methodology.md",
+                "evidence_url_field": "countries.*.events[].link",
+                "forecast_classification": "not-a-forecast",
                 "weights": category_weights(),
                 "formula": "PerCountry = 1 + 9*(1 - exp(-avg(weight)/5 * 1.2))",
             },

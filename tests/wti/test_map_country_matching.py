@@ -44,8 +44,9 @@ def _exercise_real_map_module():
 
           const attributes = {};
           const handlers = {};
+          let pathCount = 0;
           const pathSelection = {
-            data() { return this; },
+            data(features) { pathCount = features.length; return this; },
             join() { return this; },
             attr(name, value) {
               attributes[name] = value;
@@ -80,7 +81,16 @@ def _exercise_real_map_module():
               return { fitSize() { return this; } };
             },
             geoPath() { return () => ''; },
-            async json() { return { features: [currentFeature] }; },
+            async json() {
+              return {
+                features: [
+                  currentFeature,
+                  ...Array.from({ length: 257 }, (_, index) => ({
+                    properties: { 'ISO3166-1-Alpha-2': 'X' + index },
+                  })),
+                ],
+              };
+            },
           };
 
           vm.runInThisContext(
@@ -129,6 +139,7 @@ def _exercise_real_map_module():
               missing: originalResolver(missingFeature),
             },
             render: {
+              pathCount,
               currentDataIso,
               invalidDataIso,
               currentFill,
@@ -168,6 +179,7 @@ def test_live_and_legacy_geojson_identifiers_drive_fill_and_selection():
     }
 
     render = result["render"]
+    assert render["pathCount"] == 258
     assert render["currentDataIso"] == "ID"
     assert render["currentFill"] == "resolved:6.2"
     assert render["currentFill"] != FALLBACK_FILL

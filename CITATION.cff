@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use World Threat Index, cite the exact repository commit and relevant data snapshot."
+title: "World Threat Index"
+type: dataset
+authors:
+  - name: "Strategic Data Company of Ankara"
+repository-code: "https://github.com/SDCofA/world-threat-index"
+license: "Apache-2.0"

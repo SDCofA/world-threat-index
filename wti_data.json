@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T15:13:47.086162",
-    "issued_at": "2026-07-19T15:13:47.086162",
+    "generated_at": "2026-07-19T19:26:03.663731",
+    "issued_at": "2026-07-19T19:26:03.663731",
     "record_type": "assessment",
     "main_index": 4.3,
     "status": "ELEVATED",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-19T17:00:00",
+    "next_update": "2026-07-19T21:00:00",
     "publishable": true
   },
   "countries": {
@@ -447,7 +447,8 @@
           "llm_primary_country": "GB",
           "llm_subject": "UK statement on Yemen at UNSC"
         }
-      ]
+      ],
+      "stale": true
     },
     "JP": {
       "name": "Japan",
@@ -4455,7 +4456,8 @@
           "llm_primary_country": "SO",
           "llm_subject": "Somalia-China fisheries protocol signed"
         }
-      ]
+      ],
+      "stale": true
     },
     "TJ": {
       "name": "Tajikistan",
@@ -9278,7 +9280,8 @@
           "llm_primary_country": "BR",
           "llm_subject": "Brazil machine safety market"
         }
-      ]
+      ],
+      "stale": true
     },
     "CH": {
       "name": "Switzerland",
@@ -14114,7 +14117,8 @@
           "llm_primary_country": "KR",
           "llm_subject": "Korea chip boom and GDP outlook"
         }
-      ]
+      ],
+      "stale": true
     },
     "LT": {
       "name": "Lithuania",

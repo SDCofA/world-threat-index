@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T03:52:18.319737",
-    "issued_at": "2026-07-19T03:52:18.319737",
+    "generated_at": "2026-07-19T06:47:23.282268",
+    "issued_at": "2026-07-19T06:47:23.282268",
     "record_type": "assessment",
     "main_index": 4.16,
     "status": "ELEVATED",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-19T05:00:00",
+    "next_update": "2026-07-19T08:00:00",
     "publishable": true
   },
   "countries": {
@@ -8473,7 +8473,8 @@
           "llm_primary_country": "UG",
           "llm_subject": "Glovo names Uganda manager"
         }
-      ]
+      ],
+      "stale": true
     },
     "YE": {
       "name": "Yemen",
@@ -10030,7 +10031,8 @@
           "llm_primary_country": "HR",
           "llm_subject": "EU urges Croatia on listing rules"
         }
-      ]
+      ],
+      "stale": true
     },
     "IT": {
       "name": "Italy",
@@ -15026,7 +15028,8 @@
           "llm_primary_country": "SE",
           "llm_subject": "Uganda seeks Sweden economic links"
         }
-      ]
+      ],
+      "stale": true
     },
     "ST": {
       "name": "São Tomé and Príncipe",
@@ -18101,7 +18104,8 @@
           "llm_primary_country": "LU",
           "llm_subject": "Luxembourg rail overcrowding petition"
         }
-      ]
+      ],
+      "stale": true
     },
     "ML": {
       "name": "Mali",
@@ -18825,7 +18829,8 @@
           "llm_primary_country": "OM",
           "llm_subject": "Oman economy strained by war"
         }
-      ]
+      ],
+      "stale": true
     },
     "QA": {
       "name": "Qatar",
@@ -27252,7 +27257,8 @@
           "llm_primary_country": "BH",
           "llm_subject": "Iran hits Bahrain after truce collapse"
         }
-      ]
+      ],
+      "stale": true
     },
     "BZ": {
       "name": "Belize",
@@ -27809,7 +27815,8 @@
           "llm_primary_country": "DO",
           "llm_subject": "Caribbean digital ID and biometric systems"
         }
-      ]
+      ],
+      "stale": true
     },
     "FM": {
       "name": "Micronesia",

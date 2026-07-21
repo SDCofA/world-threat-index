@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T23:34:50.443690",
-    "issued_at": "2026-07-20T23:34:50.443690",
+    "generated_at": "2026-07-21T23:12:48.249067",
+    "issued_at": "2026-07-21T23:12:48.249067",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-21T01:00:00",
+    "next_update": "2026-07-22T01:00:00",
     "publishable": true
   },
   "countries": {
@@ -9750,7 +9750,8 @@
           "llm_primary_country": "KP",
           "llm_subject": "Kim Jong Un hidden lifestyle reveal"
         }
-      ]
+      ],
+      "stale": true
     },
     "LS": {
       "name": "Lesotho",
@@ -10918,7 +10919,8 @@
           "llm_primary_country": "SD",
           "llm_subject": "Inflation surge"
         }
-      ]
+      ],
+      "stale": true
     },
     "SS": {
       "name": "South Sudan",
@@ -11714,7 +11716,8 @@
           "llm_primary_country": "BD",
           "llm_subject": "Bangladesh value chain advice"
         }
-      ]
+      ],
+      "stale": true
     },
     "BS": {
       "name": "Bahamas",

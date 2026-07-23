@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T23:12:48.249067",
-    "issued_at": "2026-07-21T23:12:48.249067",
+    "generated_at": "2026-07-23T03:50:24.164471",
+    "issued_at": "2026-07-23T03:50:24.164471",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-22T01:00:00",
+    "next_update": "2026-07-23T05:00:00",
     "publishable": true
   },
   "countries": {
@@ -5470,7 +5470,8 @@
           "llm_primary_country": "EG",
           "llm_subject": "Egypt first lady hosts Montenegro counterpart"
         }
-      ]
+      ],
+      "stale": true
     },
     "GD": {
       "name": "Grenada",
@@ -8214,7 +8215,8 @@
           "llm_primary_country": "YE",
           "llm_subject": "Houthis threaten Red Sea shipping blockade"
         }
-      ]
+      ],
+      "stale": true
     },
     "AF": {
       "name": "Afghanistan",
@@ -9658,7 +9660,8 @@
           "llm_primary_country": "IT",
           "llm_subject": "Italy football federation coaching talks"
         }
-      ]
+      ],
+      "stale": true
     },
     "KP": {
       "name": "North Korea",
@@ -24343,7 +24346,8 @@
           "llm_primary_country": "AR",
           "llm_subject": "Argentina loses World Cup final"
         }
-      ]
+      ],
+      "stale": true
     },
     "BH": {
       "name": "Bahrain",
@@ -26794,7 +26798,8 @@
           "llm_primary_country": "RU",
           "llm_subject": "Ukraine strikes Russian tanker"
         }
-      ]
+      ],
+      "stale": true
     },
     "SL": {
       "name": "Sierra Leone",

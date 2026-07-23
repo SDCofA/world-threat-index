@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T17:47:31.061677",
-    "issued_at": "2026-07-23T17:47:31.061677",
+    "generated_at": "2026-07-23T19:46:08.732270",
+    "issued_at": "2026-07-23T19:46:08.732270",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-23T19:00:00",
+    "next_update": "2026-07-23T21:00:00",
     "publishable": true
   },
   "countries": {
@@ -1124,7 +1124,8 @@
           "llm_primary_country": "UA",
           "llm_subject": "Ukraine new PM congratulated"
         }
-      ]
+      ],
+      "stale": true
     },
     "US": {
       "name": "United States",
@@ -10325,7 +10326,8 @@
           "llm_primary_country": "MX",
           "llm_subject": "Indian embassy advisory amid Mexico security ops"
         }
-      ]
+      ],
+      "stale": true
     },
     "NR": {
       "name": "Nauru",
@@ -24851,7 +24853,8 @@
           "llm_primary_country": "CO",
           "llm_subject": "Colombia's answer to Trump opinion"
         }
-      ]
+      ],
+      "stale": true
     },
     "DO": {
       "name": "Dominican Republic",
@@ -28817,7 +28820,8 @@
           "llm_primary_country": "IN",
           "llm_subject": "Modi dig at Gandhi"
         }
-      ]
+      ],
+      "stale": true
     },
     "KH": {
       "name": "Cambodia",

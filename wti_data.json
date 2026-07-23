@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T03:50:24.164471",
-    "issued_at": "2026-07-23T03:50:24.164471",
+    "generated_at": "2026-07-23T14:36:31.632267",
+    "issued_at": "2026-07-23T14:36:31.632267",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-23T05:00:00",
+    "next_update": "2026-07-23T16:00:00",
     "publishable": true
   },
   "countries": {
@@ -595,7 +595,8 @@
           "llm_primary_country": "JP",
           "llm_subject": "Japan Middle East travel warning"
         }
-      ]
+      ],
+      "stale": true
     },
     "SY": {
       "name": "Syria",
@@ -11367,7 +11368,8 @@
           "llm_primary_country": "ZA",
           "llm_subject": "South Africa infrastructure loan"
         }
-      ]
+      ],
+      "stale": true
     },
     "AG": {
       "name": "Antigua and Barbuda",
@@ -15684,7 +15686,8 @@
           "llm_primary_country": "ET",
           "llm_subject": "EU-Ethiopia closer ties"
         }
-      ]
+      ],
+      "stale": true
     },
     "GM": {
       "name": "Gambia",
@@ -30983,7 +30986,8 @@
           "llm_primary_country": "AU",
           "llm_subject": "Government superannuation strategy"
         }
-      ]
+      ],
+      "stale": true
     },
     "BJ": {
       "name": "Benin",
@@ -33560,7 +33564,8 @@
           "llm_primary_country": "SA",
           "llm_subject": "Saudi MB issue in Sudan"
         }
-      ]
+      ],
+      "stale": true
     },
     "SN": {
       "name": "Senegal",

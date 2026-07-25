@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T14:05:17.057191",
-    "issued_at": "2026-07-25T14:05:17.057191",
+    "generated_at": "2026-07-25T19:38:32.559508",
+    "issued_at": "2026-07-25T19:38:32.559508",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-25T16:00:00",
+    "next_update": "2026-07-25T21:00:00",
     "publishable": true
   },
   "countries": {
@@ -2837,7 +2837,8 @@
           "llm_primary_country": "IR",
           "llm_subject": "Iran vs Venezuela under Trump"
         }
-      ]
+      ],
+      "stale": true
     },
     "KM": {
       "name": "Comoros",
@@ -8396,7 +8397,8 @@
           "llm_primary_country": "AF",
           "llm_subject": "Afghan transit trade shift"
         }
-      ]
+      ],
+      "stale": true
     },
     "BB": {
       "name": "Barbados",
@@ -27596,7 +27598,8 @@
           "llm_primary_country": "VE",
           "llm_subject": "Industrial telemedicine initiative in Venezuela"
         }
-      ]
+      ],
+      "stale": true
     },
     "AT": {
       "name": "Austria",
@@ -28434,7 +28437,8 @@
           "llm_primary_country": "DZ",
           "llm_subject": "Foster home fire kills children"
         }
-      ]
+      ],
+      "stale": true
     },
     "FR": {
       "name": "France",
@@ -33396,7 +33400,8 @@
           "llm_primary_country": "PK",
           "llm_subject": "Pakistan crises deepening"
         }
-      ]
+      ],
+      "stale": true
     },
     "SA": {
       "name": "Saudi Arabia",

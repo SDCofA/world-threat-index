@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T19:47:23.265568",
-    "issued_at": "2026-07-24T19:47:23.265568",
+    "generated_at": "2026-07-25T14:05:17.057191",
+    "issued_at": "2026-07-25T14:05:17.057191",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-24T21:00:00",
+    "next_update": "2026-07-25T16:00:00",
     "publishable": true
   },
   "countries": {
@@ -187,7 +187,8 @@
           "llm_primary_country": "DE",
           "llm_subject": "Germans consider Sunday work"
         }
-      ]
+      ],
+      "stale": true
     },
     "GB": {
       "name": "United Kingdom",
@@ -1315,7 +1316,8 @@
           "llm_primary_country": "US",
           "llm_subject": "US tariffs on Canadian goods"
         }
-      ]
+      ],
+      "stale": true
     },
     "AD": {
       "name": "Andorra",
@@ -26410,7 +26412,8 @@
           "llm_primary_country": "NG",
           "llm_subject": "Nigeria illegal mining"
         }
-      ]
+      ],
+      "stale": true
     },
     "PG": {
       "name": "Papua New Guinea",
@@ -32266,7 +32269,8 @@
           "llm_primary_country": "IQ",
           "llm_subject": "Ex-PM condemns Kurdistan attacks"
         }
-      ]
+      ],
+      "stale": true
     },
     "KI": {
       "name": "Kiribati",

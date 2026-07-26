@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-26T19:38:53.840666",
-    "issued_at": "2026-07-26T19:38:53.840666",
+    "generated_at": "2026-07-26T23:12:49.639612",
+    "issued_at": "2026-07-26T23:12:49.639612",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-26T21:00:00",
+    "next_update": "2026-07-27T01:00:00",
     "publishable": true
   },
   "countries": {
@@ -406,7 +406,8 @@ window.WTI_DATA = {
           "llm_primary_country": "GB",
           "llm_subject": "New UK cabinet appointments"
         }
-      ]
+      ],
+      "stale": true
     },
     "JP": {
       "name": "Japan",
@@ -4178,7 +4179,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SO",
           "llm_subject": "Immunity stripped after Somaliland shift"
         }
-      ]
+      ],
+      "stale": true
     },
     "TJ": {
       "name": "Tajikistan",
@@ -8750,7 +8752,8 @@ window.WTI_DATA = {
           "llm_primary_country": "BR",
           "llm_subject": "Brazil informal workers legislation"
         }
-      ]
+      ],
+      "stale": true
     },
     "CH": {
       "name": "Switzerland",
@@ -12876,7 +12879,8 @@ window.WTI_DATA = {
           "llm_primary_country": "KR",
           "llm_subject": "Won convertibility easing"
         }
-      ]
+      ],
+      "stale": true
     },
     "LT": {
       "name": "Lithuania",

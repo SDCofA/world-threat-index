@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T23:12:49.639612",
-    "issued_at": "2026-07-26T23:12:49.639612",
+    "generated_at": "2026-07-27T04:02:06.333340",
+    "issued_at": "2026-07-27T04:02:06.333340",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-27T01:00:00",
+    "next_update": "2026-07-27T06:00:00",
     "publishable": true
   },
   "countries": {
@@ -936,7 +936,8 @@
           "llm_primary_country": "TR",
           "llm_subject": "Non-domestic producer prices rise"
         }
-      ]
+      ],
+      "stale": true
     },
     "UA": {
       "name": "Ukraine",
@@ -19290,7 +19291,8 @@
           "llm_primary_country": "ID",
           "llm_subject": "Surge in hate crimes against trans women"
         }
-      ]
+      ],
+      "stale": true
     },
     "KZ": {
       "name": "Kazakhstan",
@@ -26010,7 +26012,8 @@
           "llm_primary_country": "MA",
           "llm_subject": "Morocco 2026 subsidy bill"
         }
-      ]
+      ],
+      "stale": true
     },
     "MR": {
       "name": "Mauritania",
@@ -31312,7 +31315,8 @@
           "llm_primary_country": "CD",
           "llm_subject": "Conflict in Democratic Republic of Congo"
         }
-      ]
+      ],
+      "stale": true
     },
     "CU": {
       "name": "Cuba",

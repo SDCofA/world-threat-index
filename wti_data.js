@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-27T19:58:52.851555",
-    "issued_at": "2026-07-27T19:58:52.851555",
+    "generated_at": "2026-07-28T06:43:29.016135",
+    "issued_at": "2026-07-28T06:43:29.016135",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-27T21:00:00",
+    "next_update": "2026-07-28T08:00:00",
     "publishable": true
   },
   "countries": {
@@ -4639,7 +4639,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AE",
           "llm_subject": "Travel safety to Dubai and Abu Dhabi"
         }
-      ]
+      ],
+      "stale": true
     },
     "BA": {
       "name": "Bosnia and Herzegovina",
@@ -6035,7 +6036,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IS",
           "llm_subject": "Volcanic activity at Svartsengi"
         }
-      ]
+      ],
+      "stale": true
     },
     "KN": {
       "name": "Saint Kitts and Nevis",
@@ -12070,7 +12072,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CI",
           "llm_subject": "US travel risk warning for Ivory Coast"
         }
-      ]
+      ],
+      "stale": true
     },
     "ES": {
       "name": "Spain",
@@ -12176,7 +12179,8 @@ window.WTI_DATA = {
           "llm_primary_country": "ES",
           "llm_subject": "Spain wins 2026 World Cup against Argentina"
         }
-      ]
+      ],
+      "stale": true
     },
     "GH": {
       "name": "Ghana",
@@ -23601,7 +23605,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SK",
           "llm_subject": "Halts power to Ukraine over Russian oil dispute"
         }
-      ]
+      ],
+      "stale": true
     },
     "SZ": {
       "name": "Eswatini",
@@ -29623,7 +29628,8 @@ window.WTI_DATA = {
           "llm_primary_country": "MT",
           "llm_subject": "Malta wealth haven ranking"
         }
-      ]
+      ],
+      "stale": true
     },
     "NI": {
       "name": "Nicaragua",
@@ -29961,7 +29967,8 @@ window.WTI_DATA = {
           "llm_primary_country": "PH",
           "llm_subject": "Philippine fintech safeguarding"
         }
-      ]
+      ],
+      "stale": true
     },
     "RW": {
       "name": "Rwanda",
@@ -30828,7 +30835,8 @@ window.WTI_DATA = {
           "llm_primary_country": "VN",
           "llm_subject": "Vietnam retirement readiness"
         }
-      ]
+      ],
+      "stale": true
     },
     "AU": {
       "name": "Australia",

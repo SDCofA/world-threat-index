@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T03:45:44.665508",
-    "issued_at": "2026-07-29T03:45:44.665508",
+    "generated_at": "2026-07-29T09:12:08.556250",
+    "issued_at": "2026-07-29T09:12:08.556250",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-07-29T05:00:00",
+    "next_update": "2026-07-29T11:00:00",
     "publishable": true
   },
   "countries": {
@@ -19768,7 +19768,8 @@
           "llm_primary_country": "MM",
           "llm_subject": "Myanmar politics"
         }
-      ]
+      ],
+      "stale": true
     },
     "NA": {
       "name": "Namibia",
@@ -21269,7 +21270,8 @@
           "llm_primary_country": "CN",
           "llm_subject": "China detains US scholar for espionage"
         }
-      ]
+      ],
+      "stale": true
     },
     "DM": {
       "name": "Dominica",
@@ -25503,7 +25505,8 @@
           "llm_primary_country": "IL",
           "llm_subject": "Israeli funds to win US public opinion"
         }
-      ]
+      ],
+      "stale": true
     },
     "KG": {
       "name": "Kyrgyzstan",
@@ -30673,7 +30676,8 @@
           "llm_primary_country": "TW",
           "llm_subject": "Domestic stresses reshape Taiwan politics"
         }
-      ]
+      ],
+      "stale": true
     },
     "VN": {
       "name": "Vietnam",

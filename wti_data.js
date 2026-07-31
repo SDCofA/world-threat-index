@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-07-31T19:52:15.102293",
-    "issued_at": "2026-07-31T19:52:15.102293",
+    "generated_at": "2026-07-31T19:56:52.357780",
+    "issued_at": "2026-07-31T19:56:52.357780",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",

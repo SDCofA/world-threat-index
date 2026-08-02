@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-01T21:10:38.963978",
-    "issued_at": "2026-08-01T21:10:38.963978",
+    "generated_at": "2026-08-02T03:58:13.880205",
+    "issued_at": "2026-08-02T03:58:13.880205",
     "record_type": "assessment",
     "main_index": 2.96,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-01T23:00:00",
+    "next_update": "2026-08-02T05:00:00",
     "publishable": true
   },
   "countries": {
@@ -732,7 +732,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SY",
           "llm_subject": "War scars at Syrian monastery"
         }
-      ]
+      ],
+      "stale": true
     },
     "TR": {
       "name": "Türkiye",
@@ -12602,7 +12603,8 @@ window.WTI_DATA = {
           "llm_primary_country": "HT",
           "llm_subject": "Cruise suspension impacts Haiti economy"
         }
-      ]
+      ],
+      "stale": true
     },
     "JM": {
       "name": "Jamaica",
@@ -25844,7 +25846,8 @@ window.WTI_DATA = {
           "llm_primary_country": "LB",
           "llm_subject": "Proposed Syrian military intervention in Lebanon"
         }
-      ]
+      ],
+      "stale": true
     },
     "MA": {
       "name": "Morocco",
@@ -28100,7 +28103,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CA",
           "llm_subject": "Bank of Canada caution on inflation and rates"
         }
-      ]
+      ],
+      "stale": true
     },
     "CR": {
       "name": "Costa Rica",

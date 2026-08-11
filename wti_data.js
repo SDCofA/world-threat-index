@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-11T04:04:02.921045",
-    "issued_at": "2026-08-11T04:04:02.921045",
+    "generated_at": "2026-08-11T05:23:41.523487",
+    "issued_at": "2026-08-11T05:23:41.523487",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-11T06:00:00",
+    "next_update": "2026-08-11T07:00:00",
     "publishable": true
   },
   "countries": {
@@ -5822,7 +5822,8 @@ window.WTI_DATA = {
           "llm_primary_country": "EG",
           "llm_subject": "Egypt Warns Against a Parallel Government in Sudan (Regional Rivalries) - Modern"
         }
-      ]
+      ],
+      "stale": true
     },
     "GD": {
       "name": "Grenada",
@@ -8595,7 +8596,8 @@ window.WTI_DATA = {
           "llm_primary_country": "YE",
           "llm_subject": "Yemen.. Security Reinforced at Vital Facilities in Hadramout After Houthi Attack"
         }
-      ]
+      ],
+      "stale": true
     },
     "AF": {
       "name": "Afghanistan",
@@ -10165,7 +10167,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IT",
           "llm_subject": "Today in Italy: A roundup of the latest news on Monday - The Local Italy"
         }
-      ]
+      ],
+      "stale": true
     },
     "KP": {
       "name": "North Korea",
@@ -25509,7 +25512,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AR",
           "llm_subject": "Lula, Milei's Feud Prompts Diplomatic Downgrade - 조선일보"
         }
-      ]
+      ],
+      "stale": true
     },
     "BH": {
       "name": "Bahrain",
@@ -28213,7 +28217,8 @@ window.WTI_DATA = {
           "llm_primary_country": "RU",
           "llm_subject": "Ukraine's drone chief says push to cripple Russia in Crimea is just getting star"
         }
-      ]
+      ],
+      "stale": true
     },
     "SL": {
       "name": "Sierra Leone",

@@ -9,7 +9,7 @@
   ![cadence](https://img.shields.io/badge/Cadence-2%20%2F%206%20%2F%2012h-b0894f?labelColor=0b1f3a)
   ![scale](https://img.shields.io/badge/Scale-1%E2%80%9310%20Index-b0894f?labelColor=0b1f3a)
   ![division](https://img.shields.io/badge/Geopolitical%20Intelligence-SDCofA-6e1f2b?labelColor=0b1f3a)
-  ![license](https://img.shields.io/badge/License-Apache%202.0-b0894f?labelColor=0b1f3a)
+  ![license](https://img.shields.io/badge/License-MIT-b0894f?labelColor=0b1f3a)
 </div>
 
 > ASSESSMENT · OPEN SOURCE · UNCLASSIFIED
@@ -167,7 +167,7 @@ LLM attribution reads `OPENROUTER_API_KEY` (and `OPENROUTER_API_KEY_BACKUP`) fro
 - **Provenance and auditability.** Every datum is traceable to its source and time; deterministic scoring makes every published figure reproducible.
 - **Minimised personal data.** The Index assesses states, blocs, and events — not private individuals.
 - **Defensive and analytical framing.** The Company assesses threat pressure; it does not build tooling for targeting or intrusion.
-- **License.** Apache License 2.0 — see [`LICENSE`](LICENSE). © 2026 Monarch Castle Holdings · Ankara, Türkiye.
+- **License.** MIT License — see [`LICENSE`](LICENSE). © 2026 Monarch Castle Holdings · Ankara, Türkiye.
 
 ---
 
@@ -243,7 +243,7 @@ Do not publish vulnerabilities in an issue. Use GitHub's private vulnerability-r
 
 ## License
 
-Original repository code and documentation are available under **Apache-2.0**; see [LICENSE](LICENSE). That license does not override third-party terms documented in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Original repository code and documentation are available under **MIT**; see [LICENSE](LICENSE). That license does not override third-party terms documented in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## Citation
 

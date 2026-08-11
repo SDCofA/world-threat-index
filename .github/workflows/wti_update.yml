@@ -19,7 +19,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: wti-intelligence-update
+  group: wti-intelligence-update-v2
   cancel-in-progress: true
 
 jobs:

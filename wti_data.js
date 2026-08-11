@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-11T05:23:41.523487",
-    "issued_at": "2026-08-11T05:23:41.523487",
+    "generated_at": "2026-08-11T09:15:02.223374",
+    "issued_at": "2026-08-11T09:15:02.223374",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-11T07:00:00",
+    "next_update": "2026-08-11T11:00:00",
     "publishable": true
   },
   "countries": {
@@ -10386,7 +10386,8 @@ window.WTI_DATA = {
           "llm_primary_country": "KP",
           "llm_subject": "North Korean hackers use local AI to automate attacks on crypto firms - Cryptone"
         }
-      ]
+      ],
+      "stale": true
     },
     "LS": {
       "name": "Lesotho",
@@ -11694,7 +11695,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SD",
           "llm_subject": "Sudan’s Army Chief Initiates Talks for National Dialogue Amid Ongoing Conflict -"
         }
-      ]
+      ],
+      "stale": true
     },
     "SS": {
       "name": "South Sudan",
@@ -12672,7 +12674,8 @@ window.WTI_DATA = {
           "llm_primary_country": "BD",
           "llm_subject": "Private-sector economic activity picks up faster - The Financial Express"
         }
-      ]
+      ],
+      "stale": true
     },
     "BS": {
       "name": "Bahamas",
@@ -30174,7 +30177,8 @@ window.WTI_DATA = {
           "llm_primary_country": "FR",
           "llm_subject": "Poland now sixth-largest EU economy, ahead of Switzerland and Belgium - Yahoo Fi"
         }
-      ]
+      ],
+      "stale": true
     },
     "GT": {
       "name": "Guatemala",

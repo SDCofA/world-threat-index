@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-12T02:44:48.724584",
-    "issued_at": "2026-08-12T02:44:48.724584",
+    "generated_at": "2026-08-12T19:20:19.693223",
+    "issued_at": "2026-08-12T19:20:19.693223",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-12T04:00:00",
+    "next_update": "2026-08-12T21:00:00",
     "publishable": true
   },
   "countries": {
@@ -827,7 +827,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SY",
           "llm_subject": "Syrian and U.S. officials discuss Syria’s reintegration into global financial sy"
         }
-      ]
+      ],
+      "stale": true
     },
     "TR": {
       "name": "Türkiye",
@@ -13447,7 +13448,8 @@ window.WTI_DATA = {
           "llm_primary_country": "HT",
           "llm_subject": "Haiti’s rural Northwest residents struggle to access voter registration centers "
         }
-      ]
+      ],
+      "stale": true
     },
     "JM": {
       "name": "Jamaica",
@@ -27174,7 +27176,8 @@ window.WTI_DATA = {
           "llm_primary_country": "LB",
           "llm_subject": "Lebanon’s Politics of Appeasement and the Illusion of Lausanne, 1949 - thecanary"
         }
-      ]
+      ],
+      "stale": true
     },
     "MA": {
       "name": "Morocco",
@@ -29582,7 +29585,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CA",
           "llm_subject": "Daniel Eberhard Thinks Canadian Banking Is Broken - Macleans.ca"
         }
-      ]
+      ],
+      "stale": true
     },
     "CR": {
       "name": "Costa Rica",

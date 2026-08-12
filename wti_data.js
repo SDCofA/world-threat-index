@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-11T09:15:02.223374",
-    "issued_at": "2026-08-11T09:15:02.223374",
+    "generated_at": "2026-08-12T02:44:48.724584",
+    "issued_at": "2026-08-12T02:44:48.724584",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-11T11:00:00",
+    "next_update": "2026-08-12T04:00:00",
     "publishable": true
   },
   "countries": {
@@ -1250,7 +1250,8 @@ window.WTI_DATA = {
           "llm_primary_country": "UA",
           "llm_subject": "Zelenskyy Discusses Drone Deal and Food Security With Saudi Crown Prince - Межа."
         }
-      ]
+      ],
+      "stale": true
     },
     "US": {
       "name": "United States",
@@ -11041,7 +11042,8 @@ window.WTI_DATA = {
           "llm_primary_country": "MX",
           "llm_subject": "Mexico, United States Resume Avocado Exports - Mexico Business News"
         }
-      ]
+      ],
+      "stale": true
     },
     "NR": {
       "name": "Nauru",
@@ -26045,7 +26047,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CO",
           "llm_subject": "Is there a risk of tsunami after the earthquake in Colombia? This is known after"
         }
-      ]
+      ],
+      "stale": true
     },
     "DO": {
       "name": "Dominican Republic",
@@ -30544,7 +30547,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IN",
           "llm_subject": "PM Modi Becomes Longest-Serving Elected Head of Government in India - News On AI"
         }
-      ]
+      ],
+      "stale": true
     },
     "KH": {
       "name": "Cambodia",

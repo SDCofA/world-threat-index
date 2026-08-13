@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T11:12:40.201535",
-    "issued_at": "2026-08-13T11:12:40.201535",
+    "generated_at": "2026-08-13T17:12:58.940851",
+    "issued_at": "2026-08-13T17:12:58.940851",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-13T13:00:00",
+    "next_update": "2026-08-13T19:00:00",
     "publishable": true
   },
   "countries": {
@@ -20795,7 +20795,8 @@
           "llm_primary_country": "MM",
           "llm_subject": "Myanmar rebuffs ASEAN's call to free Aung San Suu Kyi and questions the need for"
         }
-      ]
+      ],
+      "stale": true
     },
     "NA": {
       "name": "Namibia",
@@ -22408,7 +22409,8 @@
           "llm_primary_country": "CN",
           "llm_subject": "Weekly Top Stories: Copper Surge, $40 Trillion Debt, Jobs, Tariffs And China Min"
         }
-      ]
+      ],
+      "stale": true
     },
     "DM": {
       "name": "Dominica",
@@ -26768,7 +26770,8 @@
           "llm_primary_country": "IL",
           "llm_subject": "Yoav Segalovitz's potential Ra'am move draws former Israeli security officials -"
         }
-      ]
+      ],
+      "stale": true
     },
     "KG": {
       "name": "Kyrgyzstan",
@@ -32427,7 +32430,8 @@
           "llm_primary_country": "TW",
           "llm_subject": "Taiwan envoy to Japan protests Nagasaki memorial designation, skips event - Focu"
         }
-      ]
+      ],
+      "stale": true
     },
     "VN": {
       "name": "Vietnam",

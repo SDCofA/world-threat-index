@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T19:20:19.693223",
-    "issued_at": "2026-08-12T19:20:19.693223",
+    "generated_at": "2026-08-13T11:12:40.201535",
+    "issued_at": "2026-08-13T11:12:40.201535",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-12T21:00:00",
+    "next_update": "2026-08-13T13:00:00",
     "publishable": true
   },
   "countries": {

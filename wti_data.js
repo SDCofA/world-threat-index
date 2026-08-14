@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-13T23:02:32.635877",
-    "issued_at": "2026-08-13T23:02:32.635877",
+    "generated_at": "2026-08-14T20:46:19.807738",
+    "issued_at": "2026-08-14T20:46:19.807738",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-14T01:00:00",
+    "next_update": "2026-08-14T22:00:00",
     "publishable": true
   },
   "countries": {
@@ -3032,7 +3032,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IR",
           "llm_subject": "Trump took secret flight out of Turkey due to Iran threat, the Washington Post r"
         }
-      ]
+      ],
+      "stale": true
     },
     "KM": {
       "name": "Comoros",
@@ -8817,7 +8818,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AF",
           "llm_subject": "Afghanistan take on Ireland in 3rd ODI today - pajhwok.com"
         }
-      ]
+      ],
+      "stale": true
     },
     "BB": {
       "name": "Barbados",
@@ -29074,7 +29076,8 @@ window.WTI_DATA = {
           "llm_primary_country": "VE",
           "llm_subject": "Colombia and Venezuela, two earthquakes of similar magnitude but very different "
         }
-      ]
+      ],
+      "stale": true
     },
     "AT": {
       "name": "Austria",
@@ -29969,7 +29972,8 @@ window.WTI_DATA = {
           "llm_primary_country": "DZ",
           "llm_subject": "Pope Leo arrives in Algeria on first-ever papal visit to the country - OSV News"
         }
-      ]
+      ],
+      "stale": true
     },
     "FR": {
       "name": "France",
@@ -35270,7 +35274,8 @@ window.WTI_DATA = {
           "llm_primary_country": "PK",
           "llm_subject": "Saudi Arabia, Pakistan And Turkey Forge Mecca Defense Pact Amid Iran War - The D"
         }
-      ]
+      ],
+      "stale": true
     },
     "SA": {
       "name": "Saudi Arabia",

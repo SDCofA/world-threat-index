@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-14T20:46:19.807738",
-    "issued_at": "2026-08-14T20:46:19.807738",
+    "generated_at": "2026-08-15T14:39:13.199199",
+    "issued_at": "2026-08-15T14:39:13.199199",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-14T22:00:00",
+    "next_update": "2026-08-15T16:00:00",
     "publishable": true
   },
   "countries": {

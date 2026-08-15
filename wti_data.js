@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-15T16:41:30.662741",
-    "issued_at": "2026-08-15T16:41:30.662741",
+    "generated_at": "2026-08-15T18:50:40.451446",
+    "issued_at": "2026-08-15T18:50:40.451446",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-15T18:00:00",
+    "next_update": "2026-08-15T20:00:00",
     "publishable": true
   },
   "countries": {
@@ -2625,7 +2625,8 @@ window.WTI_DATA = {
           "llm_primary_country": "EE",
           "llm_subject": "Estonia sees no cause for panic over Russian provocations"
         }
-      ]
+      ],
+      "stale": true
     },
     "GY": {
       "name": "Guyana",
@@ -9278,7 +9279,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CH",
           "llm_subject": "Switzerland sustainability grants"
         }
-      ]
+      ],
+      "stale": true
     },
     "CZ": {
       "name": "Czechia",
@@ -18673,7 +18675,8 @@ window.WTI_DATA = {
           "llm_primary_country": "UZ",
           "llm_subject": "Uzbekistan foreign-invested enterprises"
         }
-      ]
+      ],
+      "stale": true
     },
     "ZW": {
       "name": "Zimbabwe",
@@ -21492,7 +21495,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SI",
           "llm_subject": "Slovenia building permits steady"
         }
-      ]
+      ],
+      "stale": true
     },
     "VA": {
       "name": "Vatican City",
@@ -23105,7 +23109,8 @@ window.WTI_DATA = {
           "llm_primary_country": "IE",
           "llm_subject": "Cusack praises Limerick after All-Ireland triumph"
         }
-      ]
+      ],
+      "stale": true
     },
     "KE": {
       "name": "Kenya",
@@ -23731,7 +23736,8 @@ window.WTI_DATA = {
           "llm_primary_country": "LY",
           "llm_subject": "Libya arrests migrant kidnap suspect"
         }
-      ]
+      ],
+      "stale": true
     },
     "MN": {
       "name": "Mongolia",
@@ -24357,7 +24363,8 @@ window.WTI_DATA = {
           "llm_primary_country": "PE",
           "llm_subject": "Peru and US influence in South America"
         }
-      ]
+      ],
+      "stale": true
     },
     "RS": {
       "name": "Serbia",

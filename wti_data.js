@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-15T14:39:13.199199",
-    "issued_at": "2026-08-15T14:39:13.199199",
+    "generated_at": "2026-08-15T16:41:30.662741",
+    "issued_at": "2026-08-15T16:41:30.662741",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-15T16:00:00",
+    "next_update": "2026-08-15T18:00:00",
     "publishable": true
   },
   "countries": {
@@ -609,7 +609,8 @@ window.WTI_DATA = {
           "llm_primary_country": "JP",
           "llm_subject": "How Makkah Defense Agreement could redraw regional security architecture - arabn"
         }
-      ]
+      ],
+      "stale": true
     },
     "SY": {
       "name": "Syria",
@@ -12243,7 +12244,8 @@ window.WTI_DATA = {
           "llm_primary_country": "ZA",
           "llm_subject": "Is ANC dishing out jobs to secure support ahead of the elections? - The Citizen"
         }
-      ]
+      ],
+      "stale": true
     },
     "AG": {
       "name": "Antigua and Barbuda",
@@ -16619,7 +16621,8 @@ window.WTI_DATA = {
           "llm_primary_country": "ET",
           "llm_subject": "The Saudi Led Maritime Alliance and the Operational Viability of the Red Sea - h"
         }
-      ]
+      ],
+      "stale": true
     },
     "GM": {
       "name": "Gambia",
@@ -32816,7 +32819,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AU",
           "llm_subject": "Security fail: Drones breach Australia’s top fighter jet base - The Daily Telegr"
         }
-      ]
+      ],
+      "stale": true
     },
     "BJ": {
       "name": "Benin",
@@ -35493,7 +35497,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SA",
           "llm_subject": "Mecca Joint Defence Agreement: The Pact's Politics Are Less About Region, More A"
         }
-      ]
+      ],
+      "stale": true
     },
     "SN": {
       "name": "Senegal",

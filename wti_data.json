@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T08:47:41.215262",
-    "issued_at": "2026-08-16T08:47:41.215262",
+    "generated_at": "2026-08-16T13:03:55.222384",
+    "issued_at": "2026-08-16T13:03:55.222384",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-16T10:00:00",
+    "next_update": "2026-08-16T15:00:00",
     "publishable": true
   },
   "countries": {
@@ -5421,7 +5421,8 @@
           "llm_primary_country": "CG",
           "llm_subject": "Minerals for Regime Security in the DRC - Council on Foreign Relations"
         }
-      ]
+      ],
+      "stale": true
     },
     "CY": {
       "name": "Cyprus",
@@ -7463,7 +7464,8 @@
           "llm_primary_country": "NP",
           "llm_subject": "Nepal–China relations enter a phase of pragmatic diplomacy - Nepalnews.com"
         }
-      ]
+      ],
+      "stale": true
     },
     "PT": {
       "name": "Portugal",
@@ -10833,7 +10835,8 @@
           "llm_primary_country": "MH",
           "llm_subject": "The price of the Marshall Islands’ universal basic income - East Asia Forum"
         }
-      ]
+      ],
+      "stale": true
     },
     "MX": {
       "name": "Mexico",
@@ -11813,7 +11816,8 @@
           "llm_primary_country": "SS",
           "llm_subject": "Cabinet refers deliberation on salary delays, liquidity pressures to economic cl"
         }
-      ]
+      ],
+      "stale": true
     },
     "TM": {
       "name": "Turkmenistan",
@@ -16846,7 +16850,8 @@
           "llm_primary_country": "GM",
           "llm_subject": "Solar solutions for farmers in The Gambia - Penn Today"
         }
-      ]
+      ],
+      "stale": true
     },
     "HU": {
       "name": "Hungary",
@@ -19166,7 +19171,8 @@
           "llm_primary_country": "BF",
           "llm_subject": "Burkina Faso allocates 5.7bn CFA to security forces - APAnews - Agence de Presse"
         }
-      ]
+      ],
+      "stale": true
     },
     "BW": {
       "name": "Botswana",
@@ -21718,7 +21724,8 @@
           "llm_primary_country": "VA",
           "llm_subject": "Iranian security forces fire tear gas at protesters - Vatican News"
         }
-      ]
+      ],
+      "stale": true
     },
     "AO": {
       "name": "Angola",
@@ -23550,7 +23557,8 @@
           "llm_primary_country": "LA",
           "llm_subject": "China, Laos agree to build all-weather community with shared future in new era -"
         }
-      ]
+      ],
+      "stale": true
     },
     "LY": {
       "name": "Libya",

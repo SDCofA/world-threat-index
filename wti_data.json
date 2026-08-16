@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T04:50:19.844431",
-    "issued_at": "2026-08-16T04:50:19.844431",
+    "generated_at": "2026-08-16T08:47:41.215262",
+    "issued_at": "2026-08-16T08:47:41.215262",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-16T06:00:00",
+    "next_update": "2026-08-16T10:00:00",
     "publishable": true
   },
   "countries": {
@@ -391,7 +391,8 @@
           "llm_primary_country": "GB",
           "llm_subject": "Mars bar from 1991 shows just how much our chocolate has shrunk - Metro.co.uk"
         }
-      ]
+      ],
+      "stale": true
     },
     "JP": {
       "name": "Japan",
@@ -4431,7 +4432,8 @@
           "llm_primary_country": "SO",
           "llm_subject": "Opinion: Somalia’s Investment Story Is Entering a New Chapter - Dawan Africa"
         }
-      ]
+      ],
+      "stale": true
     },
     "TJ": {
       "name": "Tajikistan",
@@ -9201,7 +9203,8 @@
           "llm_primary_country": "BR",
           "llm_subject": "CertiK Intel3D PSAV and the New Brazil Security Standard - CertiK"
         }
-      ]
+      ],
+      "stale": true
     },
     "CH": {
       "name": "Switzerland",
@@ -13765,7 +13768,8 @@
           "llm_primary_country": "KR",
           "llm_subject": "Economic Pressures Keep South Koreans From Having Their Ideal Number of Children"
         }
-      ]
+      ],
+      "stale": true
     },
     "LT": {
       "name": "Lithuania",

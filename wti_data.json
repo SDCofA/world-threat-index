@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T16:46:32.239085",
-    "issued_at": "2026-08-17T16:46:32.239085",
+    "generated_at": "2026-08-17T19:01:08.667026",
+    "issued_at": "2026-08-17T19:01:08.667026",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-17T18:00:00",
+    "next_update": "2026-08-17T21:00:00",
     "publishable": true
   },
   "countries": {
@@ -4038,7 +4038,8 @@
           "llm_primary_country": "PL",
           "llm_subject": "President vetoes same-sex marriage bill"
         }
-      ]
+      ],
+      "stale": true
     },
     "SB": {
       "name": "Solomon Islands",
@@ -13554,7 +13555,8 @@
           "llm_primary_country": "JM",
           "llm_subject": "Jamaica Olympian 100th birthday"
         }
-      ]
+      ],
+      "stale": true
     },
     "KR": {
       "name": "South Korea",
@@ -14231,7 +14233,8 @@
           "llm_primary_country": "MY",
           "llm_subject": "Malaysian lawyer ICC crisis"
         }
-      ]
+      ],
+      "stale": true
     },
     "NZ": {
       "name": "New Zealand",
@@ -15407,7 +15410,8 @@
           "llm_primary_country": "ZM",
           "llm_subject": "Zambia election peace call"
         }
-      ]
+      ],
+      "stale": true
     },
     "AL": {
       "name": "Albania",
@@ -16195,7 +16199,8 @@
           "llm_primary_country": "CL",
           "llm_subject": "Chile police state consolidation"
         }
-      ]
+      ],
+      "stale": true
     },
     "DJ": {
       "name": "Djibouti",
@@ -18981,7 +18986,8 @@
           "llm_primary_country": "AM",
           "llm_subject": "Armenia tourism visa-free boost"
         }
-      ]
+      ],
+      "stale": true
     },
     "BF": {
       "name": "Burkina Faso",
@@ -19862,7 +19868,8 @@
           "llm_primary_country": "FI",
           "llm_subject": "Finland economy growth forecast"
         }
-      ]
+      ],
+      "stale": true
     },
     "GN": {
       "name": "Guinea",
@@ -35679,7 +35686,8 @@
           "llm_primary_country": "SN",
           "llm_subject": "Senegal president elected ECOWAS chairman"
         }
-      ]
+      ],
+      "stale": true
     },
     "TH": {
       "name": "Thailand",

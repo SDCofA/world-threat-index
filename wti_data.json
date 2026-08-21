@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T16:51:57.136907",
-    "issued_at": "2026-08-21T16:51:57.136907",
+    "generated_at": "2026-08-21T22:41:02.162132",
+    "issued_at": "2026-08-21T22:41:02.162132",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-21T18:00:00",
+    "next_update": "2026-08-22T00:00:00",
     "publishable": true
   },
   "countries": {
@@ -229,7 +229,8 @@
           "llm_primary_country": "DE",
           "llm_subject": "Germany’s economic reality far less negative than public sentiment suggests, acc"
         }
-      ]
+      ],
+      "stale": true
     },
     "GB": {
       "name": "United Kingdom",
@@ -1472,7 +1473,8 @@
           "llm_primary_country": "US",
           "llm_subject": "Europe’s Iran tightrope - Politico"
         }
-      ]
+      ],
+      "stale": true
     },
     "AD": {
       "name": "Andorra",
@@ -27824,7 +27826,8 @@
           "llm_primary_country": "NG",
           "llm_subject": "Senate Engages Financial Regulators, Experts On Reforms To Strengthen Nigeria’s "
         }
-      ]
+      ],
+      "stale": true
     },
     "PG": {
       "name": "Papua New Guinea",
@@ -34136,7 +34139,8 @@
           "llm_primary_country": "IQ",
           "llm_subject": "MPs convicted of corruption lose police protection in Iraq - Shafaq News | Lates"
         }
-      ]
+      ],
+      "stale": true
     },
     "KI": {
       "name": "Kiribati",

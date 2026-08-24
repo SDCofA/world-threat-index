@@ -1,7 +1,7 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-08-23T20:39:32.001983",
-    "issued_at": "2026-08-23T20:39:32.001983",
+    "generated_at": "2026-08-24T19:02:33.611172",
+    "issued_at": "2026-08-24T19:02:33.611172",
     "record_type": "assessment",
     "main_index": 2.12,
     "status": "STABLE",
@@ -9,7 +9,7 @@ window.WTI_DATA = {
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-08-23T22:00:00",
+    "next_update": "2026-08-24T21:00:00",
     "publishable": true
   },
   "countries": {
@@ -7617,7 +7617,8 @@ window.WTI_DATA = {
           "llm_primary_country": "PT",
           "llm_subject": "Portugal migrant curbs impact"
         }
-      ]
+      ],
+      "stale": true
     },
     "SC": {
       "name": "Seychelles",
@@ -9803,7 +9804,8 @@ window.WTI_DATA = {
           "llm_primary_country": "GE",
           "llm_subject": "Georgia export record"
         }
-      ]
+      ],
+      "stale": true
     },
     "HR": {
       "name": "Croatia",
@@ -17255,7 +17257,8 @@ window.WTI_DATA = {
           "llm_primary_country": "JO",
           "llm_subject": "Jordan clears Aqaba ports amid threat"
         }
-      ]
+      ],
+      "stale": true
     },
     "KW": {
       "name": "Kuwait",
@@ -17889,7 +17892,8 @@ window.WTI_DATA = {
           "llm_primary_country": "MZ",
           "llm_subject": "Egypt counterterrorism support to Mozambique"
         }
-      ]
+      ],
+      "stale": true
     },
     "OM": {
       "name": "Oman",
@@ -18341,7 +18345,8 @@ window.WTI_DATA = {
           "llm_primary_country": "SV",
           "llm_subject": "El Salvador security and tech push"
         }
-      ]
+      ],
+      "stale": true
     },
     "TO": {
       "name": "Tonga",
@@ -18829,7 +18834,8 @@ window.WTI_DATA = {
           "llm_primary_country": "ZW",
           "llm_subject": "Attack on lawyer and activists probe call"
         }
-      ]
+      ],
+      "stale": true
     },
     "AM": {
       "name": "Armenia",
@@ -19591,7 +19597,8 @@ window.WTI_DATA = {
           "llm_primary_country": "CM",
           "llm_subject": "Constitutional amendment debate"
         }
-      ]
+      ],
+      "stale": true
     },
     "DK": {
       "name": "Denmark",
@@ -21913,7 +21920,8 @@ window.WTI_DATA = {
           "llm_primary_country": "AO",
           "llm_subject": "Angola food security update"
         }
-      ]
+      ],
+      "stale": true
     },
     "BG": {
       "name": "Bulgaria",

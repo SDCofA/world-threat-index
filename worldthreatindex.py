@@ -54,8 +54,7 @@ class WTIAnalyzer:
 
     def _country_feed_urls(self, country):
         iso2 = country["iso2"]
-        include_gdelt = os.environ.get("WTI_INCLUDE_GDELT", "").lower() in ("1", "true", "yes")
-        urls = list(build_mirror_urls(country["name"], include_gdelt=include_gdelt))
+        urls = list(build_mirror_urls(country["name"]))
         feed_file = FEEDS_DIR / f"{iso2}.json"
         if feed_file.exists():
             curated = json.loads(feed_file.read_text(encoding="utf-8"))

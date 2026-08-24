@@ -118,8 +118,8 @@ jobs:
 
       - name: Commit WTI data
         run: |
-          git config user.name 'WTI Intelligence Bot'
-          git config user.email 'bot@monarchcastle.tech'
+          git config user.name 'akgularda'
+          git config user.email 'akgularda@users.noreply.github.com'
           # Stage only files the pipeline actually produces. `git add` aborts and
           # stages NOTHING if any pathspec matches no file, so listing the
           # never-generated wti_history.csv here silently blocked every commit

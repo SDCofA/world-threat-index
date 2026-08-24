@@ -152,4 +152,4 @@ def test_assessment_metadata_and_copy_do_not_claim_a_task3_forecast():
         "provenance",
     ):
         assert f"`{field}`" in methodology
-    assert "https://www.gdeltproject.org/" in methodology
+    assert "https://news.google.com/rss" in methodology

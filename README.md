@@ -44,7 +44,7 @@ The Company holds to a single discipline — *evidence before assertion*. Every 
 
 ### The assessment pipeline
 
-1. **Ingestion.** Google News RSS mirrors are pulled per country, with optional GDELT event enrichment enabled via `WTI_INCLUDE_GDELT=true`.
+1. **Ingestion.** Google News RSS mirrors are pulled per country. The pipeline does not depend on a registration-only event feed.
 2. **Attribution.** An LLM model (`openrouter/free`) assigns each event a canonical ISO-2 country code and a threat category. A deterministic heuristic mode (`--dry-run`) executes the identical flow with no LLM dependency.
 3. **Scoring.** Category weights are applied and volume-normalised into a per-country **1–10 index** through a saturating curve (see model below).
 4. **Aggregation.** A population-weighted **global composite** is computed alongside GDP-weighted **bloc indices** for all 13 groups.
@@ -99,7 +99,7 @@ The methodology is adapted from the [Border Neighbor Threat Index (BNTI)](https:
 
 | Element | Detail |
 |---|---|
-| **Sources** | Public news RSS feeds, mirrored per country; optional GDELT event enrichment. |
+| **Sources** | Public news RSS feeds, mirrored per country; optional Google News RSS event enrichment. |
 | **Country registry** | `config/countries.json` — 195 states plus Taiwan, with region, subregion, tier, population, and GDP fields used for weighting. |
 | **Bloc definitions** | `config/groups.json` — the 13 blocs, their members, and per-bloc weighting strategy (GDP or population). |
 | **Published dataset** | `wti_data.json` / `wti_data.js` — the latest scored index per country and bloc, regenerated each run. |

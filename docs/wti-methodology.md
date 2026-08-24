@@ -2,7 +2,7 @@
 
 WTI applies the BNTI production pipeline globally:
 
-1. **Ingestion** — [Google News RSS](https://news.google.com/rss) mirrors per country (optional [GDELT](https://www.gdeltproject.org/) via `WTI_INCLUDE_GDELT=true`)
+1. **Ingestion** — [Google News RSS](https://news.google.com/rss) mirrors per country. No registration-only feed is required.
 2. **Attribution** — [`openrouter/free`](https://openrouter.ai/docs) assigns ISO2 country + canonical threat category
 3. **Scoring** — Deterministic BNTI weights → per-country 1–10 index
 4. **Aggregation** — Population-weighted global composite; GDP-weighted group indices

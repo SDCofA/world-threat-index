@@ -266,6 +266,11 @@
             market, and synchronized acceleration anomalies; missing inputs are excluded and weights renormalized.
             Its confidence label describes coverage quality, never event likelihood.
           </p>
+          <p>
+            Headline attribution uses OpenRouter when available. If credentials, quota, or a valid response are
+            unavailable, deterministic <code>heuristic-v1</code> rules keep the pipeline running. Fallback events are
+            marked in the public data with confidence <code>0.45</code> and their attribution method for audit.
+          </p>
         </div>
       </section>
     </main>

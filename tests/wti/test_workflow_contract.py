@@ -8,6 +8,7 @@ PAGES = (ROOT / ".github" / "workflows" / "pages.yml").read_text(encoding="utf-8
 
 def test_shard_and_merge_failures_are_not_masked():
     assert "python -m pytest -q" in UPDATE
+    assert "pip install -r requirements.txt pytest" in UPDATE
     assert "if-no-files-found: error" in UPDATE
     assert 'if [ "${#shard_files[@]}" -ne 10 ]' in UPDATE
     assert "continue-on-error" not in UPDATE

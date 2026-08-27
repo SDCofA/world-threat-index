@@ -79,6 +79,8 @@ WTI also publishes a separate 0–7 day triage signal combining narrative precur
 
 The output is explainable in `wti_data.json`: component scores, retained indicators, alerts, data-health counts, rolling history, taxonomy, weights, and source links are public. It is not an event probability or forecast; `confidence` measures input coverage only.
 
+Headline attribution uses OpenRouter when available. Rate limits, missing keys, or invalid singleton responses activate a deterministic keyword fallback, recorded as `heuristic-v1` with lower event confidence, so autonomous runs remain publishable and auditable.
+
 ### Provenance discipline
 
 - **Auditability.** Scoring is fully deterministic given the same inputs. The dashboard surfaces the last-update timestamp and live coverage, so any published number can be traced to the run — and the events — that produced it.

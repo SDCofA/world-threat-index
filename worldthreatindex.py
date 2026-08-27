@@ -126,6 +126,7 @@ class WTIAnalyzer:
                 "primary_country": iso2,
                 "category": category,
                 "subject": event.get("title", "")[:80],
+                "attribution_method": "heuristic-v1",
             }
         return result
 
@@ -135,11 +136,15 @@ class WTIAnalyzer:
 
         prompt = build_wti_attribution_prompt(events, country_list)
         response = call_openrouter(prompt, model=self.model)
+        if not response:
+            logger.warning("OpenRouter unavailable; using deterministic attribution fallback")
+            return self._heuristic_attribution(events, valid_iso2)
         parsed = parse_wti_attribution_response(response, events, valid_iso2)
         if len(parsed) == len(events):
             return parsed
         if len(events) == 1:
-            return {}
+            logger.warning("Invalid singleton attribution; using deterministic fallback")
+            return self._heuristic_attribution(events, valid_iso2)
         midpoint = len(events) // 2
         left = self._resolve_attribution_batch(events[:midpoint], country_list, valid_iso2, dry_run)
         if len(left) != midpoint:
@@ -160,13 +165,15 @@ class WTIAnalyzer:
             if country == "IRRELEVANT":
                 continue
             category = attr.get("category", "neutral")
+            method = attr.get("attribution_method", "openrouter")
             enriched = dict(event)
             enriched.update({
                 "country": country,
                 "category": category,
                 "weight": LLM_CATEGORY_WEIGHTS.get(category, 0.0),
-                "confidence": 1.0,
-                "ai_model": self.model,
+                "confidence": 1.0 if method == "openrouter" else 0.45,
+                "ai_model": self.model if method == "openrouter" else method,
+                "attribution_method": method,
                 "llm_primary_country": country,
                 "llm_subject": attr.get("subject", ""),
             })

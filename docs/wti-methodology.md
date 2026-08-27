@@ -51,3 +51,7 @@ Market anomalies use a robust z-score against the historical five-session-change
 WTI crude uses the absolute anomaly because either a sharp rise or fall may indicate dislocation. VIX and high-yield spread use only positive anomalies. The market component combines the two largest available indicator scores (65% / 35%). Cached market observations expire after 72 hours.
 
 The ensemble is an availability-renormalized weighted mean. A missing component contributes neither a zero nor its weight. `confidence` measures market, event, and source coverage; it is not the probability that an event will occur. Component alerts begin at 35/100 and retain a plain-language reason. The public JSON includes the full components, health record, alert record, rolling score history, taxonomy, weights, and source links required to reproduce each issued snapshot from the same inputs.
+
+### Autonomous attribution fallback
+
+OpenRouter is the primary headline-to-country/category attribution path. If it is unavailable (including HTTP 429 exhaustion or missing credentials), the batch is classified by deterministic, versioned keyword rules (`heuristic-v1`). Fallback events carry confidence `0.45` and retain `attribution_method`; model-attributed events carry confidence `1.0` and `attribution_method: openrouter`. This prevents a third-party quota failure from stopping the scheduled pipeline while preserving provenance for reproduction and later audit.

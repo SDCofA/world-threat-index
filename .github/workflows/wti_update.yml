@@ -103,6 +103,9 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt pytest
 
+      - name: Sync latest main before merge
+        run: git pull --ff-only origin main
+
       - name: Collect shards
         shell: bash
         run: |
@@ -134,7 +137,7 @@ jobs:
           fi
           git commit -m "WTI UPDATE: $(date -u +'%Y-%m-%d %H:%M UTC')"
           for i in 1 2 3; do
-            git pull --rebase origin main
+            git pull --rebase -X theirs origin main
             if git push origin HEAD:main; then
               exit 0
             fi

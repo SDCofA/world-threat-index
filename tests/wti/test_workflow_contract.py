@@ -17,6 +17,8 @@ def test_shard_and_merge_failures_are_not_masked():
 
 
 def test_pages_deploy_retries_without_duplicate_artifacts():
+    assert 'workflows: ["WTI Intelligence Update"]' in PAGES
+    assert "github.event.workflow_run.conclusion == 'success'" in PAGES
     assert PAGES.count("actions/upload-pages-artifact") == 1
     assert PAGES.count("actions/deploy-pages@v5") == 2
     assert PAGES.count("continue-on-error: true") == 1

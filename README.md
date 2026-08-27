@@ -73,6 +73,12 @@ Each attributed event carries a category weight; the country's mean weight is ma
 
 The methodology is adapted from the [Border Neighbor Threat Index (BNTI)](https://github.com/SDCofA/border-neighbor-threat-index) and is documented in full at [`docs/wti-methodology.md`](docs/wti-methodology.md).
 
+### Early-warning precursor ensemble
+
+WTI also publishes a separate 0–7 day triage signal combining narrative precursor pressure (40%), unusual five-session moves in WTI crude, VIX, and US high-yield spreads (35%), and synchronized country-index acceleration (25%). Missing components are excluded and the remaining weights renormalized. Market anomalies use a median/MAD robust baseline; cached observations expire after 72 hours.
+
+The output is explainable in `wti_data.json`: component scores, retained indicators, alerts, data-health counts, rolling history, taxonomy, weights, and source links are public. It is not an event probability or forecast; `confidence` measures input coverage only.
+
 ### Provenance discipline
 
 - **Auditability.** Scoring is fully deterministic given the same inputs. The dashboard surfaces the last-update timestamp and live coverage, so any published number can be traced to the run — and the events — that produced it.

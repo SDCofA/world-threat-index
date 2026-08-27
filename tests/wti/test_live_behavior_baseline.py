@@ -33,11 +33,14 @@ def test_generated_snapshot_locks_country_group_and_ranking_contracts():
     assert set(DATA) == {
         "meta",
         "countries",
+        "early_warning",
         "groups",
         "rankings",
         "rankings_table",
         "methodology",
     }
+    assert DATA["early_warning"]["classification"] == "precursor-anomaly-watch-not-event-probability"
+    assert DATA["early_warning"]["horizon"] == "0-7 days"
     assert all(
         set(row) == {"iso2", "name", "index", "status"}
         for row in DATA["rankings_table"]

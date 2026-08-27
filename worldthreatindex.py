@@ -29,6 +29,7 @@ from wti_core.scoring import (
     compute_country_score,
     status_from_index,
 )
+from early_warning import build_early_warning
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
@@ -222,6 +223,7 @@ class WTIAnalyzer:
 
     def _write_dashboard(self, countries_data, publish_meta=True):
         existing = self._load_existing_data()
+        prior_countries = dict(existing.get("countries", {}))
         merged_countries = dict(existing.get("countries", {}))
         for iso2, block in countries_data.items():
             merged_countries[iso2] = merge_country_block(merged_countries.get(iso2), block)
@@ -232,6 +234,12 @@ class WTIAnalyzer:
         rankings = build_rankings(merged_countries, self.registry_by_iso2)
         coverage = len([c for c in merged_countries if merged_countries[c].get("index")]) / len(self.registry)
         issued_at = datetime.now().isoformat()
+        early_warning = build_early_warning(
+            merged_countries,
+            product="wti",
+            previous=existing.get("early_warning", {}),
+            prior_countries=prior_countries,
+        )
 
         dashboard = {
             "meta": {
@@ -248,6 +256,7 @@ class WTIAnalyzer:
                 "publishable": publish_meta,
             },
             "countries": merged_countries,
+            "early_warning": early_warning,
             "groups": groups,
             "rankings": {
                 "highest_threat": rankings["highest_threat"],
@@ -317,7 +326,7 @@ def main(argv=None):
     args = parse_args(argv)
     analyzer = WTIAnalyzer()
     try:
-        analyzer.run(
+        succeeded = analyzer.run(
             countries_filter=args.countries,
             tier=args.tier,
             shard=args.shard,
@@ -325,10 +334,10 @@ def main(argv=None):
             dry_run=args.dry_run,
             output_shard=args.output_shard,
         )
-        return 0
+        return 0 if succeeded else 2
     except Exception as exc:
         logger.error(f"WTI critical error: {exc}")
-        return 0
+        return 1
 
 
 if __name__ == "__main__":

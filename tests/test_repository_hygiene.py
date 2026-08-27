@@ -11,7 +11,7 @@ METHODOLOGY_EVIDENCE = ["worldthreatindex.py"]
 QUICK_START_COMMANDS = ["python -m pytest -q"]
 ARCHITECTURE_IDENTIFIERS = ["wti_core/","worldthreatindex.py","wti_data.json"]
 THIRD_PARTY_EXCLUSIONS = ["news, threat, model-output, and geopolitical datasets","logos, maps, trademarks, screenshots, and external assets"]
-LICENSE_DECISION = "preserve-apache"
+LICENSE_DECISION = "preserve-mit"
 
 
 def test_repository_hygiene_documentation_contract():

@@ -24,6 +24,10 @@ REQUIRED_RUNTIME_IDS = (
     "country-detail",
     "country-search",
     "rankings-table",
+    "early-warning-score",
+    "early-warning-components",
+    "early-warning-alerts",
+    "early-warning-health",
 )
 
 
@@ -41,6 +45,7 @@ def test_information_architecture_is_semantic_and_ordered():
 
     section_ids = (
         "global-overview",
+        "early-warning",
         "world-intelligence",
         "geopolitical-groups",
         "country-rankings",

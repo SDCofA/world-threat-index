@@ -37043,5 +37043,354 @@
       "neutral": 0.0
     },
     "formula": "PerCountry = 1 + 9*(1 - exp(-avg(weight)/5 * 1.2))"
+  },
+  "early_warning": {
+    "issued_at": "2026-08-27T18:31:45.122747+00:00",
+    "horizon": "0-7 days",
+    "classification": "precursor-anomaly-watch-not-event-probability",
+    "score": 20.8,
+    "level": "ROUTINE",
+    "confidence": "HIGH",
+    "confidence_score": 100.0,
+    "components": [
+      {
+        "id": "narrative_pressure",
+        "label": "Narrative precursor pressure",
+        "score": 51.9,
+        "available": true,
+        "events_considered": 2468,
+        "precursor_event_count": 16,
+        "precursor_share": 0.0065,
+        "severe_event_share": 0.0794,
+        "independent_sources": 1042,
+        "countries_with_precursors": [
+          "BO",
+          "CU",
+          "IQ",
+          "IR",
+          "KP",
+          "PT",
+          "RO",
+          "SC",
+          "SG",
+          "ST",
+          "TN",
+          "TT",
+          "VC"
+        ],
+        "signals": [
+          {
+            "id": "force_posture",
+            "label": "Force Posture",
+            "event_count": 1,
+            "independent_sources": 1,
+            "cross_source_confirmed": false,
+            "evidence": [
+              {
+                "country": "IQ",
+                "title": "Iraq: Closure of 71 Fake Headquarters Claiming Affiliation with the Popular Mobilization Forces - jordannews.jo",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcnB3N2E3eHFvbEdyUk1fTlAyb3diTmxJZDdPSExyZXQ1MXdwR2xFM0R1VUN1X3dQcndqVXBsQlJ5QW9mc0tHY3BxbHVKXzByOTdseHdURVlFSFBRc3ZNQ3Z4dElURmVQMGVjc3doeUZ3a1ZodEs3OHlZVmlRZHR6c0p6ODBzMW5zcmRmQ2JRNE1zVTdHaFJvYkN5UU9DbnhvbDB4OFRnbjEwY0UzNzhCNkhKNWl3cy1CcXdaRThmMTBXVG5tTHBONFBmbTRtVW92Rkc2QWU4SDJRcEVheUtJb1pDRQ?oc=5",
+                "source": "jordannews.jo",
+                "terms": [
+                  "mobilization"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "protective_action",
+            "label": "Protective Action",
+            "event_count": 4,
+            "independent_sources": 4,
+            "cross_source_confirmed": true,
+            "evidence": [
+              {
+                "country": "PT",
+                "title": "Government issues warning to Brits travelling to Portugal this summer - News & Star",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXJwQWZjWnItbE1EQ3MwUlhVX0ptaWp5Ry11bjJKRkZSaVZCbUtKTXY0WTRlSTVkWk9lRmxxOEd0aUtlcUdQdjhKXzduWDVadzZnZlpPUjJkdmxISk9pWkJQNi1IT0dUWWE4VWNGX0VCdi1LNmg1c3YwNFRmbUJscEdGa2lqbFFESklEYWZKREgzaXBhODRkd2ctM2JQSE1YYW9CUmwyMVlNWTE1YVZR?oc=5",
+                "source": "news & star",
+                "terms": [
+                  "travel warning"
+                ]
+              },
+              {
+                "country": "SC",
+                "title": "Chikungunya outbreak in Seychelles prompts travel warning - Outbreak News Today",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1FSeTdEYTNlR1JpOGtzQlV0OGVXME9aMnhKRndsMW9jdTFxVWZieS1PaHhGUzhhSjl1eFVsQXR6MkNXcW8yYVdfTjBUWmNmallKX0RNOV9UMDlLRERoSjJvMUdWLVd0eXhnUWVxS3Q0M2RCSElhbUw5NkFSVS01ZQ?oc=5",
+                "source": "outbreak news today",
+                "terms": [
+                  "travel warning"
+                ]
+              },
+              {
+                "country": "ST",
+                "title": "US Issues Travel Warnings for Two Countries - Newsweek",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObWNlM0hldEJCbXp2MmNNMlV5bGV6SmdNQkdUYmhFZnI5MnZ4MU84Z1phcXd6SlNSVXktTEZBN0gzUk1QRkdtejY2aFlNYngxTElrVFM3bEZ6VXdOMUxfMDRjSGlMWVhhLVdiTDlJSFk3MER6NmNRdXFvVFBGUGoyMWdrSFU?oc=5",
+                "source": "newsweek",
+                "terms": [
+                  "travel warning"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "coercive_pressure",
+            "label": "Coercive Pressure",
+            "event_count": 3,
+            "independent_sources": 3,
+            "cross_source_confirmed": true,
+            "evidence": [
+              {
+                "country": "BO",
+                "title": "Bolivian blockades strangle economy as pressure piles on centre-right leader - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45R3dVdEhlc3BiNF9DV0ZiYWxnM3pPbzZwXzhTdG02VWJXb2xVVk5lQkJEejVQRlhYcktrcjIydE1Dcnl4Y2V3V3JPbUpHMG9IVzZwdzI1MEVvYWtJSFFjeWpqcjI0T2JhbjdJZWV0dlo?oc=5",
+                "source": "financial times",
+                "terms": [
+                  "blockade"
+                ]
+              },
+              {
+                "country": "VC",
+                "title": "The US Military Blockade – Its Potential Impact on Saint Vincent and the Grenadines - Black Agenda Report",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVBwOWVGOVBmOHZXU3dOQTRfLTd4YUttUldlQWxmeUJvbWVZSHF2RE9XbHI3cjBoaDZSUi1NYlZYLXFyc3p1MTA0c2dxUnczTXdKbWhISDBxS18ydVNoUXpwQ0gyaWV6QTQ0V0o0VFFQY1FkZVVUWHZYcGxtNlFoMG10TmU5TDVac0JFd0ZLSmIzUGgwMDVfRGNLN1FVNUNTdHd6MExWOA?oc=5",
+                "source": "black agenda report",
+                "terms": [
+                  "blockade"
+                ]
+              },
+              {
+                "country": "CU",
+                "title": "Cuba Discusses Economic Reforms to Counter US Blockade - Orinoco Tribune",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaU1iMjdUX01qaG8td056RXdVR1kzUmUyOUN6d0JpQ3UyaHFDbURUZnBUcDRWb3Y4S3FsUWJQaklhREF6NU9NN2huMUtVSnBDejVnVldtVG9oRV9SYW1GbDdqRHFJcEtrY1FrblJOME4wV2xPMU1TdUV4alhXOENmeHBCTV9ETDVnU0t5RDNKUVRrUQ?oc=5",
+                "source": "orinoco tribune",
+                "terms": [
+                  "blockade"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "systems_disruption",
+            "label": "Systems Disruption",
+            "event_count": 8,
+            "independent_sources": 8,
+            "cross_source_confirmed": true,
+            "evidence": [
+              {
+                "country": "IR",
+                "title": "Water systems are ripe for cyberattacks, experts warn after suspected Iranian hacks - The Washington Post",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa2ZBQW82VEFVa2wtZzdsOWw4cWV5SXRUZGF2T2FLaFMxeUJQRFByRG9CMlRkWXNtLUJDVGZueVJpV25CQ3lsWFczTUI2U1pTRjBtSG1LTVpRbGFIc3NhVWF3SHUzdkZQS1V4bmRWSmpGc2ZNUmM0RXlra1lYeXJqQWdtTVlPM2pqaGxjS2U5ZzVqT2lOVGgyd1JKRVZCblRzbXJaUG13S05GbW93T3ZHMFpYeXh6MTFGMWZxUVN6N3Q5Z2EteVpOc0NXQnA3M2V4eUFOQW0talVLcXNnaURhSFdMNFBiUGJIaGVN?oc=5",
+                "source": "the washington post",
+                "terms": [
+                  "cyberattack"
+                ]
+              },
+              {
+                "country": "KP",
+                "title": "North Korean Hackers Test AI to Advance Their Cyberattacks - BeInCrypto",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlakVlTl9rbkdFMnVUcnJhdnpjYm1Wbi1vSG9ZQUJVaEJUTXhSdlotTDE3ZHR4Tk0zb2pSMXgyZ2ZkLVU4SkducEo2enQxOHFKeE9leTFCWHcySGRUNnZ3Vg?oc=5",
+                "source": "beincrypto",
+                "terms": [
+                  "cyberattack"
+                ]
+              },
+              {
+                "country": "KP",
+                "title": "Experts warn North Korean hackers are increasingly using AI to build smarter and more devious cyberattacks - TechRadar",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONm9vSG5tOFNfTzdPZmZ4M3NWY2ZEWXppVjBzalFJUWw1bkVfRHJfQTd0YXJ0cnZqNlVGbWJ4Zm1NTmZ1el9JX1BWTVRaSnRZdjVibEZoNmlHck9waGx6eEhkWHdpTUNpZnlJTHFlZ0hkV1JLbFpqelYwNGNlSU0wWnRKcHdEYTM0a2M2dEVWUGwzUHQzZWhiakNyMmsxb0ZubTY3bVZlcUNYYXB5OHlkMUd3UkhadEJBa2VabVRjWUtZY0hNb0FYZ2xqSjhLSUFPT29McE5aOHJMc051bXc?oc=5",
+                "source": "techradar",
+                "terms": [
+                  "cyberattack"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cross_market_dislocation",
+        "label": "Cross-market dislocation",
+        "score": 0.0,
+        "available": true,
+        "series_available": 3,
+        "indicators": [
+          {
+            "id": "wti_crude",
+            "label": "WTI crude oil",
+            "available": true,
+            "score": 0.0,
+            "latest_value": 83.9,
+            "five_session_change": -2.9833,
+            "change_kind": "percent",
+            "direction": "down",
+            "anomaly_z": -0.53,
+            "observed_at": "2026-08-25",
+            "unit": "USD/barrel",
+            "cached": false,
+            "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO"
+          },
+          {
+            "id": "vix",
+            "label": "CBOE VIX",
+            "available": true,
+            "score": 0.0,
+            "latest_value": 15.21,
+            "five_session_change": 2.1491,
+            "change_kind": "percent",
+            "direction": "up",
+            "anomaly_z": 0.23,
+            "observed_at": "2026-08-26",
+            "unit": "index",
+            "cached": false,
+            "source_url": "https://fred.stlouisfed.org/series/VIXCLS"
+          },
+          {
+            "id": "high_yield_spread",
+            "label": "US high-yield spread",
+            "available": true,
+            "score": 0.0,
+            "latest_value": 2.67,
+            "five_session_change": -0.06,
+            "change_kind": "absolute",
+            "direction": "down",
+            "anomaly_z": -0.67,
+            "observed_at": "2026-08-26",
+            "unit": "percentage points",
+            "cached": false,
+            "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+          }
+        ]
+      },
+      {
+        "id": "synchronized_acceleration",
+        "label": "Synchronized threat acceleration",
+        "score": 0.0,
+        "available": true,
+        "entities_compared": 195,
+        "rising_entities": 0,
+        "rising_share": 0.0,
+        "mean_positive_change": 0.0,
+        "largest_changes": [
+          {
+            "entity": "DE",
+            "change": 0.0
+          },
+          {
+            "entity": "GB",
+            "change": 0.0
+          },
+          {
+            "entity": "JP",
+            "change": 0.0
+          },
+          {
+            "entity": "SY",
+            "change": 0.0
+          },
+          {
+            "entity": "TR",
+            "change": 0.0
+          }
+        ]
+      }
+    ],
+    "alerts": [
+      {
+        "id": "narrative_pressure",
+        "level": "HEIGHTENED",
+        "title": "Narrative precursor pressure",
+        "score": 51.9,
+        "why": "Threat-language concentration and cross-source confirmation exceed routine conditions."
+      }
+    ],
+    "history": [
+      {
+        "timestamp": "2026-08-27T18:31:45.122747+00:00",
+        "score": 20.8,
+        "level": "ROUTINE",
+        "components": {
+          "narrative_pressure": 51.9,
+          "cross_market_dislocation": 0.0,
+          "synchronized_acceleration": 0.0
+        }
+      }
+    ],
+    "data_health": {
+      "events_considered": 2468,
+      "independent_sources": 1042,
+      "market_series_available": 3,
+      "available_components": 3
+    },
+    "method": {
+      "name": "Robust multi-domain precursor ensemble",
+      "aggregation": "availability-renormalized weighted mean",
+      "weights": {
+        "narrative_pressure": 0.4,
+        "cross_market_dislocation": 0.35,
+        "synchronized_acceleration": 0.25
+      },
+      "market_anomaly": "five-session change vs median/MAD baseline; 1.4826*MAD scale",
+      "narrative_taxonomy": {
+        "force_posture": [
+          "mobilization",
+          "mobilisation",
+          "reserve call-up",
+          "troop buildup",
+          "troop build-up",
+          "military deployment",
+          "airspace closed",
+          "airspace closure",
+          "no-fly zone",
+          "combat readiness"
+        ],
+        "protective_action": [
+          "embassy closure",
+          "embassy evacuation",
+          "leave immediately",
+          "shelter in place",
+          "civilian evacuation",
+          "travel warning",
+          "departure of non-emergency",
+          "ordered departure"
+        ],
+        "coercive_pressure": [
+          "ultimatum",
+          "blockade",
+          "emergency meeting",
+          "article 5",
+          "collective defence",
+          "collective defense",
+          "strategic forces",
+          "border closure",
+          "port closure"
+        ],
+        "systems_disruption": [
+          "internet shutdown",
+          "communications blackout",
+          "power outage",
+          "gps jamming",
+          "navigation interference",
+          "cyberattack",
+          "cyber attack",
+          "undersea cable",
+          "subsea cable"
+        ]
+      },
+      "warning": "An elevated reading is a triage signal, not proof that a specific event will occur."
+    },
+    "sources": [
+      {
+        "name": "FRED",
+        "url": "https://fred.stlouisfed.org/"
+      },
+      {
+        "name": "Caldara-Iacoviello GPR methodology",
+        "url": "https://www.matteoiacoviello.com/gpr.htm"
+      },
+      {
+        "name": "ViEWS transparent early-warning design",
+        "url": "https://viewsforecasting.org/"
+      }
+    ]
   }
 }

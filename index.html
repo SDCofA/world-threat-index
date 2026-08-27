@@ -130,6 +130,30 @@
         </article>
       </section>
 
+      <section id="early-warning" class="section-block early-warning-section" aria-labelledby="early-warning-title">
+        <header class="section-header">
+          <div>
+            <p class="section-kicker">Multi-domain precursor monitor</p>
+            <h2 id="early-warning-title">Early warning desk</h2>
+          </div>
+          <p>Unusual combinations requiring analyst attention. This is a triage signal, not an event probability.</p>
+        </header>
+        <div class="early-warning-overview">
+          <div class="early-warning-gauge"><span id="early-warning-score">--</span><small>/ 100</small></div>
+          <dl class="early-warning-meta">
+            <div><dt>Watch level</dt><dd id="early-warning-level">--</dd></div>
+            <div><dt>Data confidence</dt><dd id="early-warning-confidence">--</dd></div>
+            <div><dt>Horizon</dt><dd id="early-warning-horizon">0–7 days</dd></div>
+            <div><dt>Issued</dt><dd id="early-warning-issued">--</dd></div>
+          </dl>
+        </div>
+        <div id="early-warning-components" class="early-warning-components" aria-live="polite"></div>
+        <div class="early-warning-lower">
+          <div><h3>Active signals</h3><div id="early-warning-alerts" class="early-warning-alerts"></div></div>
+          <div><h3>Coverage record</h3><div id="early-warning-health" class="early-warning-health"></div></div>
+        </div>
+      </section>
+
       <section
         id="world-intelligence"
         class="section-block"
@@ -236,6 +260,11 @@
           <p>
             Evidence: <a href="docs/wti-methodology.md">scoring methodology</a> ·
             <a href="wti_data.json">current machine-readable assessment</a>
+          </p>
+          <p>
+            The early-warning desk is a separate, explainable precursor ensemble. It combines observable narrative,
+            market, and synchronized acceleration anomalies; missing inputs are excluded and weights renormalized.
+            Its confidence label describes coverage quality, never event likelihood.
           </p>
         </div>
       </section>

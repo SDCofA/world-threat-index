@@ -32,4 +32,22 @@ Each published event retains an evidence URL in `link`, the source publication t
 
 WTI publishes an **assessment**, not a forecast record. The current snapshot supports a per-country `target`, an assessment `issuedAt` through `meta.issued_at`, a documented `method`, and event-level `provenance`.
 
-It does not currently provide a global `dataCutoff`, forecast `horizon`, probability `distribution`, calibrated `uncertainty`, explicit forecast `assumptions`, or forecast `resolutionCriteria`. Because those required Task 3 fields are absent, WTI values and forward-looking scenarios must not be described as forecasts or predictions.
+WTI values themselves remain assessments and must not be described as forecasts or probabilities. The assessment record has no forecast `dataCutoff`, probability `distribution`, calibrated `uncertainty`, forecast `assumptions`, or `resolutionCriteria`; the separate `horizon` below is a triage window, not a forecast target.
+
+## Early-warning precursor ensemble
+
+The dashboard additionally publishes a separate 0–7 day **triage horizon**. It is an anomaly monitor, not an event-probability model:
+
+| Component | Production weight | Observable inputs |
+|---|---:|---|
+| Narrative precursor pressure | 40% | Force posture, protective action, coercive pressure, and systems-disruption terms in retained news events; source diversity and cross-source confirmation |
+| Cross-market dislocation | 35% | Five-session changes in FRED WTI crude (`DCOILWTICO`), VIX (`VIXCLS`), and US high-yield spread (`BAMLH0A0HYM2`) |
+| Synchronized acceleration | 25% | Breadth and magnitude of positive WTI country-index changes versus the prior published snapshot |
+
+Market anomalies use a robust z-score against the historical five-session-change distribution:
+
+`z = (x − median(X)) / (1.4826 × MAD(X))`
+
+WTI crude uses the absolute anomaly because either a sharp rise or fall may indicate dislocation. VIX and high-yield spread use only positive anomalies. The market component combines the two largest available indicator scores (65% / 35%). Cached market observations expire after 72 hours.
+
+The ensemble is an availability-renormalized weighted mean. A missing component contributes neither a zero nor its weight. `confidence` measures market, event, and source coverage; it is not the probability that an event will occur. Component alerts begin at 35/100 and retain a plain-language reason. The public JSON includes the full components, health record, alert record, rolling score history, taxonomy, weights, and source links required to reproduce each issued snapshot from the same inputs.

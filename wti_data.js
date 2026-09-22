@@ -1,15 +1,15 @@
 window.WTI_DATA = {
   "meta": {
-    "generated_at": "2026-09-22T16:54:36.158120",
-    "issued_at": "2026-09-22T16:54:36.158120",
+    "generated_at": "2026-09-22T21:15:40.068903",
+    "issued_at": "2026-09-22T21:15:40.068903",
     "record_type": "assessment",
-    "main_index": 2.31,
+    "main_index": 2.26,
     "status": "STABLE",
     "countries_total": 195,
     "countries_active": 195,
     "coverage_ratio": 1.0,
     "version": "1.0.0",
-    "next_update": "2026-09-22T18:00:00",
+    "next_update": "2026-09-22T23:00:00",
     "publishable": true
   },
   "countries": {
@@ -33,21 +33,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "DE",
           "llm_subject": "Germany Economy - Springfield News-Sun"
-        },
-        {
-          "title": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - The Mighty 790 KFGO",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW10TXVVWmdoSnlFSjdoOEVSeDliQUxFc3ZFWkg2MDZDQzZpU0xaa2FpT2VPMU45aUx0VXRXbDBlYUR0M1V5THhLOWNRTnpQbVZjY2VibFdmZFdxY3J0N1BxSHc0Y3BGekd3S1VRTmtzZ0tTVlNUdldWOWRyZzRRT1hrLUJjVUtxeXo2dnRWeVk2WENzMGNPZUxGRVlHbUs2eWItU0stMA?oc=5",
-          "date": "Tue, 22 Sep 2026 11:52:30 GMT",
-          "source_country": "DE",
-          "country": "DE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "DE",
-          "llm_subject": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - T"
         },
         {
           "title": "Germany Economy - Dayton Daily News",
@@ -80,10 +65,10 @@ window.WTI_DATA = {
           "llm_subject": "Germany Economy - dailyrecordnews.com"
         },
         {
-          "title": "Germany Economy - GazetteXtra",
+          "title": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - WTVB",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWF9lMHQyOVJmNHNTaUlvalFIZmdvQ0R3N0xMUHpJdmphQzF1dS1PanBmU1dxLVg0bDMxdy00Sk1ZWXhJdG9RSXJfMGQ2Mms1TmZ3TnJReGs1dVNRSkdPRi1NcklrTzlMaFpTZ0thLVU1S3NpWk52LVk3Nk9yVTVuRXJXdFh0VDJMbjZxVHNOMFN4V1QzQlJaRmJfSG5qclFKWHhNRzFjcVRCTUdQb3c?oc=5",
-          "date": "Tue, 22 Sep 2026 10:37:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVEzdGROcE5kX2dkR2NYdnljSzhTbVNFUVpuTXdQaTFjVERWd2RKR3JNVl9zR0lfMGh6aFdUQnFtSlk5R3lzZ09sYkFJbW11ZFozR1dZTTZKRUctRHhmVFI1SHZ6RDVFY1owaXFESXlTUFJEVlltRDA0NHJNZWlxVUxZVTE4eURuUXVNYm5zNFNxS1JDUkJWRFZKQzB5NG5YNkducFhiNlhOQQ?oc=5",
+          "date": "Tue, 22 Sep 2026 11:51:54 GMT",
           "source_country": "DE",
           "country": "DE",
           "category": "neutral",
@@ -92,7 +77,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "DE",
-          "llm_subject": "Germany Economy - GazetteXtra"
+          "llm_subject": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - W"
+        },
+        {
+          "title": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - Yahoo Finance UK",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE55dC1zUDdjblhQdkNoWjMtczJzMHUtam9pMUNZcmNWUHRVTzV2Yk8taHJPNnhJWjFSZEJXLVFobm5FOEN5NGJuMUVmLTA0Zklyd2NkSFh3dG1PQ0VZQW1tWXNRWkFVUkxualREdXhNRzJHWG1NTC1QSmVWVHQ1eW11dlhVbWtsRGc?oc=5",
+          "date": "Tue, 22 Sep 2026 08:23:01 GMT",
+          "source_country": "DE",
+          "country": "DE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "DE",
+          "llm_subject": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - Y"
         },
         {
           "title": "Erosion of Germany's political centre exposes Merz's weakening grip on power - Reuters",
@@ -125,10 +125,10 @@ window.WTI_DATA = {
           "llm_subject": "Germany Economy - Journal-News.com"
         },
         {
-          "title": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - Yahoo Finance UK",
+          "title": "Germany’s economic recovery is under way if politics doesn’t spoil it - Financial Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE55dC1zUDdjblhQdkNoWjMtczJzMHUtam9pMUNZcmNWUHRVTzV2Yk8taHJPNnhJWjFSZEJXLVFobm5FOEN5NGJuMUVmLTA0Zklyd2NkSFh3dG1PQ0VZQW1tWXNRWkFVUkxualREdXhNRzJHWG1NTC1QSmVWVHQ1eW11dlhVbWtsRGc?oc=5",
-          "date": "Tue, 22 Sep 2026 08:23:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmlMb1BOSHlmUkNCMmNlV21YU2U2NXFMOGhJa1Iwd3JBVENnajF5dzdYN0F6OXFac2FPNnY3aFlUSzdQdDBoQ1NNdEkxODZid0VfV3FFeUE4cFozZ09sOVpSZkpaYVdDdTIzekpGTHEtN1F2X1lhMGpqSWNjYURCcjZmNWc?oc=5",
+          "date": "Tue, 22 Sep 2026 04:00:11 GMT",
           "source_country": "DE",
           "country": "DE",
           "category": "neutral",
@@ -137,10 +137,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "DE",
-          "llm_subject": "German institutes raise 2026 and 2027 economic growth forecasts, sources say - Y"
+          "llm_subject": "Germany’s economic recovery is under way if politics doesn’t spoil it - Financia"
         },
         {
-          "title": "Germany Economy - hjnews.com",
+          "title": "Germany Economy - The Herald Journal",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3otak1nWFRlSFk5X21rVmUtUTlyRGVkcmF4WE5KNDVLcjE1aGJYNGcwMk9vYXhqREU3UDNyeGthamt6dThjbU9OSXdScGRleUZfcHVzbUt2emNwT2huT0VTLUJUMGtUeGZ3U0RvZ1d6eURQTlFUZ3JNazBFdnVrUXRkZ3RxZHlEVXFDaUVUQTBCZzRYS25R?oc=5",
           "date": "Tue, 22 Sep 2026 10:37:20 GMT",
@@ -152,13 +152,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "DE",
-          "llm_subject": "Germany Economy - hjnews.com"
+          "llm_subject": "Germany Economy - The Herald Journal"
         },
         {
-          "title": "Germany’s economic recovery is under way if politics doesn’t spoil it - Financial Times",
+          "title": "Germany Economy - gazettextra.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmlMb1BOSHlmUkNCMmNlV21YU2U2NXFMOGhJa1Iwd3JBVENnajF5dzdYN0F6OXFac2FPNnY3aFlUSzdQdDBoQ1NNdEkxODZid0VfV3FFeUE4cFozZ09sOVpSZkpaYVdDdTIzekpGTHEtN1F2X1lhMGpqSWNjYURCcjZmNWc?oc=5",
-          "date": "Tue, 22 Sep 2026 04:00:28 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWF9lMHQyOVJmNHNTaUlvalFIZmdvQ0R3N0xMUHpJdmphQzF1dS1PanBmU1dxLVg0bDMxdy00Sk1ZWXhJdG9RSXJfMGQ2Mms1TmZ3TnJReGs1dVNRSkdPRi1NcklrTzlMaFpTZ0thLVU1S3NpWk52LVk3Nk9yVTVuRXJXdFh0VDJMbjZxVHNOMFN4V1QzQlJaRmJfSG5qclFKWHhNRzFjcVRCTUdQb3c?oc=5",
+          "date": "Tue, 22 Sep 2026 10:37:20 GMT",
           "source_country": "DE",
           "country": "DE",
           "category": "neutral",
@@ -167,7 +167,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "DE",
-          "llm_subject": "Germany’s economic recovery is under way if politics doesn’t spoil it - Financia"
+          "llm_subject": "Germany Economy - gazettextra.com"
         },
         {
           "title": "German Economy to Gain Momentum Toward Year-End, Bundesbank Says - Bloomberg.com",
@@ -185,10 +185,10 @@ window.WTI_DATA = {
           "llm_subject": "German Economy to Gain Momentum Toward Year-End, Bundesbank Says - Bloomberg.com"
         },
         {
-          "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat - NPR",
+          "title": "Mercedes-Benz from Europe’s largest economy celebrates 140 years as Africa’s second-largest economy unveils 4 exclusive luxury car editions - Business Insider Africa",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHM2SHJYY3c5bHlPOFBZMkJmbnE0cElOX0Y3eExZaTg4czlKTFdsZHVQQlZKYVlFenVyZmlERXFjUUVSajVEbmV6N1hjZ1NkVElvb2lhVnNfdjhURWhHYTJ4YjA1RVRMNXFEbWNDODFzZFJ4bG9uOE50YXpGVmJkY0w1SGR4MThXcEFUaEV4a042VldSNEVXS2o4ZmFqNFRCeS15OWkzZ0pUcGlkSk85cnlZR2lXTy1yVG5LLXZOenRvRnpS?oc=5",
-          "date": "Sun, 20 Sep 2026 17:29:29 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRFVOdnlscEJ6dGJWZ0hlZ0tkY0VBcXFGd2JtbDZOMlRhX0xFYm9FME5QTXNlVkxnZWNJQ1VYamk5a0pkWkwwNnJlNmg0ZG9DQnF4VE5Ya0JWXy01ei11MjhhUU5teTYyZlBpTFhNY1E4OU5iQ183YTFoZU1kMWpWVksyNG9TTndYU09vNWpWLVltbHg5b0plR1B3b0pMb0lwc2x3X25iNE1BdWxCWktNNXd4bkZsbzRReDhkUHJfSWdqV245ci1TNkI2djFJamdRcHpRTQ?oc=5",
+          "date": "Tue, 22 Sep 2026 18:00:00 GMT",
           "source_country": "DE",
           "country": "DE",
           "category": "neutral",
@@ -197,7 +197,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "DE",
-          "llm_subject": "Germany's Merz vows to press ahead with reforms after historic state election de"
+          "llm_subject": "Mercedes-Benz from Europe’s largest economy celebrates 140 years as Africa’s sec"
         },
         {
           "title": "German 2026 Economic Prognosis Revised Upward - Germany Trade & Invest (GTAI)",
@@ -230,10 +230,10 @@ window.WTI_DATA = {
           "llm_subject": "German institutes raise 2026 and 2027 economic growth forecasts, Handelsblatt re"
         },
         {
-          "title": "Five takeaways from Germany's regional elections - Reuters",
+          "title": "Five takeaways from Germany's regional elections after far-right gains - France 24",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUxkYmlMWkpzRGU5bndEaWJKMGpfbUl2QWk2UDRzb2tnRnFqTGhYQzFEM3FKMnNoWS0zNDZieTIybXByQUdqRGdoV3Q3cVUtRGVseU5DT3NwTy1TV3RqWWRRMnZaa3BoZTJZZTJvYXRZeHRsaWFHamtRQkNiSmdXOTl4SzJ2SWJpdkxfdHdYRDFrbEJrMkE?oc=5",
-          "date": "Mon, 21 Sep 2026 05:07:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkttZ0JaNmxzYnNRN3hiRnBpeHBfd25zN0J1aExIMWtpQU1QOTBFQXhzVWFGRXZjMzhBSExwU0dYX2VoSEhkRFVyWHc0ZlRfZ3BnX2FKc0x5WV9WckQwejJ1d1dUd2tocE9VTURZTmM0VVBoUlJCR1pWVmhESWxQckJpcFRnejJERUZYSFRBajJPSVV3cWprTXFqUk03aW11MnJfSmNCQmh3LVZPbmplV2c4Szc?oc=5",
+          "date": "Mon, 21 Sep 2026 06:47:54 GMT",
           "source_country": "DE",
           "country": "DE",
           "category": "neutral",
@@ -242,16 +242,106 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "DE",
-          "llm_subject": "Five takeaways from Germany's regional elections - Reuters"
+          "llm_subject": "Five takeaways from Germany's regional elections after far-right gains - France "
         }
       ]
     },
     "GB": {
       "name": "United Kingdom",
-      "index": 1.95,
-      "raw_score": 0.47,
+      "index": 3.67,
+      "raw_score": 1.47,
       "status": "STABLE",
       "events": [
+        {
+          "title": "U.K. Housing Surveys and Consumer Sentiment Support the View of Weak Growth - haver.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHo4ZTY2Qjg2OEc2LVN6UC1yTktMUjZnTXVsQllPaklpRW1GOWduVEowQkdIMjVZVUsxQThrTG5QVzlXbEtvOThZdnJLS0xNYUVMV0thd25hRzR1RkRDYklTeUhteFhDRFNxZ1RqYjVQaVlJWHRrTDB6ckRHTi00SlQ0VDFwSExfMFdhVnNJU0dORXJ0THVXSVh4RV84RlphdGhzUFhaT08?oc=5",
+          "date": "Mon, 21 Sep 2026 22:00:06 GMT",
+          "source_country": "GB",
+          "country": "GB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "GB",
+          "llm_subject": "U.K. Housing Surveys and Consumer Sentiment Support the View of Weak Growth - ha"
+        },
+        {
+          "title": "ASEAN-UK joint declaration on economic cooperation - GOV.UK",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYWk0MHk0ekFSQll0M3hfZTBHRzgtbW5yckZKUktDQWdMZG92dUlvbHA5bDJwMmZqcXFoSVJydnpMUTFBVVFWRlpsZ1dteWdWOGx4TEdaNGZoQmVZOEpnWVhINVJqcFM2VlUwaXBMaWZLaWpsR2pSRVBCb2RTSk40cUlPMFBpRFFpTHNhMjl3?oc=5",
+          "date": "Tue, 22 Sep 2026 12:26:14 GMT",
+          "source_country": "GB",
+          "country": "GB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "GB",
+          "llm_subject": "ASEAN-UK joint declaration on economic cooperation - GOV.UK"
+        },
+        {
+          "title": "Canada invites the UK to join its economic alliance with the European Union - MercoPress",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWRzd0pqZE94WUttOC1HQXcyakZOcnhXQTZvdklXaFJEbDJqQXNralJqa2RJUmNJSFd2VjRNak9KdkNTLTN5M1djMWJCbk5OZUZNN2owQWhZT2JQcUhkcjVkZ1Vqa1NwUDFkbkoxT2NBRnVZMFlBV0w5WGxMM0RZZDNPVkdYQXBLeWIzMnZwdGRrUG95SS1sUjVIRXdxelVwcXgxWGx2ZHJuTlAtYlQzZE5n?oc=5",
+          "date": "Mon, 21 Sep 2026 09:31:00 GMT",
+          "source_country": "GB",
+          "country": "GB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "GB",
+          "llm_subject": "Canada invites the UK to join its economic alliance with the European Union - Me"
+        },
+        {
+          "title": "ASEAN, UK reaffirm commitment to deepen economic cooperation - Philippine News Agency",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5WTFqRUVtSVZnVUNmcWJlcmRma1VoTS1oekVkdlVqbVVhUW5OZi16a0V0cUNXZWU2eC1PUXhyYTZiNm9CNVZ3bElpRGZIQXRa?oc=5",
+          "date": "Tue, 22 Sep 2026 12:24:16 GMT",
+          "source_country": "GB",
+          "country": "GB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "GB",
+          "llm_subject": "ASEAN, UK reaffirm commitment to deepen economic cooperation - Philippine News A"
+        },
+        {
+          "title": "ASEAN-UK Economic Partnership: Joint media statement - GOV.UK",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa25mdjNfc2VfNHlQRmpCenhvOFZLMll5aEFueWNmS2ZDMkl5dk5OVWQtMUl1aFF3dnRMc21qdlJpZTU4S2RyODNsVkNyeGM2Yko3MDd6OUxENWhLWUxmQmdoSnNSRERsM0EzUWpSaDVtQ19ueHBwTEFrN0xuZ2dZejlEdVQwekZRa0k2eEJMaw?oc=5",
+          "date": "Tue, 22 Sep 2026 09:51:00 GMT",
+          "source_country": "GB",
+          "country": "GB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "GB",
+          "llm_subject": "ASEAN-UK Economic Partnership: Joint media statement - GOV.UK"
+        },
+        {
+          "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister says - BBC",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53dHE3bmlNR242ZHBJVXBvd25GRnpnLTZpNmZkRHowTXp6STRWTzJvcEpZMzZhZVQ0UVAzREw0dHgtLVFpRDRZSlpOaWNhZDd3NkhTT0JMU2o4eUI1c0E?oc=5",
+          "date": "Mon, 21 Sep 2026 04:00:38 GMT",
+          "source_country": "GB",
+          "country": "GB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "GB",
+          "llm_subject": "UK should 'team up' with Canada in new Europe alliance, Canadian minister says -"
+        },
         {
           "title": "UKHSA and University of Oxford scientists uncover genetic changes in the bacteria causing severe Kent meningococcal disease outbreak - GOV.UK",
           "translated_title": null,
@@ -266,6 +356,21 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "GB",
           "llm_subject": "UKHSA and University of Oxford scientists uncover genetic changes in the bacteri"
+        },
+        {
+          "title": "The United Kingdom stands ready to work with the UN to ensure UN peace operations remain adaptable, effective, and fit for the challenges ahead: UK statement at the UN Security Council - Wired Gov",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPODJ4UTQxeXBwYWRuQmhXVjNQSGc4VGJnUjBnU1JLTkJQbmh2eS1nd1pyd19TejVkckROcTBxWWt5a2pGbFhEMXhaQlBQRmtkTXhONEdTelE2YmZTanB1bEoxT29GSktZRU5YeUVfUDBGaVJYdTNUTUpoYS14ejFQS1M2emg3N3REeW83b2xBMmh5SndFWnp2dmdybk5NQU0zWDhOVU5PYXlteHV4UHFQQjV5aXNaeU5LRGVsaFM4Xzg4VXNEMzNjR3EtTDJtWEQ2NUxMNU8xSVpGWjJZQm1OMmpabXRSNVhRak9zWDFfY3VRU2k1VVQ3TE9aU0dyWW1MQmtoaUZlZUlTZHVqcmo2TG96OUxyQm1SVVN2ZXR3TG9qVUxpN1ZqR2g0OWs2dVg4YU55R0d1WWFBR3JTTWVta296OGpCbkRsUlRqdTg2eWJXbzNialdMSVV3Y2lhU2JLRl9MYW5Vaw?oc=5",
+          "date": "Mon, 21 Sep 2026 11:27:53 GMT",
+          "source_country": "GB",
+          "country": "GB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "GB",
+          "llm_subject": "The United Kingdom stands ready to work with the UN to ensure UN peace operation"
         },
         {
           "title": "UK, Cambodia Deepen Security Ties With New Pact to Fight Online Scam Networks - Cambodianess",
@@ -283,7 +388,7 @@ window.WTI_DATA = {
           "llm_subject": "UK, Cambodia Deepen Security Ties With New Pact to Fight Online Scam Networks - "
         },
         {
-          "title": "New Research from Kai: UK CISOs Face a Widening AI Security Gap as Attackers Gain the Advantage - PR Newswire UK",
+          "title": "New Research from Kai: UK CISOs Face a Widening AI Security Gap as Attackers Gain the Advantage - prnewswire.co.uk",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTVTNTYyYmVVUC1ka3praTQ0NWpyUGxpOUg3X0V6SUFaQXVjYjBzdm4zLTlqTHpVTnJ6ZmZMUmRlMjRUbHIwMkQ0VlJvaTcycDdHclNPaEI4b2p4YUhvWkxITldhU0l4TUZZdmVtZkczaU5vRlIyMUN0X19mdVpRRU80R1BEa3ZzQlVlVXp2UFdwVGZ3RkZHQUlzcnk5aHZ2ZVZ4R0thelJVS0pmVFh5My1oZUVyOUdaQUtjT3NIbDBlRWZhcExDNVQzNF9OU3o4Z2lrVEhFUTlOU0dNN2JDblJ0WkFYdnc?oc=5",
           "date": "Mon, 21 Sep 2026 05:00:00 GMT",
@@ -296,21 +401,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "GB",
           "llm_subject": "New Research from Kai: UK CISOs Face a Widening AI Security Gap as Attackers Gai"
-        },
-        {
-          "title": "Bangladesh airports improve scores in latest UK security audit - The Business Standard",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXVyX2s3NEgwUHJZOWtnSHdIQ0l1VWFEcTBPNmw4ZUZFLWUydDNJNVhmSVdMZHg5OWNraERHek1sdEI3NThZTlFuV3lYWU5UWHlJblowLUNrYkhRWmp3TXBqdWM4dUU5Q0F1SE5Pa2hBUXlWUGhBR2ZKZU1jSDdubk9XXzdCa1kzQVYtN1QzUFhva0xscWE2WHhmOUpZUkJ1Yks0eGMwU1lyNTBD?oc=5",
-          "date": "Tue, 22 Sep 2026 08:26:56 GMT",
-          "source_country": "GB",
-          "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "GB",
-          "llm_subject": "Bangladesh airports improve scores in latest UK security audit - The Business St"
         },
         {
           "title": "United Kingdom supports the Franco-Mexican initiative to limit the veto against atrocities in the Security Council - Demócrata",
@@ -343,10 +433,10 @@ window.WTI_DATA = {
           "llm_subject": "Ishaaq Onalo targets smarter security solutions in UK - Vanguard News"
         },
         {
-          "title": "ASEAN, UK reaffirm commitment to deepen economic cooperation - Philippine News Agency",
+          "title": "Prince Harry, Meghan Markle to move to UK: What we know, and don't know, so far - ABC News - Breaking News, Latest News and Videos",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5WTFqRUVtSVZnVUNmcWJlcmRma1VoTS1oekVkdlVqbVVhUW5OZi16a0V0cUNXZWU2eC1PUXhyYTZiNm9CNVZ3bElpRGZIQXRa?oc=5",
-          "date": "Tue, 22 Sep 2026 12:24:16 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejJ0b3h6NFZqMmlubF9TMWhtbXRibHpXVlEyeFJpMmMxeVBoWkc0MldKeWtkWlpQZFZyeEhJdGpVdjhMMkFWdVQzZjlWQk1jWUxjSGtGMThsOXZjeXJkUnFrNnZsZWszSVdsRUdjX1dlVC1XSmxyMHItcjJkY2U5SmluRUFpVHF5SE54dmNjeDBsUTEtMmRTaE5aU0QzQdIBowFBVV95cUxQR3Q3eDI2UDBrMThQZ0FYRXVVUUxGcWpDNVlXTjAzWjYzS2xvcWNmMXdvd2FFVjN5Z2h2eTI5MGNIMU9xM3RWM0FYOGRjMEhjYUZIeENzWnVHNWIzSWhxbXRkbWo0MVlZazBqUERYR29pWmpKQWMydFVwNVFpSE04cFB5OHpnUUhRa2d1dllzUUd2b0xrYmVVN2o0SjBqdEh2QnBj?oc=5",
+          "date": "Tue, 22 Sep 2026 07:47:02 GMT",
           "source_country": "GB",
           "country": "GB",
           "category": "neutral",
@@ -355,141 +445,51 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "GB",
-          "llm_subject": "ASEAN, UK reaffirm commitment to deepen economic cooperation - Philippine News A"
+          "llm_subject": "Prince Harry, Meghan Markle to move to UK: What we know, and don't know, so far "
         },
         {
-          "title": "India, UK sign Social Security Agreement for Temporary Employees - News On AIR",
+          "title": "UK to help refuel Saudi jets countering Houthi attacks - BBC",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUW45WUphSnFUZEkwbnhMaXF1V3hMVUNoWjRVY2pUbVNqdmVpdDhiQkpwSWh1SVZyQnM2amg4TU1zakZ2SVQwUGZrdnZpYjJhb0hXWUNWRVR5SjY5OGtCUFhRNk5CT0pmSGliUEI1QTliVm1pMl8zV25NMkk0TGJNRjBYbVNQcEZYOW9ZOFRveGJTUDBy?oc=5",
-          "date": "Mon, 21 Sep 2026 09:43:16 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tYU5fQmFsOWpDQkVJSEU3b243a3FxVVBaOWY2MHZiX1M3Rm9FQWNQTUlBRTVGRllOM0NacVRnTGhpYURKQ0R0am42bjZubUhhaDdxeDVuSW4xMUR4Nnc?oc=5",
+          "date": "Mon, 21 Sep 2026 21:00:13 GMT",
           "source_country": "GB",
           "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "terrorism",
+          "weight": 7.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "GB",
-          "llm_subject": "India, UK sign Social Security Agreement for Temporary Employees - News On AIR"
+          "llm_subject": "UK to help refuel Saudi jets countering Houthi attacks - BBC"
         },
         {
-          "title": "Reform UK turns to YouTube to sidestep UK broadcast rules - The New Arab",
+          "title": "Migrant dinghy heading towards UK was at sea more than 33 hours, French officials say - Sky News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1c2NDN2Q0xQX1k4OUF2ODVmeXJXM2JDVXM1eXVaU0JfTjgwSEZYUEQ3dmRYR3djb0VfVUxIb0NCam9ra19maDExdElISE5ORUNfempmNFRaMDl3OGwxSG4zdnZock9mUjN2eWFBclJCZU41em5DZHc0RjZMT2piajNmdXY0WE3SAYwBQVVfeXFMTkRYOTdkVFl4VW5OeWZSQXFlMzl4N3VlcXE2QVNUZFJqYWR6bUNwZVBjbTRkVW1MUFdzbDVZTjROajVxVjZPMGxDdGxKc1hlNE1ObC1NaDQxYnFSTFBQbXZkTFB3V0ZwMzJOS0w5SW10c1AxX0dMTzlDSERLNXk3ejdiYTlzUHdGOFdqdUQ?oc=5",
-          "date": "Tue, 22 Sep 2026 15:03:55 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjdnaG1nRW40LUtNRjBPS2lCbFpUNWhFeDhtbkRUaWZiVl92Y0ZSTWtXZW93SE8zYllwaTA0eGJxZEdqdGRCd1RwcUZrMW43UUVJY1QyUVZxYm04Qm1uWjlxZHpwb1FKUXAwNXlkcVNqYzdDMV9PUTlmSmJtOHVmUU5oVWZ2TTc4ak8yWW5ZLXdKTG1IUWRDemQxckpaZEpCQTFHSTFTS281Q0x2?oc=5",
+          "date": "Tue, 22 Sep 2026 17:54:50 GMT",
           "source_country": "GB",
           "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "military_conflict",
+          "weight": 8.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "GB",
-          "llm_subject": "Reform UK turns to YouTube to sidestep UK broadcast rules - The New Arab"
-        },
-        {
-          "title": "EU could boost market access for UK, says top lawmaker - politico.eu",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zVVgxOHRxLVJYazhCU2hjR1dXdTdMR2p1M2dqSVBJTHhldnI2N3UzQTVqQl9md1UwWUU0VTBkVWpadkt3emhmZzZWTVZ4X3JqTTVjVFkwNjc5NWxEZElBNWFnVFExNV80MVFyaDRXaHZrZlEwWVkzSktjYw?oc=5",
-          "date": "Tue, 22 Sep 2026 14:53:00 GMT",
-          "source_country": "GB",
-          "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "GB",
-          "llm_subject": "EU could boost market access for UK, says top lawmaker - politico.eu"
-        },
-        {
-          "title": "News | Hotel-convention host Manchester at forefront of radical changes in UK politics - CoStar",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVJyMzRfRjVRNjJySXN6NVVMM1RyNTF2WE1OMy1TT3RjNGdhUTFnNWp6T0l5VDRkdnNqU3JRYVViWGxhZUhpSVBhRUQ4WlcxWkV4aHVhZ0JFV1NTc2hZRWNIWkwzN2VkVGhLSzJvSHZGdG9jYnI4S1E3Uk1mRGd6MVE2MTBodE1KSUI5akxLVE9XU09ON2hVWHNjWldXZURvcU5JbmJlMzAxekVaTUJfa1VmMkNnT1lnZWxJWVJB?oc=5",
-          "date": "Mon, 21 Sep 2026 12:29:54 GMT",
-          "source_country": "GB",
-          "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "GB",
-          "llm_subject": "News | Hotel-convention host Manchester at forefront of radical changes in UK po"
-        },
-        {
-          "title": "Andy Burnham holds firm on plan to hand over Chagos Islands - The Times",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnFvZUg2NTVTcWsxMnVmeEhTMzFkU3ZyOExKcWQ5dGJIaGxmUzJuTFU5OEcydDN6UFBjelFWZWhQTnNKTEVoYnFOT1ZLOUNwajNqZjZSeFNKdXZjb3AyNFRMXzRzcUlQcU9GRlBaWmRoOFh6VVlPd1Z0cUZfS2RQU3drQ0ZReThLMWNNZDdnVmZ5cXRLNkVFVmh0TXEwUQ?oc=5",
-          "date": "Tue, 22 Sep 2026 10:55:30 GMT",
-          "source_country": "GB",
-          "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "GB",
-          "llm_subject": "Andy Burnham holds firm on plan to hand over Chagos Islands - The Times"
-        },
-        {
-          "title": "Voting systems in the United Kingdom - Politics.co.uk",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UeFUtS21CUE1MSm8tWmg4Z0FRTXpDYy1rSlVPU2JjVzVtYUVMY1Y2NzVlQnRwUVlRTWs5cUVUWFM2YVVPaG1HRVJBVmprMzZNdTRHdTNYdktFbU9zQTQ4VUdEWl9saGdsN25IQ2ZhTHBQVTN0aHh0SFBmRlZOc0U?oc=5",
-          "date": "Mon, 21 Sep 2026 16:32:13 GMT",
-          "source_country": "GB",
-          "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "GB",
-          "llm_subject": "Voting systems in the United Kingdom - Politics.co.uk"
-        },
-        {
-          "title": "UK urged to ‘team up’ with EU and Canada in economic partnership - The Independent",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTVnSWMyUzJIcVdTWExHRjFyWE9EZ0R2aWE2dFMzd0ZqWVdRYl9EVFFVOEpZaDNwYkRtZmhNVTh2TnRIMUNPQnJaWkpUQnd5ZmtEMTBSNTVLQk5RNHp1OWNobFpqdV8wUHFzZVVQenI0cUd0cUlpTGNlUGx4LXh2aG8yeDQ0VnBjOVF6aG53RnctMUM1RHN4dm9uUzBVX25tcWpYdjljbGVSZGc?oc=5",
-          "date": "Mon, 21 Sep 2026 09:09:00 GMT",
-          "source_country": "GB",
-          "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "GB",
-          "llm_subject": "UK urged to ‘team up’ with EU and Canada in economic partnership - The Independe"
-        },
-        {
-          "title": "Burnham To Send Defensive Military Support To Saudi Arabia Against Houthis - HuffPost UK",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0x4bzBKR2RTQnBHN1E2NmZhUFZCc1FYRmZ5R2VKSy1hU3pzZkpqRkxQNy16STQwVVFTN3ItcV9ueVRBMXpPUE9ISXM0TVNxSnNJdWtpVkhLNzI4RS1xTFR5TnZiMHRoTmh5MThZNDlzNXBvTnFqMUVCUFdOUEdrRmlZc0JPNE5qc1ZoM2dOcm0ySjRUY3ZTeE9yNTI?oc=5",
-          "date": "Mon, 21 Sep 2026 21:26:07 GMT",
-          "source_country": "GB",
-          "country": "GB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "GB",
-          "llm_subject": "Burnham To Send Defensive Military Support To Saudi Arabia Against Houthis - Huf"
+          "llm_subject": "Migrant dinghy heading towards UK was at sea more than 33 hours, French official"
         }
       ]
     },
     "JP": {
       "name": "Japan",
-      "index": 2.08,
-      "raw_score": 0.53,
+      "index": 1.0,
+      "raw_score": 0.0,
       "status": "STABLE",
       "events": [
         {
-          "title": "Japan, ASEAN trade ministers agree to pursue stronger economic partnership - 毎日新聞",
+          "title": "Japan, U.S. and South Korea back Taiwan at trilateral meeting - The Japan Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02UkMzQzFqb3VpRkEwVHhWNU8yOUs4LU9ReW5palRnQ2hnUHhsU1hWZlB3QldwcHE3TjRmM3JPZXZyQlMxbTZfMFZHR3J2TXRMTHpEUHdTVUxkRW1xUllSdzRZdThrX2t4TlBJNUh6LTh2VFk?oc=5",
-          "date": "Mon, 21 Sep 2026 02:06:29 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQel9tVWRRSFR6MVBRdWhTZWZSanp5ZkZmOHd0dmtGUHpnaGM5OU96a2xLbFFZZmxRTWFnckd2Si1sUjIxOXNGcWtPelU3dVloQ2dqQjI0T01zTHphejlQSVlOUmJ5YkdKNU5YQmxtSWZzNHlXaFEtdlN0dTNjamNpb1pRZjdNYnQxVEVvNU5Vbnl2QQ?oc=5",
+          "date": "Tue, 22 Sep 2026 07:41:09 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -498,13 +498,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "Japan, ASEAN trade ministers agree to pursue stronger economic partnership - 毎日新"
+          "llm_subject": "Japan, U.S. and South Korea back Taiwan at trilateral meeting - The Japan Times"
         },
         {
-          "title": "Japan increases its investment in Azerbaijan's economy by 5% - trend.az",
+          "title": "Two North Korea members of Asian Games seek asylum in Japan, report says - The Japan Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93REhwM0NJOTZqV0JnM3dpYklfaGdTcEx3d3dBRmlDbTBoV0d4RXlSSjR3R2E3eVYtVFhlWHp6akZMaXFLNDBTMnFkdWlHTWtleEl0bElJNA?oc=5",
-          "date": "Tue, 22 Sep 2026 10:48:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTJERU1aYW5XaTNSX2toeC1tZlZYS2djd3hsSkJOLXQ0UGwzajMyUHlrX1M5MjE4UTBfMjlzNW9yUXg1VldNdWZUclkxR2VtTmFDTjdZMUQ4Mm1RQ3lOUDJyc3MxcGpuZzZtRl9iY2tMZ3BlczVwV3BYWnp6THFhanZUZDVVTXdERGtHS0x5OXhWN000YV84NjFJaG9iQQ?oc=5",
+          "date": "Tue, 22 Sep 2026 12:37:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -513,13 +513,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "Japan increases its investment in Azerbaijan's economy by 5% - trend.az"
+          "llm_subject": "Two North Korea members of Asian Games seek asylum in Japan, report says - The J"
         },
         {
-          "title": "Japan’s New CIA Could Be Takaichi’s Trump Card - Foreign Policy",
+          "title": "Takaichi faces balancing act in meeting with Trump - The Japan Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRORFdvaDhPQ0xBcFowdVA5ZWtNU3BTdU1qdjBLZU42aEZETUtQTVRaR0xGaHNaVXJINHZsOTlVa21zN05KSzd2VG5wYVl1VW1FaXNHS3dCT3dSd0dLVWhSVS1YMmZKYThjMzRlUlhLQzlMTkJDTW5FSjhrRENwalBCdDJYWTZpOG50dWpTSEZfMm9xNS1POTVvX3Fqb2hwcFhJOW9CLVZjM3BnS1l4MDVjNTVVdkpNM1NwNg?oc=5",
-          "date": "Tue, 22 Sep 2026 13:23:46 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYTNOMXZWb1ItcF9uUHhzcDlVWGI4alRjZTVLdGZvMFl2MW12MWtDYkhESFVBQmZfM25sNndzX0dleUpyV2pJRXNxVDVERTlsbUI5WGJHd1VaeDdJMmFtaTNURDRzTm5wT19iY3pXbTlIeURtaUw3VXMyVFpwSjhiOXRmMklxMV9DU25ISGVRZ2I?oc=5",
+          "date": "Mon, 21 Sep 2026 08:00:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -528,13 +528,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "Japan’s New CIA Could Be Takaichi’s Trump Card - Foreign Policy"
+          "llm_subject": "Takaichi faces balancing act in meeting with Trump - The Japan Times"
         },
         {
-          "title": "National security and the stakes of ‘technology sovereignty’ - The Japan Times",
+          "title": "Takaichi’s pick for parliament chief prompts concern over power shift - The Japan Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGlFMkdrbHc2WEUxSU1Cekg1eXZPVG9sZjNxUFhZNU9Jd0RuRXpobjVHTGxBd3NQSEh0cG9NN2NmSEVpdW1EeXoyUTFsSHBxS3d5LWtvanNjdHhoOWZIanpVUll1VTU1LUdXS2gxQzdSRHNLc0EtdEVhLUdTQVNackduZzVQNHhFVmtWWEdQbVpES050ZFdqZXYwWnB0WkE?oc=5",
-          "date": "Tue, 22 Sep 2026 13:58:36 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcG5EU3FFanZtYnB1dXE2c2xuQzFyV0dTZnc2U1gwd19CdjFmcDI4b2xLVEtMSXI0THlIN190V3JaU1lNREpZM1k3MzFiQktjTFBpdDNqNGFwTUcyZkZkbVFXdXB2bUV4dUpJZHZPODZmUVhrT3p1WGNkZHhzTF90TFZZRDlvMVFaNW5NV1hEcGJhQkhXR19lN09OY00xSVc2VGdkVE1iYS1wODg?oc=5",
+          "date": "Tue, 22 Sep 2026 04:40:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -543,13 +543,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "National security and the stakes of ‘technology sovereignty’ - The Japan Times"
+          "llm_subject": "Takaichi’s pick for parliament chief prompts concern over power shift - The Japa"
         },
         {
-          "title": "US, Japan and South Korea launch economic-security talks before Xi summit - South China Morning Post",
+          "title": "Yoshimasa Hayashi seen as LDP leadership contender after Cabinet exit - The Japan Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcl9zcUZOZzE2TjNJckdHeUJaUmZSMTBxYXl3OGM5eldnd1BnVzM5RU9JS2p4TEpMZVRfcjFjbFV2VEVEeWZlZ05MVHZTSy1taUM3bE1Qb3o1bm9FT180MzgydXQzMWZNeUFaR1pwejY1RnBLR3kyUDktcVpGY1NfNFFOTjF1STFrb19WNTE0QnZqNGdTTVdWQVhIOHZaMXRVSGFlbWRQczNES3FGR3NORzBsLTlWX1o3My0tUdIBvAFBVV95cUxPZ3NHWlBYcTRuREJ6cExqTGNYWHdjOTJpbFVLT2xVS0VaU1BpV1RVbGZZcElHeVVmVmtKa0pKTWRBZldvbVhUdGVac0I1b3VranRoV2ZwUzd2Q29hREJpbzJYajNaNW5ROWtVTWNnVVBoaG1HNmh5RXFEMGRFSWxTWUtDdnBSRlFjY2NEbFVzSVdJTnBOaHV0bVVaenZGZ1BvUXR1M25MbG1HcXJoZDdXLWpncDR5cmxKTnAweg?oc=5",
-          "date": "Mon, 21 Sep 2026 20:22:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVhBdVY3S0EzV08wQmJucV8tLTJCYXN1NW9vbTRsYWpOTWk2dkhXWnBQRFM5ZjUzNnFKd3BqdlR3V2ZWS1EweF9YcFBpYXhYRTRDMFdkLS0wdHlmcW9NZmMyc0VST1pERjM3Yi1iUWtxS3Y1LXVDdEd6LWFFdUUwcDM4YmRETmwza3BPYzRicWE1emVZT1A5c1lYZ2lTZ3VpUFJ1cA?oc=5",
+          "date": "Tue, 22 Sep 2026 02:06:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -558,28 +558,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "US, Japan and South Korea launch economic-security talks before Xi summit - Sout"
+          "llm_subject": "Yoshimasa Hayashi seen as LDP leadership contender after Cabinet exit - The Japa"
         },
         {
-          "title": "Japan Is Creating Its First Centralized Intelligence Agency Since World War II - dominotheory.com",
+          "title": "Flights scrapped, evacuations urged as Typhoon Dujuan nears Japan - KMVU FOX 26 Medford",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHRKd2JJN0RnVDgzdW5ucjVMNHVPcHZZTjIyNEVONElielJiSW9Yc21xTkFqaVQxbHBhNHdlYnpxWndpWnZCUW5OU0NWVmlrcEo1SzVRYzhkdHNXclo0TldIc3RMM2VaSWRCc1N5ZEFZaGUydnA5QjZjZUZ1Q1h4R1l1aUNLZm8zNVlHUi0wUzJvSDJvZk5MQ1pyT1pVZm9TSHMtYkQ5RQ?oc=5",
-          "date": "Tue, 22 Sep 2026 06:41:46 GMT",
-          "source_country": "JP",
-          "country": "JP",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "JP",
-          "llm_subject": "Japan Is Creating Its First Centralized Intelligence Agency Since World War II -"
-        },
-        {
-          "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme - securityweek.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlveHE4alFheEZXaVlFZmVVVUkwZ09OTE1OZV9yQmJjRWNUWnFncVprZ1hCNVRxaEFZT1hZUnRLV1ZNTGdXdFZkcWZwemV1V2FnZmxBS3p1ZDJqQjd5Vzc0SXhRMXVVSTNwUlVVNkNCMUhtVHkxNzJnaDVuR0JpR3hVWGdpSTRfWTAtT3loT3FjbzFkWk1vbllSV2huOUxhMW5BLVRpZVh4SkNQR1pta3ZhNUnSAboBQVVfeXFMTl9TcDFFdTIya1NUMnNiZ1NST1NObjlrUUdjbjhrNFhZczNSVnItMnFqbjl3U21Cc0JWeHJWRjMwNzBLSjBIS2ZzRk9LMGlGNHF6TG5VQ1lEX1MzVDFvcWw1RmZaeUxweE81MTlnbm9JTy1kUm5IdlBVRC12MFpaRVNIRnUyQ09uR0dyWTh2N0k5VFJEdHRBSURVZjBtQWpwVGMyUVpOTEF0NmdmdkhRamhFVzVGWGRpckJR?oc=5",
-          "date": "Tue, 22 Sep 2026 08:37:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOXF0b3NiTVJHTjFRaHBidU81cVA4R2pBVG01NFRhUWE1eWNaV1FaS3drd1NRVE1WZWtTc1E2aXM1UjFtaThublRJZ1dIMVctUVlxN2VHUFlNM3VkbU9kQkZ3VGFoSEJaSXNNR3BzV0J1MHMyVDQ3OXRGZEJWellfM2lJTnoyQ3RpTzA5Ry02RnA1NWl0WlZjQktnN1pRVWpCbVBoRElsTHBqUWRtemdXVlJPZzBPZkhHZUhueHJ5U1hiVWlFYXhQWUhaeHVDWFlBcXlUd2NFM1F4TUg0ZFVDWGc1cWNaczZDM1VVODlR?oc=5",
+          "date": "Mon, 21 Sep 2026 09:34:22 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -588,13 +573,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Sc"
+          "llm_subject": "Flights scrapped, evacuations urged as Typhoon Dujuan nears Japan - KMVU FOX 26 "
         },
         {
-          "title": "‘Cultivate consumer education’: Food security cannot happen without public support, says Japan’s new ag minister - agnavigator.com",
+          "title": "Deepening Ties Between Japan’s Ruling LDP, JIP in Focus as Cabinet-Level Cooperation Realized in Takaichi’s Minister Reshuffle - The Japan News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjVPU3BsV3NfMzZTWGxDV0I4VThpa09nWWd2TUttUFo3MFo2blJvVGM5b0NUejRhUmRiMXNSR05Za05RVnYtUy15ZUNkMGpZVmhaLTZZRHhVRU1lNlFOS3ZpNVRBTlVSWTZ0eThMMGx3ZFh5R3RyMW0taVRXeDAxTGZFUlFDOFhoX1M1QUhVdDV6RDF3dV9iMjQ5WFNhSldLdWJ4VVlRSnFUa0RXbFkyaTJuTzRFM3hwQ3BlVGF1eTdYWGs?oc=5",
-          "date": "Tue, 22 Sep 2026 03:15:14 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaTR6by1fUl9MVGxMM0xOYlIxalQxWlRndGVTUVNUcDlya0I3LVBEYVp5clJ0MDVtMXlRbWd1eVlEbWN5MmV5bGdTeVRERXNUMmo4eFZsTEFlbDlhNUZSZ2dpT0l3cGc1eHlaWEZCV3k3UWJUN1M4eVNnLXdZZmZXQnZYZw?oc=5",
+          "date": "Mon, 21 Sep 2026 04:07:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -603,13 +588,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "‘Cultivate consumer education’: Food security cannot happen without public suppo"
+          "llm_subject": "Deepening Ties Between Japan’s Ruling LDP, JIP in Focus as Cabinet-Level Coopera"
         },
         {
-          "title": "Behind the Headlines: What Motivates and Moves Japanese Elite Opinion on Nuclear Weapons Acquisition - CSIS | Center for Strategic and International Studies",
+          "title": "2 more people confirmed dead after heavy rain in Tokyo region - Japan Wire by Kyodo News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMzAwZ0ROdjZjV05LdkVlUDc3SXRTSnJVM1lsQ2UwWWdmdVNhd2NEenBtU3NJUEUzQ2NxME5YbVhGWmtuVll1N29BNWVwZkl4SmplWXVjTzF3T0NNSXdaUGVTQV9XY2pYd1F3bFNlTUhfaG9GVVlpNDNGdUw2UEt0ekhjVDBLbGV4a0pBMDFmUmxvam1nVF82NnVIS1JLOG1kZHBjYWJZUjBQYm9qazdN?oc=5",
-          "date": "Mon, 21 Sep 2026 14:05:35 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKMVpibGh5X0duaWpEQmo2ZXIyYk5xQVJZUjdUR2dOR0g3Y2lqZ3Zhd2hCY0pMTVJjSkF6SmJMVHl5U3poWlR3c0tNb09TcjdlMjRlVTE3Qkw4UQ?oc=5",
+          "date": "Tue, 22 Sep 2026 08:05:05 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -618,13 +603,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "Behind the Headlines: What Motivates and Moves Japanese Elite Opinion on Nuclear"
+          "llm_subject": "2 more people confirmed dead after heavy rain in Tokyo region - Japan Wire by Ky"
         },
         {
-          "title": "S. Korea, US, Japan FMs set for talks in New York on economic, security ties - The Korea Herald",
+          "title": "4 dead, at least 6 missing after landslides in Chiba, Kanagawa - Japan Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96anJXMjNfbDNfZHk0TmpIbmtfcUVFVUNsa3RXdkdaYVJpbWdONHNiMktIbmk3MFh6TVk5UTc4c3ZiVlFobW1lbTNZdkpiQmV4SzZQN0dLNA?oc=5",
-          "date": "Mon, 21 Sep 2026 10:28:39 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmJlVm5ZdHZMRVY5U3MtcllrTGRrVjFUblEwY1BUcy12eXlmcWREQXFMbnhiZEtfYmRLeHpJX1VXRWwwZnc5SlRqU2RtWnprWFhzVmpSVWlCTTdVLU1GSmRGTGtHX2lFV2pQVWpfZWRic3A1RW80ZF93VFByNVRlUkkzMUZfNVNCdkxVWXlKX19NWWpHM0c3cVJudFRpM1NBS3BF?oc=5",
+          "date": "Tue, 22 Sep 2026 07:06:47 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -633,13 +618,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "S. Korea, US, Japan FMs set for talks in New York on economic, security ties - T"
+          "llm_subject": "4 dead, at least 6 missing after landslides in Chiba, Kanagawa - Japan Today"
         },
         {
-          "title": "PH, Japan lead maritime security, disaster response exercise in Subic - Inquirer.net",
+          "title": "VOX POPULI: Growing old makes one more keenly feel the weight of ‘today’ - 朝日新聞",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3hZWmUxaTBieTNRcVFHN3NZUTFIYmRuRnlyLXktaVZfMHlVN3pGdGs5UFNpRlZkdE1lU1JvZmV1dk92eEUwQXNGbmVHRnpXMzJWcXpBUkxGSkxLMkxZYVM0V3ZKdzVZRnpZbk0tOVFXSTg4S3BxVUs3bkRpUUNSX1JJTEhTdktCWHpZWVh3SUU3cW1ObnlKQVRzZE1jMGpyQzhrNzdOMU9ReC1C0gGyAUFVX3lxTE5rSS03X2lCSTRnTVNyTnFhbzhuUXB2cmhYdUdZWHhRQjhrSlAtZ0I0c3JWVTVTQVc5OTZXcFdrdVQ4VHlGT2E1b1diRW5yWHF4XzVETEhtS0JOTTgxT2JEc0xqZmN5bzhuT0hkdWJZYXVYd0VELUVLMnpLTzVWOUxhMXNFdFJKM3h5VkxDcWxkcVQtS2M3VVRGd1U0S2xFZFZqWDhjN0VXX1RzaW9wTmVMcEE?oc=5",
-          "date": "Tue, 22 Sep 2026 05:25:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUOEg4Y0U4WDVMUmNrd1g4XzNMS1FtM1k0SFFOamI4MUlYYzNSOWR3bkdGejZRb2xQcUd0XzYxMEVjOUIwV2QwdHkwM09SMjdHUE9oZGNB?oc=5",
+          "date": "Mon, 21 Sep 2026 02:36:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -648,13 +633,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "PH, Japan lead maritime security, disaster response exercise in Subic - Inquirer"
+          "llm_subject": "VOX POPULI: Growing old makes one more keenly feel the weight of ‘today’ - 朝日新聞"
         },
         {
-          "title": "Shadow of Xi summit hangs over Trump's high-stakes talks with Japan's Takaichi - The Korea Times",
+          "title": "U.S. stresses backing for Japan, S Korea and Taiwan ahead of Trump-Xi summit - Japan Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnNLOVAtOFpQRGNFckZxcEVyWnJoRE9PVFo3bWJWYmV1aTlQTl9DdllMZ2V2YmFtRnlGcDBnamgzUVQ4Ri1hZDNRU3BGZXEySjlyM3NvbGlCUzJmTktUWVB2SUpOclRwRG0xdC1WODBCRm8xS0FIMUY2THlNdzdEcUV5SFBxcl9IR09zdl84X3l0cGp3MTNSczhqWDdLeFh4MjJ2elZ0b29UQW03UzhoNXBkUmxmcUlnT0FRbtIBwgFBVV95cUxNb1pkcDNIemZFQkJCSlA2RUZrV0hELXc5R0dZTU9TdHFYNjdFYXFnV2gwN192cmp6MW9Tb2dBV2Vjc2R5Z21wYjM0cDRTY3NDd05DR1A2R0g2aW5GM2FQVUJzREVvcWNaQmc0ZDlPZmxDakdpV2c2SkhLSTdDbXpjTmU1MWJTVDNaZkEyT0VNbmVoTm80cHR5aHBYWk9ZOTNCWDlsdnRlWFdUTlBFUFhkSnBvMUFadm9hak5rLTRQdkEyQQ?oc=5",
-          "date": "Tue, 22 Sep 2026 01:26:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1ljcXhWRXhWME83bWtROWVRVTlfZ2pMMUF1QWlnWS1fNDNWVE82ZWRzTF9KQXE0ZjlSTVpYbVhmMFhjMnY1YWF0alc4YnQteGhEbVBjYm5qSXB4aWJOaEUwYlYwcUZaZkNPZ1pjZXQwZHlLRk5ZWHVIRnJCMWY5WTV2NG1ZMHRyckh4bTRfQmo5MjlhcWQyUE1IX0lEUkkzSnpuZ2R4MERwWkNBMXNXRGhDNA?oc=5",
+          "date": "Mon, 21 Sep 2026 21:33:11 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -663,13 +648,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "Shadow of Xi summit hangs over Trump's high-stakes talks with Japan's Takaichi -"
+          "llm_subject": "U.S. stresses backing for Japan, S Korea and Taiwan ahead of Trump-Xi summit - J"
         },
         {
-          "title": "Islands of Discord: Putin's Kuril Visit and the Future of Russia-Japan Relations - orfonline.org",
+          "title": "Fast food from U.S. and China catches on in both countries - Japan Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3oyMVA3dUVLSWdXVUluUW90VlNGWVo2dkZfZWV5LTZHZGh3MWlVaGNid2s1dW1OTmxBSllWa2tKZXUtVjlicnprVGFhTGJxVnUwajQ2RlF6cXJ0eFBGclZ4bjBjUVU3WWJuNXlqejRkOFlOUUEwbWRwQ2tkN1BPM0hOc1pQZ3pWOUhCdjdNaUdEdkg3N3NhU2JFbUMxUVNLNTdwSThROXdrd1FfUWpGamk1bzZVd0d4T1E?oc=5",
-          "date": "Mon, 21 Sep 2026 14:39:30 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDQ1Z0pfOVlHS3N1UWlXQTF6VkFLel96U2syLWdnSUdwWHJjbXp4VTNsZzFSamNyMXZPTDdFbzg5ZWtzVTUzU3NoSFlZR3lxaWNwVDdEVmZ6UVFqQUlodWpHdkJ3LTBPak5UZGRsNWRxQUVGZzJuOG5lSlhBZzNNMlEzeGJEaFlfU2RXY0dzQUxDVktTcDFDWFgxcy1ZQVhOZTVn?oc=5",
+          "date": "Mon, 21 Sep 2026 21:00:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -678,13 +663,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "Islands of Discord: Putin's Kuril Visit and the Future of Russia-Japan Relations"
+          "llm_subject": "Fast food from U.S. and China catches on in both countries - Japan Today"
         },
         {
-          "title": "India and Japan Strengthen Defence Technology Collaboration for Enhanced Security in the Indo-Pacific Region - Defence.in",
+          "title": "China's Zhang beats Japan rivals to Asian Games gymnastics gold - Japan Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQUJOWmZ5TDdhSTJkYVN0cEY0ZUJFeWd5T0stLWRJMGx0VE1LVm9Kd3AzQW0zUFlQSlkwSlpOZ0xIQU5vTXhiWC1CQk8wdlRNSFBnZmpXeGNGYVhqSnpzdzU1a1BSREFVY1piS3N3TG9kZFZCZlBNcDhxWjRfVWg2RGQ0U2RyalMtcFRDb2tUbHhxOU81TWRSaThIMUY0Y1Qya1RnUms3NFNxYXBwa3Y5QnY2MjNLQ3RvWHZ0ZkNPeHM4LWNXMWZ2ZmN5TEVZZzJmMTBvWmtHRXhGdw?oc=5",
-          "date": "Tue, 22 Sep 2026 14:05:36 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlRkOUxwMEdSZXlscE1vbkNNNl8wTTFwQ2pmNWxad0lLMWJvRl9WSGNIT0hGUl8wcHA5eDc2R2lmbkQ5eEpmbE8tVkYxejhXWDBWaGlHQnBGeEJkbDFoalE5M3RZNUVDWmNUWTEzTzlKRmNUWm91LUlyc3BNRXQtRldwcDdycVpFTFA2aHpvTnd5WXhXS3ozQVVtU2FpYXhwWF9QbQ?oc=5",
+          "date": "Mon, 21 Sep 2026 21:00:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -693,13 +678,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "India and Japan Strengthen Defence Technology Collaboration for Enhanced Securit"
+          "llm_subject": "China's Zhang beats Japan rivals to Asian Games gymnastics gold - Japan Today"
         },
         {
-          "title": "US, Japan and South Korea Reaffirm Trilateral Cooperation on Security, North Korea and Economic Resilience - ibgnews.com",
+          "title": "Foreign recruits get behind wheel as Hiroshima bus shortage bites - Japan Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTN6UFFialc1Q1kxN1RnZEJiZ2hwejltZ2c1dWZpaUlaLVlKME5HejUtQktVQTlVVEMxVmhyUDdwSFktUmo1WEM2VXVBU0hzMFhRcEhJYTY5c19wcnNXUkxsbklaU21JUjZ2Tl9EVndpaEVfM0pMTFpablBlVU1xbnhKQWhpVXJ5a0tuOGh1VHdCcjByQ0tIb0ZjWXRneDJSMThJSnVvc2JBSTVDeGs5Q3dZaWx3TG90NUdBZVl5cTNOSm91YVRqbVEwQUVrQjdyOVE?oc=5",
-          "date": "Tue, 22 Sep 2026 05:12:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzVfQzhxdGNXX3ZFN1J3aFBvMDM0bU5pNVpZZnJKc1lxQlE5RllOcGZuckxhbmVZTmNULXBCbzJxY2VVSnVxRzVaaXVORHppV1RKMThHWGp5c1BFQXAyS1JhR3owVDhabl9KV2o5SEo1ZHU1V25wcTd0bzkxTjdMZTJrbFJ1NTMxdVpORlRhRFBIaE81bFlPQ1ZEbGVISlo0SkJnN25jcm9HQ2JEdDYtSzktNzQ?oc=5",
+          "date": "Mon, 21 Sep 2026 07:31:00 GMT",
           "source_country": "JP",
           "country": "JP",
           "category": "neutral",
@@ -708,21 +693,36 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "JP",
-          "llm_subject": "US, Japan and South Korea Reaffirm Trilateral Cooperation on Security, North Kor"
+          "llm_subject": "Foreign recruits get behind wheel as Hiroshima bus shortage bites - Japan Today"
+        },
+        {
+          "title": "At least four killed as Typhoon Dujuan hits Japan - Al Jazeera",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeTFMUzhZa3ROWVllRWt6VDVWVVVPUlFaTmNNejV6dG44X2pOUFhITEttQ2dmUHdZcTdTTThQRkdXNjR6T1V1VnlYNzFRS2xjb1M2d21hY3BaVUc0WGhWVGkzVVBhQWsxZV9FeEVWU2RJbDlxV0xycDgxNTF6ZDdVOElxTEJSSWp1Zm9WOW4wbzJjM2c4U0wwSXVPZ3BwazExcUZLU084UExIZGU2TWfSAbMBQVVfeXFMT2JIWi1ycG9yY3J5VUlNd1hUVnEyeWtNV25YMzNGZVpNdzB2X19fcVhGeWVrcU5OVnNFazNpU2VXajJwMlJmOUtDVkQ4bjBGNUVMZGYzSGhfVkRKWU9YNFkwWUFVVFpLYUJOZmFkTmh3MUpzN2E5WU9tUG4tQmNzLTNhVGdYMC03LTNFNThRUERETk94VGVaNzdoSTRYM1NlMC1nU0Z0aUc5RjdVaVBXQ2FzRjA?oc=5",
+          "date": "Tue, 22 Sep 2026 06:55:05 GMT",
+          "source_country": "JP",
+          "country": "JP",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "JP",
+          "llm_subject": "At least four killed as Typhoon Dujuan hits Japan - Al Jazeera"
         }
       ]
     },
     "SY": {
       "name": "Syria",
-      "index": 3.87,
-      "raw_score": 1.6,
+      "index": 1.0,
+      "raw_score": 0.0,
       "status": "STABLE",
       "events": [
         {
-          "title": "Security Escalation in Daraa and Ammunition Explosions Renew Fears Over Syria’s Weapons Legacy - The Syrian Observer",
+          "title": "Syria's $200bn dream meets an economy in retreat - thecradle.co",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZDZWYV9XN3BSczA0aVBFZGxERUV1LTFYVnNOOVppZ1pzX085UDVfVkZWWmFWMUtQWGlDTXNRdzQ4QkdndWl2ampiTWVfM2dSY2JkWk1DWFBBcFJmeFF4ZGczdmxYQkxkTlFrMkt1ajFkZF93VzRuMXVJeGRaeFZiNllDTDlEQUwwRFBMdFpxaGhJSmVqVDNqUXkyclRWVUVzMUYwRWJ4REJDSjB6RDF1MG1kX2ZQb1Btd0k1ODZ5VjVKVU1pVFFSakd6R2JMM2p2ZlNVLXBn?oc=5",
-          "date": "Tue, 22 Sep 2026 06:35:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBleW52d0lxTkQxY29rSS00Y1ppa1VBa0wwTHpkbUVZMjFhLXp4YjVPQW4zUW1MNjlVOEpRbUdBMVA4Q2Mxd2psWVBpNnI4ZGs?oc=5",
+          "date": "Tue, 22 Sep 2026 16:45:20 GMT",
           "source_country": "SY",
           "country": "SY",
           "category": "neutral",
@@ -731,13 +731,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SY",
-          "llm_subject": "Security Escalation in Daraa and Ammunition Explosions Renew Fears Over Syria’s "
+          "llm_subject": "Syria's $200bn dream meets an economy in retreat - thecradle.co"
         },
         {
-          "title": "ISIL-linked detainees report night raids, extortion, violence at Roj camp - aljazeera.com",
+          "title": "From $20 Billion to $200 Billion: How Much Do Syria’s Economic Figures Reflect Real Growth? - The Syrian Observer",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0UzWk9DcUc4ZWZNejNqRkVDUUVDQ3kwTk1IeHJaanZMeEpReFpUd3B1cjFHMVNKLU9kOWFEbHNRbzJMaURfcGRvbE0yUEJzTDBkRVBJSm52MkhqdUM1N2lRbncwdXYzRGlDU2w3RVJnY0VoOWRERDhnVGlyZ1ZIWWExNENNenh4LXdRUHRHSy1lLVF6eFNRdEFmMTZiaXhyZkYtTGY2Z1Y1eFphanlIQng0Yy15WVE?oc=5",
-          "date": "Tue, 22 Sep 2026 07:32:40 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmJMVE5LV1pvcGJjTXFwS2YwbndSZ1VvU1Q1bU5lV0laQVUtVC10emVpVHd1YVNJN2ZIZkVUY2pVOE9leVdpYmRUSTRaeHBIX3NjZUlrNDloU0tqX2M4WmdPODluY1gtZ3ZvR2xhZGluWV8zUUtUNDBETGtVVkNZeGNTTkNrVWNtZ21kUnczUm9qbzlIUUxlckU0YU1DQ24ybkpsdlY2ZkVmdVRMZnhjOXlJajlVZTA3bnRBemdURGlob01L?oc=5",
+          "date": "Tue, 22 Sep 2026 10:08:57 GMT",
           "source_country": "SY",
           "country": "SY",
           "category": "neutral",
@@ -746,13 +746,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SY",
-          "llm_subject": "ISIL-linked detainees report night raids, extortion, violence at Roj camp - alja"
+          "llm_subject": "From $20 Billion to $200 Billion: How Much Do Syria’s Economic Figures Reflect R"
         },
         {
-          "title": "Unexplained blasts at Syrian military sites raise weapons security concerns - Arab News",
+          "title": "Egypt, Syria seek to build trust through economic cooperation - The Arab Weekly",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOElUaHIwTl9veFNOZWVQenlOSU9DMjdhQW03M3dtb3ZRMXFBU19aMTl3bEpfdzdXclVqRkZ0aXJUcmw2ZEszNzN2LUM5YlVBRUF5VWZDRnZ2R296RWtiQ1J2TWFJOWxLcEhOLTNTRml0aUJ0eUVYajJ1Z1pTVEJVQ3JNcE9keFhrV2FMZlBfS0htZmZqaFBnanJHdzJQV3AzOVpzbHAzTUhKckVfZEh5Wnl3QktqTE9iTkIzTg?oc=5",
-          "date": "Mon, 21 Sep 2026 20:34:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVp2UjljYllsY1BqRmFIWUExbGJzdllKT1BuVFIyNjJKMFB4cm82dXlxZFNlQ2lkVHF5aEVxUzMwVEtkcGJVWnNHYXRrUTdkaVhnSXluNE8yZm9sTURVdURxdHFUQ1otZzRiamFEVHFEMVBiNEZDa3FvMkNodTYxMUlELUptUXdZLUR3?oc=5",
+          "date": "Tue, 22 Sep 2026 08:28:12 GMT",
           "source_country": "SY",
           "country": "SY",
           "category": "neutral",
@@ -761,13 +761,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SY",
-          "llm_subject": "Unexplained blasts at Syrian military sites raise weapons security concerns - Ar"
+          "llm_subject": "Egypt, Syria seek to build trust through economic cooperation - The Arab Weekly"
         },
         {
-          "title": "Senior Syrian figure: 'Israel missed a historic opportunity' - www.israelhayom.com",
+          "title": "Shock therapy threatens post-Assad peace in Syria: analysis - Tehran Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFNFaTZfUjNna0RCN2d2X2cwX1FycWFBNzkyc3RrM3pnbFdIOGR0X2x6Y1JER3k3blpWRlF6VWkyRklvRGtQTkNTT3dEN3JJS3IxRFphc09GYnRQOU1QWFdOQWhrZlpzUnlKRWtVTFJoUmlTMldXQ3Y3ZFZXaFh1eEFSQWtIRmZ4eHQ0V1VncWl2cnVKeUNRcUh4dU5sdw?oc=5",
-          "date": "Mon, 21 Sep 2026 19:37:08 GMT",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUE5senp0bmpCQWJ2ZEI3Y1VITTdwV3RqTjFLdmI2NmJjb0VIeVA0NXBsUHlQaXJsUy1SSWdlWjl4Umd4NzI5VWFYNi1QbmtJSUJlM3BXWF96YkhEMEx0RS1mYW5PYnBfTmlfcnlMcXF2azM0aVNZRWRlVWJvd3F1X3Y0SGVmLTVLMHB5SElaLUNtMG1fbndRWkF2OXo3eGs?oc=5",
+          "date": "Tue, 22 Sep 2026 17:43:18 GMT",
           "source_country": "SY",
           "country": "SY",
           "category": "neutral",
@@ -776,13 +776,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SY",
-          "llm_subject": "Senior Syrian figure: 'Israel missed a historic opportunity' - www.israelhayom.c"
+          "llm_subject": "Shock therapy threatens post-Assad peace in Syria: analysis - Tehran Times"
         },
         {
-          "title": "Israel fears Syria’s army rebuild could create new regional power - The Arab Weekly",
+          "title": "BMW Names Official Dealer in Syria - Enab Baladi - Enab Baladi",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUnM1Umo5X1NxTi1CVHpOdW1sTkFHMUExMExublA1NWNlVE9pZ1Y2dmViZFE0QlNQU3lWS2w3bnhfaFNvWW1rcjNMY3h3cGRDM0hSRXpuOUh5X01mSXlCNUdzXzVHSFNuUUpJZERqdlhYd1Bxei1xbm8tcU91eTZkLW83Nk1nd2t4dHU4RG9UbUpBNC0w?oc=5",
-          "date": "Mon, 21 Sep 2026 08:17:22 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORi1pcEg4aHpYY3hSQ0twRHZEQU1MTVd1RU9fZTI2VEw1aTYzZGxxSHVuUDkzaGk0RzNyYmpKYUhiMUJvMVlKb0VnRk9LX2JQVUdFYWE0UGk3aEJtSXFkN2lQbVpUclVTQnpROWhGSTVlOHAwQ2FhQTdndTFqLVdya19qWlVpMVM2VFJR0gGQAUFVX3lxTE0zMHNCaHpDTWk2Mm5iYkhPV3FwWmtHY2J3ZHJJYXROU1JuOWZyRmV5QmsyMWloMFVJSDl4azdqUmdGdDlRS1pQWko5VVNHSFhSVnRwOG5YWkFsS0dJWVVPSzhOYjExUGxKTV9ZYTRrUmZ3SE11MHBkQ3QxV19OVEhqWnctbVdWNTZ0X1JoeUlObw?oc=5",
+          "date": "Tue, 22 Sep 2026 15:58:03 GMT",
           "source_country": "SY",
           "country": "SY",
           "category": "neutral",
@@ -791,13 +791,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SY",
-          "llm_subject": "Israel fears Syria’s army rebuild could create new regional power - The Arab Wee"
+          "llm_subject": "BMW Names Official Dealer in Syria - Enab Baladi - Enab Baladi"
         },
         {
-          "title": "Syria Opens Investigation Into Deadly Deir ez-Zor Military Blast - Kurdistan24",
+          "title": "September 23, 2026 – Our Press Selection (24 reports, papers, and articles published over the past week on Syria) - Syria Report",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2lvX2lxUTlFOHJGN0RQSG5kQzhjLTlNUXppOGF4S2QyNF9YQXlrcURIQkM5cmlFRGhDWHBNUTVZMWRRSnFIZjhsak1PTE1MS09mUWlweW54U25MamlTaG9MQk90ekFfcnpTXzFVYTd4dDZvUnNhWW1GUGdaUzhMeUJXTDFMdl9sRXQyQ0hEZFJ2bU5ERGJpT0l5TlFCSXJBMkR1a1l1RzhFU2M1?oc=5",
-          "date": "Sun, 20 Sep 2026 20:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHk3eG5yTl9yd0EtUlIzQldURnl5NjQ1ay1uci14ZDEwRUtEeFI2Y01iUFJHVnRiM3RjODRHdmZOU3YzTl9walJuY2NacEd4U1FBUXNHb2puOTZuMlUxbDJyQnU1dUowV0U5R3A0QlhQQlVhY3lLWDFhd2JWS1BWaXFCUHZRbUVyZVJZTUcyM0lvQnNwNHJ4OE5vdFVhMkdURWFkVnlZaEhRdmZNN2dEaEMtb016amhLVk81X1FfSDByX3V4NWpBaEVZdEU?oc=5",
+          "date": "Tue, 22 Sep 2026 10:28:18 GMT",
           "source_country": "SY",
           "country": "SY",
           "category": "neutral",
@@ -806,127 +806,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SY",
-          "llm_subject": "Syria Opens Investigation Into Deadly Deir ez-Zor Military Blast - Kurdistan24"
-        },
-        {
-          "title": "Syrian Shiite Militia Warns Supporters Of Security Crackdown - MEMRI | Middle East Media Research Institute",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOURmWXJWNzBleUdiMGN5VE1ROGo3c285SkxCa3dfdjN2bG9ocmN1UFNFWF9QTUVJMGJxQW8xcFBaLXFlZEtVaGE2eG9aTU4xNTIwUTBxeTZfdVBSVkVxd0tldExMRTVqNlI4YVlHUDlZbzZaMTZPaW1neE1HT3NhUUhVSS05bVVwc04ybkJ1THF5dU5ISlduRS1PYUNoZkJwb0YyOGVKWkZqSGllbXBNUG9aaG9TQQ?oc=5",
-          "date": "Mon, 21 Sep 2026 21:11:24 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "Syrian Shiite Militia Warns Supporters Of Security Crackdown - MEMRI | Middle Ea"
-        },
-        {
-          "title": "Israel raises alarm over Sharaa’s push to rebuild Syrian army - middle-east-online.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTBFeWVTVmxDRUtHU2VhbTZLeVNVMGRtM3VCakxDYnJTVV96QTJnMW1nYVZjV3JhV3Atck51UWxfZjFQTXRLUVV4bW96ZXVGQUhCUHFzZ0FzNnpPM1A2YzU4QWgzWXZpdEtBLUZrcXhuTHhqTTlTUFYzVDRVWVZaVGZ6OG82ajJ4M3JSZEdfOGxjVVdCejNHYmxPX0F2bS1WUlE?oc=5",
-          "date": "Mon, 21 Sep 2026 05:53:12 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "Israel raises alarm over Sharaa’s push to rebuild Syrian army - middle-east-onli"
-        },
-        {
-          "title": "Explosions hit ammunition depot in southern Aleppo countryside - TRT World",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQUtaREt0Y3pCak1hMTRoZXE4WnR4NzVfMlZqeFVkTzI4MVU3c1NDdFhHakpHSGlzMGdHSWIxUnR6T25seGd5MGJicXRvN3FNYVlFNkJ2LXk?oc=5",
-          "date": "Mon, 21 Sep 2026 01:45:37 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "Explosions hit ammunition depot in southern Aleppo countryside - TRT World"
-        },
-        {
-          "title": "Al-Hasakah: Moving Beyond Polarization Toward Stability - Enab Baladi - Enab Baladi",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXh0N0dINlFRQ2pRYkMzR0hMUVVaVXdQcDljREdERVFDQ0QwT3UzX1VINnJHMkpDYW4waUtyaHNtUUZaZFJOZG5fWWhOekNCMFI2LVB2N3JvdFRjclhCc0JhZEhVbkh3QUh1XzBXRWxOUUV6Wmd0ZHNsV1lVNXFhM3lhVVVmY0VvOXlON25ham9nNEoxbjVzUzYtOFc3T3Z4SXIyTUJR0gGrAUFVX3lxTFA4YXVOcHVOM3JScVdBVkJsWXRnNDdzQUE1MmFhZmlZU09TZmhWN1R6aUM3SDVoc0lNMTlyajJHYnhLWmZ5UlRqYXRfX2MzV1c5emotNEFqMVAzREp1Wk5qanBuWHBVWW82enYxX0xnX3ZqbDFOY2lNd2ZPSE9GNjBhcEZhdTNyQVpLVXo1eVc1dG05bV9ZZVJZX29BUGFTczQ2clVVZ1Q0QmV4QQ?oc=5",
-          "date": "Mon, 21 Sep 2026 18:54:48 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "Al-Hasakah: Moving Beyond Polarization Toward Stability - Enab Baladi - Enab Bal"
-        },
-        {
-          "title": "Syria’s military rebuilding raises concern in Israel - Libyan Express",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTVhRXdsTmxOaW9IYWhaaktDbExLWGdXdXo2dFFqckpBZ1pGeC1HRHFLV1QwVFpOell0T1czay16aEw3anF4UVY3d19MYkJDVERBdHVnM0h0VGZxNlNNSGVkX2gxTDZEc1JMOWtYSk5LT1dmMDVxZGsyX1dGWTFFcllmN2hnbWdlUUE?oc=5",
-          "date": "Mon, 21 Sep 2026 06:14:39 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "Syria’s military rebuilding raises concern in Israel - Libyan Express"
-        },
-        {
-          "title": "DG Public Security meets Syrian official - The Peninsula Qatar",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb01kaks5b2h5OUFEMjJiVGZPdzNMblVtSFdWdGNFdXNsZGhoblJycUc5LWRWeFpyUG5KQWNtZS00XzZNSlBMXy1oYmxqdElRcURqVHdCNU9OVFZkTjJ0clJYZVczMl9KNGpMaUI4b0Q0MDY3ajM2RnFLMy1YVXBPa2Q2Ry11enFLMTZGNlREQzZ4b00?oc=5",
-          "date": "Mon, 21 Sep 2026 06:59:51 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "DG Public Security meets Syrian official - The Peninsula Qatar"
-        },
-        {
-          "title": "Don’t talk about optimism in Syria, talk about action - Atlantic Council",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTJlWE51eTBFY20xYS02bUFPTWpiOWQ1SHd2QWEwaHhpRVYzcjhvbC1oam9paXVsQVNPX2otaENJb0lRNlJ3WlNqczVHZ0FTMDJYRi16UlRrQ2tReGRvRkZ6NVlKZUJSY3F5d1NiSlBOMDcyVXlRQjV0X1dGVHVLQURiY1pJb3VGTXBnbDBQd1ZWU1NQeW5yMDlOWjh4dG5oLUZHMQ?oc=5",
-          "date": "Mon, 21 Sep 2026 10:00:00 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "Don’t talk about optimism in Syria, talk about action - Atlantic Council"
-        },
-        {
-          "title": "Syria’s Political Transition: Towards a New Personalist Politics? - Toda Peace Institute",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXJLMlVWeEVfdnA5a2o3VUZoNWljbWpYakRtY3pSMEtRdU1nWmwxQkdXb2xiTzNnLTdJWGctVFlqdzZaNHlvQ0VCR3lfRFB0cUpSVFVOZGN4U2NKRUFqeVNTdk0tXy1yS1MzSGVDSkVzd2p4RXBjcFZ0QW1vU0Q4cmZIQm5JdDVEc3RQY3J1NURmb3RvQWdZSmstSUJWVG9mbnhxbjNYYm1vYjVRbnNYdUZUVzRVVE9HOXNZ?oc=5",
-          "date": "Mon, 21 Sep 2026 04:51:20 GMT",
-          "source_country": "SY",
-          "country": "SY",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SY",
-          "llm_subject": "Syria’s Political Transition: Towards a New Personalist Politics? - Toda Peace I"
+          "llm_subject": "September 23, 2026 – Our Press Selection (24 reports, papers, and articles publi"
         },
         {
           "title": "Cash-strapped Syria needs $831 million a month to purchase oil - The New Arab",
@@ -942,32 +822,137 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SY",
           "llm_subject": "Cash-strapped Syria needs $831 million a month to purchase oil - The New Arab"
-        }
-      ]
-    },
-    "TR": {
-      "name": "Türkiye",
-      "index": 3.03,
-      "raw_score": 1.07,
-      "status": "STABLE",
-      "events": [
+        },
         {
-          "title": "Türkiye's economy remains resilient despite global, regional challenges: Simsek - TRT World",
+          "title": "Syria, China discuss expanding economic and investment cooperation - سانا",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1lTElOYTBLWUd1YnVFM2kzamZGemFZMDJLTV9ueGlzaTR5TWk1ME5vZTVGNjlyMTBWZXhQYmRiampUVFhIREZuM2gzTWxqVzdvd0ZOTzFqSTZMOU5qYk55Zk5IVG9qQUdDWGw0eUwzZFZiNGJQN05lRXB1bXFxUmtnYW96REVYMXdROFNQVzM0OVM1TVBCLW93aFM0N1hJdkgySkdaNmhSNXJJTXJ4bGFQdWdIb0pzRXM0aXlONGlFT25mWFN2aTZjekU3UQ?oc=5",
-          "date": "Tue, 22 Sep 2026 13:47:15 GMT",
-          "source_country": "TR",
-          "country": "TR",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HdGdoU1A0MjNWSEpkX001bXM4TWI5RnNOMDktOGozd2g2ZG5UU2s2aC1OZVRWNldBajdUX0EwejBRSHE3Q0JEeg?oc=5",
+          "date": "Tue, 22 Sep 2026 08:58:49 GMT",
+          "source_country": "SY",
+          "country": "SY",
           "category": "neutral",
           "weight": 0.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TR",
-          "llm_subject": "Türkiye's economy remains resilient despite global, regional challenges: Simsek "
+          "llm_primary_country": "SY",
+          "llm_subject": "Syria, China discuss expanding economic and investment cooperation - سانا"
         },
         {
-          "title": "Şimşek tells US investors Türkiye economy resilient despite shocks - Daily Sabah",
+          "title": "Ukraine, Syria agree to cooperate on mine clearance - Latest news from Azerbaijan",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10U3NncC1HdlF4bUVwWjR4d3EteGZlaVo2Q2Zwei1FanRwTWprakRsazVNZVFEMXZxak1WX0N0aFo0aHZPbnozSEtucHA1ZkRXMUVIQUpVUWxwM1VYSHZsQ0NTWmZzeVJKSW80MER5NDNXZGhWak42Z1BCaw?oc=5",
+          "date": "Tue, 22 Sep 2026 18:50:10 GMT",
+          "source_country": "SY",
+          "country": "SY",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SY",
+          "llm_subject": "Ukraine, Syria agree to cooperate on mine clearance - Latest news from Azerbaija"
+        },
+        {
+          "title": "Syria’s Market Economy: Dismantling Subsidies and Protecting Vulnerable Groups - The Syrian Observer",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHUzczBZOEZ5Rnhvblh2ZDJXLUI0YVhPUnhpUVFoRHNYOXRja0pLSWI1NC1Fb0pnQjBXZHNvQ216QlVoenVtVXhaWVk0ZmpqbmRIZkxjcHluRjlzOF9HV256XzZyYTJ1c0JsLWZva21CTVh2N0FOcTlBOTB2S2ZLaFJ3cFE3c1MycnU1WkZYVEFwNEltek1vZllYakZsTUFQN3lOY2t5UnVMelN1QTFLZjBScFAzMlU?oc=5",
+          "date": "Mon, 21 Sep 2026 07:15:47 GMT",
+          "source_country": "SY",
+          "country": "SY",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SY",
+          "llm_subject": "Syria’s Market Economy: Dismantling Subsidies and Protecting Vulnerable Groups -"
+        },
+        {
+          "title": "Aleppo Pistachio Prices Rise as Farmers’ Profits Shrink - Enab Baladi - Enab Baladi",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjQ2Y0lRNTZYdEw3eFZGWk5xcTZpNTAxT3JCY0MzVTcxLTVKa0tJTThHVzQ5R2o4NFRYS2VmNE9aZWZGRm12TXU3WXhrWGdQMUZ5SUo5ZjdoelhZbHV4X1k5S0Q5WldsOHpmZTg3b3VaRzdBcktJSE1pbUV1bFpGZ2NjOUZZeWpiYWZfX3dRLXVmdmFwbjZGZDNCTHkwZWQzZGg1MVJB0gGrAUFVX3lxTE52dFljRDh1M3pIT3Q1eFptcXNnZHVzbkszR2xzN1RfMnNxYVVnbExub3pNdmJlRjd1SU9uc3ppd0pjZHVsNTFzZkFtWkc2WG9JaUJXQVVXV3NJTmNhVUlwbnF5azlCWlFlRm41Vnh1SHIyblBKTHQ2SzZiNENZMXZpYkNKalh2MUVhM1hHaXJVeG1pYUxtWm5JS3hQWkJzZGRqNzUzS1hSYnRERQ?oc=5",
+          "date": "Tue, 22 Sep 2026 20:09:27 GMT",
+          "source_country": "SY",
+          "country": "SY",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SY",
+          "llm_subject": "Aleppo Pistachio Prices Rise as Farmers’ Profits Shrink - Enab Baladi - Enab Bal"
+        },
+        {
+          "title": "Ukraine and Syria agree to cooperate on mine action - ukranews.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNczlpcDhHVzhPZllnS0FoT2Zub0tUakthYmJzZl9jU3JuaF9mZ0NGU0V3dU11bElFR2t5TWYwYW5QejJGRDVfc091V3hUUnpsU09zSEpPWXFnc255SkhzUWhld2hpdVVwejJUYjQwZVhmTi1ZYW9xSlBGNTh2Y0NjUDRNQU5uTVp2MUt4RFhoTDF3SndpUEFCQjZB0gGfAUFVX3lxTFB4bVFVQUI5em9RU2hsamZfMnN5a0RPSWJEc0J4UlplbVlrRjR5TXdqNnVCYjBpNWFGdVJZNzdQT1plLTlCcWdmaGNZTkFuQ2ZTMTI5WkdDZ0hFdEM2eTVMUVRYc1BaNVIxbTJpWGJxOEY0bFctZW5oaFZDejFBUEtzckVBSzVQVUcxb29EUGYya0dQdktmTm5BSTFHNjV6TQ?oc=5",
+          "date": "Tue, 22 Sep 2026 08:54:42 GMT",
+          "source_country": "SY",
+          "country": "SY",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SY",
+          "llm_subject": "Ukraine and Syria agree to cooperate on mine action - ukranews.com"
+        },
+        {
+          "title": "Arab banking conference opens in Amman to support investment and development in Syria - سانا",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00SGlqcVhCbGZlUUdyRy1tekh5WVh6ajVraUQ2em81bzlFOVNCSjVXeVRkODhLeFJ2eTZ6eXlEaVR1enRtbG0zU21uZTk?oc=5",
+          "date": "Mon, 21 Sep 2026 10:04:12 GMT",
+          "source_country": "SY",
+          "country": "SY",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SY",
+          "llm_subject": "Arab banking conference opens in Amman to support investment and development in "
+        },
+        {
+          "title": "Transport, shipping companies showcase services at CargoSyr 2026 - سانا",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05eHBFdDFDa0VxU3BTQlFzWmdMaktDTVp0cTRaVFFqcTZTZVh0akxtSHdtamczazdubGctSFJjSEQ1LXBxRjY3dUZlYWg?oc=5",
+          "date": "Mon, 21 Sep 2026 20:48:53 GMT",
+          "source_country": "SY",
+          "country": "SY",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SY",
+          "llm_subject": "Transport, shipping companies showcase services at CargoSyr 2026 - سانا"
+        },
+        {
+          "title": "Syria, Uzbekistan establish framework to expand trade, investment ties - سانا",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Nb0VnR21uX1NCQW04MmcxVWx4SVhZb1BJWVJqald2YXZBd0JnZTV2enVRREpPR1hWRThBVzdXcktjSUxxcUZtNQ?oc=5",
+          "date": "Mon, 21 Sep 2026 14:40:32 GMT",
+          "source_country": "SY",
+          "country": "SY",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SY",
+          "llm_subject": "Syria, Uzbekistan establish framework to expand trade, investment ties - سانا"
+        }
+      ]
+    },
+    "TR": {
+      "name": "Türkiye",
+      "index": 2.08,
+      "raw_score": 0.53,
+      "status": "STABLE",
+      "events": [
+        {
+          "title": "Şimşek tells US investors Türkiye economy resilient despite shocks - dailysabah.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcG5UcWd5SkJDd1RIdGZJdFhQNkNwX0FQa3dXSENKOEtaWnRWTFFBUU1acC1hNkwycGt5cWV0R1VoV0h0UkNqVWx0VmtHanhXNmxVYXZueldKaXZkNU5MdkJac3MxWlNmZVZHTnN6UW5TRUZMMnE4bGV5NFA5VDY0Z052YnZpcGJvVHhBcmYwSkNkVlRHTXdRbFotbEJldy1oS1JYb25YR25zNTV3djlF?oc=5",
           "date": "Tue, 22 Sep 2026 13:31:00 GMT",
@@ -979,10 +964,25 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TR",
-          "llm_subject": "Şimşek tells US investors Türkiye economy resilient despite shocks - Daily Sabah"
+          "llm_subject": "Şimşek tells US investors Türkiye economy resilient despite shocks - dailysabah."
         },
         {
-          "title": "Fund bubble bursts in Türkiye, freezing the savings of half a million people - World Socialist Web Site",
+          "title": "Türkiye's economy remains resilient despite global, regional challenges: Simsek - TRT World",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwMUo5S1RhV0lqNVJqbHVsbXNMdzNDU3dIc2JVRVdkTVZTOGRVZGdJSXp3U2hIbTA5MjN4YUVYVXpmb0xyUXRPUDFRaVR1MnBVaF8w?oc=5",
+          "date": "Tue, 22 Sep 2026 15:59:43 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye's economy remains resilient despite global, regional challenges: Simsek "
+        },
+        {
+          "title": "Fund bubble bursts in Türkiye, freezing the savings of half a million people - wsws.org",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibUFzblZRWFUxWEg1UHNadXlRQWd2RHNtTEJKOE5GWm5zNUN1eEhCcG9xRU1jZUZrQUtjaTExNFRzLTZJNkQzQ3N0UFF4R2xsU1piNHN2eGFnaGFpMHpGMXBsMVVCWThV?oc=5",
           "date": "Mon, 21 Sep 2026 04:02:13 GMT",
@@ -994,22 +994,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TR",
-          "llm_subject": "Fund bubble bursts in Türkiye, freezing the savings of half a million people - W"
-        },
-        {
-          "title": "Iran's economy shrinks more than 10% amid war with US, Israel - turkiyetoday.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2hEdTNKNUI0cXpNaXRpS3RzSUhxeWR1QUJ2MXFyQjJiWjh6NDdaOTJkWTdwd3pzRXlYZzY4ZG1lOGFkUDNxWnpNN1hyeTFEcnJJanZvQ0FwTExvNWN0dFZRQ3RQWDNiLUJ6dHFqOWZTLTg2azdXUS1BeGJmZ1d0ZzY2akFCQ3UtV1oybG9FQkRwUUlyWGVJWTlPdUZoeUQ0cnBXOGtVMA?oc=5",
-          "date": "Sun, 20 Sep 2026 20:26:52 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TR",
-          "llm_subject": "Iran's economy shrinks more than 10% amid war with US, Israel - turkiyetoday.com"
+          "llm_subject": "Fund bubble bursts in Türkiye, freezing the savings of half a million people - w"
         },
         {
           "title": "Iran economy contracts during US war: Official statistics - Hürriyet Daily News",
@@ -1027,7 +1012,7 @@ window.WTI_DATA = {
           "llm_subject": "Iran economy contracts during US war: Official statistics - Hürriyet Daily News"
         },
         {
-          "title": "Consumer confidence in Türkiye hits over 8-year high - Daily Sabah",
+          "title": "Consumer confidence in Türkiye hits over 8-year high - dailysabah.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdm5mVTJFWFMzVWRrOHVvZ1hYeU5jTDZpVmpkb1JZUjFGS3MyazRlaXNkV19pZXhCaExuV0E0MzgzOWFFdWNkYnhpcmVoR05SZFhYTkkyRTdJTkF4VVA4UFk3OXU5V1VUX3d5a2ttbWFTMUV0YzlWVHA5Si1OUUZqU1JpQURDQWRSVnNDR3dFWjdzRlNvMFFVRFdMQ00?oc=5",
           "date": "Tue, 22 Sep 2026 10:51:00 GMT",
@@ -1039,13 +1024,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TR",
-          "llm_subject": "Consumer confidence in Türkiye hits over 8-year high - Daily Sabah"
+          "llm_subject": "Consumer confidence in Türkiye hits over 8-year high - dailysabah.com"
         },
         {
-          "title": "Türkiye machinery exports reach $18.8B in 8 months - Yeni Safak English",
+          "title": "Turkish households upbeat on economy as consumer confidence at 8-year high - Türkiye Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFZmaG9XOTdyNUFxcVJKSFg1dDJIanItb1MzVDliaXdicXVnaXFzcDZVazlBQkNXZVZGNkJEekhMRTdWaGczbmFScHRYSS1uVnh3YU9VREZvZW95UzdyOTZvcEh3R01BT3diZW44Z2IzY0cwbFRJUjRBM2JkcnlXdU4za1dFVU5XTFMwbjBPNGYyMjg?oc=5",
-          "date": "Tue, 22 Sep 2026 11:55:33 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkZCbmpVLU1pU3BmMjd4ZlUyX1NmUUdRd2xTc200bUg1VmN4bzZ2WGIteDRIY2loUEpwNV84OWFNVUs3V21qdTYtZGNLaktWeldYRVVlcDY1alZiMWktN2NmalpYVC1xam1EMER4bXdIVWRFNHRBYW16WV9oYkJlaEl6XzZSR0hiQUNRTVBFWXhudXAzRVYzSFlqZU5oMXd1aTEyTG94ZDk4N3BHbmZDclFoRE9NVTJxa0hBMQ?oc=5",
+          "date": "Tue, 22 Sep 2026 09:09:12 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -1054,7 +1039,67 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TR",
-          "llm_subject": "Türkiye machinery exports reach $18.8B in 8 months - Yeni Safak English"
+          "llm_subject": "Turkish households upbeat on economy as consumer confidence at 8-year high - Tür"
+        },
+        {
+          "title": "Türkiye sees over 10% rise in trade with US this year: Minister - dailysabah.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNG9QWWZVQlFhZnZJNjBjUGJoR1piRllEZWtPU09JZ0FlZ3VYakgxdFZUcnpOc3NEb1otblNyejdsX3RhVDFLWGtZSk5uYUJ3WXBqVmdsY2tKZ0VHVTgzLU5nM1lPdDU0YS1CeVpPUXo1Z210bzBMU1I0eUMwdWswN3NsRmx1RVJtMm9qeGRSTTJYVkZEclVaaW5kXzBEclhhYnlvR3UxQko?oc=5",
+          "date": "Tue, 22 Sep 2026 12:25:00 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye sees over 10% rise in trade with US this year: Minister - dailysabah.com"
+        },
+        {
+          "title": "Kremlin blames Germany’s economic woes on loss of cheap Russian gas - Türkiye Today",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHkzNkhMeDFqSkRJV3c5OVR2bXlqRjNueDNlTEk0UVdqdWJITWUzWnB6U0VEUURrdW1nVHhtV0VtQm52M1JuZGZveTFUTFhpTEhPVmF4RjZaTEdBZW5tbE1ua2RWSlNoajhfZFFuTm4xMEp3dlpHMnNSQzNZX3BWandvOU55c0FKTDNJcFFQbC16NXpFT1lXdzRFbjF4RENqNWV0T1BXSm0tS0ZScFE?oc=5",
+          "date": "Mon, 21 Sep 2026 12:51:19 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TR",
+          "llm_subject": "Kremlin blames Germany’s economic woes on loss of cheap Russian gas - Türkiye To"
+        },
+        {
+          "title": "Türkiye manufacturing capacity utilization, business confidence edge higher - dailysabah.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSk9Wc3RNcC0xNjRnb3d1bjM2eF9vWEFKZjFRNlpyQmxnTzBReDEtTzJuMzhKZnlEV3pGYm5FY3EwczkycEtuUHBMX2ktSFlUem5aTjNDay1FSlpXWHJzU0M0ajE3dUZSWDZacjVKVUtJc1dNVk5CeGF5d21INTNSZWdEVzB0LVV0ZmNLNXVnZnd3SjN2WVZta3VseUU3eXlIaWVmUEY2dTJ2c1RYVEpjOWlMTExDWUwybEE?oc=5",
+          "date": "Mon, 21 Sep 2026 14:04:12 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye manufacturing capacity utilization, business confidence edge higher - da"
+        },
+        {
+          "title": "Türkiye projected to hit $1.9T in economic output by 2030, IMF says - Türkiye Today",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkduSUxmRTRid1NLNFYxS1FHMkNYcFBRTmhFYkwwYU9aOGJnalpPcjhrb2wyaGVoY04wQlMxcU1JZVl5TmFvbHlkT3R0M0xJVnNDYk82blRJTHNEbl9WYk11Rnp5dEtTVW0xbV9OTG8tZ1RaaXJFU2R6eHZyWVVqQkZuRnc2Z2RsaW9VTnZMMmNRYWtscUdjQzBsLWx1SEJwYkpZMm1zQUphQ2Z3dXhJ?oc=5",
+          "date": "Mon, 21 Sep 2026 04:11:21 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye projected to hit $1.9T in economic output by 2030, IMF says - Türkiye To"
         },
         {
           "title": "US, Türkiye dispute over S-400 'will be resolved' — US envoy - TRT World",
@@ -1072,82 +1117,7 @@ window.WTI_DATA = {
           "llm_subject": "US, Türkiye dispute over S-400 'will be resolved' — US envoy - TRT World"
         },
         {
-          "title": "Turkish households upbeat on economy as consumer confidence at 8-year high - turkiyetoday.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkZCbmpVLU1pU3BmMjd4ZlUyX1NmUUdRd2xTc200bUg1VmN4bzZ2WGIteDRIY2loUEpwNV84OWFNVUs3V21qdTYtZGNLaktWeldYRVVlcDY1alZiMWktN2NmalpYVC1xam1EMER4bXdIVWRFNHRBYW16WV9oYkJlaEl6XzZSR0hiQUNRTVBFWXhudXAzRVYzSFlqZU5oMXd1aTEyTG94ZDk4N3BHbmZDclFoRE9NVTJxa0hBMQ?oc=5",
-          "date": "Tue, 22 Sep 2026 09:09:12 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TR",
-          "llm_subject": "Turkish households upbeat on economy as consumer confidence at 8-year high - tur"
-        },
-        {
-          "title": "Türkiye sees over 10% rise in trade with US this year: Minister - Daily Sabah",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNG9QWWZVQlFhZnZJNjBjUGJoR1piRllEZWtPU09JZ0FlZ3VYakgxdFZUcnpOc3NEb1otblNyejdsX3RhVDFLWGtZSk5uYUJ3WXBqVmdsY2tKZ0VHVTgzLU5nM1lPdDU0YS1CeVpPUXo1Z210bzBMU1I0eUMwdWswN3NsRmx1RVJtMm9qeGRSTTJYVkZEclVaaW5kXzBEclhhYnlvR3UxQko?oc=5",
-          "date": "Tue, 22 Sep 2026 12:25:00 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TR",
-          "llm_subject": "Türkiye sees over 10% rise in trade with US this year: Minister - Daily Sabah"
-        },
-        {
-          "title": "Kremlin blames Germany’s economic woes on loss of cheap Russian gas - turkiyetoday.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHkzNkhMeDFqSkRJV3c5OVR2bXlqRjNueDNlTEk0UVdqdWJITWUzWnB6U0VEUURrdW1nVHhtV0VtQm52M1JuZGZveTFUTFhpTEhPVmF4RjZaTEdBZW5tbE1ua2RWSlNoajhfZFFuTm4xMEp3dlpHMnNSQzNZX3BWandvOU55c0FKTDNJcFFQbC16NXpFT1lXdzRFbjF4RENqNWV0T1BXSm0tS0ZScFE?oc=5",
-          "date": "Mon, 21 Sep 2026 12:51:19 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TR",
-          "llm_subject": "Kremlin blames Germany’s economic woes on loss of cheap Russian gas - turkiyetod"
-        },
-        {
-          "title": "Türkiye manufacturing capacity utilization, business confidence edge higher - Daily Sabah",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSk9Wc3RNcC0xNjRnb3d1bjM2eF9vWEFKZjFRNlpyQmxnTzBReDEtTzJuMzhKZnlEV3pGYm5FY3EwczkycEtuUHBMX2ktSFlUem5aTjNDay1FSlpXWHJzU0M0ajE3dUZSWDZacjVKVUtJc1dNVk5CeGF5d21INTNSZWdEVzB0LVV0ZmNLNXVnZnd3SjN2WVZta3VseUU3eXlIaWVmUEY2dTJ2c1RYVEpjOWlMTExDWUwybEE?oc=5",
-          "date": "Mon, 21 Sep 2026 14:04:12 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TR",
-          "llm_subject": "Türkiye manufacturing capacity utilization, business confidence edge higher - Da"
-        },
-        {
-          "title": "Türkiye projected to hit $1.9T in economic output by 2030, IMF says - turkiyetoday.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkduSUxmRTRid1NLNFYxS1FHMkNYcFBRTmhFYkwwYU9aOGJnalpPcjhrb2wyaGVoY04wQlMxcU1JZVl5TmFvbHlkT3R0M0xJVnNDYk82blRJTHNEbl9WYk11Rnp5dEtTVW0xbV9OTG8tZ1RaaXJFU2R6eHZyWVVqQkZuRnc2Z2RsaW9VTnZMMmNRYWtscUdjQzBsLWx1SEJwYkpZMm1zQUphQ2Z3dXhJ?oc=5",
-          "date": "Mon, 21 Sep 2026 04:11:21 GMT",
-          "source_country": "TR",
-          "country": "TR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TR",
-          "llm_subject": "Türkiye projected to hit $1.9T in economic output by 2030, IMF says - turkiyetod"
-        },
-        {
-          "title": "A cash squeeze? Here's what really happened behind Türkiye's fund run - turkiyetoday.com",
+          "title": "A cash squeeze? Here's what really happened behind Türkiye's fund run - Türkiye Today",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDVpRU94Ml92VTctcy1mQjlyTVk2Mi1VXzljdzd3dkd1a2wtN0VROWhHSDFCRy01ZW9kbHBYMUdkWXNha2NCNk40UnlhN0t2eGZYdHRZdW5jTVZPRWIzSlNqRUVVMTctWGlyR1M3MlB3RGZsVEJfczBLYkF1Sjh6SnNUdlVDdVZpVkhoOFhJZzNMdGx0MXpiZnNCeTNsaHZUc0o1MzlWYlY1OFhoeHdF?oc=5",
           "date": "Mon, 21 Sep 2026 08:27:50 GMT",
@@ -1159,13 +1129,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TR",
-          "llm_subject": "A cash squeeze? Here's what really happened behind Türkiye's fund run - turkiyet"
+          "llm_subject": "A cash squeeze? Here's what really happened behind Türkiye's fund run - Türkiye "
         },
         {
-          "title": "Türkiye's BIST 100 down at open - Anadolu Ajansı",
+          "title": "Türkiye's manufacturing industry capacity utilization rate at 74.2% - Anadolu Ajansı",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4dW9weHFwZURBNUlJMWZBTkJ5N1NaemJIcXR0NEl1LXFRV1J2ek5nTDJ2S3dWNjJndTB6MjdFb3hudUxFdjVlZHZFQ0VqNGZGRi0wTVEtd0loWUdlekZKN2NaTV9DVllvVlR5Q0p5eExjSDNZV3c?oc=5",
-          "date": "Tue, 22 Sep 2026 07:25:30 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb195UTlvay1zN015TFl4LTBIV0hISnN2VHE1YjNiZTAtNnlwc0g2QVJnYm1qdTBzcDlKYVMwUHd4akdzR01GSHhnSE15alp1bXMzOHczRzI5U0FRZ1Joc0pLVHlaRXNEcG9zQmxsZ3RMYmVCVi1YeU1tT0p6R3hlbU5kQ2UwZ1F6T3hhRUxwTDEwekJzeF9obEE1X0QwNmYxTXJBWWZQNGo5dw?oc=5",
+          "date": "Mon, 21 Sep 2026 08:08:48 GMT",
           "source_country": "TR",
           "country": "TR",
           "category": "neutral",
@@ -1174,21 +1144,51 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TR",
-          "llm_subject": "Türkiye's BIST 100 down at open - Anadolu Ajansı"
+          "llm_subject": "Türkiye's manufacturing industry capacity utilization rate at 74.2% - Anadolu Aj"
+        },
+        {
+          "title": "Türkiye machinery exports reach $18.8B in 8 months - Yeni Safak English",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFZmaG9XOTdyNUFxcVJKSFg1dDJIanItb1MzVDliaXdicXVnaXFzcDZVazlBQkNXZVZGNkJEekhMRTdWaGczbmFScHRYSS1uVnh3YU9VREZvZW95UzdyOTZvcEh3R01BT3diZW44Z2IzY0cwbFRJUjRBM2JkcnlXdU4za1dFVU5XTFMwbjBPNGYyMjg?oc=5",
+          "date": "Tue, 22 Sep 2026 11:55:33 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TR",
+          "llm_subject": "Türkiye machinery exports reach $18.8B in 8 months - Yeni Safak English"
+        },
+        {
+          "title": "Erdogan calls for UN Security Council reform, urges abolition of veto power - TRT World",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFM3UjFSNmJxeVdKejB1M1lWRlc5T1FjT0EwV1FYeHFSWENsVVlWZTZVd3hjWm5ucUIxNGt0N0ktN2NMVmMxNzRwMm1xcElxSWRnVlVzYzVkcWtYdGlxOUZJdVVmVEZIUmNJVURxelNkMFQ2clJ6ejl6N3doRTZHaHJZQ1lBbU9IRzhGQWtJQ2FWN1Btem9FWnhqa0M0Wk9uNjJ1S1Q5OUp4dmhSODZIWjBKT1MtaUdocTVoU05DZUV3eUZTN1VKNXdfcDV1QQ?oc=5",
+          "date": "Tue, 22 Sep 2026 07:59:51 GMT",
+          "source_country": "TR",
+          "country": "TR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TR",
+          "llm_subject": "Erdogan calls for UN Security Council reform, urges abolition of veto power - TR"
         }
       ]
     },
     "UA": {
       "name": "Ukraine",
-      "index": 5.82,
-      "raw_score": 3.2,
-      "status": "ELEVATED",
+      "index": 7.42,
+      "raw_score": 5.2,
+      "status": "CRITICAL",
       "events": [
         {
-          "title": "Ukraine war live: Trump says ‘unfortunately’ Moscow has lost control of oil industry - independent.co.uk",
+          "title": "Russia and Ukraine trade strikes ahead of Zelenskyy's meeting with Trump - PBS",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzU0Vk5aWjN3V2szYWU5UGZ5Vm9iMUsyRElESWJiMnV2LXVpckRBbGpGYzFuVWRaUXptUWZuTWxhdkM5bnhOYndiLXFwLXZWMVpUZGFweS1KNU1ySi1FTFFtS1JONFBGdlVCX3ByWUljZWpZcEY3S0hsLXJTSFBtMnNSdnFmRDFocW1aV0Y1bHpWSUYzUENabWZTNVhBS0M2RWtaYm8ydC1XYTVScEw2TjBzNWRCVWNQdlNVQQ?oc=5",
-          "date": "Tue, 22 Sep 2026 04:55:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR29EU0k1LUkyU0RrNzJLOTRfMl92RFYtNWxGU0UtVGQ1N2JUdGdCcTdkdXZ5VU4za2I5Rmd2RDZhT25tZGhBYkpPT3dsZkZDbC1PaHIySW42aHZZV29JX2JBRDJObHVRcGl2WjZKbWZadG9Ga2RFd3NqSUJXOXg5OHF1QXZUSFVPRFliLWRhdWZKcm9FcDZ1bmJBTzNfYXBhYTBpWjNiY29lQdIBrwFBVV95cUxOWnJDSV83cHJMcTRjVVY1RWNXNENsOHZTMl93emJHYUo5N1FEdnJuODVaT2UwaGp4YVpjdFNNbUtXY0RRTDBnVVhQVkNsSzAxdlY2cHI2S1lDVXhWajdDOExMNS1zNE1PSDdqOWNhZHRSUEZuc0FmUG04LWIwMmRDbGdQcjI4NS13QkktS2V6UUlHSVMxYlFzTmlXd3U0NWJJdDZ2R3ZDd3I2NHBFRlRJ?oc=5",
+          "date": "Tue, 22 Sep 2026 19:02:52 GMT",
           "source_country": "UA",
           "country": "UA",
           "category": "military_conflict",
@@ -1197,73 +1197,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "UA",
-          "llm_subject": "Ukraine war live: Trump says ‘unfortunately’ Moscow has lost control of oil indu"
+          "llm_subject": "Russia and Ukraine trade strikes ahead of Zelenskyy's meeting with Trump - PBS"
         },
         {
-          "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live - The Guardian",
+          "title": "War Has Never Been More Irrational - prospect.org",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzlhaTlQUmVDQUtMdW9xUUdCOU9mMXhGWDZnTm5LSUM3NXlfcnVvT1VXWTYzNnVMWXllVUJLb0xUaUlobHozOC1MLXN0MFBLWjlvU1dFRWhMZ3hnMjBqUEpWVWpvOG9iaWJyZS1KaXRqYzItNU9YYmhISTJ6YXVUQ3FvMFpiM1Q1VEhCeUczNU9UNDVCMXBIZ3ZlZ0JWY2ZnZnlhUFVncXZuakpHdlhqdjRDQmVvSjdKVTJUZnlMdw?oc=5",
-          "date": "Tue, 22 Sep 2026 10:36:00 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid "
-        },
-        {
-          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial - BBC",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BYzRxRVRMOERRVkV6cTd5WkI1VmstQXRxOHJfa1k3elBsQWpEV2xTTVh6SnU5VTZ2cWxPZ3NWQXFHbXR3RjJSb3NRYUxITDhIX2xKLUpWY2I2dEk?oc=5",
-          "date": "Mon, 21 Sep 2026 00:05:11 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Russia's elections had few surprises - but how the Kremlin uses the results will"
-        },
-        {
-          "title": "Ukraine News Today: Breaking Updates & Live Coverage - September 21, 2026 from Kyiv Post - Kyiv Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TQVFwREV4cmV0cUJzSHB3cjdhXzhCSWZOdEJtZ0JpQ2VIeVZTMTJ5c3FVeXY1N0ROZUlPa2c3VUZfejQ3TU9TT1FZVkxrQQ?oc=5",
-          "date": "Mon, 21 Sep 2026 19:28:09 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Ukraine News Today: Breaking Updates & Live Coverage - September 21, 2026 from K"
-        },
-        {
-          "title": "Trump set to press Zelenskyy at UN to agree to energy ceasefire with Russia - The Guardian",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMll0dm9TbTA3S2FLNzdOYmNJYVpoR0VGakMtU0tNS0pZU0VhYjNLNVlJS1REQmdkdmc1UkhpQlJEcEFJeVRtQUcyMEtuZTRiZUZYc1haeHB0Q19ZZDMzRUg4NXpFYUUyQWFVbllqbURGSHFRVTc2SGlESktEQ1FoaEZFeXFoLWJNRUFpZHR3?oc=5",
-          "date": "Mon, 21 Sep 2026 16:54:00 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Trump set to press Zelenskyy at UN to agree to energy ceasefire with Russia - Th"
-        },
-        {
-          "title": "Ukraine-Russia war latest: Trump tells Putin to ‘settle the war’ as Kyiv strikes more oil refineries - independent.co.uk",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakdDOFRGWW5meEtDZ2lFNXB1VEYtOXNUQWdjdmVlVWZmajByUUwyRV85NGRvdGpEZWdFazhQVmhKd3NBc1VKLV9rZVRXdnZRV3BVRWhDUFQ5ZXlWRzY3MVZERWlTWmVnZVNEVWc3Q1pDbDRpSk9Gb1FKTENBSnd6VlhyR2hyclo2b3U0cUFEUDlXdlNqVkJ0Q0RsX0s4MS1GdEtJX1hhQ3M5Z0F0MkR1VGdaZDNETl90VGtyMWJR?oc=5",
-          "date": "Tue, 22 Sep 2026 16:09:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWEtdngzWDV3Y19qRWNFbVBuSUFmeDFTLXdTNnZ5OTVIb1FQTjRwSDVxNWlxVXI3bnF2MTNTcXNxSkhGUVJxOXdGcUowbGFhVmhUNTNYQnNCRVA1NkI1anYyYzhZUTZpSW1mSzdKblpneHZZV2sxRXpmQmF3bmdNU1ZBaDhDaElmSkJj?oc=5",
+          "date": "Tue, 22 Sep 2026 09:15:00 GMT",
           "source_country": "UA",
           "country": "UA",
           "category": "military_conflict",
@@ -1272,28 +1212,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "UA",
-          "llm_subject": "Ukraine-Russia war latest: Trump tells Putin to ‘settle the war’ as Kyiv strikes"
+          "llm_subject": "War Has Never Been More Irrational - prospect.org"
         },
         {
-          "title": "Ukraine latest: Russian exit poll projects comfortable win for Putin-backed party - independent.co.uk",
+          "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump - KCRA",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOWNXMmRodFBWb0ZJOGd5aW9hTlk1STZDNENQMmhCYjQxdWU2NEZDWVQ4MzFwc0hmVTB3Q2xSZEJSRHA5dF9YMElHakk4Ny1RQmctbHBLdnhwaklMaTJqZFZFeGNpVDVkVUxfQmZwRVNGNDVXQWpDcVEyY01mWDd6MWVTRU1HVnlVOXVpQ0ViOUlYR3RRM29WNVEyYWFDUVRFaVdtVE1feTJ4SDRybjRKNTl3Y0dRXzVLWWppUDgyNFh2Rjl5eUZyMlR1RmQwNlUxOVZYLW9sTXdKWmI3?oc=5",
-          "date": "Mon, 21 Sep 2026 06:52:09 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Ukraine latest: Russian exit poll projects comfortable win for Putin-backed part"
-        },
-        {
-          "title": "Ukraine war latest: Zelenskyy responds to Trump post about Russia 'losing control of diesel oil' - Sky News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnNCS0haR3RRcmdWT2JjOEhpYV9GNTFNZldCbnFVRjJSQWM0bDE1Z2FwWTZNdlY5cmJDNHZyeW85Y1UxMUl2aC1SbFdYY0dnOU80NXh2TFlEcmtGUnBSdmJuUzF0N2psdkZfWjhOUWpYVE5qeFhFVTI2S3RNRUNuRXJzOTlXOXR3T1oyemZDZGptVU4yenkySVl5Q2c1REVZZHk2M0dyMGIzRG1TVUx1aXpQN1JGUG9TbE5SQmVDbw?oc=5",
-          "date": "Mon, 21 Sep 2026 06:14:40 GMT",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zVE9SOUhJWDRxWmNLUGhZRG9WaGlfZ2REZHZlR3RMM2tyVUJjSWNXaG15bkFmVkcyWF9qZDA0eThEQUVrUkpvSWU5aUdVQ1lITFpDN2lSWE9iQkUyVHZSbnhzOVdvNnVkOV9vdkJNblg?oc=5",
+          "date": "Tue, 22 Sep 2026 11:43:00 GMT",
           "source_country": "UA",
           "country": "UA",
           "category": "military_conflict",
@@ -1302,13 +1227,28 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "UA",
-          "llm_subject": "Ukraine war latest: Zelenskyy responds to Trump post about Russia 'losing contro"
+          "llm_subject": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump - KC"
         },
         {
-          "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war - CNBC",
+          "title": "IMF to help Ukraine find some funds for next year, Zelenskiy says - Reuters",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3VOUDE2WFpHSE50Nk40elJZZ1pObDJFano0bmpvN2ZpMmJrc2pJSVlqTlQ3QTFySFNnZldHLUR0T3U3UGpEaV9MazBNNldTY1dCRm5tY254bWFhYW5rQkk0bXpiT0tkX3FzdHQxbThaaTJWakM1X29YclJuSDFNS0xzdUhpSmhaZWp4U9IBkgFBVV95cUxNTnlqQ25DZ1V5RUY1OXB6UFFCYzZuV0lIM3d2Z1ByT2F0ZlJURVhUQlFvWVp6QlU4UkhJRTJQVTgxaWwyY21TUWhfVHd5NWxFQjNPMkFvcFdVTll4RlRNd2lONy1FLVlCZUhGOWdwZlFFUHozRHZsNVhvdU84cHh0Z0YtYTY0UHJnQ2NuZUpLZEE1UQ?oc=5",
-          "date": "Tue, 22 Sep 2026 08:54:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEhpX0NkTFFRRThRdTlvSTR5UVFIUDl6aTZ0VDU4akhWeGRRdjBsLS1QTVM2MUdjUUxKb3VzZldGMlI3bG1BSXBCdjZYYmRPejdmRDQzZ25zZlU0dVM4c2hBNGFmQXdOdTJqVm1FWUhNalF1aEJOX0ZMbTlLR0g0SE9EOElfdlFOSzNjaF9hSjQ1dWhBZ2hUQnRpVE54dG5uSUNZZVI4TUphQQ?oc=5",
+          "date": "Tue, 22 Sep 2026 18:47:43 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "IMF to help Ukraine find some funds for next year, Zelenskiy says - Reuters"
+        },
+        {
+          "title": "Russia kills four in strikes on Ukraine before Trump-Zelenskiy ta - globalbankingandfinance.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTFqaHRsT0YzQzBIQUFWRXpPX19ORGdxYm0wUW5UQ3JlbElhdnI4a2d5YTJUb1FWMERCdC1yUlh1RmpwUTA5NG5hVFJDOTUyZjJXSGE0N0x4VnZXcTV4R2RYamxPYWRsaEppWDFiS3VwcXJ5ZUxfRklCU01yZklDNDRFSmF6RGZxMi1MVndLekROVXdZN2RGOHd3?oc=5",
+          "date": "Tue, 22 Sep 2026 13:16:23 GMT",
           "source_country": "UA",
           "country": "UA",
           "category": "military_conflict",
@@ -1317,43 +1257,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "UA",
-          "llm_subject": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil"
+          "llm_subject": "Russia kills four in strikes on Ukraine before Trump-Zelenskiy ta - globalbankin"
         },
         {
-          "title": "Putin is using Trump to stall for time in Ukraine, Estonia foreign minister says - usatoday.com",
+          "title": "Russia hammers Ukraine steel industry as part of ‘economic war of attrition’ - TVP World",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemlTd2tCck1EMzhjWGJNYUNTNm9PUzBCZGh0VmN4bjNMTGhVQnBKWncwMkp3U3B2azhtY2xiSnNmTDZrYV9LZjhVMTI0S3pXcTdjb3MtSkR4TXBHM3pJakNXY2dORndXbEZUZXMxb1hZZnhJckVQem5VSkdIMGpFQUF6bFpELVdPNUZLNG9ZdGFMV2JXQ3FndWRTNjVSS3ptZjJwUWNVUVVsdmpXZzBLd2Zn?oc=5",
-          "date": "Tue, 22 Sep 2026 16:42:00 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Putin is using Trump to stall for time in Ukraine, Estonia foreign minister says"
-        },
-        {
-          "title": "Ukraine News Today: Breaking Updates & Live Coverage - September 22, 2026 from Kyiv Post - Kyiv Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zd0dTZVd1YzZ4bzFrbkVOYWFTMjNKLWh4Z19STlUtcE1MM09ad3BiTFVDOXoxa3pTQ2VoS1p2aXMwZ0xTdnFHb0xfYzVwUQ?oc=5",
-          "date": "Mon, 21 Sep 2026 22:29:44 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Ukraine News Today: Breaking Updates & Live Coverage - September 22, 2026 from K"
-        },
-        {
-          "title": "'Pivotal Meeting': Volodymyr Zelenskiy and Donald Trump Will Meet Today. Here's What's on the Agenda to Try and End the Ukraine War - 19fortyfive.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUG5FMmJiZExBMHZRZzhlMmh3aUdtdG1xeW5vVTBQd2hLN1pFMy1tSnhNQjd6bWRMUW9OZFdadlVBWGJrbi1td3c1bnpFbXZkcTRUa3RxcXowRHdTRzFZNDVGYjJPcFJNUEctSFJqZC1nWkI0NGtuVjhrc21TQVltY1hpTXlWNGQzNHA5RkNUQ1FMeW5tc295SUVjUXhNWHNYNkdTRTdnUW1tMm1IZ0JiZkdTS1JLc1NnVlBETjRGbVNGZlMzenE2QVA1b1JjMFhybmhjR2NxaTNSYzcxcU9KMWtuUWlKNWhVVVZBMkZCZWM3ZzdI?oc=5",
-          "date": "Tue, 22 Sep 2026 12:35:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZnk3QXFxMV9HV1RaS3EtcjRHVU5yUExmNllIQXRFQzV4UG1TNzNTRW9YZjk3Y2FnSHRacHZ2U3h1OWFhSzl4dnZFMmdCeDNIWlZmem9keGIwWEROdmNER2ZDMUMxd21xdWNUeUVfZHYxWG94Z3FFRzZWRklpMWJqcHV0djZMLXh5TDJGaExJOVFjaUlUdUluQndBQ0prdw?oc=5",
+          "date": "Mon, 21 Sep 2026 08:29:00 GMT",
           "source_country": "UA",
           "country": "UA",
           "category": "military_conflict",
@@ -1362,43 +1272,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "UA",
-          "llm_subject": "'Pivotal Meeting': Volodymyr Zelenskiy and Donald Trump Will Meet Today. Here's "
+          "llm_subject": "Russia hammers Ukraine steel industry as part of ‘economic war of attrition’ - T"
         },
         {
-          "title": "Ukraine’s USF have struck 300 vessels of Russia’s shadow fleet as of today - Ukrinform",
+          "title": "Xiaolin's Take: The Four-Year Economic Ledger of the Russia-Ukraine War — Russia Props Up Appearances with Gold and the Military-Industrial Complex, Ukraine Survives on Foreign Aid, and Drones Emerge as the Only Win-Win Industry - finance.biggo.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcndsajdoaVZxWGF5ZVMwdHFicUZoRldaZmg4R3ZsemttU09aaC1JbEZxdDl1eEJaUnJLamVicFpheHNFN3RiYlA1d1k3aHc5US16UGtzQ0xMRm5xZ1E2ZU55TjdHV3R1VGJqS3JvSXowelpQRW13YlVPT3BueGtnUDEtclpDaGNxdGJtY0dEd3drQUxVQ1E2LW5yV09GRGVzT2ZjenNrZTV6NkpLQnQtaElZOEg2bk5sLS1iN1dQa9IBxAFBVV95cUxOc2RLTXJIWnRvdWFrOXptUWZlMS1kZU9ReXo2d2tJSFZ5Mm91X0d2d29Ma0I0M3N5cWR5LUcySVZ4azZiN3ZOdWM1TXFOWFB2YmR0cWFZQ0JMdzBIOFFtOHBBclZyc2RYS1dOcTNrNEhVSTRoRENETHNtRUNTUlRDakxxalpyU01fVXhlV2dsTUJnZkxCUVBnVVdMU3luQ0lHeXNfVDBia0JFc0hacHJmZWZMZmVUR1RtaVpjNDNRdkgwSVBJ?oc=5",
-          "date": "Tue, 22 Sep 2026 10:07:00 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "Ukraine’s USF have struck 300 vessels of Russia’s shadow fleet as of today - Ukr"
-        },
-        {
-          "title": "In U.N. speech, Trump threatens to \"annihilate\" Iran and defends handling of global conflicts - cbsnews.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2hRV1lPcWVEUi1hTEJCM0NMa3ljWUFMNTQxX0tvM2RDdGJ1UlpaWGNHTXZJdzFGODJ2NzVsUkZTa2NOYnp2d1dCZnR0SUw1aE5wVWx4WC1kWFY1OUxibWp1cGZURWdKNzA5OHNwT0lydzBYZUIyVjRXdVlSUkpmVWJKZEtxT3d4Wk1MMURqN2ZYSnM3cGJsOUJlSFNkOFRzbnlLSHo4Q0g1R0o5cGJ4Qw?oc=5",
-          "date": "Tue, 22 Sep 2026 15:59:15 GMT",
-          "source_country": "UA",
-          "country": "UA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "UA",
-          "llm_subject": "In U.N. speech, Trump threatens to \"annihilate\" Iran and defends handling of glo"
-        },
-        {
-          "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
-          "date": "Tue, 22 Sep 2026 15:15:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTdi1UeXRkc1IwOTl5WXZCcmw2TEVjaGg2Zmp1TDlGYk9leVpfcW1WdkpTOUJjQVBDNUdaYXVWTXZyZWFRbFVWeUs1NkNldEhiU0ttNnM0VXFIQVU?oc=5",
+          "date": "Tue, 22 Sep 2026 11:08:00 GMT",
           "source_country": "UA",
           "country": "UA",
           "category": "military_conflict",
@@ -1407,21 +1287,141 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "UA",
-          "llm_subject": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters"
+          "llm_subject": "Xiaolin's Take: The Four-Year Economic Ledger of the Russia-Ukraine War — Russia"
+        },
+        {
+          "title": "Europe struggles to pin down Ukraine funding shortfall - euractiv.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3lGTk1aN3BJbmFHRy1TUU5XU1p6N3d1M1ZqWGRrUV9CcmtnOGRaVVZWNkZHY1lZOTNUWkZ2My15TUs0aTJ0ZlZfb3h0VFpaWEc5dUU2VGpBMVhVemNzRFVyN0lraFlSM2VOQUR1UlFaZF9MUndoYURPVmF6cFI1MnJ6dlNvTnhPUXk2cUxn?oc=5",
+          "date": "Tue, 22 Sep 2026 02:10:35 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "Europe struggles to pin down Ukraine funding shortfall - euractiv.com"
+        },
+        {
+          "title": "Russia has already destroyed more than two-fifths of Ukraine’s modern warehouse space as it escalates attacks on economic infrastructure – FT - Euromaidan Press",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSzlLV2VqdHhoN0RhNUhKYkhTQmRzS1RCdFpfUmlOalpYTFQ2UzRNbDU1NHl0SDdzM0NIZkpYRFZWZUNpd055cll6ZFNYTzZLQWdKS1hWanVQcUdmWXkySW1fdm0tUG45R1JUVUxjOE1PcHhEVTMxNTF0N296QTc1MmUyV2dNTEY5MktjbzVNcmhlWXBXbFcyQXB5MFVVX1VXeVAxd1dQeFJLZ0FIVW9FWk9CUWVUUVU?oc=5",
+          "date": "Sun, 20 Sep 2026 23:44:08 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "terrorism",
+          "weight": 7.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "Russia has already destroyed more than two-fifths of Ukraine’s modern warehouse "
+        },
+        {
+          "title": "IMF to help Ukraine find some funds for next year, Zelenskiy says By Reuters - Investing.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnloUXMwUC1wenFXX2V5UmtDcjBYZXRvOTVBUzZpNHctNnRFaVFoNXdyQ2NUYzRHaGFzcFppaml2SWhlQVl2NWlndmY0WXhZaFk1Q0Y0Y2lTMGVIQnMwVmpJWTI1ZnpsbE1Lb3Y4ZEZyVVdET0NQSmpHcWRHVXdZMmZVYjJVN3gwU3VvT21VQ2pEVXY2N1BwZktlMGZ3ZHZMUjJCa2tqMEVISS1CbkpRMk5mVER4cjA?oc=5",
+          "date": "Tue, 22 Sep 2026 18:49:43 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "IMF to help Ukraine find some funds for next year, Zelenskiy says By Reuters - I"
+        },
+        {
+          "title": "In Ukraine, nearly half of country’s storage capacity has been destroyed by russian strikes, and 90% of steel industry is at standstill - FT - ukranews.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNckNkeXIxVktfMkFLYkpzNGhWWFlDVUhOSnVWSWhLRTgxTnl4b0x1Rkh2dFNIQ2RKUUZ1Y253eE9CSlRZempxeEFWeUVwNnl3U1BJaG1lNk9pbGlIUmE3eFlhSDZyYzk0WEE0bGNOUk9BT2NXYUVVaEZZYUg4SzZTMlhXT01QYXA2Q1BSbTR1VGg5bHlCVVlIU1ItWWtmSExIMG15SXVtdXhjNzBTVWxaOFVKMlhyN0JFQVI5dEVpczZWT29mWFpPR3h0VkE1R2xD0gHWAUFVX3lxTE40YXdwLXVYUUdXWWtaRzZLWVVuYzlvWGZZb2NGYW5wYmQ1YWgwaFhxMDhfaFE1a2pnSkg1ZWNrV0hGQ0FEb3QxblV2R0x1WGt1dmxhaDZfUHBpOEVGUGw1MlRXT0tLdDdVcF85c3F5UERHTjhjQnRzRm91Yk1MUENwMVRMUHNGcW16SnViR29UMWNwQi10dHZqQnY4OUZseUlDX2JWX3VmV29kZHdhV291V181ZWg2dkU3cWNqcnA2TElwLWx6V05RUU1lekl1VDB3aE93ZkE?oc=5",
+          "date": "Tue, 22 Sep 2026 17:25:19 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "In Ukraine, nearly half of country’s storage capacity has been destroyed by russ"
+        },
+        {
+          "title": "Russia-Ukraine war is costing Polish economy: Polish Foreign Minister - Channel 4",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUl9NbExrN2k3dzl5a2tWUk5DZGZva21mejVib1ZKdkQ4TGVaQmFKZUp4aHNBRG5paUE3VE9hcTBOT2ZXTUNjdGstLXN1NEJoX3lnTkpzLVNWU1hITzBwbWxoWG9reXY2Y0JRamUzenhWVjNOSEllZEhqX1VlNXFidGpKSnpMOUJqanUzU2VGMmFVRlhLU1dTZEVpOGJUbUE?oc=5",
+          "date": "Tue, 22 Sep 2026 18:55:41 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "Russia-Ukraine war is costing Polish economy: Polish Foreign Minister - Channel "
+        },
+        {
+          "title": "Ukraine Is Unprepared for a New Crisis—and It Is Already Here - Дзеркало тижня",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUZCczI1MUY3US1fUEl2NmpWMmZvcl81T0REN0hPQkp5R2JoQklrUUx5WXZoclphMTl1S1pQdDhzWHdqTFhZdkVTZmJrV0hHQThiQkRPMnFCc2ZIbVBSOUZxZ0R3LUd0cU1YYlIwNElpNzR1SVJhQkloMkRDRG11UmNQeFVLOUNReWdz0gGQAUFVX3lxTE1EdFFwOXB6WWxSMGxRSmNtZEpTUGZST2RNRGdkcHd5Si0wWDRIODE4aDZRS2tyMlNoaFZIYk5MQnl6UFRaR2xvNkFKaVJRaDNabFNsLW9IMkxSZEgzVkVWQ05DcS1VbUI5OHFoY2ZjcnNEOWJIUjlHSkI1b3pLaFNOSll0QnhxdE1pNDR3M2xqeA?oc=5",
+          "date": "Tue, 22 Sep 2026 08:00:00 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "Ukraine Is Unprepared for a New Crisis—and It Is Already Here - Дзеркало тижня"
+        },
+        {
+          "title": "Ukrainian Ports Association Chief: Attacks on Ports Threaten Global Trade, Impact Hundreds of Vessels - Kyiv Post",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yRjhoeVU0a3FXYlZwdFlITFU2aktqNlRGSC1qbnNMZ2lMRWlRUThjZU0taVd0MWR2cmZBT2J1Y3VoeUs5NHZQcWRIQQ?oc=5",
+          "date": "Mon, 21 Sep 2026 05:08:52 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "terrorism",
+          "weight": 7.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "Ukrainian Ports Association Chief: Attacks on Ports Threaten Global Trade, Impac"
+        },
+        {
+          "title": "Ukraine, Syria agree to cooperate on mine clearance - Latest news from Azerbaijan",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10U3NncC1HdlF4bUVwWjR4d3EteGZlaVo2Q2Zwei1FanRwTWprakRsazVNZVFEMXZxak1WX0N0aFo0aHZPbnozSEtucHA1ZkRXMUVIQUpVUWxwM1VYSHZsQ0NTWmZzeVJKSW80MER5NDNXZGhWak42Z1BCaw?oc=5",
+          "date": "Tue, 22 Sep 2026 18:50:10 GMT",
+          "source_country": "UA",
+          "country": "UA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "UA",
+          "llm_subject": "Ukraine, Syria agree to cooperate on mine clearance - Latest news from Azerbaija"
         }
       ]
     },
     "US": {
       "name": "United States",
-      "index": 2.08,
-      "raw_score": 0.53,
+      "index": 1.0,
+      "raw_score": 0.0,
       "status": "STABLE",
       "events": [
         {
-          "title": "US, Denmark and Greenland to sign security deal on Tuesday - France 24",
+          "title": "Iran’s economy cracks under U.S. pressure, but Tehran won’t bend to Trump - The Washington Post",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmdhZVJMcEJmOS0wV2xqWEFfN251ZXRBZDRmb1NwaHdYU0ZjVTNGM0QzdFhVdTU5TFhmeWJtMUpZdmdiLUJLUl91aWVneVlkRXNuZ3kwVHpZX0Fzd3pEZXdoV0ZwZTBnVDhpWlgxaGJDQVZXZElDQk9rN0YwelhHWjZjZDhxbkhLYjlKZWNuSmh4OXJCb21vWFhyN1ZhU3I4ZTkwLWFn?oc=5",
-          "date": "Mon, 21 Sep 2026 23:30:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnkxNEpxOTd0R2lfS3Z5NW53ZW0tcVlaV0pZbUQ0Y1ZKT0VnQXAwWnJtVnlhdmtoa29MZzNGT3FLOWdQaUlobVdMOV9RMmZOcDR4ZUtuNmVVdDJ1WGFWa2xMVlhuNzZLZ2ZUY016Z29MSU5ScUZhU25wYWFFNjAyU1dUUlAzNFJTekNtTlZBRF9OUUZTTl9uQnAxOUt2S0Fwa1hienNYNzRPeTRTX0l3?oc=5",
+          "date": "Mon, 21 Sep 2026 16:00:00 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1430,28 +1430,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "US, Denmark and Greenland to sign security deal on Tuesday - France 24"
+          "llm_subject": "Iran’s economy cracks under U.S. pressure, but Tehran won’t bend to Trump - The "
         },
         {
-          "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues - The New York Times",
+          "title": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Policy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
-          "date": "Mon, 21 Sep 2026 01:07:08 GMT",
-          "source_country": "US",
-          "country": "US",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "US",
-          "llm_subject": "U.S. and China Discuss System to Warn of A.I. National Security Issues - The New"
-        },
-        {
-          "title": "US, Japan and South Korea launch economic-security talks before Xi summit - South China Morning Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcl9zcUZOZzE2TjNJckdHeUJaUmZSMTBxYXl3OGM5eldnd1BnVzM5RU9JS2p4TEpMZVRfcjFjbFV2VEVEeWZlZ05MVHZTSy1taUM3bE1Qb3o1bm9FT180MzgydXQzMWZNeUFaR1pwejY1RnBLR3kyUDktcVpGY1NfNFFOTjF1STFrb19WNTE0QnZqNGdTTVdWQVhIOHZaMXRVSGFlbWRQczNES3FGR3NORzBsLTlWX1o3My0tUdIBvAFBVV95cUxPZ3NHWlBYcTRuREJ6cExqTGNYWHdjOTJpbFVLT2xVS0VaU1BpV1RVbGZZcElHeVVmVmtKa0pKTWRBZldvbVhUdGVac0I1b3VranRoV2ZwUzd2Q29hREJpbzJYajNaNW5ROWtVTWNnVVBoaG1HNmh5RXFEMGRFSWxTWUtDdnBSRlFjY2NEbFVzSVdJTnBOaHV0bVVaenZGZ1BvUXR1M25MbG1HcXJoZDdXLWpncDR5cmxKTnAweg?oc=5",
-          "date": "Mon, 21 Sep 2026 20:22:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0VhMWFJeEJyX0JLQTU5enRwRjZVYUctWE9qS1ZnT0hUbkdaSnNGczhBSmZDcXBVNTBKN3ZJSWFHX3lQNUlZT2JPQ19sejNKdTZ1YnhrZ1cxYjVSYUxYZWVIOXhpcVBTMFo4b0NxX0VlYTljUHhnZ1gtbTB0Mm1xZnJ3dHlXRVhFeEJUcTk0Wl9EZVVWNXV0VUx3aFFndXlVVm1RRFhVa2hNemV6THE5YjZxR05XYWlmS2lNRHFLOHVBZnc?oc=5",
+          "date": "Tue, 22 Sep 2026 10:01:24 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1460,13 +1445,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "US, Japan and South Korea launch economic-security talks before Xi summit - Sout"
+          "llm_subject": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Polic"
         },
         {
-          "title": "US, Denmark and Greenland sign agreement to bolster Arctic security - WMTW",
+          "title": "Donald Trump addresses UN General Assembly on US economy and Iran - Fox Business",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWZ5QVp1RW9BNjlDM1VwdTZFclVGQVoyMUFVNlhnNVU0a3B1SVZ1NGxHWHZJV1NoVTJFYkkwVlkwV3ZCXzZGdjhMV0RleGNoOHZULWRhYkhxRzNNNG1hRmRLV0NzMXhnX1pnZzVoSjhaZ2JrRm5fNl9Cdl8xVnBHbE9yV1A5aGgtSHUydw?oc=5",
-          "date": "Tue, 22 Sep 2026 15:59:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsbkR4RFctY2NEckNUQUpOUEk1eWNXc0VReC1fTE5NN1otNERsUThPTzcxamJFSEw2MTh3ZFM5OUhkTE1kY1VhVjdhTmplOWVzNDBId0Y4WDlWc1k?oc=5",
+          "date": "Tue, 22 Sep 2026 15:36:07 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1475,13 +1460,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "US, Denmark and Greenland sign agreement to bolster Arctic security - WMTW"
+          "llm_subject": "Donald Trump addresses UN General Assembly on US economy and Iran - Fox Business"
         },
         {
-          "title": "Trump signs Greenland deal giving U.S. broad military authority on the island - CBS News",
+          "title": "To achieve its next economic leap, Vietnam needs to move beyond the factory floor - atlanticcouncil.org",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Gd3gxMUhGaWR0MXJkM1hSV24xcFB3VTUydk54MnpRdW9kMlZhS3VsY3dXcm9KTnlkT3NTZzFrTnJwbjM2emROSEFGSC10QU1VeHpZaUc5dGRyNTRHQ1FOcDBlZmlXTWIyZnBKbENzU2hNUUNQTTlSQng0aXEwQQ?oc=5",
-          "date": "Tue, 22 Sep 2026 16:12:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUJSX0xTamFZUWV0UjJiLXp4bmk1RUYya1RaN1kyVDZZcmp4TWwzMGV0OElNXzEwcC1vWWg5VGRzN3hrb2JYMGdmWm85dWk3aVc0YWNid1RhNDBhSFN5eTBaTXdWZkxUaDJpaHpIZDFkd2RqazFPd3RyWVNTejRBQXdIc25WRTNEelRwbktVbC1vTzNDcl8wSnFJalRZWFA2U0ZCNThDdW8zc1FSZmg3VG9zcERkTFFfX1MtRzN3Nnc3YUNkRU9LWnFQVWZtQQ?oc=5",
+          "date": "Tue, 22 Sep 2026 17:42:00 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1490,13 +1475,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Trump signs Greenland deal giving U.S. broad military authority on the island - "
+          "llm_subject": "To achieve its next economic leap, Vietnam needs to move beyond the factory floo"
         },
         {
-          "title": "China, U.S. Must Manage AI Risks Together - Zhao Minghao - chinausfocus.com",
+          "title": "Bayh-Dole Has Added as Much as $1.7 Trillion to the U.S. Economy in Last 30 years, Report Finds - aau.edu",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2JLR0dDTmFMRXRHVzRJVlBlWmVBcENlMlo4aWFjTDFxUE1iVHduZkNnNERJR2FDaHhPc1lpdnZmQjJkT09yNk9rS3JKMUdWRFZLbGlGNTI1NFZ6cXUyQ2JwRUZqbks5MVlRdzBkTFdqT0NhZ2FIX0tnTy1xR01zMUVSeTRFU01LMHc?oc=5",
-          "date": "Tue, 22 Sep 2026 10:44:37 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXlLYWJOWHpmVk92ZmxabFBhd0VpbFJDRUlWTllVSmJWelg2MmxQUW1IMl9tc2s5VHlUTUUxc0xOelBVc084LXg4SHBfZjdZcDhkSW5sMHVrSHRiakVmUnJmUDhkaTgwcHV5ZTZ2SVR6VG1jcGl1ZXVqcm1vT0NocUVyZFJlSko0WXVLU3FTUlRIQ2owT2t6ZlAxTmZiYnJuSm80M1hrQzJvWlNBYlczODRwb2dzcXc?oc=5",
+          "date": "Tue, 22 Sep 2026 04:00:00 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1505,13 +1490,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "China, U.S. Must Manage AI Risks Together - Zhao Minghao - chinausfocus.com"
+          "llm_subject": "Bayh-Dole Has Added as Much as $1.7 Trillion to the U.S. Economy in Last 30 year"
         },
         {
-          "title": "Trump to sign agreement with leaders of Greenland and Denmark at United Nations - ABC News - Breaking News, Latest News and Videos",
+          "title": "State control of the US economy, or socialism, expanded sharply in 2025 under a Republican White House and Congress - Peterson Institute for International Economics",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSTNSYnFXSWtTTUpxejdMeGJOY051d1AwTUJBOXBCWnBIZmxYaHRuN19xWkkzbHljODlKOUJtUFE4M2FFMTZKaW5jbVJmM0kxdEk0LXd6Z1NPVXJNajlhUWs3ZGU5SkZDUkhBZGdiMzNYRDYtT0hkdmV3NGNSeDQ2N3pXWXBCM2tGb29IQzlPcjJxOUVzcWdkeVMyTWE0TGxaV1Q0bHpjbGh1d282WXfSAbMBQVVfeXFMTlA1X2JtQlZBamtldGkxQnhYMS1PdGxlNDdnSDNULUlZR1Nnc1ljbWZHeWpiRTZ3UlZCMFozWlJFeUh4RlNCdnRWYVQ2VWNCVnRGMC1CZ0JiZHhKSTRaRGEwNGxWOFJDemN3YlAwbHFNMEpkdGt2c0Y4R2tEaVJIX3g3WXNmdVkzNnZBZ3JtdngwZFNZQVZGdjZmUWp0WEUzZ0UxaUZWdUwwd0V5TWI5bEx2bEE?oc=5",
-          "date": "Tue, 22 Sep 2026 09:12:39 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGM0ZU95TUJROW5pUGMzUzMxdWx5TmtVUGtyeHdPOGIxenRfVnhGcm1OS3NmTUF2SHdCTkV5Z2RrM09sQ0VDWkNlUTFTaW9WcUxsTVRVRFk0MkV0OWJ2ak5UWGxHSy1pSG5SdHJhemFGeElKT1JsR0FxaThyMkxlSFphNnFndDA1UlY0YnBuZ2VmV2l3cXduMTFXT04tRUhFOG01cy1pQk5WWklwcTFLWmhB?oc=5",
+          "date": "Mon, 21 Sep 2026 12:00:00 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1520,13 +1505,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Trump to sign agreement with leaders of Greenland and Denmark at United Nations "
+          "llm_subject": "State control of the US economy, or socialism, expanded sharply in 2025 under a "
         },
         {
-          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security - WRAL",
+          "title": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 - itif.org",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb1Z5b1hiWnNQS3hQMXFRUDJNbklObUotVm1yT3ZmVk4wNlZGRWpVbFlmTTdEc2tkSFRndkpFRDhtc1hMeFRQQjJhcUV1Q21KYVQ3R3dTdmtaMUE3cG51SV9QM0VKSWx5RVBpQlZXYTBoWW42WmJMdG5UODRxczdmdHJ5M0V0SjFvdHBUTFlGQjlRQk1mYWpES2RxZWx2Wkl5ODFtSWRDem0?oc=5",
-          "date": "Tue, 22 Sep 2026 15:47:57 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzVzVmd5WFl0QmhZck9EYU5Mc2xwa2FaU2lYUjlYNFFvX25GOGtKbXIxeU1IQW1rUXF1cXFRTnQ5VElIMnhBUFkwRWpYVVhra0NIamNjNWRDZnhYZ2JQd1lJRXFkUW52ME1fT2FnNEI5bXA4dmFxM0dYY1o5dWNVeU9SZGVzYjNxXzFyLWVLTmZZOHVxZU5jdEdiQW9PaFRId3dFZ0hIUW0?oc=5",
+          "date": "Tue, 22 Sep 2026 17:38:53 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1535,13 +1520,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security - WRAL"
+          "llm_subject": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | S"
         },
         {
-          "title": "Where is the US opening new military bases in Greenland? - Al Jazeera",
+          "title": "The folly of a diesel export ban - The Real Economy Blog",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0ZUQ0xmR0hJMFlXU2VBOGtmdHhXaU96WWluR0JBdGNLazBrNU1CMmJseWtXNWlMbjhMOWpRXzBiaTZ2MHNDdkt2OGVodjI1Q29wQVZQZV9IRDM1bXhLekZVR05maW50MjZkeV9nSUlOZ05weUc3b20xa3hFNE5URnphalNEVE90MmhTdnRVNNIBlAFBVV95cUxNNGROUHZmUHBuNTVQU2FyNFNJTmNqRVBWcW9hVVlLWTA0dWVuWDlZXzMzdnBkbTVZRUlfWnpwOVBORnpyQl84UUVLVTEyV1NpZk5BaV9ZVUEycEVJeUl3akNxRWMyVXFPMmJqckdHTGlSZ1pnRmVCNm8tSzJBb2owbEJUX0hZWEh6M0ZBaWV6V0NyMW5s?oc=5",
-          "date": "Tue, 22 Sep 2026 14:34:41 GMT",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oYXFCYmNBYU1rZzlXaV81RW1HV2Rhd1lPRnRHNG4xNjZuLTJldmxBYjJjaU9XdHhfMzM0cGFBdUtUYWNZTFQ4M3gwYVQzMGRzSjZRellfZ292bm9ZTnBybGd4REZhSzd4ekZRM1RlVlU?oc=5",
+          "date": "Tue, 22 Sep 2026 19:30:09 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1550,13 +1535,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Where is the US opening new military bases in Greenland? - Al Jazeera"
+          "llm_subject": "The folly of a diesel export ban - The Real Economy Blog"
         },
         {
-          "title": "Trump’s Familiar National Security Argument for Arch Has Limits - Bloomberg Law News",
+          "title": "AI regulation, Canada relations and job growth: Healey lays out her economic vision - MassLive.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2NOcUlYM0JpS2N5UGppS0NnbXpmQ2luZTF2R2pZNm5MOWwxS0pZWHlMaTF4RW1PRE80SllDdGpDYnkxNzlBbjFYMWJ0eF9qUkxVZGxVS3R2VU15c2h6ejd3QkpQbWtfSGlaSk5WV1UzTWU3NFlkLUR0YzNNZnJ3aEc0ZF9PMjNvRlFNc1JTS1N5YzdXeEZEVVhTMm1wR3pqeERMMnRaSQ?oc=5",
-          "date": "Tue, 22 Sep 2026 08:45:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZXNWWkxuUGYyRDVBYVpRWktRR2R6M2VybW1maTJCTTFXN2JfNXRqdFoxY0h4Y3lJVzI2RkJBemExcGNWOU5uSmZIanRmUEVydmpwdWlNbm83TzlKOWxRZWJOZ3A3alhtSV93Sy1iS01PNDVjWjVBemhoTW5iTUVLT2tLYWJEa0xnX2RQRm5YYkw3RXB5TVE4U3ItYlFncmZHMXVPTVVHeXZ2Z084dWt5dlBDSy1CNV9COVdZeWU4OEFKejJwM2RwTkRaU1Y?oc=5",
+          "date": "Tue, 22 Sep 2026 09:41:00 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1565,13 +1550,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Trump’s Familiar National Security Argument for Arch Has Limits - Bloomberg Law "
+          "llm_subject": "AI regulation, Canada relations and job growth: Healey lays out her economic vis"
         },
         {
-          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security - The Washington Post",
+          "title": "Trends in Manufacturing in the United States - clevelandfed.org",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlhucWd5Ym1oQXA5VE9qTTZTOVQ5SUo5bEd3ZmZtSk10MUlWOEVhVFBSaE5qZy16cDB3RmxKR29BUk9JZFJMd2FVNXI0UUQ1QlBwcFgwZXFjc1piYjdwaGRNWUVLd0wta2YyQ0tPUXM4TWJkRF95OFNhS25BWG94OXItN0lGMkJLTmh5X3VvcjNuelRrLWJQZ2JreTlzY3c3T3BqWTNwdXYwbHVRTWJfN0RNRVIzVjNKVldhb0d5cHQ5WFl6SHpDVDEzak1ZaUY1QklKUQ?oc=5",
-          "date": "Tue, 22 Sep 2026 16:13:35 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDI5OU82Qjdja0xCNkZNVFpTa0lNYTA0aFpVRlhOVW1CNGoxZUEtcTh6aklmMy1MLTYwRUp5Z3FIVW03SFZsUE5iMFFhdkNqMTlwWGlRM2RHZW5LWG5xUTJlMFlmajV5N0YtZjJSREplbTBXRTZEMjNFaGN3Y1VqS1RuZkZEZFBlT2xTeE5TLTJLRG5mVjNoeGdqeG5zdVFJdElDa09mbGNoRkdWYlp0anhneXpNZjN6cGJhMlVR?oc=5",
+          "date": "Mon, 21 Sep 2026 04:00:00 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1580,13 +1565,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security - The Wash"
+          "llm_subject": "Trends in Manufacturing in the United States - clevelandfed.org"
         },
         {
-          "title": "Coast Guard ramps up security efforts for 2026 United Nations General Assembly, announces East River restrictions - United States Coast Guard News (.mil)",
+          "title": "Fed’s Barkin says US economy firming but inflation risks persist - Investing.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN0dQR2lJMGQ3N2pZbGFRbW9mNFNKNEhnRllFbEhkMG5BRldvbWVlY1dYd1ExN1FDdEhjRUdBN2FSMlRvdWUwMVVOY0piT3lZQVVYWGNrQ2l0YzNkMkpDRG1TN0RhdGd0LWEtdlZ5WHFpbHlHMmx1Q0hRU3dfOEhJbGZabXEzVkgyQnA2UDF1U1ZWNTJSeXVxMnp6NWRtREZCSWhHODJkVjVqcVpBekc4d0p0RTlrcFhhQWlzLUZ0aGNGZkpkeTVGSWdsSW9rcVh3aUE?oc=5",
-          "date": "Mon, 21 Sep 2026 13:54:17 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU1XeGpqd3ZNTWVmbjdaTnRsR1ZybWg5UHhKUHBtZWlvZTZXTGJTNXVsVTJTU1hvUTdURUlwWm9KOXM4ZVhhU0o1bGo5R212eFp3NXhBaTdOY3N2U1YtYUhlc29WSGE3Z0FReXhhNF8teXBFMkV0dk9mcjd6Mmd2bHRaWVRHdmRBVDRYQ291dUJBQk5mRFc0d3RLeWtJbmo3LU5aLXItOV9LdzVVMDVnS0lNSEpSUQ?oc=5",
+          "date": "Tue, 22 Sep 2026 17:10:53 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1595,13 +1580,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Coast Guard ramps up security efforts for 2026 United Nations General Assembly, "
+          "llm_subject": "Fed’s Barkin says US economy firming but inflation risks persist - Investing.com"
         },
         {
-          "title": "Trump Announces Deal for ‘Permanent Control’ Over Greenland’s Security - Foreign Policy",
+          "title": "Fed's Barkin: US Economy Firming, Inflation Risks Outweigh Employment Risks - IndexBox",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRzVlRjFYLVktWWY1NzFDWGlWZlhKUXNYUjZYRUxqQXFFR2ZpSlRrbko2SXRqdl9LbU1lWFhDRHJiZjRrRHUyU0ppZ1Exb3NrRDdrVk1id2hJOFVZSFJUQkRfbEpnQVAydVF2d2E1dmx0Y2lIbUpDdTBTMUlYZGhzS19HYmZHMmtfbE1JdUFxSXFONXY5U3ZZdkk0aExCaWdLSzFGdnhwNVBJbjZaTTNaOXd3TVFNZHJXeFotY01POVpsblFuaGpFSTBkcmtBTzA?oc=5",
-          "date": "Tue, 22 Sep 2026 04:19:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa0V3ZUxQN0NieGU2eUlmTTJwYVd5bEdJVmwzazNyZWtabnAtdk1kcUNzTjNzbGxGR05XOHFsT1VycVJ6YnowTnY2bGdlS0k5YWZxN09LdnlhWVhBNmVRQjEtZWlCa3l3Y1hYZzdJMVFjSGoyVWtJblBSRUx4VXJscF9Nam5ydW9rQ0lJQm84YTQyUXQ5WktJdTBNMnBXRktTUWtzcg?oc=5",
+          "date": "Tue, 22 Sep 2026 18:40:39 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1610,13 +1595,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "Trump Announces Deal for ‘Permanent Control’ Over Greenland’s Security - Foreign"
+          "llm_subject": "Fed's Barkin: US Economy Firming, Inflation Risks Outweigh Employment Risks - In"
         },
         {
-          "title": "As China and U.S. compete for AI dominance, both have shared concerns over safety - PBS",
+          "title": "Losing the AGI Race to China Would Be Bad - American Enterprise Institute - AEI",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHJWN0NoQUotUzVkZEVlMW9ydGhMYWh0QTgyVThkei1oWkdyX29leTQ5OXFydXlRekdlS2RObFh0bHpfUThpQlZ5T3hXcGM1X0t0UGppc25jdFJZTGtjY2RNTmNWX05tNjdVbzRyYi1DRFd3M2dJQWJwSEtBTU15VUJHbzdaUzV2a0Y1cnJiMFlpTWdDOXRoM0F6c1g0TXdBcE5KdGEwNHY3YjlQcFZhbVQ4aWdOVDjSAbwBQVVfeXFMUGZYcmY4bVhOTWZ3aGVraldacVJSVnhZdkhidUlKTGtmS05jS01VWlAtTUZtbm5SX3pOT3J0Y2xHa1RtUDN1VEZFQm1lNURNZmJwU3A3VnlWczNJQV82RXhOWWdnRWZYYjZYOUxYYWxHU0VoeXhlLVZhbGxGeWlwY1Y2dDM2VF9xX2hia2lybFJiTDR5NE9PMW9xQTVXUjNOeldWVUp6NHhwdXZwN3RGc2JUOENRcHZVVjJQRlA?oc=5",
-          "date": "Mon, 21 Sep 2026 18:03:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92bXQ5cGNhNV9NbTFsVEhfb1A1NHJUWjAxSVhEUXh3RlhmVDZ6azNBV0JFdURsYXg4VEhlR2ZmN3pqZk9EZFpaUUxQS0pOY2NPN0dxb0t6b3lXSHZUdE05V3duX0R1bVlLODFIazBpUVpYWHlwOHRLQW1waW43QQ?oc=5",
+          "date": "Tue, 22 Sep 2026 13:48:39 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1625,13 +1610,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "As China and U.S. compete for AI dominance, both have shared concerns over safet"
+          "llm_subject": "Losing the AGI Race to China Would Be Bad - American Enterprise Institute - AEI"
         },
         {
-          "title": "United States and Georgia Hold 2026 Security Assistance Review in Tbilisi - U.S. Embassy in Georgia (.gov)",
+          "title": "The ‘New Word’ Trump Hates - The Atlantic",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QdldlNjlFZDdMTGxyT1JGeFlUTGVLMmdWUlNDQkZVdDlkMExZbnd1UVo2QmxSelZWVS1scWZOdjRpeF9YS2hoSUV3STJnQWlRem45STZaOUcxSlNjSnZYZ2dBVWZqUTNxX0hWdDBMbm12VHM0SEhn?oc=5",
-          "date": "Mon, 21 Sep 2026 10:52:55 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0Y3alIxQlB5MjFzb3c1S0NacXRJQllXRVNacGpweVJGWUJTM2NLaGtCSF9yelpuQndFOUNXYlVaWEtNM0wwNzhCcTFvX2lEVUpoZnNJeXRvNTdvb1dLQ2REbVRWU2RWQWFlaDF4eHNWY0d3QjRhNzZTRFJEQXR0WDJqUTJ0Q1FjbzVOTEE0SVQxUnM?oc=5",
+          "date": "Tue, 22 Sep 2026 19:00:00 GMT",
           "source_country": "US",
           "country": "US",
           "category": "neutral",
@@ -1640,7 +1625,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "US",
-          "llm_subject": "United States and Georgia Hold 2026 Security Assistance Review in Tbilisi - U.S."
+          "llm_subject": "The ‘New Word’ Trump Hates - The Atlantic"
+        },
+        {
+          "title": "The four issues our experts are watching ahead of this week’s Trump-Xi summit - atlanticcouncil.org",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFctOTVXNjZOQlVtRVI1Uk1vcllaQmxicTllVEtGNTQ1MnEtMTR3UnRBS1FRZGJ3OFp5MU9URzRxRGthamUxaGFlWERhTFMwRnhzdzg5VDNNS3UwVE80OUVZblU3X3RyTlFGM0p6WWdvdFRTQURzdko3OEdOMDAyRURhcmZxeEdxOWZWaHpGVEx5VVlWUDR1d183RzM4VU1DdnNzcVNqcmFWcmJGY3pXRVc5ejJveUh1ZUpEZkl0MkZVMWJOV3N2Qw?oc=5",
+          "date": "Mon, 21 Sep 2026 17:46:00 GMT",
+          "source_country": "US",
+          "country": "US",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "US",
+          "llm_subject": "The four issues our experts are watching ahead of this week’s Trump-Xi summit - "
         }
       ]
     },
@@ -3142,8 +3142,8 @@ window.WTI_DATA = {
     },
     "IR": {
       "name": "Iran",
-      "index": 5.25,
-      "raw_score": 2.67,
+      "index": 6.27,
+      "raw_score": 3.67,
       "status": "ELEVATED",
       "events": [
         {
@@ -3207,7 +3207,37 @@ window.WTI_DATA = {
           "llm_subject": "Iran economy shrinks 10.1% during US-Israel war, official data shows - Firstpost"
         },
         {
-          "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch - cnbc.com",
+          "title": "Guardian political editor asks Trump about Iran war economic consequences – video - The Guardian",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1ktSGFzVzJfd2pMbmMwOGRqMFRObUhpNGlJVFNPNjNtaFlySC1RdFlZTjBOdTExN2FvbVk0dkt2cWVreERBX01nRjB2bEtfcXVPNnpSR0xGZlFJMUt0ejBOd3hPdjI1bHZ4VnV2VlM3a3oyRTA0eUluZFBYa016NGdqNmdrOWozSVRGMXdKb2VEUFh6RHlWU3NMLURFdnVaWFpMSkRn?oc=5",
+          "date": "Tue, 22 Sep 2026 20:18:00 GMT",
+          "source_country": "IR",
+          "country": "IR",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IR",
+          "llm_subject": "Guardian political editor asks Trump about Iran war economic consequences – vide"
+        },
+        {
+          "title": "Economic Data in Iran Show 10% Contraction as Protests Spread and Officials Fear Internal Unrest - National Council of Resistance of Iran - NCRI",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjMxSWhTQktvOFJ4bUUzd3J4aXFsb1UtZWRNTWlHQTFkbURRdkljbHNhQXYyRkdfUjFXRUtPVXhjWDAxb19ieno0RXdyRXdTeUN0akdJZzNRYnp3VThEUjB3Rk1TdnFoREJlei1PT0p0TDgwR3MxdExmdlY2U3c3ZXpmcEtyNDFZMFhkYk1qaWEyNWE4VUd3TDE3cm1YTkhOWHNnVWNINUVhbEJ3ZGtTbnlpVFNaTGplaXMwZlRUWGZZa3A5MnZKYUlQU2w3bWl0UmRV?oc=5",
+          "date": "Tue, 22 Sep 2026 18:34:55 GMT",
+          "source_country": "IR",
+          "country": "IR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IR",
+          "llm_subject": "Economic Data in Iran Show 10% Contraction as Protests Spread and Officials Fear"
+        },
+        {
+          "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch - CNBC",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5",
           "date": "Mon, 21 Sep 2026 21:21:21 GMT",
@@ -3222,7 +3252,7 @@ window.WTI_DATA = {
           "llm_subject": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. W"
         },
         {
-          "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
+          "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - lemonde.fr",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
           "date": "Tue, 22 Sep 2026 09:06:06 GMT",
@@ -3234,37 +3264,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IR",
-          "llm_subject": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr"
-        },
-        {
-          "title": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Policy",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0VhMWFJeEJyX0JLQTU5enRwRjZVYUctWE9qS1ZnT0hUbkdaSnNGczhBSmZDcXBVNTBKN3ZJSWFHX3lQNUlZT2JPQ19sejNKdTZ1YnhrZ1cxYjVSYUxYZWVIOXhpcVBTMFo4b0NxX0VlYTljUHhnZ1gtbTB0Mm1xZnJ3dHlXRVhFeEJUcTk0Wl9EZVVWNXV0VUx3aFFndXlVVm1RRFhVa2hNemV6THE5YjZxR05XYWlmS2lNRHFLOHVBZnc?oc=5",
-          "date": "Tue, 22 Sep 2026 10:01:24 GMT",
-          "source_country": "IR",
-          "country": "IR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IR",
-          "llm_subject": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Polic"
-        },
-        {
-          "title": "Donald Trump addresses UN General Assembly on US economy and Iran - Fox Business",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsbkR4RFctY2NEckNUQUpOUEk1eWNXc0VReC1fTE5NN1otNERsUThPTzcxamJFSEw2MTh3ZFM5OUhkTE1kY1VhVjdhTmplOWVzNDBId0Y4WDlWc1k?oc=5",
-          "date": "Tue, 22 Sep 2026 15:36:07 GMT",
-          "source_country": "IR",
-          "country": "IR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IR",
-          "llm_subject": "Donald Trump addresses UN General Assembly on US economy and Iran - Fox Business"
+          "llm_subject": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - lemonde.fr"
         },
         {
           "title": "War Has Never Been More Irrational - The American Prospect",
@@ -3282,10 +3282,10 @@ window.WTI_DATA = {
           "llm_subject": "War Has Never Been More Irrational - The American Prospect"
         },
         {
-          "title": "Economic crisis puts Iran’s coal miners at greater risk - Iran International",
+          "title": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Policy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5cjN3QnVFb3BPUWZ4eFJxMWd2QVV4NWtBeGE2Q3hraTRJOVJhdHhxdW0zWU92MHozeFFLMkZXQS1NSVNZckNmTzBsODNQTXgwR3c?oc=5",
-          "date": "Mon, 21 Sep 2026 09:29:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0VhMWFJeEJyX0JLQTU5enRwRjZVYUctWE9qS1ZnT0hUbkdaSnNGczhBSmZDcXBVNTBKN3ZJSWFHX3lQNUlZT2JPQ19sejNKdTZ1YnhrZ1cxYjVSYUxYZWVIOXhpcVBTMFo4b0NxX0VlYTljUHhnZ1gtbTB0Mm1xZnJ3dHlXRVhFeEJUcTk0Wl9EZVVWNXV0VUx3aFFndXlVVm1RRFhVa2hNemV6THE5YjZxR05XYWlmS2lNRHFLOHVBZnc?oc=5",
+          "date": "Tue, 22 Sep 2026 10:01:24 GMT",
           "source_country": "IR",
           "country": "IR",
           "category": "neutral",
@@ -3294,28 +3294,43 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IR",
-          "llm_subject": "Economic crisis puts Iran’s coal miners at greater risk - Iran International"
+          "llm_subject": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Polic"
         },
         {
-          "title": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability - ABC News - Breaking News, Latest News and Videos",
+          "title": "Journalist ties tanker attacks to oil middlemen, drawing treason accusations - Iran International",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3o1aFFfZXdHSGVUZGZQOHZGYUwzOHZwdjYxdXJpd3N3UWpKcnZnQ0dITmRNX0dUU3FqcEQxcTRzQnI5bXpwVmhQc3dENU5saHY0Sy1wRURxa0FDYTRUT25tSmhiR1RwSUJWM2V3bE4tOGlaV1hDX1BsY21Va29jeHZsOEpTdjhTR2lPTUVR0gGTAUFVX3lxTFBPelZNblpWWkRJV09raXJsTkxpMDUtaTFtRkk1bUZWUEF3dWxJcV90VktKOUs1ZmNjTkZOdUpWS3ZmQ2gyV1p2a25xNVNXOUdRZjBfNURDU3hHWWJCZTN1N3g2Smp4NlRaeHk2QUEtNHVrNTlKblMyN25WMVdwWER1Qi1jcko3a0pZbnN2ZEIxbjdUMA?oc=5",
-          "date": "Tue, 22 Sep 2026 09:47:27 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSGdSM09yZXR6WVlYT1E0U2JlZzYxRmRDa001dnlDem5xWGFOeG5NNnBPVW1Ud1NaRHg3Z2NIY25zUlZkRlRaWDdCUzhyQkJ0SEE?oc=5",
+          "date": "Tue, 22 Sep 2026 09:24:18 GMT",
           "source_country": "IR",
           "country": "IR",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "terrorism",
+          "weight": 7.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IR",
-          "llm_subject": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability"
+          "llm_subject": "Journalist ties tanker attacks to oil middlemen, drawing treason accusations - I"
         },
         {
-          "title": "Iran's economy faces another blockade: Red tape and gridlock are clogging up land routes - fortune.com",
+          "title": "Iran war’s peacemakers also have skin in the game - Semafor",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2ZZWXFHeXFfUWh5VDdveE52cXJHN3BJbE1iaTI1V0RldWlqaU53WEFhbDRlb3lVRkN1UlB1blpBUGxsYjJ2MUNBME9hcXlJbk1BamE3eHhwUlpLU0FhWk1XbVF6WHRaYm1RLVM5dEhwcjk4ZnFSNmFUWXhucVBWSkFUZXA5UXFQM3publRCMDk3Sy16NDNCS3AzbHF2NDg?oc=5",
-          "date": "Sun, 20 Sep 2026 20:13:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzlKTjNYZWttSHNZckpuVlRfclUyOHowcTl2cnpzcFk3UmJrLUwtVVRqUkx1VHNGTEh6NnN1Z1BhOW5IMUZYblRQSUNYQjNpYnhNVERjYjg2Z2xRNFFUUzgwQTNqRl9waktaWlkxa2FJY2toS3VJNFVFVTJhTi1Ray1PVHJpc1IwZ2JUeEIwYVJqZW5PNFE?oc=5",
+          "date": "Tue, 22 Sep 2026 01:05:00 GMT",
+          "source_country": "IR",
+          "country": "IR",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IR",
+          "llm_subject": "Iran war’s peacemakers also have skin in the game - Semafor"
+        },
+        {
+          "title": "Trump calls on allies to enforce ‘complete economic isolation of Iran’ in UN speech - The Guardian",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZU1oWGhLc1dyRzlTN0NzcmVUTmZQZ2xJT1JNanBJU0RhNDM2UU1TU29YanRsYnN2cEYxUC1KR0xsREViVDJaQXRsTDA1N0tnRG9RSi1HRHFub2dWX0UybG5VWE9tYm5kMldtLWwzWGsyanNvNlRRY3NSdFV3RWRBZmNUUmJaMDMtcWZYUHpNVW9OUm1fNW15algxSVhldDZ0STlweVZpV2NiQ3VjeFNfMzQ4YXU3OXdsZ05LUA?oc=5",
+          "date": "Tue, 22 Sep 2026 17:04:00 GMT",
           "source_country": "IR",
           "country": "IR",
           "category": "neutral",
@@ -3324,7 +3339,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IR",
-          "llm_subject": "Iran's economy faces another blockade: Red tape and gridlock are clogging up lan"
+          "llm_subject": "Trump calls on allies to enforce ‘complete economic isolation of Iran’ in UN spe"
         },
         {
           "title": "Iran To Take Global Economy Hostage, Boost Energy Prices, Inflation - Forbes",
@@ -3342,10 +3357,10 @@ window.WTI_DATA = {
           "llm_subject": "Iran To Take Global Economy Hostage, Boost Energy Prices, Inflation - Forbes"
         },
         {
-          "title": "Protests Spread in Iran as State Media Warns of Economic Choke Points and Security Mobilization Expands - National Council of Resistance of Iran - NCRI",
+          "title": "The Economic Costs of the Iran War: THB Sept Update - Roger Pielke Jr. | Substack",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTzdHdURtWUtXZHhQbUNYX2s4RThQbEh5dDk2VktBZFJGM1djcWhvendUS3JXQm5wTXhTYm1FcE96SXlFa01fMTFxSTUzSWtLMmg4a25xN2FZaEZ5cE0tN1EzY21jZmViSHJlZGhXWHBqV0Fpc0NSX0kwR3Y5aEIyUEF2X0xOc1RUWVFfSDB5dGN1b0lVQWNmN20yY1dLVjhiWmRCMTFZdkFEekM4eGVsQVpQX3NSRnBNdVZ0Uzd4UkFmU0dEMVJTWnYtVHBBUHhCQ1RRa3RqUEpVMU9KRVE?oc=5",
-          "date": "Mon, 21 Sep 2026 15:56:55 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0hmRVhIaHlOY3BxcmN1ckFXM2tHUkgxc1ZvdGRodElpckpvNk1BUU1DeUtWeXFhQXB1UU44SUJLS0Q3MHAwYk40cWJLSWE4bl9EWXE4NE81UmxRRXpJZmlDT2I1dTV2T1I2WExDcGhyRGFQZ2V3VTFjVG1YOUpjTQ?oc=5",
+          "date": "Tue, 22 Sep 2026 17:42:58 GMT",
           "source_country": "IR",
           "country": "IR",
           "category": "military_conflict",
@@ -3354,22 +3369,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IR",
-          "llm_subject": "Protests Spread in Iran as State Media Warns of Economic Choke Points and Securi"
-        },
-        {
-          "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences - cnbc.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDb1BxRGVIaXJ5YV9MbEEtX0dXYmRCYnQ5eldIeWpybERJYVpzSFVrNktSTDJOeTZoOFp5S3ZXOUFDdlJJeF9rbmhEZ0RWVjMyMlNzZDQ3MjFZS2JHU2puTTNvS1c4dkFxbVlZVUp30gFzQVVfeXFMTmNOTExQcHFzeVdHV2h2YUJ0NVkwb3ZUVldWRXFzLXlsb0QtU1BEQVQ4dll6aWJGcWNsY25uZXJ4bFFuOFkxN3M5M3lpenZ1ZllzbGotQndTQlR3N0p2YlgzZ3hJTkJQaXZKZldGUmwydmw3bw?oc=5",
-          "date": "Mon, 21 Sep 2026 04:04:18 GMT",
-          "source_country": "IR",
-          "country": "IR",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IR",
-          "llm_subject": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns o"
+          "llm_subject": "The Economic Costs of the Iran War: THB Sept Update - Roger Pielke Jr. | Substac"
         }
       ]
     },
@@ -4771,21 +4771,6 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
-          "title": "Somalia’s Informal Economy in U.S. Security and Financial Policy - hornreview.org",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazhTQk8xNlotdEVxS0REVGV2aUItVWozVUlSblN5aEZ6MWZYQlc1d1B6amE0djlRR3N0OXVoemh4N01QRUVpUjkxdnN1cURYRjZqTnJYQlNpazg0V1k3MTg1amhKOGV3VkYzLXFOUGNfWkdmNENvVHFhWDlITDR6OVNaT1FzQko5dFdYWW5HLXlUNlZzWV85cHRNY1NmUQ?oc=5",
-          "date": "Mon, 21 Sep 2026 11:26:05 GMT",
-          "source_country": "SO",
-          "country": "SO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SO",
-          "llm_subject": "Somalia’s Informal Economy in U.S. Security and Financial Policy - hornreview.or"
-        },
-        {
           "title": "A decade on, Somalia’s federal pact benefits elites and al-Shabaab – but it fails the people - The Conversation",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUhEWlZfakhDdEFiaDJCdVZhVWxqNkVNSGtxUDZzdGVUeTZIeE9nS3JPeXhGWVRGM2RpOGZEOTd2Rlh3dmNfNUszVmFwcUxLUmowU0FaTDJ6bUxkVE9jUDdpR2hpcDRXMkhPWnhudExFWFRhTkhvSktzeFVsZmZHU2w4c0ZubTRFemJTcXZMamdDQ0ZrWlhhcFYxenJncjVhcXZqMWJlcWxpNlFLRnMzVGFqSlZzSWI0UlZCQ3dzUkU?oc=5",
@@ -4799,66 +4784,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SO",
           "llm_subject": "A decade on, Somalia’s federal pact benefits elites and al-Shabaab – but it fail"
-        },
-        {
-          "title": "Africa: Cooperation Key To Disrupting Terror Financing - Eurasia Review",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1hmRjhEV0xFbEpJXzY1b3Z0OGNDUV82MlFaZjdIR3pDNG9OTkZyQnhqSkZsY21xNTQ1TjVLQ0txTTZhaDdfa05qMWlpLVJtSXI4QVRRZlpCamdFRENJcUtEdEJiQXFnSENCV3lEM1BJSFdHRVdyaHNhdW9HSW1lQVU4QWdKUzgyOHB3NUR5ZG1BZmZkSjlIZg?oc=5",
-          "date": "Tue, 22 Sep 2026 00:46:33 GMT",
-          "source_country": "SO",
-          "country": "SO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SO",
-          "llm_subject": "Africa: Cooperation Key To Disrupting Terror Financing - Eurasia Review"
-        },
-        {
-          "title": "Somalia Eyes Expanded Economic and Investment Ties With China - FTL Somalia",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXhDdFd4U3VaTXdOZXR1VkotZk1JVktRQklZc0JhYVRBQmdtamozWF9qaUFwS0ZyMktGOFZ5ZVJSVjR1b21sbmVwWDRaa0dObTgzN3dldEJrendrRnA5cmNWcWJSaFFwNEc3VW91T25LVm5mMF9HdEVVN3psTG5QWG1rWGRiTzh1aWlNT09DNTN5dkk?oc=5",
-          "date": "Tue, 22 Sep 2026 10:56:18 GMT",
-          "source_country": "SO",
-          "country": "SO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SO",
-          "llm_subject": "Somalia Eyes Expanded Economic and Investment Ties With China - FTL Somalia"
-        },
-        {
-          "title": "Somalia Development and Reconstruction Bank formalises microfinance partnerships - Tech Review Africa",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2N1RmhZVnpWaXJmTlVRYWhqWFdhSFZjb3lkVmwyRDdKWXZVOWYySUQzQ0JWT3lHRkV0dVJTUTVBa2h2MlBUMzdkWFB0eDROUFNKQjl4QV9jM1k2THE4a2drZzVQRkYtdzdWcmtfMnZXS3RBNHZwVjdRcnBEWDhFWVk3TWpvbTFDdVotakRYbVFRZVl4UHBmb0FSYWRsdllBVThtUUp6Nkw5SjVCVlUyTmd5X29fbUlsdGRn?oc=5",
-          "date": "Tue, 22 Sep 2026 01:03:15 GMT",
-          "source_country": "SO",
-          "country": "SO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SO",
-          "llm_subject": "Somalia Development and Reconstruction Bank formalises microfinance partnerships"
-        },
-        {
-          "title": "Fuel Prices Double and Inflation Hits 6.3% as Middle East War Reaches Somali Households - FTL Somalia",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1JxSHpybzZoN1M2QzctS3pmMmRtb2F2NUNZNWZ1TjFMSjRPcFVJZUZCQ2RjaXYxUnBuZTJwVGd0MkIwTWhPcFNBZ0RkLVZtRWE3a01lUXFiWXZTVHlVZWVocmVheG8yOTNsVXZ0YW9SMksxVHRncGhCTVpvVS0ydkl2OXVnOHctWHBvSEJUUUpQc3RBUXNFVFJhT0M2QS13dE93ZmlSVzhkM2d3ek8zV29WN2Q?oc=5",
-          "date": "Mon, 21 Sep 2026 13:18:55 GMT",
-          "source_country": "SO",
-          "country": "SO",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SO",
-          "llm_subject": "Fuel Prices Double and Inflation Hits 6.3% as Middle East War Reaches Somali Hou"
         },
         {
           "title": "5 questions to understand Somaliland President Irro’s Washington debut - The Africa Report",
@@ -4876,21 +4801,6 @@ window.WTI_DATA = {
           "llm_subject": "5 questions to understand Somaliland President Irro’s Washington debut - The Afr"
         },
         {
-          "title": "The Shadows Of Mogadishu In The Sahel: How Somalia’s Untold History Warns Ghana Against Foreign Dictates And Internal Fragility - Modern Ghana",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjVTSVlHUmFZMHJya3RMNVh5czhzdWlndmVRZ2pNX2h1aU1CSUtkYzdxS083eWYxZ0Z4M1hJWmxnYlFUbVBPUWVNUUZ2MVBoVlRHX1VFdHpLcUtBaWFkbkRGT0dWc1ZsLTNQSm9uQ19ORkNIUE9kM1lsOHNma1hzSDZVOXExOVVQSTV4VWxKdS0wdzFrRUJBRTRlVdIBmgFBVV95cUxQX1BIZEhIM01UM3BFV3VQaUVTS2VUUVh4YTZLaGZDRlNBYnFtU05JNmVjMFYzR01KTi1wRk9lX1pacDJxSEJqZU8xNVFuUGVseHpBbEVVOXZZZ2lNcUh4MUdaNUoxalVLYnZkY3l2enJwZUx2bGlMVkhqUEVaNTAySllXRDFIUnM1N3Q1NV9SeTJZSklCdHJzVUhB?oc=5",
-          "date": "Tue, 22 Sep 2026 10:39:59 GMT",
-          "source_country": "SO",
-          "country": "SO",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SO",
-          "llm_subject": "The Shadows Of Mogadishu In The Sahel: How Somalia’s Untold History Warns Ghana "
-        },
-        {
           "title": "Five takeaways from our investigation of Somali activist Omar Jamal - Star Tribune",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0w0SXNzVTQ2cGJ2U0EtS2E5aDNseWdNQ1VIVmltcTRqOFNyZ2tjaFJKTkhOX1hxWmRTcUYyY05PeE1CSE1EYXZHcUpLa1RuRkFMQ2hYTFI1UGw0bmtlVFBHSThrR0hUMGFTREpjZDVVay1pbk1USzI3eHpsZE9KMmNIdjlFZnhIMGxmLXQzQllMQ0JxOXdndDFSNVZTZ3NEdk5QQVVRQ2M?oc=5",
@@ -4904,6 +4814,21 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SO",
           "llm_subject": "Five takeaways from our investigation of Somali activist Omar Jamal - Star Tribu"
+        },
+        {
+          "title": "The Shadows Of Mogadishu In The Sahel: How Somalia’s Untold History Warns Ghana Against Foreign Dictates And Internal Fragility - Modern Ghana",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjVTSVlHUmFZMHJya3RMNVh5czhzdWlndmVRZ2pNX2h1aU1CSUtkYzdxS083eWYxZ0Z4M1hJWmxnYlFUbVBPUWVNUUZ2MVBoVlRHX1VFdHpLcUtBaWFkbkRGT0dWc1ZsLTNQSm9uQ19ORkNIUE9kM1lsOHNma1hzSDZVOXExOVVQSTV4VWxKdS0wdzFrRUJBRTRlVdIBmgFBVV95cUxQX1BIZEhIM01UM3BFV3VQaUVTS2VUUVh4YTZLaGZDRlNBYnFtU05JNmVjMFYzR01KTi1wRk9lX1pacDJxSEJqZU8xNVFuUGVseHpBbEVVOXZZZ2lNcUh4MUdaNUoxalVLYnZkY3l2enJwZUx2bGlMVkhqUEVaNTAySllXRDFIUnM1N3Q1NV9SeTJZSklCdHJzVUhB?oc=5",
+          "date": "Tue, 22 Sep 2026 10:39:59 GMT",
+          "source_country": "SO",
+          "country": "SO",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SO",
+          "llm_subject": "The Shadows Of Mogadishu In The Sahel: How Somalia’s Untold History Warns Ghana "
         },
         {
           "title": "Somalia at a Dangerous Political Crossroads - Borkena",
@@ -4981,9 +4906,54 @@ window.WTI_DATA = {
           "llm_subject": "Uganda-Türkiye Rupture: What’s Real, What’s Fake, and What It Means for Somalia "
         },
         {
-          "title": "Electoral Commission Clears 12 Groups for Galmudug Vote as September 30 Deadline Nears - FTL Somalia",
+          "title": "Will burning bridges with Turkey win Villa Somalia? - Hiiraan Online",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVklOVWNWQ0VwZG5NM1h5WEc1b0dIRFg0NVdzVHpXb2FVZGFXMnpYWHh6UUY1VExac1dzaE04eW5GZlBsaGI5V1VtQzRzTlRuUDlPS212SjFpT0dXelUwak5ZQjYtOHRtbGJWRE1zblBZRkV3blRMb0FIWC1mVkNVSHRFcGFUUWxlNjVDckpQbFBWclJDaV82bkp3d3dtSEcxUXhZOTRhZjRPd05IOVZmUXdDZmM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV01BWnBSMzkySElHVGV1c3AxQld2ckxUUm16SW12LTgtQ0VndEZ4bmVuaU4tUjVBNi1JalFuU0VObE0wdU0tWU1hcjNWVUw3V19ueGhMZzFFUDEtem83Nk5CZHF4LXR0WFdwemFxVER2bW1YeW5jZXd6ZFE2VF9IUXA4dnFwRWpiMmxRS2QzVHh6b1AtRWl2V1FrQnFIeEdj?oc=5",
+          "date": "Mon, 21 Sep 2026 07:43:15 GMT",
+          "source_country": "SO",
+          "country": "SO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SO",
+          "llm_subject": "Will burning bridges with Turkey win Villa Somalia? - Hiiraan Online"
+        },
+        {
+          "title": "Somalia’s Informal Economy in U.S. Security and Financial Policy - hornreview.org",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazhTQk8xNlotdEVxS0REVGV2aUItVWozVUlSblN5aEZ6MWZYQlc1d1B6amE0djlRR3N0OXVoemh4N01QRUVpUjkxdnN1cURYRjZqTnJYQlNpazg0V1k3MTg1amhKOGV3VkYzLXFOUGNfWkdmNENvVHFhWDlITDR6OVNaT1FzQko5dFdYWW5HLXlUNlZzWV85cHRNY1NmUQ?oc=5",
+          "date": "Mon, 21 Sep 2026 11:26:05 GMT",
+          "source_country": "SO",
+          "country": "SO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SO",
+          "llm_subject": "Somalia’s Informal Economy in U.S. Security and Financial Policy - hornreview.or"
+        },
+        {
+          "title": "Africa: Cooperation Key To Disrupting Terror Financing - Eurasia Review",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1hmRjhEV0xFbEpJXzY1b3Z0OGNDUV82MlFaZjdIR3pDNG9OTkZyQnhqSkZsY21xNTQ1TjVLQ0txTTZhaDdfa05qMWlpLVJtSXI4QVRRZlpCamdFRENJcUtEdEJiQXFnSENCV3lEM1BJSFdHRVdyaHNhdW9HSW1lQVU4QWdKUzgyOHB3NUR5ZG1BZmZkSjlIZg?oc=5",
+          "date": "Tue, 22 Sep 2026 00:46:33 GMT",
+          "source_country": "SO",
+          "country": "SO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SO",
+          "llm_subject": "Africa: Cooperation Key To Disrupting Terror Financing - Eurasia Review"
+        },
+        {
+          "title": "Somalia Eyes Expanded Economic and Investment Ties With China - FTL Somalia",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXhDdFd4U3VaTXdOZXR1VkotZk1JVktRQklZc0JhYVRBQmdtamozWF9qaUFwS0ZyMktGOFZ5ZVJSVjR1b21sbmVwWDRaa0dObTgzN3dldEJrendrRnA5cmNWcWJSaFFwNEc3VW91T25LVm5mMF9HdEVVN3psTG5QWG1rWGRiTzh1aWlNT09DNTN5dkk?oc=5",
           "date": "Tue, 22 Sep 2026 10:56:18 GMT",
           "source_country": "SO",
           "country": "SO",
@@ -4993,7 +4963,37 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SO",
-          "llm_subject": "Electoral Commission Clears 12 Groups for Galmudug Vote as September 30 Deadline"
+          "llm_subject": "Somalia Eyes Expanded Economic and Investment Ties With China - FTL Somalia"
+        },
+        {
+          "title": "Somalia Development and Reconstruction Bank formalises microfinance partnerships - techreviewafrica.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2N1RmhZVnpWaXJmTlVRYWhqWFdhSFZjb3lkVmwyRDdKWXZVOWYySUQzQ0JWT3lHRkV0dVJTUTVBa2h2MlBUMzdkWFB0eDROUFNKQjl4QV9jM1k2THE4a2drZzVQRkYtdzdWcmtfMnZXS3RBNHZwVjdRcnBEWDhFWVk3TWpvbTFDdVotakRYbVFRZVl4UHBmb0FSYWRsdllBVThtUUp6Nkw5SjVCVlUyTmd5X29fbUlsdGRn?oc=5",
+          "date": "Tue, 22 Sep 2026 01:03:15 GMT",
+          "source_country": "SO",
+          "country": "SO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SO",
+          "llm_subject": "Somalia Development and Reconstruction Bank formalises microfinance partnerships"
+        },
+        {
+          "title": "Egypt’s Policy Thinking Toward Ethiopia: How Cairo’s Institutions Read Ethiopia? - hornreview.org",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLUwydzV3ZU1VZkVKQUNmRXRnVks1VGR5SlJaT2I4b254YlhTZGtxRVlnMGp1T3F6TUdfOFc4dGpfMGJybVhDR0RHenVKMWQ3eUdkMG5oam5LbUZvTjdMS0l3UUxhQWFLYkVkcDVjVFZnN0dYdDBjQlZsSWxHOEFwNFAwQ2tjeUhkczlYMEs2VTlxR2dHWnMtc2VnVV9EekthaUhmYkRvREM1dDlPS0hMaA?oc=5",
+          "date": "Mon, 21 Sep 2026 11:56:43 GMT",
+          "source_country": "SO",
+          "country": "SO",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SO",
+          "llm_subject": "Egypt’s Policy Thinking Toward Ethiopia: How Cairo’s Institutions Read Ethiopia?"
         }
       ]
     },
@@ -6510,162 +6510,12 @@ window.WTI_DATA = {
     },
     "EG": {
       "name": "Egypt",
-      "index": 2.92,
-      "raw_score": 1.0,
-      "status": "STABLE",
+      "index": 4.43,
+      "raw_score": 2.0,
+      "status": "ELEVATED",
       "events": [
         {
-          "title": "Improving Egypt-Hamas ties unsettle Palestinian politics - Arab News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1FHZ2RGSmdSbWUyOXI2cDZ1SDM5MHFfWUdpaE9aQ2stN2RUM1JEOXVwVFJZMmRneXR6N0tDNVFaZ1ZEbFNjMWJza2RxLUdMQmVjMjBDbGZqQnVUTVh4MUJlRnR3MXIwVVBPTEoxTmNJVFdjajdOaDZSc19Cb25tU2t3Z3NYM3ZFWll5TTdUM1VKNDk0WWM3Z1YtMGU0ZFZHZ09z?oc=5",
-          "date": "Tue, 22 Sep 2026 01:01:38 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Improving Egypt-Hamas ties unsettle Palestinian politics - Arab News"
-        },
-        {
-          "title": "How Cairo’s Institutions Read Ethiopia - hornreview.org",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9peFVnMkNMZUhGWndidHZDaVhfSUoycnl2T242UHRxQUpNcktZSVdPRGdWNHduY1FjTDhaOUdudS1YTkVKNExGZ3hUcWtNV2E3MFRnd2k5WTYwc040a2drWVl4QUhCZVUzWXZrLUpsLUx5QTZSWnRRVTJiZVA?oc=5",
-          "date": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "How Cairo’s Institutions Read Ethiopia - hornreview.org"
-        },
-        {
-          "title": "Egyptian government and CBEdraft National Economic Transformation Programme - Dailynewsegypt",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTZEck91T0RmMzdCcElqVFVvTlRfdjdEN2VtU0xyUkxaYUpoZXdKSHpPcFNHREtubW5fNVRmNkQ0NHFWbGMwUzZtQ29BWlBFaUtPeFg4Y3dwMnRPWE5jdmsxdUNsNUphOFhOZUw1VHZNdGMwTldibFEyVkFJTGZaT2lzZFNNYjU5dDJIQzB1M284VW9peEFhb3Z6Vld5ZFIxUEN5STZsY1BMMFIzRHItcThhZzZGWUlzZ0E?oc=5",
-          "date": "Sun, 20 Sep 2026 19:15:33 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Egyptian government and CBEdraft National Economic Transformation Programme - Da"
-        },
-        {
-          "title": "CIA Director’s Visit to Egypt: Why Is Cairo a Regional Communications Hub? - صوت الإمارات",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOS2FmU0ZYUWlpQjBHUFFsdllKaFZJdGowX1NaRm9yMm5OU1hnUU54VHhLUkZFUGdOeTJtQk5Ba3FaUjN6UXE1MW1PbEJnZWN5cFplR1gzNXJDaTZsQjlWV1RTME1TRDlZR0p6a1owZkhhMTExSWMyc1g0X2VCNnBuNkZ4dXNoSFVhaFU3bGxsTUhvbHlKbUNWbGdzNFRIU1ZwazB5dG1oZm10RVY3djFuZ241eUc2N3h1Ymw5UFZabDlOQlJpUXpwT0k2WEZxV2xLZXQyZEItaFVhbWpsLUxCeklJczFhMXJxMXFKbllMVjlFTW5pNWNmRVV0b2UxU1JmX1E?oc=5",
-          "date": "Tue, 22 Sep 2026 06:58:32 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "CIA Director’s Visit to Egypt: Why Is Cairo a Regional Communications Hub? - صوت"
-        },
-        {
-          "title": "Dendias: Egypt a ‘strategic and indispensable’ ally for Greece and Cyprus - eKathimerini.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXB3cVNkZGtOazhDMC1sQllWUjNPNHQ2VVJ5VlJ6TGhWM3M2SlJadWVWUlAwVUkxYU15MExZeDJBYjRFczhsaEZDeEtkaHlTU0x2dEZiV1FuQ0twRHh0WU5ZVVlUb3hDQXFwYmdrNlg1cER2RUZUbkdvSDFPSFBGNVF5SUhQaG93WEJWWmZvT2U1WWFDeGF3R0hxRTRXSEV3SWFSdUdLanlVYnF2NmM0ZGtYTW5YWFdWMTlKS3hnOXl4Z2dJcTV0X1NkcS0?oc=5",
-          "date": "Tue, 22 Sep 2026 14:55:35 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Dendias: Egypt a ‘strategic and indispensable’ ally for Greece and Cyprus - eKat"
-        },
-        {
-          "title": "Egyptian, British foreign ministers discuss regional security in New York - سانا",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBURWhYa0ZlSmhrWEJGeXpidGFVM01wNmJOOTV0SXBtRjRUR2NTUV9pWTZCSkVlS0NHVE9vU2FpMzJ5dVpDLWIxeVNmcGc?oc=5",
-          "date": "Mon, 21 Sep 2026 20:54:00 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Egyptian, British foreign ministers discuss regional security in New York - سانا"
-        },
-        {
-          "title": "Egyptian FM urges protection of Strait of Hormuz shipping during UNGA meetings - Dailynewsegypt",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3hIMU91WE93c0c3eE1BQ09iNmJMZ3ZITVFINzczOXlPZ05Ea1o3S0twdkNHak9sdU9XNnZFY1BDRV80d0VaWW1fc3R0ejJFdTNyQVVSRy1GYkUweV9nZUtyQVBzM3k4TUV6eWUxY0dPNWpEdUpYb1JMOE9KcEFLLTFCWEdQc3JxX2pNdkRjUGdLYXR3aTRYMUp2Q0NQNmE5UjdKME03R0QtbzZHWUF0N3ZIT1A4RGd1Q2ROdmdR?oc=5",
-          "date": "Mon, 21 Sep 2026 19:24:52 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Egyptian FM urges protection of Strait of Hormuz shipping during UNGA meetings -"
-        },
-        {
-          "title": "Egypt, International Crisis Group discuss efforts to contain regional crises - الهيئة العامة للاستعلامات",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXktT2ZEc2I0dTJhbnlsY0Q5VjdqblZ3TkctdzhuYlBaWTNXV2JweWlTd1ZNSFI3LWs5cGYxVEhNOGlIbTcwWm5yVlFodmZTNUlPVnEwbG9nTmZMVnpRbTVGYURQM2Y5YmJ0V09ZenN0cEdoOVlvT212RWUxdmh6T0hFZzB4R0lzWWRta3hzSzlxWENlTDR4Zk5pbS1QWWRLTm0xZ1QtdEdpaU92TWlEUG8yN2pPZ0k?oc=5",
-          "date": "Mon, 21 Sep 2026 09:36:50 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Egypt, International Crisis Group discuss efforts to contain regional crises - ا"
-        },
-        {
-          "title": "Egyptian President, CIA Director discuss regional developments and maritime security - سانا",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZk94OW56Z29FbU5KcHVITWhicmdPQS1VbnVFVzNBR19kMTV1SjlIOXMxS1c3N2hzWXZVdGRWN3B6TFJLLTdUa1d4QnJhS3Iy?oc=5",
-          "date": "Sun, 20 Sep 2026 20:00:54 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Egyptian President, CIA Director discuss regional developments and maritime secu"
-        },
-        {
-          "title": "Egypt: Cairo ready to act if Ethiopian dam causes harm - Benin Web TV",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWloVVdlTjZrRXBPcGNIY0lHWFBub3VHQk4tT2QxTmtXS1dTX09MUEtJQl9jM2dzeGEwRThWYUZsWnlSQUR5bklCTTZGQVEtRW1WS2YtRHNHUFZFY0x4NDdUcHhCa1BJMFBUT2xXRml3NF9mU3o1ZjNfMlN4ZFZTNjc4OTFwUQ?oc=5",
-          "date": "Mon, 21 Sep 2026 09:37:29 GMT",
-          "source_country": "EG",
-          "country": "EG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "EG",
-          "llm_subject": "Egypt: Cairo ready to act if Ethiopian dam causes harm - Benin Web TV"
-        },
-        {
-          "title": "Ratcliffe in Cairo: Why China Is Watching U.S.-Egypt Security Ties - Modern Diplomacy",
+          "title": "Ratcliffe in Cairo: Why China Is Watching U.S.-Egypt Security Ties - moderndiplomacy.eu",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmp5MDktS3RXdTlCU2s0dGU5bjM3aTBlVU5Kb3ZHQ0U2RkI0dk5yT0hpN3E4eWR1N1V3VDRmNGJoQzB6QTFLZFZ5QTRaZU0teUdWSG1OckdBcW5VNGt4eG1hQzcxeWpWZ3dUbDZHOXhScng5WmtVRXdfU0RkQ0JCQ0VnZ1NmOHp6WkliZ3pWV0Itbl9nQ3BWWUhqRnJlaFlUSkNrOC1n?oc=5",
           "date": "Tue, 22 Sep 2026 15:00:00 GMT",
@@ -6677,10 +6527,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "EG",
-          "llm_subject": "Ratcliffe in Cairo: Why China Is Watching U.S.-Egypt Security Ties - Modern Dipl"
+          "llm_subject": "Ratcliffe in Cairo: Why China Is Watching U.S.-Egypt Security Ties - moderndiplo"
         },
         {
-          "title": "World’s most powerful nation deepens security ties with one of Africa’s most populous nations as Egypt and Ethiopia remain locked in a Nile dispute - africa.businessinsider.com",
+          "title": "World’s most powerful nation deepens security ties with one of Africa’s most populous nations as Egypt and Ethiopia remain locked in a Nile dispute - Business Insider Africa",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOenhCVWJhSUJTenVSTXBpRi0xZnNmcV9RWkZldmZLZ0FvLXZuajk3bDEwb2dkRFJuOVZtRjBBNWFNcjJCaHpPQWNhR3UyMXdVa2JGYS1TaVdQS1hBQ21LYTJhazBBWTI4X1M3aVRIQTlIbWozcWRjdnRndllWXzdzaERRQlRIenhwb2x3aXV4MlpRSWZSaU5uWHlhZnZPRkRpdEp2NHFDbFFBem0yNkpqUE5md1ZBenRlTWwwaDdtNmZGclhtaTVqZ3ZSNGx5QmVud1dGcTBrQQ?oc=5",
           "date": "Tue, 22 Sep 2026 12:00:00 GMT",
@@ -6693,6 +6543,21 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "EG",
           "llm_subject": "World’s most powerful nation deepens security ties with one of Africa’s most pop"
+        },
+        {
+          "title": "Türkiye, Pakistan, Egypt condemn attacks targeting Saudi Arabia, reiterating their support for kingdom's security - Anadolu Ajansı",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHpBeVlUS0Q5VWlpd01WdTN3bGxJWXdnM1BQeFE0N2VXbVVGMmszVUpfT0xyOW0tVkw2eWxJbEdvbFNEMzU3VXB1bUh2VVNjOXZpY0ZVelIxWDgwY0RXYTBxRG1Cb1UzQ0s4Y3ZzLTNxd3dsUTZSd2pXMkd5VjFONDlPWWZsWHdjWFFGWnpPSlpFU1ZIWDk2SUZQS1VteUhCNWtpVE5qZzhfT1lFNkFtQ2RtTXcwenkwTUVSRnl1SlJ6bVJRRGQyOGZGek5Ob3hBSFVreUNZeEs3cDBJZ21XcWlR?oc=5",
+          "date": "Tue, 22 Sep 2026 18:38:56 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "terrorism",
+          "weight": 7.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "Türkiye, Pakistan, Egypt condemn attacks targeting Saudi Arabia, reiterating the"
         },
         {
           "title": "Egypt races to secure $5.4bn Saudi deposit amid regional wars - The New Arab",
@@ -6710,6 +6575,21 @@ window.WTI_DATA = {
           "llm_subject": "Egypt races to secure $5.4bn Saudi deposit amid regional wars - The New Arab"
         },
         {
+          "title": "Egypt, Saudi Arabia, Türkiye, and Pakistan condemn attacks targeting Saudi Arabia - Egypt Today",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1E3dWhwM0V1SnJZMVdnaVVEX0EzM19IRW1PX2FLbzUtTnBRWlJBMEo1SlZOUlhYdW5uckRfVTNtc3R3ZjZtRHRMRmRFMUkxSHFMMFBoZVJIQVFQcGYwV29oSGlmMV85VXgza3JiSEdXcTJjcEtyWF9fVlhxYnQtT0V6Smx5RU82eGlseXhKZXlpMUE3ZW9VVXo0NTg4bDc0VktMekJLUlpaYWw2dlFNdElLYWVpQXNwLVBLWQ?oc=5",
+          "date": "Tue, 22 Sep 2026 04:04:00 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "terrorism",
+          "weight": 7.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "Egypt, Saudi Arabia, Türkiye, and Pakistan condemn attacks targeting Saudi Arabi"
+        },
+        {
           "title": "Egypt Vows Comprehensive Action to Safeguard Water Security - Global Arab Network",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmxpRVFaalk4TXpWcnlFcE5oLWMtTmR3NWlGQVFkVVc5Q2hrTzRhc21oTEtSWTZTd1NaV3VBWDR4NGtxUGdHUFAwUWtENEd5YnIxb1NTbFhVVV92M1gzdzBGaWlQb3hYeEJaRXpyZmE3MEZoTmM2alJ1bEF4TWx2LXAtc1JuVjhqenV3eDlpdndGbXdDUG0wVUo5bGFqbUNpa0hLZVZZelkzV3hsbFE?oc=5",
@@ -6725,19 +6605,139 @@ window.WTI_DATA = {
           "llm_subject": "Egypt Vows Comprehensive Action to Safeguard Water Security - Global Arab Networ"
         },
         {
-          "title": "Egypt, Saudi Arabia, Türkiye, and Pakistan condemn attacks targeting Saudi Arabia - Egypt Today",
+          "title": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law - egyptianstreets.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1E3dWhwM0V1SnJZMVdnaVVEX0EzM19IRW1PX2FLbzUtTnBRWlJBMEo1SlZOUlhYdW5uckRfVTNtc3R3ZjZtRHRMRmRFMUkxSHFMMFBoZVJIQVFQcGYwV29oSGlmMV85VXgza3JiSEdXcTJjcEtyWF9fVlhxYnQtT0V6Smx5RU82eGlseXhKZXlpMUE3ZW9VVXo0NTg4bDc0VktMekJLUlpaYWw2dlFNdElLYWVpQXNwLVBLWQ?oc=5",
-          "date": "Tue, 22 Sep 2026 04:04:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGNKd1RuSUwzWjI2OXZHbEhfTVNKSGJ5X3dCNWQ0Y1l1Xy1YWXZTTTV1dUlpQjg4Wl9GbXNpN2o2M1paMTdxUHRnQTg0a1AwLXJMU2phMVFUYUxBMzZMbW5QaHBNWEZmRms4YzJxREYzNlNSTS1BYnhZcFlOenNWN1IycHJmQ2QwSnJnaC1uOGRHX09FZkZ4UlZLMTRVc3hyMUNJV1Z0c3hUQ2NvTUx0NFhYaEFBUQ?oc=5",
+          "date": "Mon, 21 Sep 2026 14:19:19 GMT",
           "source_country": "EG",
           "country": "EG",
-          "category": "terrorism",
-          "weight": 7.0,
+          "category": "neutral",
+          "weight": 0.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "EG",
-          "llm_subject": "Egypt, Saudi Arabia, Türkiye, and Pakistan condemn attacks targeting Saudi Arabi"
+          "llm_subject": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law - eg"
+        },
+        {
+          "title": "All options on table to protect Nile rights, Egyptian Water Minister warns over GERD - Egypt Independent",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXJLNVlyOHM2N2JkTXNVTV9CcG1Id2VYM0hFbmwtSmxTMWVBSi1rb1ZZQjB3azVPaGZsWVY1U0trNVlObDE1NHkzSnZVVHV3b1YxQ3BuUWhTOEtDcDc4Xzk3VmQzaVhtQlFSRWdOeEgxWjFIQmp3NUlQMU9LRjVLMTFLWG5qd0NmcTdFSUdidzYwTjYyZHlWSWJnY1RScjZ2alctYzBSSXpEeTFNYlZmRXFVQTA3UGFj?oc=5",
+          "date": "Mon, 21 Sep 2026 12:07:44 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "All options on table to protect Nile rights, Egyptian Water Minister warns over "
+        },
+        {
+          "title": "Egypt, EIB probe stronger links on food security, logistics - Egyptian Gazette",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkZweF8zTGZ1NWhmd2xXOFZsYjhfWTF4Wk5pOTN6cXFGVFJiNU40R3VUeFlySFhlb1dqWTVuVWdPWXEtVWtHN1RVZFVKR2tuZ2lBNjg3d3ZDaG1FREZOY0dhS0czMGNzZ1JlQ19XdmNSbUhjdEdMQWZESFVNcjU4YVQzXzl0SEtHUTdkWE5NWjN1U1hJZ1ZHZA?oc=5",
+          "date": "Tue, 22 Sep 2026 11:48:59 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "Egypt, EIB probe stronger links on food security, logistics - Egyptian Gazette"
+        },
+        {
+          "title": "Egypt calls Ethiopian Renaissance Dam ‘illegitimate,’ reserves right to act to protect water security - Anadolu Ajansı",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHpLckRVYzdqMndkRFdKMlV6c3JRSFo4S3AxSHVDQWhFTHV4dkJ6a2NVOUVmbnQzV3hfandzOFg4VTRJTjRXUHNGRjAtc2V2MGxhNy11Y0NDTnladGJyNXhNS3BsZXhqbl80M0hMWGxSR1pKRnd0NjhhRmpBem1pemxVYU9ncVJSU0o5aGVKMHJpWkdxOUdJS3U4bFhHT1JhV1BqWjRSUzZUdXhEcFd5WU5mS0RBRUdFUHZUbVM3U283SkJwVWhLUDJlYnhRWTI2dk5qS2kxOVlGR1U?oc=5",
+          "date": "Mon, 21 Sep 2026 01:20:40 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "Egypt calls Ethiopian Renaissance Dam ‘illegitimate,’ reserves right to act to p"
+        },
+        {
+          "title": "FM emphasizes to Trump’s Advisor necessity of ensuring maritime security - Egypt Today",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVNNeW5DM2pzY0Rpb3dRRXNIYk14bWFza0RzWlcxeFRQR0w1eXVnMjV6ZVMybnh5WGhfV21WX0lxeGc0czlSaGFzakNEeWlSRzlJb0ZBcThIQnNaWW9hWG93N1JSMjY5S1ZKWjhTME94dlFOME5CZ2pjLW1lTExOa3A3cnJfZTVYejZiZFd5Qmh6WE1DRVVqQkZCWGI4QXk1T1I0d0VmTWIySUpaT0xrMTdndkIwcGpWU3k5YU5ITjdCdw?oc=5",
+          "date": "Mon, 21 Sep 2026 07:42:00 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "FM emphasizes to Trump’s Advisor necessity of ensuring maritime security - Egypt"
+        },
+        {
+          "title": "Egypt, CIA Chief Affirm Support for Somalia's Sovereignty - allAfrica.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NTHJtaUI4LUFMblRfRnRUSmFTR2t5bm5KdUZDT2pEQjhPWmhRUHk5WTFYRUl0cUNKaFI1UzNtVWtNNndXVzFkWmFodjYxdlFTOVg0SkRrSE15Mjg?oc=5",
+          "date": "Mon, 21 Sep 2026 10:27:28 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "Egypt, CIA Chief Affirm Support for Somalia's Sovereignty - allAfrica.com"
+        },
+        {
+          "title": "El-Sisi tells CIA chief Egypt will defend Somalia’s sovereignty - Garowe Online",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0RKRW9MdzBuaGJqZzlwdU1lWEZvbjhleFdjMTFRcEM0YmRKMmFRUVZYRG9OOW9NSkx5Qm9vRWxIdjZNRlZhbFVWWWh6blFuV1N1UFZHa1BBdTg0dmlobDZ6eVBQZXlaNGVuX0xYWGpSOTZJX1AxMHNKSkFZNGdLbVJLSmE3bXJpVExEaWx2Z2hWcHkzY2NZTm00bXFpelVWZlgxNjJFa2N1NHNY?oc=5",
+          "date": "Tue, 22 Sep 2026 08:33:06 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "El-Sisi tells CIA chief Egypt will defend Somalia’s sovereignty - Garowe Online"
+        },
+        {
+          "title": "Egypt, CIA Chief Reaffirm Support for Somalia - Oz Arab Media",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5NXAzdVpmb29nb3VwUk9sREw4aV9vNy1WZGpFenN5VVNXTGxyZGtoY0RGeUZsajZObGFaT0dFRHpxQmdpd0x1RUJaMjNoVTk5dmVWT2VQMWFOdDZmakpFLXFlZWt1eWg5c2lRQ3RYQ2NNajRK?oc=5",
+          "date": "Tue, 22 Sep 2026 01:00:52 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "Egypt, CIA Chief Reaffirm Support for Somalia - Oz Arab Media"
+        },
+        {
+          "title": "Guterres praises Egypt role in promoting regional security in talks with Madbouly - Foreign Affairs - Egypt - Ahram Online",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFFvWjFQNEw5bmoxUzZobldpM1EtNDYyeXBacWpselFGbnVXYzlIckV6Tl9rd0NJd05KU0tMWXRQX2dmSVBwMVRKbFdDdTk4RkJkUTJfVld6MlgwSXV4WC15ODBZR1FFcU9qX0FyWUFVTndCYk1Rc0VGM00xOE95Qkp0LXdTczBTMG5QNUg2WUdLWE8zZGdabUtWTVByTlhGRUJWT21oaXRhWmk2ZnB4ZDlMSEh4QkFNVTJGdTZ4UERrb0JfX1pvMmhfOFE?oc=5",
+          "date": "Tue, 22 Sep 2026 21:07:35 GMT",
+          "source_country": "EG",
+          "country": "EG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "EG",
+          "llm_subject": "Guterres praises Egypt role in promoting regional security in talks with Madboul"
         }
       ]
     },
@@ -9522,7 +9522,7 @@ window.WTI_DATA = {
           "llm_subject": "G7 foreign ministers demand Iran stop arming Houthis in Yemen - upi.com"
         },
         {
-          "title": "Yemen Between Britain and Saudi Arabia - hornreview.org",
+          "title": "Yemen Between Britain and Saudi Arabia - horn review",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUHpNQTRqRURhenlZN2VNc0lEeFY1MzRhQVY4RzNoRHZ1dHllem5NLUlQNFJra0JaQVJOeG5PS281Sk10dUN6aFg0Sy1pVUVPaVo4RFV5VW1WNVY4V0s5OGYzYUdSX2xoWlpnZ180bTZYd3pLNHR5dkNnR2F4QQ?oc=5",
           "date": "Mon, 21 Sep 2026 17:16:26 GMT",
@@ -9534,13 +9534,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "YE",
-          "llm_subject": "Yemen Between Britain and Saudi Arabia - hornreview.org"
+          "llm_subject": "Yemen Between Britain and Saudi Arabia - horn review"
         },
         {
-          "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly - yahoo.com",
+          "title": "Does Mecca Pact demand Pakistan enter Yemen conflict? - Responsible Statecraft",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2NmdjBvNFdNZWdKc2NVcjk1ODl5X1NiYTU2Z1Y3SWx2RDl2SHlZQkZ0azZDdjNaYUJtbUNJNzFwbUNUalk1RFVibEwwaHFxMzZnTGZzY19pOHdMckljVXlvVXRYaFgxS3VjS0hTanhmTnNpdjdrdUhDa2VDcXV5UDNRYnlodjNjeTZkVE1Idw?oc=5",
-          "date": "Tue, 22 Sep 2026 07:16:36 GMT",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GcDRhX1p6ejN3TXE4V0pqVy1ZN3ZBY001WGFrb3Jtd0ZPU0RqR2JtT3FiYkw2ZjdkdUJaeWoxMHNUeEhJdGNTeDMxTEJMZ0dWTEJ0S1dhRHpQNjdaNjFLZDd0UHE5eERTVFZNcEZhSQ?oc=5",
+          "date": "Mon, 21 Sep 2026 04:09:07 GMT",
           "source_country": "YE",
           "country": "YE",
           "category": "neutral",
@@ -9549,7 +9549,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "YE",
-          "llm_subject": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly - y"
+          "llm_subject": "Does Mecca Pact demand Pakistan enter Yemen conflict? - Responsible Statecraft"
+        },
+        {
+          "title": "Trump says there will be a deal with Iran after the midterms - The Express Tribune",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFduSHBTYjhkZHNBNHppc2V4OTJud01aZ1AyUzJwV2lZaWJYckwzZ1J0SG5meGVTSm1xVFVvWTc2MGNtMjF5TThaajFCSS1pSzRUWENUdm5zZUpvY21rM3hTY1pycUF3N0gwdDFHVVNPT1ZZWktLZ0liYlhKSnJTVTl4NFBBazR0UW9JcWcxdUhEd05OaTJmMHJKVmtWWEFVbVl6b1hSamdRaUhHbmc0c25zNFZQV2ZPMThwaG9aLTU?oc=5",
+          "date": "Tue, 22 Sep 2026 19:18:28 GMT",
+          "source_country": "YE",
+          "country": "YE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "YE",
+          "llm_subject": "Trump says there will be a deal with Iran after the midterms - The Express Tribu"
         },
         {
           "title": "G7 issues statement on Yemen, Red Sea, and Bab al-Mandeb Strait navigation - trend.az",
@@ -9565,21 +9580,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "YE",
           "llm_subject": "G7 issues statement on Yemen, Red Sea, and Bab al-Mandeb Strait navigation - tre"
-        },
-        {
-          "title": "Yemen : UN Security Council Urges Yemeni Parties to Engage in Political Process, Halt Military Escalation - Yemen Online",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udWIybkY0MUtrOWFWZ2FVS0kxWU1yWnJlM2lqN0RGMzJsTnRKdWVxVFVCWHdMRGpreHVJcVh4cFBaekhjVDdZYldpdkRqSGZZNU80U0VvNXlwUQ?oc=5",
-          "date": "Sun, 20 Sep 2026 17:32:17 GMT",
-          "source_country": "YE",
-          "country": "YE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "YE",
-          "llm_subject": "Yemen : UN Security Council Urges Yemeni Parties to Engage in Political Process,"
         },
         {
           "title": "Pakistan urges Yemen’s Houthis to halt ‘provocative acts’ in Red Sea - Asia News Network",
@@ -9612,21 +9612,6 @@ window.WTI_DATA = {
           "llm_subject": "How many people have been displaced in Yemen in September - Latest news from Aze"
         },
         {
-          "title": "The G7 urges Iran to cut its military support to the Houthis in Yemen - Demócrata",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZy1JVGtxOEI1ZEdNVzRmQUJTTnd3MVcyU2FhNFFrbGFRS2JCM250MGZTOENsSTFXUlMxSHd4WHI1NkJqMmg4bmtaLTBGeHV2RXVCbFlSSGJVTFphbnZzYXF4ZUdNenlzVnQ4MXRscEJILWZmN2xwX1lKN0plc21xTV9YYTI2eUpIbFd0anRkTlFMSjBtWTBqcm9SbzU4Z3lMQ1dmaERUZGJGS0E4TnBWNENn0gG3AUFVX3lxTFBpLTl0LVJUMng5Tm56MzQtS2RaWjRjMlMtN2E0ZkxoRmMyakJtYTQ4UVctcWRTZVQ2NGRNWUkzaE5TcWlodFBBWi10LUFsQ055N3F1U0c1cnVWTFEzWjRvczh0NEpick1yNm5IYU13V1p5V1JYamQwazR2Yl9YUlhvRF9uazMtajNIa3paV09PbWFHTkZyb1RQTWIyMW9wSmRUcmxwUjlyNHVLaUxlVVFaNzhWcVk4Zw?oc=5",
-          "date": "Tue, 22 Sep 2026 05:50:45 GMT",
-          "source_country": "YE",
-          "country": "YE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "YE",
-          "llm_subject": "The G7 urges Iran to cut its military support to the Houthis in Yemen - Demócrat"
-        },
-        {
           "title": "More Than 158,000 People Displaced by Escalating Conflict in Yemen - Yemen Online",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdW5TbmZPbnd3Q2Z6cXJiZFZsMGZFckRwbVdzdmQ3VV93Sm9nTC0tZEQ5cFE3RWdJcGszZGEwYks0bHZGSGtobGdWZ19xWmUxbjFlZ3ZVZUlPdw?oc=5",
@@ -9640,6 +9625,21 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "YE",
           "llm_subject": "More Than 158,000 People Displaced by Escalating Conflict in Yemen - Yemen Onlin"
+        },
+        {
+          "title": "The G7 urges Iran to cut its military support to the Houthis in Yemen - Demócrata",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZy1JVGtxOEI1ZEdNVzRmQUJTTnd3MVcyU2FhNFFrbGFRS2JCM250MGZTOENsSTFXUlMxSHd4WHI1NkJqMmg4bmtaLTBGeHV2RXVCbFlSSGJVTFphbnZzYXF4ZUdNenlzVnQ4MXRscEJILWZmN2xwX1lKN0plc21xTV9YYTI2eUpIbFd0anRkTlFMSjBtWTBqcm9SbzU4Z3lMQ1dmaERUZGJGS0E4TnBWNENn0gG3AUFVX3lxTFBpLTl0LVJUMng5Tm56MzQtS2RaWjRjMlMtN2E0ZkxoRmMyakJtYTQ4UVctcWRTZVQ2NGRNWUkzaE5TcWlodFBBWi10LUFsQ055N3F1U0c1cnVWTFEzWjRvczh0NEpick1yNm5IYU13V1p5V1JYamQwazR2Yl9YUlhvRF9uazMtajNIa3paV09PbWFHTkZyb1RQTWIyMW9wSmRUcmxwUjlyNHVLaUxlVVFaNzhWcVk4Zw?oc=5",
+          "date": "Tue, 22 Sep 2026 05:50:45 GMT",
+          "source_country": "YE",
+          "country": "YE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "YE",
+          "llm_subject": "The G7 urges Iran to cut its military support to the Houthis in Yemen - Demócrat"
         },
         {
           "title": "Yemen: International Maritime Security Faces a Difficult Test After the Fall of Bab al-Mandab - IOL",
@@ -9687,6 +9687,21 @@ window.WTI_DATA = {
           "llm_subject": "Egypt, Abdelatty meets EU Special representative Di Maio: focus on Yemen and Hor"
         },
         {
+          "title": "The Houthi takeover of Bab al-Mandab and Iran’s counter-economic strategy - The New Region",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRT0FfMW5ERVNpWEZfdXVvd2VXOFZkeW1sWUlsWFpvNnhFNkJpQ29ZSFJPV2VHU3Rqck5YTkNYOFU0RHJlUVh1MFFidw?oc=5",
+          "date": "Tue, 22 Sep 2026 18:27:44 GMT",
+          "source_country": "YE",
+          "country": "YE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "YE",
+          "llm_subject": "The Houthi takeover of Bab al-Mandab and Iran’s counter-economic strategy - The "
+        },
+        {
           "title": "‘We will destroy your economy’: Houthi leaders warn Saudi Arabia in joint statement - Middle East Eye",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTVDckdXdXhtdjdCTXVfQnRJM0pOdFp6aVYtX3l5VmJDRmxIZ2RiekZGS1NxYTAzeFdfRjQ0NXRBeEVTVDM1YmhUVTVzbzRpY1pmWFl4c2RnRVUtYTBMdkxYT1lHQS1FaVFhV0xqZVEtTGt5OEsyWFgwNWZPcW4xWWtuUThibE9mSHhRUUU3VUZpOUpHWnhvbWstd1luYzVnT2NrZVNiTl9PYUNWTktsXy1rbmhZeUxRcjc3d3lIN3V5QQ?oc=5",
@@ -9700,21 +9715,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "YE",
           "llm_subject": "‘We will destroy your economy’: Houthi leaders warn Saudi Arabia in joint statem"
-        },
-        {
-          "title": "Acting Head of Tax, Customs Authority: September 21 revolution liberated Yemen from economic monopoly - saba.ye",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pSkttblNHdlFXR09MRk1IdzZ6T284QzJzdXhuQjlUZmd0UElLS05SMkRmZkV6NjNwUi1icU55N3Q5RS1OQnRuMEhFdW8zZGs?oc=5",
-          "date": "Tue, 22 Sep 2026 15:58:29 GMT",
-          "source_country": "YE",
-          "country": "YE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "YE",
-          "llm_subject": "Acting Head of Tax, Customs Authority: September 21 revolution liberated Yemen f"
         },
         {
           "title": "Yemen Threatens Saudi Arabia with Economic Ruin; All the Kingdom's Interests Targeted - خبرگزاری صدای افغان(آوا)",
@@ -9735,8 +9735,8 @@ window.WTI_DATA = {
     },
     "AF": {
       "name": "Afghanistan",
-      "index": 6.97,
-      "raw_score": 4.53,
+      "index": 6.27,
+      "raw_score": 3.67,
       "status": "ELEVATED",
       "events": [
         {
@@ -9755,21 +9755,6 @@ window.WTI_DATA = {
           "llm_subject": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Ai"
         },
         {
-          "title": "Afghanistan: When Pollution Becomes an Economy of Illness - 8AM Media",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UNnRFTXZkN3BpcUtaSUdFTDlMYW1hZ1ZkVnFCX1JYcDhlNFYzUXdtVzVrZmZJaWw0UTFtV0JEUXp3MXpWN0ViNGhhNGZDclFyNVgxbmY1c2FfWk1LdkJuLTNnSEVfUFpWcEk4VA?oc=5",
-          "date": "Sun, 20 Sep 2026 17:39:23 GMT",
-          "source_country": "AF",
-          "country": "AF",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AF",
-          "llm_subject": "Afghanistan: When Pollution Becomes an Economy of Illness - 8AM Media"
-        },
-        {
           "title": "Afghanistan Forecast October 2026: A Dead End - Security Risks Asia",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWC1Fc3BweEp2dkVFY21BRE1oaGd0VFp5TVoyaHBrM044cml6VmNsVXdZQ2trRUpkNXJEdGIyVWQtN0hOZUxabWZoRmRRMEp6WlUtdno0a25Rb2JJNTlQZjh5ZndWNm9ueUZSTjNJTFdEaUFnT2RhdHpONTQ4ZkNnekxiVXZhRWs?oc=5",
@@ -9785,10 +9770,10 @@ window.WTI_DATA = {
           "llm_subject": "Afghanistan Forecast October 2026: A Dead End - Security Risks Asia"
         },
         {
-          "title": "Pakistan Police Arrest 58 Afghans Attempting to Travel to Iran - thekabultribune.com",
+          "title": "Afghanistan, Turkmenistan agree to expand transport and transit cooperation - İlke Haber Ajansı",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zb29JcnQ3Mmo2emVPSXpTNkUtNmZBSmlnX00zM3NqenZIWHRhdVpWMmZCOGFUa3M4cEFaRHp1M0NkVFQ5cFFQV29kYjhCQUE?oc=5",
-          "date": "Mon, 21 Sep 2026 14:02:05 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjdpZzNhZUk3VE9NT0NqaFVBYmxSMnJ5dmZITkVaZ3JMMFViaHVhak93LTgzUkFQQ2hzbE56LVZ4WTRHMU9IX2NOWlA0SWZwSXBETFNUWUZZSmdNS0w0RWJoWVU4UE1jcHJkNmpsZFZwZTlVODlKa2JVYzNNTVc4cTU5N0cyNHVTODlZUWZKX1F4ZFh1eG1rZ0FqVk1pSXV5TjhGeUstckNIclNnWGFIc3BYWVlBdw?oc=5",
+          "date": "Tue, 22 Sep 2026 11:08:20 GMT",
           "source_country": "AF",
           "country": "AF",
           "category": "neutral",
@@ -9797,7 +9782,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AF",
-          "llm_subject": "Pakistan Police Arrest 58 Afghans Attempting to Travel to Iran - thekabultribune"
+          "llm_subject": "Afghanistan, Turkmenistan agree to expand transport and transit cooperation - İl"
         },
         {
           "title": "Islamic Emirate: Afghanistan Has One of Lowest Inflation Rates in Region - TOLOnews",
@@ -9830,19 +9815,124 @@ window.WTI_DATA = {
           "llm_subject": "UK seeks to shift cooperation with Afghanistan towards economic ties - Pajhwok A"
         },
         {
-          "title": "Pakistan Attacks Afghanistan To Undermine Security, Reconstruction, Says Taliban Official - Afghanistan International",
+          "title": "Pakistan says strikes in Afghanistan killed '28 terrorists' - DW.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54S2FFRmY1NGJhWjk5dHNMRFJZYnZXM0dtaXBjbm5oUDRvb240M0Q3Q2s4Y0RkTmhPSU82akMyMlc0SEpCWWgtUzBUNDdYR3M?oc=5",
-          "date": "Tue, 22 Sep 2026 12:20:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYzFnUTZpZDYzMURZTW13bkNWQmhFM2g4dUlJVVE5V1FKOGJQZ2pXYWZPVXpPYXRzZjMzMnk0UDh0Y2JRaXgwMEstM3BySWlsbThXdkJjc0JWWi1XcFZITm1iTVhEYWVCMGZFTnQta2JpZ1pRNWVFbkR0MWpaY01FZzF3YUU0WEc0VnJ0YUtLcEJrNm9Z0gGUAUFVX3lxTE1oLTUtdTZsdVVELTVGYlpOT2djcURoczcwLWQzSmM4Mzc0NV9HdkNBYnNNdnVwOHV1aVF5ajRMUFRsc3Vjdll2Vno0clJfMDA0ckEyS2lxRGQtQ204eDZ4aC1Sc0lCMVdkUDJPY0V1YXZfUmZudnZsLUN6cjVFeUNsdklVUmJOX1ZsUzBMZFpEMXVJSnM?oc=5",
+          "date": "Mon, 21 Sep 2026 15:20:48 GMT",
           "source_country": "AF",
           "country": "AF",
-          "category": "terrorism",
-          "weight": 7.0,
+          "category": "military_conflict",
+          "weight": 8.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AF",
-          "llm_subject": "Pakistan Attacks Afghanistan To Undermine Security, Reconstruction, Says Taliban"
+          "llm_subject": "Pakistan says strikes in Afghanistan killed '28 terrorists' - DW.com"
+        },
+        {
+          "title": "Pakistan says airstrikes in Afghanistan kill 28 militants; Kabul reports 3 civilians killed - The Boston Globe",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3BlaTJjeW8wcFpTVmJRbllHZVVUZklkbHVURklyakhIYjVTd3Z5R0RVY3loNV8yc0h5ZjBPaXNsWXpyUFZ4YkdDRzFNYUNUcV9DbkRlMmpnLW1XRGdndllqU1c1a2pzWFFlNjZxTHpZdzBGcjdmdGRvZEMwY1VYRQ?oc=5",
+          "date": "Mon, 21 Sep 2026 14:49:26 GMT",
+          "source_country": "AF",
+          "country": "AF",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AF",
+          "llm_subject": "Pakistan says airstrikes in Afghanistan kill 28 militants; Kabul reports 3 civil"
+        },
+        {
+          "title": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul says 3 killed - Audacy",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbXVLQi0xc0lZWjgxdTZyVFhrRG40S0EzaTM3a0RUOFRWbG9zZXhrQnhaS19TUTV2WF8taENxOTZXckVLcGlHaWtlUy1ueEFpekc5Y1NaS0tOd3h3Um1jc3RKbVBvTjF6M2VrZ29wcURNcC10OFRwSVJhdUlLcDZ5UHZDQXR2TG4zSnpaZ2U0V3YwWWU1cVhJeFpQN0NYOFJjRzVxUEtwYXk0M0Z4cVZZd0ExSUw5N1hyaGNV?oc=5",
+          "date": "Mon, 21 Sep 2026 05:35:00 GMT",
+          "source_country": "AF",
+          "country": "AF",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AF",
+          "llm_subject": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Ka"
+        },
+        {
+          "title": "Taliban government says Pakistani bombardments kill 3 in Afghanistan - thesun.my",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLWFiek9NYk8wc3dBUlVMb0Zqc3NnWDE2cUx1dU5PQlFNMjRGcHBJdHZqSmtvMW9Jc1I5bExETW5TY2sycEQ2VU92VDhDZ3NpbzREQ1BZRU9DTXZVLWpheVJIOWZjUTZoenN4WER2MURWSC1MYldJT2hfQUpMdjNPY1FVNS1aRTRHckRFSkZWaGEyRVpySmtyc0l2YnROdHdHUmw5eVJ1ZmFHUnUy?oc=5",
+          "date": "Mon, 21 Sep 2026 08:34:44 GMT",
+          "source_country": "AF",
+          "country": "AF",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AF",
+          "llm_subject": "Taliban government says Pakistani bombardments kill 3 in Afghanistan - thesun.my"
+        },
+        {
+          "title": "Voices of women under Taliban rule in Afghanistan must be listened to, UN General Assembly hears - Irish Independent",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEJjNG5QQ3oxY2ZpZklyY2ZTVWRYbEdpbUptMUpfVjhGSS1DbkFCVy1OMGVKVXc2OEhTYUl2ZHhidnQzUnA4LXJXbHFVRXdoUmZTWUg3SlRSd2VHZDEwMlozS2lPcE9QaGFxYXM1dUFnTUUyR0hpZU9FZlpZX184UmVnakxmenhfWG55R1pONlBIbUl4RlFjUEdzejVWVzJaVmQzNmxzVDJtdlFrZWtMZWM2YmJLV0tDQkRQREU1ZnZXVzdLZkw5eHpnRUlEc2dfSXlkWXpCS1dQUGxEVU15aDlQc1k?oc=5",
+          "date": "Tue, 22 Sep 2026 05:30:00 GMT",
+          "source_country": "AF",
+          "country": "AF",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AF",
+          "llm_subject": "Voices of women under Taliban rule in Afghanistan must be listened to, UN Genera"
+        },
+        {
+          "title": "At least 3 killed in Pakistani airstrikes on Afghanistan, officials say, Asia News - asiaone.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWp1LWhPNVJyM29hYWFPVVVPdkppQm5NdTY0LWw4SXY1UGJoT1ZFT1YxOTN1dWZwQk9JdGlRRHdTLUQyOU1iNVBaWjBBeVhzQVJCZWJwNko0anBEWmZnQzByR01YVjhITjljTVdFR18ySzE5ejJOQnczTVB2bUVUZWZUWFUwSHpQZ2JMX1k5NXZ2WUhW?oc=5",
+          "date": "Mon, 21 Sep 2026 06:37:42 GMT",
+          "source_country": "AF",
+          "country": "AF",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AF",
+          "llm_subject": "At least 3 killed in Pakistani airstrikes on Afghanistan, officials say, Asia Ne"
+        },
+        {
+          "title": "Pakistan is once again carrying out airstrikes in Afghanistan - blue News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWlZcWVNSmNzZGNpTnVDUEZUQnVPLWx0YVNQa0JHRmd3THcyTFozNldtYTl3OWVnaElOVDd2ak82VXNUQkxBaWU2X0V4RTZqY3hubVpSVkhWaTN1NENhemQwaXpzdHBIc1Jwc09DNHgwMVA5UmVUZUNwYkhaUWpnbXh4WGhsZXl5bFUyQ0FUX3ZpZnZIUU5WQkZR?oc=5",
+          "date": "Mon, 21 Sep 2026 07:24:47 GMT",
+          "source_country": "AF",
+          "country": "AF",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AF",
+          "llm_subject": "Pakistan is once again carrying out airstrikes in Afghanistan - blue News"
+        },
+        {
+          "title": "Plight of Afghan women and girls must not fall off agenda – Helen McEntee - Irish Examiner",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EWGQ5VzB5d19XakpwTzh6VWVuNlgtSFRMWW5VSVIyNnBUOTF4VS1Ob2d6MTVzampBVXJDM1o5d3FmOUZRcENvaTVoczNXdWpFYTRwTC1VbTBDUnZBbGMwZzVXTEp3VWd6NnA0SzdmWQ?oc=5",
+          "date": "Sun, 20 Sep 2026 23:05:00 GMT",
+          "source_country": "AF",
+          "country": "AF",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AF",
+          "llm_subject": "Plight of Afghan women and girls must not fall off agenda – Helen McEntee - Iris"
         },
         {
           "title": "The Taliban’s madrassa system in Afghanistan: the threat to global peace and security - ODI: Think change",
@@ -9860,109 +9950,19 @@ window.WTI_DATA = {
           "llm_subject": "The Taliban’s madrassa system in Afghanistan: the threat to global peace and sec"
         },
         {
-          "title": "Pakistan says airstrikes in Afghanistan kill 28 militants; Kabul reports 3 civilians killed - The Washington Post",
+          "title": "Pakistan Attacks Afghanistan To Undermine Security, Reconstruction, Says Taliban Official - Afghanistan International",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTnBxR29tMGlRMWE2aTRYdFdKVzFDYkJnLUtxbVI3UTV2bkE2bkkwaEFFamVHUHJ1aXExNlZjNWt3RlhHdE5rZ1BfcFlhOGNOcVJYN0dNeFZPNGtHLWpWbDdOY0x5anc3X1FuRG5RMlMtYm9nUUtzSjJPMGFLN05sWmFORTAzSzQyVnB5MU9FNXZ4XzYyNmwxRVNhMVhyZC1wVU5LX3R3REQxU3VoSUNYdVVPakRPOGpSbl9aQ0JDV2dXb05HUGhRQzM3TW1rSHYySVJIN2xFUlFhX1U?oc=5",
-          "date": "Mon, 21 Sep 2026 17:58:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54S2FFRmY1NGJhWjk5dHNMRFJZYnZXM0dtaXBjbm5oUDRvb240M0Q3Q2s4Y0RkTmhPSU82akMyMlc0SEpCWWgtUzBUNDdYR3M?oc=5",
+          "date": "Tue, 22 Sep 2026 12:20:00 GMT",
           "source_country": "AF",
           "country": "AF",
-          "category": "military_conflict",
-          "weight": 8.0,
+          "category": "terrorism",
+          "weight": 7.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AF",
-          "llm_subject": "Pakistan says airstrikes in Afghanistan kill 28 militants; Kabul reports 3 civil"
-        },
-        {
-          "title": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul says 3 killed - Bozeman Daily Chronicle",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONWMwV0xFOVJvMDdKc3VZSDlUWFQtODdjTWRRV2pobW1UaE5vQVBpVU5JS2swOGVQVDY2WUxXc202cWFVTkJCS2JTMFBFWFl4U0FaRGFYSUtZbmlHTjlXNFlmZ3VhejRTNklFeEdDMlJDeUYwYVVLMDF5Z1RsVUd5VzZVaW85bXBEY2NuZHNCT0ctQ3ZoVk1kUGJYSGg4ZDh3NnFFak4tblF3YkdSVUJpaVJyVVotODBzSFRrZWlRdDhxWTVsYkl5cjBLYVNLci03czNvQV9FcmJxOU5VOV9HOWhhT3h4RDhLYlgwakVMUmY4a3Q4czRuWHQxVVJzdmJfY2ZwVTV6VmtPQ3JHU2NiNzNtdEJxU3picWFzTFBJaUoyNXpqbDBrc2Rn?oc=5",
-          "date": "Mon, 21 Sep 2026 05:35:38 GMT",
-          "source_country": "AF",
-          "country": "AF",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AF",
-          "llm_subject": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Ka"
-        },
-        {
-          "title": "Pakistan launches airstrikes into Afghanistan overnight, killing three - upi.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjJXZ1BLMDNYUkdncTVRa2ZFN0ZEZ1h1X0p0Z1A1UHcwaFFDRDE5MC13TVY4d255Tm9MdW15ZWtNUExNRmxKY1ZMMnRFMDlkLWx2MHRERzA3SXhaczJQS0VBb0ZUQUVJc3RwYlZjUEhFbVl6OHhxbDFDLUEwMHRSYjk1Smk4Z094eUttcXdNbFZHRy10N0tZV2twQnhodDZ2bWFuZWY5Yy00NWN30gGyAUFVX3lxTFA4M3dNbnNPRk5fejNXWVJDN0JUMWlEd0NzV1NTZGxQV3ZRUkZQTXdkeUI3RXJ3OGtpaS1iU2lTM1B4U0szamxpRV9sYmdGM0RZOUJNVDdSUGpraDQxYTJGcy1MaURVa2hzTnFxWEprRE1wZkJlUW5PVzM3R3B0Wi1WZzVmcFppRE1yMHFGVHJsMkJRWjk0TUxPZHZCQkg1OHhhMUI5bHV1NWpQV1FTdUdnbUE?oc=5",
-          "date": "Mon, 21 Sep 2026 07:05:44 GMT",
-          "source_country": "AF",
-          "country": "AF",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AF",
-          "llm_subject": "Pakistan launches airstrikes into Afghanistan overnight, killing three - upi.com"
-        },
-        {
-          "title": "Pakistan airstrikes on Afghanistan kill 3, Taliban says - DW.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHllekNZTjU2VkVjZjlUSXRNdjlBS3hsaGxUczEwY3ZXcHZJMS11S0RXMjVjQ3p6R2hOYlFvZlFTc1BZWkZEeW1GTENmZTg4SjdTbUF0N1QyN3JXZFhlMnVPSmxCZUtCZENQUF9MUVd3ZW9tNXN2eDJkdDRMQW9OaWMtaFd6SUxZejdvcnNFc0pFOG90a0hoWkV3My1XdzV3OHfSAaIBQVVfeXFMT2J5MXRFZWdDUG1adkp3cjVlM1UtS29USXdIOHU3MXAwUjFfTU4xdXM3X3dCSFZ1MzFabzYzd0V4OVIySnRWZzJvMkY4R2gxcFhtODJiWEZlUjR1bmpZT2xNX3ljRkJoWXZQWW15TS1DOTYxQTdvdXNKemRKc1p5TnAzeGstYlloc0drZU9FcUQyMk12Z25wYlpsb184UHlndGd3?oc=5",
-          "date": "Mon, 21 Sep 2026 08:50:20 GMT",
-          "source_country": "AF",
-          "country": "AF",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AF",
-          "llm_subject": "Pakistan airstrikes on Afghanistan kill 3, Taliban says - DW.com"
-        },
-        {
-          "title": "Transparent Tribe targets India, Afghanistan with new malware in Operation RapidRust - SC Media",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXdsQlRyc05kRXkxczFHMTZSNlhjblU2Y0xpQXI5akYycnFXc0tSdWV5M013QmVkejVSSVNJQTVIQ3RydHcxakpVbnlWZWloaHpIeVBNRGlCLWxsdW5DeFFMRHIyak5XWlA4M1E1N3RuZWt0QkQyVi05UDhSVDJpcHVtX3preXRfdS0yVEhpcWZuU0poUDA0YWFSQ1REVVB2bGFQMTFLRklUYXdrM1BZMTZoNA?oc=5",
-          "date": "Mon, 21 Sep 2026 22:45:03 GMT",
-          "source_country": "AF",
-          "country": "AF",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AF",
-          "llm_subject": "Transparent Tribe targets India, Afghanistan with new malware in Operation Rapid"
-        },
-        {
-          "title": "Borders Minister: Protecting Afghanistan's Security Remains Top Priority - TOLOnews",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSMHN5eHpVZFdYNHdBMWhHZ0hSNzdqTFlUVkhYXzQxLWNPal9FYTRBcVNma3Y4dWk3MVg2X2QxS2FHbE1lT1AzMF9nSFczNm0z?oc=5",
-          "date": "Mon, 21 Sep 2026 09:10:47 GMT",
-          "source_country": "AF",
-          "country": "AF",
-          "category": "border_security",
-          "weight": 5.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AF",
-          "llm_subject": "Borders Minister: Protecting Afghanistan's Security Remains Top Priority - TOLOn"
-        },
-        {
-          "title": "Pakistan claims killing 28 'terrorists' in Afghanistan air strike, Kabul says 3 civilians die - TRT World",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNlptdW5yMzctR3VsVmphR2xyN1hWaEg4LWk1cGpzUG11eElBOWtZMldDTkpJZ0stTFFqQ0t3Q0thX25MdjRUbExYZTNQakVqSFNjdjhtZ3E?oc=5",
-          "date": "Mon, 21 Sep 2026 07:28:09 GMT",
-          "source_country": "AF",
-          "country": "AF",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AF",
-          "llm_subject": "Pakistan claims killing 28 'terrorists' in Afghanistan air strike, Kabul says 3 "
+          "llm_subject": "Pakistan Attacks Afghanistan To Undermine Security, Reconstruction, Says Taliban"
         }
       ]
     },
@@ -10201,12 +10201,57 @@ window.WTI_DATA = {
     },
     "BR": {
       "name": "Brazil",
-      "index": 1.0,
-      "raw_score": 0.0,
+      "index": 2.08,
+      "raw_score": 0.53,
       "status": "STABLE",
       "events": [
         {
-          "title": "As Xi Visits Trump: Five Charts on China’s Latin America Ties - as-coa.org",
+          "title": "Brazil government cuts 2026 growth forecast to 2.0% - Yahoo Finance",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUhSOERoUDJtc3J4Y0ZjcXV3RDN0bUpmR3pTcjhNczR2OUpBcnlwcEo5QTgtQnRZczlORlctcWJ3UTZjR3Q2RzloOWhlX3dSSmx3ei1YQ2kyWUNuUUx5dnRuZ3NybWxnQUQyWWFQallROW9wQ0ZlZE1Ud2FFZUt2UUNZeWR6ckpWQnVfM0ozUVAyU2JPSllN?oc=5",
+          "date": "Tue, 22 Sep 2026 17:34:54 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "Brazil government cuts 2026 growth forecast to 2.0% - Yahoo Finance"
+        },
+        {
+          "title": "Brazil’s president says UN’s credibility at all-time low as conflicts surge worldwide - mymotherlode.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMkw2cTI1NUMtZklWdVowTFE0Z0NHRmFCaVRYaVZVdTRjaFg5bkNLenBsYnpYdTQ3X2ptakJlakFneXNqcGV4MTF4bnFSRE9yMGdJSWV3TDlrdmJhX2JKXy1Ob1g3U2NROFdoMThweTJ2YjkwYzZ4R0tDTDVFZzFvT0dBS2lHMDlTcTlzUUNKdm92bmhtVXJiTjJoWE0wVXYtdkdZU2xKZUx6YkxmZzc0aUJCa2xHUXBzOXpOcXVoTVo3UTE5N2owVy1WR0VNd2VQdVHSAdcBQVVfeXFMT0EwSDJHMHZBUVdtN1dadFVmVkVVazdsREgwMkg2TUxsWjhtaUd5OWtwRHZLU1BuRW9GUm1iZjR2VVlnbWRKZTZsOXM1cTg1UmQ0Rzc0czlEX0RrZXk4M0pHaVVKZlNpVHdiX3ZVYW1wUkh3dTNwcHpWNkMyUUtRT3lFNE9GZEhPaVplTW1MRXR0aFdxYWp6OG5WYThnbFVpQU4xWldxaGFlcXhaT0sxdFJ2Rjlfd18wU0c3TG5rRXdwSWdnWWRaTXZmQUNjMm1ZYjUyWUJxZjQ?oc=5",
+          "date": "Tue, 22 Sep 2026 16:55:30 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "Brazil’s president says UN’s credibility at all-time low as conflicts surge worl"
+        },
+        {
+          "title": "Brazil Trims GDP Outlook, Sees Slower Recovery Amid Cautious Monetary Easing Cycle - U.S. News Money",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTl4Tk5hbExJVWRnbWxLbVQ0bkIxMVJKWTU2cEx3VGU4ZUNNUWhEWHJfdlVXazBpenpCSFJLYk5pN0ZSY3Q1dGZPenZRaV9aWk42N2lGeElCbWotWjB1aVlhNmV6UXJUVG9ycmpSbk82MUZHaFhQRFlGUjNPMDMzaEU1VzhVQVNoNWVxM3lWaDdUOGZ2cF9hbEpBMmdhTnh1cmtCSmFka2FUa2ZLTjQ4?oc=5",
+          "date": "Tue, 22 Sep 2026 17:34:00 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "Brazil Trims GDP Outlook, Sees Slower Recovery Amid Cautious Monetary Easing Cyc"
+        },
+        {
+          "title": "As Xi Visits Trump: Five Charts on China’s Latin America Ties - AS/COA",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdW9jNk5ycDJ5NWRTc2RzM0NRTzV6MGctbEViemE4WWhvZkVYNFdKRlc4WkpmdGRHeXdFdE5ZcmJJeVRLN2l5OWI5c3VfYk82SVNPRFAydllfSjV0a1RtNGltLWIzS3hja21wcUN2QVFWeVRXRTlpaDZiOGh6MTdyQ2U1T21CSVFxYzE4X0JR?oc=5",
           "date": "Tue, 22 Sep 2026 12:00:00 GMT",
@@ -10218,7 +10263,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BR",
-          "llm_subject": "As Xi Visits Trump: Five Charts on China’s Latin America Ties - as-coa.org"
+          "llm_subject": "As Xi Visits Trump: Five Charts on China’s Latin America Ties - AS/COA"
+        },
+        {
+          "title": "Cruises Inject BRL 4.76 Billion into Brazil's Economy, Creating 72,000 Jobs - Data Portuaria",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnRNY25DSFVwUnJOU0NPSFFGeW1LU1dyblYzLU5jMmtPXzJhMGZ6MTBqRFB1VHIzd05GU0YzWTFfYVBFaFltbHRRQl96Nmw0ZjBaZUh0UkNjRW4xM0ZMdXoyV1RQOWtPSXVsR2pSVzIwQXUyT0N4c2syRGtEZzFheEZLcGxlU1dROXJ0TmVNWkMxSU9QTlc4TVhsT01qYmV6QXk1b1BVUQ?oc=5",
+          "date": "Tue, 22 Sep 2026 20:40:22 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "Cruises Inject BRL 4.76 Billion into Brazil's Economy, Creating 72,000 Jobs - Da"
         },
         {
           "title": "Brazil needs cooperation, not intervention, to fight crime, Lula says By Reuters - Investing.com",
@@ -10236,6 +10296,21 @@ window.WTI_DATA = {
           "llm_subject": "Brazil needs cooperation, not intervention, to fight crime, Lula says By Reuters"
         },
         {
+          "title": "Brazil's Lula warns of UN credibility crisis, urges multilateralism - Xinhua",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12TWl4MENvTjdVOGIzdWV2T3RfMjFXQWttMVE2TzhMSkgzS2NqXzVlQnJ5TlFlakQtbHVOUjFCYUJRelVXR2dRSUtMenpRZHZfVXc1SFJ3RnUtbHRLYkEwdERCZzVJYkVjeHhQOFlJSEhramZ2NWN6eGJZR1I?oc=5",
+          "date": "Tue, 22 Sep 2026 18:23:15 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "Brazil's Lula warns of UN credibility crisis, urges multilateralism - Xinhua"
+        },
+        {
           "title": "Brazilian scientist identifies eight exoplanets as potential candidates for hosting life - TV BRICS",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHZ1eU8xeXlNNHBjcXh0bERTQ094RV81UDlkQUVpYklwQ0ZEamlfTXdrUGtHSWJvRUJiOXJPOFp2WDIyOVhZU3BpVWM5ckswRTJOdTBRWHpIVWJRbExsbEdWdjBkSVZOeFhpVWlnbmJoYzlxSk9sQkhiUG5XeFJkdEUzVU52SjVVTmJXcmc0YmN0SWhEdWxZYVdrNUhpRWZFbUVPUnBoTzlmSFUzcTRRMzJYS0R5SXND?oc=5",
@@ -10249,51 +10324,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BR",
           "llm_subject": "Brazilian scientist identifies eight exoplanets as potential candidates for host"
-        },
-        {
-          "title": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says - finance.yahoo.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDNHMkpmUHJzQndlRm5XMXA4WWI1WHVfV1RLOWFhNTBiWHh0N2lCamx3NjVCVk9SaGI4NDFuV0F2UGVDRWJrb09UUm5LRFhNOTRLRjVwZUtDVkJqMHozWlVvdHg5bkluZUxvM1htTXh1U05iVFo2TTdDc05vWkFTZldPLWRMOHpodHdCbC0yeDA1R01rb2tuX21xdHpqdFBtMGc?oc=5",
-          "date": "Mon, 21 Sep 2026 17:11:53 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says - finan"
-        },
-        {
-          "title": "AI could make Latam, Caribbean economy 5.1% larger, IDB says - marketscreener.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3lHaWY5Q2ZtemphVGgzSTFDdXJmRUlzMW01c1V3QXBaSy00M2h6TFItZ0pHeEcwR21tN2dOaW1nLWRfa3Q4OGJuVERyS1VKelhoY3dMa05zaU1hU2tjVWNiaVpiNVJhM0FSQ3ZVb0VjWUJxdWp2ZVpTMUtEMm5wbmlLRGl2eElQRU5pWENlNXVneGk4UWdxZFBGUnNpOUNoSUFYZ0ZQOWpoNThhLTJR?oc=5",
-          "date": "Mon, 21 Sep 2026 18:03:18 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "AI could make Latam, Caribbean economy 5.1% larger, IDB says - marketscreener.co"
-        },
-        {
-          "title": "Brazil Analysts Trim 2026 Selic Forecast to 13.50% - Briefs Finance",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGN5c0FGUHVFa2ZlUlpKS1JKampfRE9Kd29tYTgtQTI3QlhidHRfSEZNbVlmeU1MREF3d3lBRVE1d3VUZ21aVnBhOHo0XzJCVVUxUzI3VHBYakZNMFpkelh3SjAxdERfQk1QdmRaNkNNVTIxVlJNTUpGRmEtWWUxMjdsbw?oc=5",
-          "date": "Mon, 21 Sep 2026 12:59:12 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "Brazil Analysts Trim 2026 Selic Forecast to 13.50% - Briefs Finance"
         },
         {
           "title": "Milei’s Chainsaw Inspires Bolsonaro to Wield Scissors in Brazil Election - Bloomberg.com",
@@ -10311,6 +10341,21 @@ window.WTI_DATA = {
           "llm_subject": "Milei’s Chainsaw Inspires Bolsonaro to Wield Scissors in Brazil Election - Bloom"
         },
         {
+          "title": "“Salt of the Earth” Festival in Russia features films from India, Brazil, Iran and Venezuela - TV BRICS",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2E2cVdFbXZsdWtmMDhEQVZYZ044NFg1d3A1c0ZCX21oWF9ub1AtY0M2aHNlcktUM3JiZFU4UXl2T192RTAyOFlGaFcyX1VoS1VtOUx0S043NkpKdV9LdmpRWE1KbFJwX0dRXzhUcU9ZLUhlR09MNW9HOXhFOThWcXRrMTlYRnJxZ3RNRjh3RTJaWjhlY1VSZ2pBeGZrWmV0ZjgwN05KXzFWMjFtMXpqZFM3T2h4Umhm?oc=5",
+          "date": "Tue, 22 Sep 2026 13:36:38 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "“Salt of the Earth” Festival in Russia features films from India, Brazil, Iran a"
+        },
+        {
           "title": "Brazil Economists Lower 2026 Selic Forecast Following Rate Cut - Bloomberg.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWtKRmxITUx3My1uY3B2UEJXUGVnT3JOWU1ic2U1U0hWenUyYXY5VXJtU1d0UXdKS3JKNkVuTEhjX3dWTjlDVTFUeEJGMXhoeGtEOC1FaFVpRmJGQ0JENVlRTFlKRmlzUXYyMzNEQWkzNDJuajNkNHBqSU5VUUJjaTg4V1hmX08yVXFCc3kzdTBKTkRXdUJrT19qczJXVDZrRi1pb21XYU5xSzR0NjZqSi15cw?oc=5",
@@ -10326,6 +10371,51 @@ window.WTI_DATA = {
           "llm_subject": "Brazil Economists Lower 2026 Selic Forecast Following Rate Cut - Bloomberg.com"
         },
         {
+          "title": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says - Yahoo Finance",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDNHMkpmUHJzQndlRm5XMXA4WWI1WHVfV1RLOWFhNTBiWHh0N2lCamx3NjVCVk9SaGI4NDFuV0F2UGVDRWJrb09UUm5LRFhNOTRLRjVwZUtDVkJqMHozWlVvdHg5bkluZUxvM1htTXh1U05iVFo2TTdDc05vWkFTZldPLWRMOHpodHdCbC0yeDA1R01rb2tuX21xdHpqdFBtMGc?oc=5",
+          "date": "Mon, 21 Sep 2026 17:11:53 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says - Yahoo"
+        },
+        {
+          "title": "Brazil Analysts Trim 2026 Selic Forecast to 13.50% - Briefs Finance",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGN5c0FGUHVFa2ZlUlpKS1JKampfRE9Kd29tYTgtQTI3QlhidHRfSEZNbVlmeU1MREF3d3lBRVE1d3VUZ21aVnBhOHo0XzJCVVUxUzI3VHBYakZNMFpkelh3SjAxdERfQk1QdmRaNkNNVTIxVlJNTUpGRmEtWWUxMjdsbw?oc=5",
+          "date": "Mon, 21 Sep 2026 12:59:12 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "Brazil Analysts Trim 2026 Selic Forecast to 13.50% - Briefs Finance"
+        },
+        {
+          "title": "AI could make Latam, Caribbean economy 5.1% larger, IDB says - marketscreener.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3lHaWY5Q2ZtemphVGgzSTFDdXJmRUlzMW01c1V3QXBaSy00M2h6TFItZ0pHeEcwR21tN2dOaW1nLWRfa3Q4OGJuVERyS1VKelhoY3dMa05zaU1hU2tjVWNiaVpiNVJhM0FSQ3ZVb0VjWUJxdWp2ZVpTMUtEMm5wbmlLRGl2eElQRU5pWENlNXVneGk4UWdxZFBGUnNpOUNoSUFYZ0ZQOWpoNThhLTJR?oc=5",
+          "date": "Mon, 21 Sep 2026 18:03:18 GMT",
+          "source_country": "BR",
+          "country": "BR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BR",
+          "llm_subject": "AI could make Latam, Caribbean economy 5.1% larger, IDB says - marketscreener.co"
+        },
+        {
           "title": "Brazil Economists Lower 2026 Selic Rate Forecast to 13.5% - Межа. Новини України.",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ai1fMVpuaDF1SG1pY2ZGdWc3UkFTWlBLZ1J0Q1VTQWtLS1p6ZG96ekJwSlo2Z0VKendveHFGeXZDWXJYWnFXaTQzdFZfcmYyVEFzVkVZdzNHMXZhejJuUWFCdnBXQkxyNXNYSA?oc=5",
@@ -10339,96 +10429,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BR",
           "llm_subject": "Brazil Economists Lower 2026 Selic Rate Forecast to 13.5% - Межа. Новини України"
-        },
-        {
-          "title": "The pending fiscal adjustment dominates the final stretch of Brazil's presidential race - MercoPress",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1RQWNxc2hsaWYxeGRZVGwxVzRoUk9uSVVXeDJ3M092VlgxMjRhMkNHQ1ZReVVqUHMwd2pOenFRb3cyREFOSTh0MVVJTTY1OVB1cUN0VmFmVnB3a3J5dU56ZU9COWZTZ1lLdEU2aHVqa0JJUXpEWjRvXzB5RlRERXNmWXJjN2JqVUNKYXZYWlcyWkhkdUo2X1E0S05zTHBRYVB4M2QtSExzWE1YXzYyWWJOOGEzZWJNTDRQQXdVd2hXdw?oc=5",
-          "date": "Mon, 21 Sep 2026 10:42:00 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "The pending fiscal adjustment dominates the final stretch of Brazil's presidenti"
-        },
-        {
-          "title": "Fiscal adjustment becomes an election campaign issue in Brazil — MercoPress - UA.NEWS",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1JrWmFUeS1JczQ5UWg2NmZHaEtHS1AxcldxOC05SEV5Y2d4LWZPZUhQc2xaX2FMZ0lIRGViRk9Fd0NBTmlQUElraFRiZk1IMGlORDBDVV9mcVpzLXMxbGVONjNLWFluX3VsSHR6SEpxcXFjRkxzNDhKUzJyVW8xbklJMGY0UlR6SVg5bFFfMS03UjFDRXp1TUNiMEJ6NWtYdVBzUDlB?oc=5",
-          "date": "Mon, 21 Sep 2026 10:52:39 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "Fiscal adjustment becomes an election campaign issue in Brazil — MercoPress - UA"
-        },
-        {
-          "title": "Brazil’s Lula says Hormuz is vital to trade - Agência de Notícias Brasil-Árabe - ANBA",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ic3l1VndKaHVSRWEwOWt0M2JRekg5akRvTnI3bUVfbkRuZmhVYTZGTloxQ3pzcWZKSXAzQ2sySjd0NzkxenF5b0h6S1lSbUpVTzh5TlFKVndjdkdMMWJxVDBjVlVBUkhsQWducEV3ZHpQY3lk?oc=5",
-          "date": "Tue, 22 Sep 2026 16:36:46 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "Brazil’s Lula says Hormuz is vital to trade - Agência de Notícias Brasil-Árabe -"
-        },
-        {
-          "title": "Brazil’s exports to Algeria rise this year - Agência de Notícias Brasil-Árabe - ANBA",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oUGtweXNmREJCZnpqODg4b2MtRWYxNjg2V1FvTUt0Z2V6Snk4bnNtWTJHdnZpajJWT0JaMFNsSVc5V21xSnpGQUtKUnVfZ1BZc1c3WUxSbWdGc0tkVXB0U0p5NEJBOEk2d29NT245VzZ4WVU?oc=5",
-          "date": "Mon, 21 Sep 2026 19:22:15 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "Brazil’s exports to Algeria rise this year - Agência de Notícias Brasil-Árabe - "
-        },
-        {
-          "title": "Canada, Brazil, Kenya, EU leaders push new alliance for multilateralism - Business Standard",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWR2UXgwNzhGcFFLai1Cc0QyQ1ZreElRUjRZQnRteVZkT2pPWEVRampFajhUb0w4OTFPVFg2X2pfN3h4cVFhd1JIQ1ZZSmZLcVdDVHluSzNhcHF3R1BkUGtkTFJ6cElQai12QnczdU9sMlJLUTFZMVQ2aVhnZXRzakowa0lhZ3lPdXhKUk9zUkhQM01yVTgwRUs5Y040NGFpazBWaUlUdTlUd2ZxMkFFRzBvZnRTWEJ3dmtRSTkzS1prVkFCUE82NnAzVWJYZ9IB0wFBVV95cUxNdDJBNHkyQm16NkZ5bHRHckZEQTN1SDl2THRnVEhjSVJVMEhSSDc5V2lKMUE5UXVvWXprRXk2RWZmT3ZGMFpUcEZReHR4d2tfU1IxYnJjSHVCNjVpc3pjOUpvQ1d5V1hPaHVtTldRaDVBVGRJRVlfZzh0VnBsYjhsU0dUODM5aEFadWk5MnBzeXRHdTIzWmhVNG52eHNvYzd2NUI2cnFFSEg3M1ZDbkxfS09WNFZQdHNaR2FVZTk0NGI3dFY4Z3cxbVRzT0pCbGtLbE1z?oc=5",
-          "date": "Mon, 21 Sep 2026 15:21:51 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "Canada, Brazil, Kenya, EU leaders push new alliance for multilateralism - Busine"
-        },
-        {
-          "title": "Cowboys address concerns regarding playing field in Brazil - Dallas Cowboys",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQem5zRWdhdTNqOUxLX3ZqbV9NNzFScEFfY2JfdFZRbXdqRXFoblRJSkNOSE1ISDUxTGVkdk9oUFJjY21pbkJXS2Z1azZId1phOTJqUkpfQ21WOTF5ZWZhSXZSeDF0T1R6RERyajNRekZfUXY4WkdobUxsVDlOdlE3ZnAwQ3MwM0xJVXc0NlNiOEk3R0VfQ2wzVg?oc=5",
-          "date": "Mon, 21 Sep 2026 19:04:56 GMT",
-          "source_country": "BR",
-          "country": "BR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BR",
-          "llm_subject": "Cowboys address concerns regarding playing field in Brazil - Dallas Cowboys"
         }
       ]
     },
@@ -11484,6 +11484,51 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
+          "title": "Crew Claims Hackers Hijacked US LNG Tanker Valves En Route to Italy - The SOFX Report",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNam5NUFhpamF0OE9JN1J4aGMybDdvWFNhNzRzYmQ1dlVJLVhVTllHT3pBU3dRNEJyNnp1cmlRZmxZSEc2UkRiTEJjOHpJUGdjWGtDUE5lSUNFOEVTOFc1alN0YXZyeGcxdHM0UUhJakJNNHlRdHlEc3lRdGh2c3RocDBoWHBnZ1NDVUVad3BCT2ZSY28?oc=5",
+          "date": "Mon, 21 Sep 2026 04:46:17 GMT",
+          "source_country": "IT",
+          "country": "IT",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IT",
+          "llm_subject": "Crew Claims Hackers Hijacked US LNG Tanker Valves En Route to Italy - The SOFX R"
+        },
+        {
+          "title": "Saudi Arabia: rumours of a reduction in Italian aircraft and military personnel. Crosetto: measures to improve fighter jet security - Il Sole 24 ORE",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWnFzNko1RUktdlItcXpaLUdkazE4WHQ2ZXVNT2dOSXFlWUNFNzNxaEpaTDlQbXVrT1JYMlc2Ylo4bWhiRGRGR0hqRnI0MEloQndfRWI5SXJ2Q3Z1cDNnU1BUTVpmcUlMUDBlclNJSXV0S1pzeF9tbGcybGozeGhaVUFTVEd1VmIyZWRZdG9fQWRLOTFodHRJWDFJZnNpVWU1TnhBTDZncFhReDY4N1hfZVNpa2ZCTHhaS1dwaUlabnZqY2YyV3Zxakdia2R2cHd1X05DSW9RN09mTW05enNSaFRkSkNVWGdDRVpVaGFJa1BNdVREajFpc0FCMXdLY0hUUk9ZazlwUHJoWWhyMGFJ?oc=5",
+          "date": "Mon, 21 Sep 2026 19:05:17 GMT",
+          "source_country": "IT",
+          "country": "IT",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IT",
+          "llm_subject": "Saudi Arabia: rumours of a reduction in Italian aircraft and military personnel."
+        },
+        {
+          "title": "The Inquiry | How did Italian politics become stable? - BBC",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UMFJXV0plTDBjVnpuM2pEQzlYbnJQTFFDOWU1a3BmbXh2T3JWclNoUmwweklTaHpFeHBQemMyRl9UTGdDVUNUWEk0ZHdGR2NT?oc=5",
+          "date": "Tue, 22 Sep 2026 15:15:30 GMT",
+          "source_country": "IT",
+          "country": "IT",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IT",
+          "llm_subject": "The Inquiry | How did Italian politics become stable? - BBC"
+        },
+        {
           "title": "Italy stays trapped in EU's fiscal straitjacket - euractiv.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUnRWdzEyc2ctZ2h4cVFiYVZWTGlpbDFTWklmbHBoSFFrdURaRFZyVXVfbjhvVVhyZ0w2WmxrR3Q0VkxoMU1mS3JXVlVOcmpDT2JLTHAzLTVVLTRzeGJMQ09qS0VKa0NxcUM3dENfNDFfNzU0cXdZV01hcE52dnV2d0oxQQ?oc=5",
@@ -11497,21 +11542,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
           "llm_subject": "Italy stays trapped in EU's fiscal straitjacket - euractiv.com"
-        },
-        {
-          "title": "Italy’s great fiscal policy is not enough. Here’s the story - Decode39",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjZ1SWtfendOUnVWaDJSVDZLeUdNMk5Lekl1U2dXRXRWd0syUDhwbjNIYmFKZ1VBb0FoMDFocFY3OTlaVjUyTHh0TDN1YzY5N05yUXR6cEczTDl4NGgxdGJseEVwMzkzVEFBZTlPOUQzY2tySXFwUE5MSXVIRVFKVk8xUTZyQW9fZTdqZw?oc=5",
-          "date": "Tue, 22 Sep 2026 13:21:57 GMT",
-          "source_country": "IT",
-          "country": "IT",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IT",
-          "llm_subject": "Italy’s great fiscal policy is not enough. Here’s the story - Decode39"
         },
         {
           "title": "In blow to Meloni, Italy misses early exit from EU fiscal watch - politico.eu",
@@ -11529,10 +11559,10 @@ window.WTI_DATA = {
           "llm_subject": "In blow to Meloni, Italy misses early exit from EU fiscal watch - politico.eu"
         },
         {
-          "title": "6 charming places around the world that will pay you to move there - Business Insider",
+          "title": "Moscow’s influence playbook in Italy is moving beyond bots - Decode39",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVUwcV9uYUdxQS0wLU1EYkxlQzgySmlQWlBOYUpGbjg3cG01UTQzYS1wVzVBdXFVUklUZnl2cE5YU1lTTl93THowVWtKR2J2QmpUWXBZMTFpOXh1N0otdEdYa1hwa2FQczJVcnB3eVNOY1Q2cWRFWUNnOWpyUjdmaHJkeF9BM2lSUm1oZ2N5bXhZRkYxLWVHdWxfY0pVUQ?oc=5",
-          "date": "Tue, 22 Sep 2026 10:04:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0NDbENRMFEyYjZKNjA2RHl4WHhTd0hwdXNYM1BhR180VVdVS1hPZ0x1d3hrVVBTcGhCUjN3TnNnb09hM0lwSjJzSEN6bEFKLW1rSUF3RGM4UmdDUTNqZnp1eWFaRWRnWFIzMmdVYnVkYlNBVEZ3TFlLYlQ1NE9kcGZsUlUwQS1hUnRmaGVR?oc=5",
+          "date": "Tue, 22 Sep 2026 07:49:09 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11541,13 +11571,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "6 charming places around the world that will pay you to move there - Business In"
+          "llm_subject": "Moscow’s influence playbook in Italy is moving beyond bots - Decode39"
         },
         {
-          "title": "Istat confirms Italy's 2025 deficit at 3.1% of GDP — ANSA English - UA.NEWS",
+          "title": "Italy leader Giorgia Meloni announces plans to limit foreign student numbers, ban face coverings in schools - CBS News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVFUa0NzbnVKbVA2UVB0TzloWEp4bE40TEdmZGRvaWJyNGRucFd5ZXhtNndrZ3RreEJPNUVKTm5zRmJ1UXRIZHJOUlhtTUxlSldFYmZuUzBQc00zS0Rhd3NYSW5rWFZTMTZJS1NaYmx6TDBZQ0FyOTB4MHRsU0RVUUlLTnFNZldvZUhvQjNubVpPY2ZqWDdYVkszaVJTZTRscHc?oc=5",
-          "date": "Tue, 22 Sep 2026 08:36:18 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTFIN2RzNDdNYTVSa1J0UE5DUlJiUXd6bmhwejVRQ2I0bURFTkxCMjV4cjRLaXhyYkNYOEtqM0tmZnhSc2NSaUN4YWlEZUd2a05JYzUzSzYtd1p3TlU2cUtPcVV4eEdzQjJwVk1ITmlrbHEzLU96LWxMVlNxd3VmM2hfMUNNLUU5Xzc5M2Y5bWR5c3dlYVFEa01ZQVBocmV2YlY3YVdSNGZMVlU?oc=5",
+          "date": "Mon, 21 Sep 2026 12:58:00 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11556,55 +11586,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Istat confirms Italy's 2025 deficit at 3.1% of GDP — ANSA English - UA.NEWS"
+          "llm_subject": "Italy leader Giorgia Meloni announces plans to limit foreign student numbers, ba"
         },
         {
-          "title": "Italy – First meeting of the Conference of Salesian Provinces of Italy (Economy) - ANS - Agenzia iNfo Salesiana",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEI2UnlZUzl1cDBsa01sUXluZEhuNkZUOUNuMEplMFJJZ1ZSQXBQUVRiV2pSeHlCUi1CVHNIOXBHSmw3ZjdMblFwOWM2aVpTT2RTZDdnVDJIRXVNeTJyUmQzcTYwbW1tbzVENTdTRWE4bHJSNHdTaWRqNHJfZzIzSW51RlQtRHZvUW5takVsb3czcWpfS0ZfV2hCMnE5YmZqbGctcWpoX21tZnRieGxBTjRjRlpLdFIyRnh1bTZPOFkxUE9WMVRNb0hCOWZTR0lv?oc=5",
-          "date": "Mon, 21 Sep 2026 16:27:27 GMT",
-          "source_country": "IT",
-          "country": "IT",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IT",
-          "llm_subject": "Italy – First meeting of the Conference of Salesian Provinces of Italy (Economy)"
-        },
-        {
-          "title": "‘Win-win’: Italy pushes closer trade ties with Australia to counter China - The Australian",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3Fla0ZZQU9CbTlwQUYxZWZYZnlQMlkxSkFVeXdxRlRObTJrazFVRGFIN0pVdFBWekJWNUc1SVp3SFBMUjNCWlFrblF3N3N6cjJhdEVQR3lQWEo3THNwTzdOUFI4VEx4bVp5eWM3Q0Y2WWFsaG5xNExiQ2ExWHFnSWQ3Y2UyU29QV1pPUDdSaE9Dd3g5Zm82dUpBRGRoa2w0SnpSUDJDUnIxTmF0Yl9xVF94NGFiS0xXeWdtN0xXUmVnWnNrUURlYVdPQVljS2RKYndSdWlzRXJrRGRsaVVEbmNjMHBYcWJs?oc=5",
-          "date": "Tue, 22 Sep 2026 10:02:50 GMT",
-          "source_country": "IT",
-          "country": "IT",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IT",
-          "llm_subject": "‘Win-win’: Italy pushes closer trade ties with Australia to counter China - The "
-        },
-        {
-          "title": "Italy and the US move from critical-minerals diplomacy to industrial policy - Decode39",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekRRMG9Wb0ZjWXNPRE1JbFhJN1Jvc0xHWWlfeUN4QkM1Z3Z3cTc3YUQwQ0lmZ1VaSFNESUFLSkdKVTJqS3BIVFgzRl9TOUh4OTB5eVh2N1N3Wk5PclJXdnY0MHRUVFVKZm5uTFZweWhqRmxoRjZsT2tSaG5yQW5xdFdiYzVsOW5JSzd1U1JKVXNuLVktalF4X1pCcks2U0xEQlVnN2pn?oc=5",
-          "date": "Mon, 21 Sep 2026 17:16:45 GMT",
-          "source_country": "IT",
-          "country": "IT",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IT",
-          "llm_subject": "Italy and the US move from critical-minerals diplomacy to industrial policy - De"
-        },
-        {
-          "title": "Istat confirms Italy's 2025 deficit of 3.1% of GDP - ANSA",
+          "title": "Istat confirms Italy's 2025 deficit of 3.1% of GDP - ansa.it",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnJNdVQ0VWo0cHNmSU9YYXU0MHF5anBCaUNkODlObGc2VG1DZXM2bXNQTldzOHhlWTNRTG5DWFZTTU1XNEFHTG1LNDVka0xHMG9aZ0xwdXA3a0tCbWwtQ3RMQy1qSTJlTkNNX09TU2padEhZemtfbTE5WnozZDVjaE1FNzR3M1UtRFQ4TUN4VGk5X2NlaXZjaWlTMWh0TGI4blg3MkYtWE1PbU9pOFEtLS1pQjFoQ3ZqbE45UEZxYXpjUHBqZkdLbUVleHduWHlvYU5hY1lGYkdMVTDSAeABQVVfeXFMTlktWTNvU3EyM2J5WV9YV2M5dVoxSVROeTNFYXYtdmd4cW1ySENKdzF4SjFjS3VFNXF2Nm1jbENuT0RXeU80Y1BRZjNKT2JMTEVaN1FHWnlhV3ZFdU9GU1ByMEllYXRqVTh5UXpNTk9LTVBLb0hETmpqbTZuNGxRalROSHJkaVR1eWtVeTJWeGxwZ0hzSTJVbTdmUXI3bzRVZUhseGNiU2x2ckZYWHZkOTNJaEpZSTl5TEQ4NnBBVEhkVjBtTUFvRS1wOVd0Yl9CQ0F5eG1qczQ1bmZ6WXMtVm4?oc=5",
           "date": "Tue, 22 Sep 2026 08:21:00 GMT",
@@ -11616,13 +11601,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Istat confirms Italy's 2025 deficit of 3.1% of GDP - ANSA"
+          "llm_subject": "Istat confirms Italy's 2025 deficit of 3.1% of GDP - ansa.it"
         },
         {
-          "title": "Patuelli: Deficit? The banks have already done their bit - Il Sole 24 ORE",
+          "title": "Vote expected today on Prosper development that would bring Italy to Texas - WFAA",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1Iwb1V2YXZtSEhDTnpQTUp4RXJNdVduUllXQkJEcGRCTmpHWjYxLUU3aEg3WjBqWUhHSE1oMEFzUlA5SmppMk9RbkNtQjBEYzRmSUtRb2xpMFVtSFhrUmV1QkZyTmQtYU1mOTVHVU16VC10bnpySXhjN21fNE5wS25WUV9qbndIcl9YZ0FkWlQzMTl4MFlyM3cxWjJGZw?oc=5",
-          "date": "Tue, 22 Sep 2026 11:23:07 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSEhUWC1jOTdzTFdrbXllcmJ3c042UDEtNUZySF9FMTVsVzdPNUxKbHp0R2J1NU9MNzFvd2ZYUnFGNk5ZWnR2elVCVE91LVN6cTE0cDJGTUJUbVkwenNTV2l1ZGZCbGZWdEFtTk9neW55b0prM0VKNGc3cC1idjRKVkJlZ0NUdmpNN1RsUlNnMjJrZDFBOFpNWW1SRFNndEJUVHNOdkFLNzVPVUJhckVQdnA2TGxXMXBzaWMxLV8tSWZvcXVxZDNhalJPUW9QaDFGN181QnFKTG1UWE9WVjFPeGZPME9iVDhq?oc=5",
+          "date": "Tue, 22 Sep 2026 16:23:00 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11631,13 +11616,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Patuelli: Deficit? The banks have already done their bit - Il Sole 24 ORE"
+          "llm_subject": "Vote expected today on Prosper development that would bring Italy to Texas - WFA"
         },
         {
-          "title": "Istat confirms: 2025 deficit at 3.1 per cent. Italy remains subject to infringement proceedings - Il Foglio",
+          "title": "Today in Italy: A roundup of the latest news on Tuesday - The Local Italy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQVZ6RVpCS0t6OVJfMTc0dDF6NG9CNXVTNnhmRXVLY3NPMTMtRWhYaUlJOUdxVFpUdHYyX242R2thWjBBejJtMEFkLTFaRDNpVlA1emwycG5ab21leVc3MXhoVTFZY0loRTQ3M3V3VlItSWhhUnRUc0hmLUdzTUNubWFqMVJkaUtPa2JwbXFTRmR6Nk44SnA0RDlpblV4bVBGazJicERydUhJc3ZXWmcwbTN4bEdTazcxdzJwczQ0c0NOSmhlNlNQckUyMzB0bVpONkc4OW85UENTMFlnOFFFbjNBMlhGQQ?oc=5",
-          "date": "Tue, 22 Sep 2026 08:22:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlExZ1UzblRNQTlxblFVekpGRTVEWDdCWDljU0JFc1p1RW1PaU8zSEpfMkpjWFRXS19WdzBSRHlCOTg2QS1GM1FkR2o2WVdSLUJKYWdqYWRLeVAwa080T0o4bnZSeHotTEp1NWVpVllGM2hiYVd4dEZRX0c4czdqVFN3bHdpOEpEdnIxaHdFUGZwTl9PTXc?oc=5",
+          "date": "Tue, 22 Sep 2026 06:07:01 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11646,13 +11631,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Istat confirms: 2025 deficit at 3.1 per cent. Italy remains subject to infringem"
+          "llm_subject": "Today in Italy: A roundup of the latest news on Tuesday - The Local Italy"
         },
         {
-          "title": "Bangladesh, Italy eye MoU on fisheries, livestock and blue economy cooperation - The Business Standard",
+          "title": "Football Italia Show: What we learned from Mancini’s Italy press conference - Yahoo Sports",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWI4ZE40VTZOWE1lWGRwajVxZndRbWVNU3JaQjJOYkNfTGlMUlN3Wmg5UnZaNE5Ydzh1eUN6R0Z4MjZHMTk4SVdsNzRJS2ZMSkVNbmFZbzNGWWVlMi1kU1IwVmhiTkxxUjFyblNoM0ltV29VSDFLTWVqeERPbzhNT0sxTFVCdjk4Q1JyMTJCaUZ4NEFrbHlwZi1SSG8tbmZoQnhiQ0hSN3dfWUpyNEE4dm5sTWc0T2NUVTZIRFlnUXVGdw?oc=5",
-          "date": "Mon, 21 Sep 2026 13:25:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk5qNFJPX19LQkhORVl4UjMtWnBud013R2VERy1vODk1aVpwUC1hdllubld0c3RWVExDSzRZYlpiWHFKVlVwVmVIZkVsd2UtOXJ6X1g0dENIOEgxbjlEMG9NS1NkeDlzUktIVDlVb0dlZ0N3bWU0ZnhGbUFnUDhPenczWW56cUpxaE1jVnFB?oc=5",
+          "date": "Mon, 21 Sep 2026 17:45:00 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11661,13 +11646,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Bangladesh, Italy eye MoU on fisheries, livestock and blue economy cooperation -"
+          "llm_subject": "Football Italia Show: What we learned from Mancini’s Italy press conference - Ya"
         },
         {
-          "title": "Viet Nam emerges as attractive destination for Italian investment - en.qdnd.vn",
+          "title": "Italy train under Mancini for the first time today: The official schedule - LiveScore",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZkU2YWZTeGpsdFlNYjVNTlY2Q2cyN3FKYVl0amxqbG9rc0M0Y2FVcVJCbHJhRWpDR2lNeFB3MW5ZRkVGMGIwV1ZNbzZaTmJlaXZwWlhnMnYyRWZ5VDQ0MTNXY3lENklIYTV1eFFkQURGUWs0THd4Qnpkc3hidXlCdXljS3lOaUVmNTN3TS1XaXJEeTI1dFd5MGJjX1dSOEZ2eUpXN2RFNDRLRkVRLXhIaTFzUHY0Mlg1cVJHenNyMDZ3eFE?oc=5",
-          "date": "Mon, 21 Sep 2026 15:56:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUk3TjRna0lKaW0yMmsxdUsxREk4YWlEV2JDaThuSUdQd1EyaXNlVG9vbmRMckc0SVl1Q1RsRXZVbUJqVnVpdjIzd1l5LUQ0UUtibDcxdU5kSEVCZU9Pa3RCQ3hPSUk4bVVXd3B3YTNaVHhJd3JrT3diNWNwT3Z1ZzdrelVIVkFSNEtscjNtSzV6VEdxWk1vZml1TWZmallXQm9vQ0l0U2UwVmNIQVdSYmFSYzhmcVhHbUpvN0RCcnh0UTZZanV5cm9Ed3NaV3dhdFFR?oc=5",
+          "date": "Mon, 21 Sep 2026 09:05:45 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11676,13 +11661,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Viet Nam emerges as attractive destination for Italian investment - en.qdnd.vn"
+          "llm_subject": "Italy train under Mancini for the first time today: The official schedule - Live"
         },
         {
-          "title": "Bangladesh seeks to boost fisheries, livestock cooperation with Italy - The Daily Star",
+          "title": "Today in Italy: A roundup of the latest news on Monday - The Local Italy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2NnVjBNZDlOam9wV29QTXRnb212Q2tXdVJTQnFIcVRfMUFlMk5UbjVHSkQzUnRXeXlxeldMX1ljcW8ydnVqcUlpNmpNaGlVMzdyemw5WVFZZFlUWDh4WHp5MC13bWJfRV9YVF9iTk12d29Wd1NtdzdUSE9pUm5QZDF6cTYzWGUxcS1iZ21SWk50bXlaUDIwa3pDM1dUVFRyVzQ2dS0zZEhpbXBFakc0dA?oc=5",
-          "date": "Mon, 21 Sep 2026 12:56:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGdWR1k4ZG5vZElnWVFzUlZCX2E3ajhvTXkxU2JsWVFGLTAzLVlCREd3OHZtUWYxX1E4aDZaSXpQOXMzZk5pdlJMYzdXOWJIV1VZYU9hQ2wxZlNydlVFZnVuM0Fjd2FvSTd6akpLWHNxb2phb2ZIWDNyLVltTzJjcG1wME92SHdYcjY3SDZZNjk5NjFm?oc=5",
+          "date": "Mon, 21 Sep 2026 06:30:44 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11691,13 +11676,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Bangladesh seeks to boost fisheries, livestock cooperation with Italy - The Dail"
+          "llm_subject": "Today in Italy: A roundup of the latest news on Monday - The Local Italy"
         },
         {
-          "title": "Crew Claims Hackers Hijacked US LNG Tanker Valves En Route to Italy - The SOFX Report",
+          "title": "Italy’s Daniel Maldini cleared of drug use after Milan car crash - Free Malaysia Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNam5NUFhpamF0OE9JN1J4aGMybDdvWFNhNzRzYmQ1dlVJLVhVTllHT3pBU3dRNEJyNnp1cmlRZmxZSEc2UkRiTEJjOHpJUGdjWGtDUE5lSUNFOEVTOFc1alN0YXZyeGcxdHM0UUhJakJNNHlRdHlEc3lRdGh2c3RocDBoWHBnZ1NDVUVad3BCT2ZSY28?oc=5",
-          "date": "Mon, 21 Sep 2026 04:46:17 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT291am5kVWlIZDVBMFNTdTJQa2JteGx3M1Bha2U1ZmRUV29qNGowLUUyZUd2TmQzR19WRHRyc0V0MjFONHc1WHpCUXZOaUxFT1BXTkZFSE44VEsyZmx3TGNlckR6MzkwWGdTdWVoYU5oaHZVclYtNkRtUjdtNEswTkhTcDB6bjg1LVJjMGRvNGVpMXllYWUzN1JfdllPQmw5d1VVZlFta3F0aVg5Y18tNmtFQkd6OWNiVDF5X1pja3dHYmc?oc=5",
+          "date": "Mon, 21 Sep 2026 12:25:24 GMT",
           "source_country": "IT",
           "country": "IT",
           "category": "neutral",
@@ -11706,7 +11691,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IT",
-          "llm_subject": "Crew Claims Hackers Hijacked US LNG Tanker Valves En Route to Italy - The SOFX R"
+          "llm_subject": "Italy’s Daniel Maldini cleared of drug use after Milan car crash - Free Malaysia"
+        },
+        {
+          "title": "Mancini’s press conference: Every word Italy coach said on Day 1 - Yahoo Sports",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTA2UjBvQzBpTjZNTHlwaVJFekh5bFJmR05vSTFfUGV5eXVIT3VfcFV2bVNYckd4Z19xNEJUeW9wSkRzR2tBRThoRWExbklGRFo4YVpfNU1iQXpVNnFsRE1NaHBVdlVmVFNiclBhd1BJckkxOUF2RFVJMHd0LW5wLXZqY1o5OFpMbFFXTw?oc=5",
+          "date": "Mon, 21 Sep 2026 12:10:00 GMT",
+          "source_country": "IT",
+          "country": "IT",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IT",
+          "llm_subject": "Mancini’s press conference: Every word Italy coach said on Day 1 - Yahoo Sports"
         }
       ]
     },
@@ -11716,21 +11716,6 @@ window.WTI_DATA = {
       "raw_score": 0.17,
       "status": "STABLE",
       "events": [
-        {
-          "title": "North Korea touts new weapons system described as hypersonic - Orlando Sentinel",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzVQRFk4WVZrN29oUGpzZjhPZ25CcS1vYnRTdTdqYzJtQzBtWkpsX3dteVVJWllMaWJ2bTdlLTBFUVJUUXQ2QmpUemJ6dTlFc2xlaEZmM0dDWnNhRlkzUkZScVZ4RkdnZ2FKcS1xUC04QWVhWV9FMXJoMU40aUludTZHM25zeWNy?oc=5",
-          "date": "Tue, 22 Sep 2026 16:26:02 GMT",
-          "source_country": "KP",
-          "country": "KP",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "KP",
-          "llm_subject": "North Korea touts new weapons system described as hypersonic - Orlando Sentinel"
-        },
         {
           "title": "South Korea’s Lee plans to call for phased denuclearization of North Korea at UN - myMotherLode.com",
           "translated_title": null,
@@ -11837,7 +11822,37 @@ window.WTI_DATA = {
           "llm_subject": "South Korea's Lee tells AP he wants step-by-step approach to North Korea's nucle"
         },
         {
-          "title": "South Korean firms seek debt relief as North Korea business hopes collapse - koreajoongangdaily.com",
+          "title": "Lee says Trump created ‘opportunity for change,’ calls for speedy resumption of North Korea-U.S. talks at UN - Korea JoongAng Daily",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYjFCLUNLRG45MzdKbjVKOGpzdmdlN0Iyd1NBLWkweHhtWXN4MWFYdzB3UjhpeUFjUTB5a2gyZzRSdmpscUlVNllMMjZQbkYwbmtyZ2NHaC0zUnRKZEplcjNfSENDX05OZ2RCOVdkSko3c1ZEVF85Tzh4RVJLSktlNHBUZ01XQkFKbGRZa21wZmw0cXBxeHFpZV9FVlBRaUVZM0dtZmxVbDhSNldFZHFXaU8weDdzYTFnN0tUWHEzZ0Itc0hyRE9XdjA3bUFfOUhubWkzZVhJRl8xd1RreG9NcXhlRGdJWDA?oc=5",
+          "date": "Tue, 22 Sep 2026 20:19:52 GMT",
+          "source_country": "KP",
+          "country": "KP",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "KP",
+          "llm_subject": "Lee says Trump created ‘opportunity for change,’ calls for speedy resumption of "
+        },
+        {
+          "title": "North Korea's Kim lauds test of apparent new hypersonic missile - yahoo.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzdpMXNuRkd2eFZOblNEY25RcUNfUThrVjJPLUN4LVpfOGtQazJLSnJQNWJmQ0VOTlQycmY2Q0txLTJ0a0tQcjdfMmJZV1V4ZDBlcTh1RUlyUFJDd0JUV2t2dkxTMEsyQmIxNDZqRmw5TFU5X290MjJESGZ2Y3BJUWRteldZRXFNcUxpXw?oc=5",
+          "date": "Tue, 22 Sep 2026 13:28:05 GMT",
+          "source_country": "KP",
+          "country": "KP",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "KP",
+          "llm_subject": "North Korea's Kim lauds test of apparent new hypersonic missile - yahoo.com"
+        },
+        {
+          "title": "South Korean firms seek debt relief as North Korea business hopes collapse - Korea JoongAng Daily",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlVZUm5BY3MzOTBTcmRweDRNUzBWY2hHTzg1Q21ELWo4LWw2ZHB4NkR4dnd5ZlQ0MGQ5UE1KVXpzd0VQQVZucERLWDRaRFJlRzF6NEFxWFNzUmpWSkhhUThHWTZjOVZaRl93VktRYXVVb3hkZnFzc1M5YVdDa2J4alF6Nl9YYk01VG5LVkF6TDFQN2ZjSm1wY055T0phZVFUNzRINjY0RU5ncDE2UGtUcU5qZXkxc3JSdF9OYXhhSlV2Zw?oc=5",
           "date": "Tue, 22 Sep 2026 09:48:08 GMT",
@@ -11849,37 +11864,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "KP",
-          "llm_subject": "South Korean firms seek debt relief as North Korea business hopes collapse - kor"
-        },
-        {
-          "title": "Kim Jong Un hails the test of a new \"hypersonic\" weapon and asserts that it gives Pyongyang's enemies an \"incurable headache.\" - صوت الإمارات",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUDlFN3IzZXlTcVZGUWY1SFE1UC12R1k1WWc2WTJsazJ6RGFiRXdlTE83TFZwX2JVNW1oNnN3TldMd3FtRG1NRjRHZXBuMHhnWFFjeUlJaU04R1VSaXFuOEI5LUlGa0tEeXFORlotRlNiYllwMmh0TVJ3X2tyTHUybHFCd1U2Q3RPblg5Sk16eFVaV0VrQURuVEpDUGpfeXRoTU5BUjFqcEpOay1rQkhUUDl1X3V1ZVZpVzNfU1ZFNEoxaG53cDJ0Y0lsYjEtTEt3dzFOMUlsOU0zWmJWQW9Hd0FKME1LLUE1ZUt2WkcwS2ZMbkZnRm9LazdsMXNyS2JNdXlUVFRCZw?oc=5",
-          "date": "Tue, 22 Sep 2026 09:24:27 GMT",
-          "source_country": "KP",
-          "country": "KP",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "KP",
-          "llm_subject": "Kim Jong Un hails the test of a new \"hypersonic\" weapon and asserts that it give"
-        },
-        {
-          "title": "Trump TV Goes Live and Immediately Gets Savaged: ‘We Live in North Korea’ - yahoo.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMGRRN1FuZXptZWZjX2V2MDFYbTdEMDZjdVJHaXNQaklyeGZiZkhEWjdic3lrblV1b3Jrc3BhNXBTQWRWQW1lM0hCbkRtNmR2Mk16elZ3eFg0NEJsSmJpNWVhNlJ4QXFrQVRpSlNJNW01aWhJOTJMa1owM3VndG5YOTg1RUdOc2I3MF9PUlJ4VmQwTWxL?oc=5",
-          "date": "Tue, 22 Sep 2026 10:24:04 GMT",
-          "source_country": "KP",
-          "country": "KP",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "KP",
-          "llm_subject": "Trump TV Goes Live and Immediately Gets Savaged: ‘We Live in North Korea’ - yaho"
+          "llm_subject": "South Korean firms seek debt relief as North Korea business hopes collapse - Kor"
         },
         {
           "title": "South Korea faces no good choices in sending forces for Trump’s unpopular Iran mission - yahoo.com",
@@ -11897,10 +11882,10 @@ window.WTI_DATA = {
           "llm_subject": "South Korea faces no good choices in sending forces for Trump’s unpopular Iran m"
         },
         {
-          "title": "South Korea's Lee tells AP he wants step-by-step approach to North Korea's nuclear dismantlement - The Batesville Daily Guard",
+          "title": "Kim Jong Un hails the test of a new \"hypersonic\" weapon and asserts that it gives Pyongyang's enemies an \"incurable headache.\" - صوت الإمارات",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVWVuT1BJMUU3cnVJajFuc0Q5dTJNMEtqNU51Qk9rSHFncWVrQzdlektvcTl6WHNOejk3c1RtN0JlNzBjOXlfdVlBWmljV3JkZlpHRWFFV2lpcHFDZ19zWkcyVWUzRGFGbnNENnd2aUdIUldlVGotMWZiSFpfaHY5anVJS2ZCRS1TM2o4MTAzSFdvOEV0cFJBZ251a2lUS0pYWWthT1pZMW55TG82WFZoQzZQTEplTFAtNGxRWlp2V0x6Ql9YNzhwTUY5N1VzU0RWUTNtSnIxTEo1TTZqVk5BNi15THEwemtRLXdfX2xpNkdkZVhaOW5FZmdLUW1BZw?oc=5",
-          "date": "Tue, 22 Sep 2026 06:52:35 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUDlFN3IzZXlTcVZGUWY1SFE1UC12R1k1WWc2WTJsazJ6RGFiRXdlTE83TFZwX2JVNW1oNnN3TldMd3FtRG1NRjRHZXBuMHhnWFFjeUlJaU04R1VSaXFuOEI5LUlGa0tEeXFORlotRlNiYllwMmh0TVJ3X2tyTHUybHFCd1U2Q3RPblg5Sk16eFVaV0VrQURuVEpDUGpfeXRoTU5BUjFqcEpOay1rQkhUUDl1X3V1ZVZpVzNfU1ZFNEoxaG53cDJ0Y0lsYjEtTEt3dzFOMUlsOU0zWmJWQW9Hd0FKME1LLUE1ZUt2WkcwS2ZMbkZnRm9LazdsMXNyS2JNdXlUVFRCZw?oc=5",
+          "date": "Tue, 22 Sep 2026 09:24:27 GMT",
           "source_country": "KP",
           "country": "KP",
           "category": "neutral",
@@ -11909,7 +11894,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "KP",
-          "llm_subject": "South Korea's Lee tells AP he wants step-by-step approach to North Korea's nucle"
+          "llm_subject": "Kim Jong Un hails the test of a new \"hypersonic\" weapon and asserts that it give"
+        },
+        {
+          "title": "Why Is Lee Jae-myung’s Approval Rating Dropping? - The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSU1OZjdpLVIxdnFfT2F4UGR5cTVhTTR5RWVOOXkxZm82VDBLMktzTTF0TkEyTEEwOHU4akxBQzh0bThMTzZaLXVfNm1xSkhWWUJDczRRUHFDdXpQRTNwa1RUZzR2Q0U1eU91eWthaDJOTXB6TnNodTRzcmZDSkxrSWxzVDJEdw?oc=5",
+          "date": "Mon, 21 Sep 2026 14:01:04 GMT",
+          "source_country": "KP",
+          "country": "KP",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "KP",
+          "llm_subject": "Why Is Lee Jae-myung’s Approval Rating Dropping? - The Diplomat – Asia-Pacific C"
         },
         {
           "title": "Tooth President Jae-myung emphasized the theory of phased denuclearization based on the suspension o.. - 매일경제",
@@ -11927,10 +11927,10 @@ window.WTI_DATA = {
           "llm_subject": "Tooth President Jae-myung emphasized the theory of phased denuclearization based"
         },
         {
-          "title": "Lee Proposes Three-Step Plan on North Korean Nuclear Program - Seoul Economic Daily",
+          "title": "The South Korean president defends reopening dialogue with North Korea and mediating between Trump and Kim - Demócrata",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjRVdS1sQjcxZTNyRlo1dUw3Z2RYeTlHZkR0aUlPRGNUSS1jckNFbkphYV9OYmNSMFJBNkJpa29DTlc2VG91d3lrbjJnS1JTMmdVSjc4VEdrcW8wZWxIRmd3R1BJTXY4WURtYUdpNDVlUlJoaFU2TURkbGRTdzdZUXlxWjVfQ0txblJ0dkFsLXZhVE9GUFFHaWVWWUY3bWxJclJ5MXdB?oc=5",
-          "date": "Tue, 22 Sep 2026 09:24:14 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWGUxdTg3cTI1bzlaSzZTdFVwQ0Y3eFItUWNQeU9lckltVjFjOEVwaGFkUndfclFiVEg2cnRwMjJScUxqRzRPYWpwVVotUXF3bFZLVjVYeWR4U2tZQTdqaGVLQi10VDAyYWJuQTNZUVhiYm1nUXVXeTlLY0M1ZlF5elhZdWs5dWVfR0ZWdkh5bkFkZWREZW5yZzNLeTFGcFpmWS1wWnpoaEV4Z1NiRjdsMjN5dGRiN1NtN0NWZmVoXzhmSUJFUDF1eVU5aTlwUnQ0aTFfMEllZDFiYzUzYkdDU045NNIB6AFBVV95cUxQS2gwNlJOWG1QbXFmcXpISjVhVWNJZGpveDFMNEtIXzY0LS16TXlJbkZNZHYwRlRpcFBQbExpdXg5bXBqNlNMRXFhTzJ4ZkZfeGEza1c0ZGlmQWY1czJUSVZQXzFka1ZsQ0FDcXQ4WFh6S0FLcW01cUhTUUdGc2pWWjVSR192eUVIM2NVdzFfMUpKZ1N3WVZFN0I3aGh0NXhfWjRMdnZGSTAzR1NyenJ3TXRYUE53UmZaZ3NQbVN0UDVMTjBqMm16ZFVLeDk5TW5iVl9qRXpsVF9nUFJCZ09GT2JEOGFlaHU4?oc=5",
+          "date": "Tue, 22 Sep 2026 20:34:55 GMT",
           "source_country": "KP",
           "country": "KP",
           "category": "neutral",
@@ -11939,7 +11939,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "KP",
-          "llm_subject": "Lee Proposes Three-Step Plan on North Korean Nuclear Program - Seoul Economic Da"
+          "llm_subject": "The South Korean president defends reopening dialogue with North Korea and media"
         }
       ]
     },
@@ -12416,10 +12416,10 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
-          "title": "One Year of Canada-Mexico Action Plan: Trade, Security Gains - Mexico Business News",
+          "title": "Mexico GDP Rebounds 1.4% as Rising Debt Service Risks Growth - Mexico Business News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2VsNFh2N25LZ0w0a3NtQ3dPaTlVR2MxUXNnOTlWRWJrY29uLXVpeXBTTU9FYkg0NnBJanNfMlFNRDdRRC1qRXA2aUdsY3JzdkJEU0JJY2hnX0RMQ2NpeUpOb0hMZHdGeTQwNzRaTHVxbkpNdV9YTkl0bUozWVEtcWs1eTRBeVZFeXBGWUp6M3Nrbjdqa1RINkpqSFkxZVNvNVNYZS0wdXg4S1lUbnc?oc=5",
-          "date": "Mon, 21 Sep 2026 19:09:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOU80LTUxZmhGWkhvMkNWQzF6ZTVKNGdXbHF2SzdXb2c1OGVmQU9sdTZvcE5qajJnZkNnMEd4NnBMZF9CU0EwR2tJWDRJMkZvMDYxdlEzZHVXUGktRmFRQ1RBNWtNRDMzZHhiVXBFRDFSX2x3Q3k1MFhlekFSRF9PZUgwRy1UQ0VHRTZvcWxMTXZlelZmc2ZMZEZ0dEk?oc=5",
+          "date": "Tue, 22 Sep 2026 16:56:55 GMT",
           "source_country": "MX",
           "country": "MX",
           "category": "neutral",
@@ -12428,52 +12428,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MX",
-          "llm_subject": "One Year of Canada-Mexico Action Plan: Trade, Security Gains - Mexico Business N"
-        },
-        {
-          "title": "Lee to embark on weeklong trip to U.S. for UN General Assembly, state visit to Mexico - koreajoongangdaily.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1J6QXlrM0VFbldFWjl5SUI3d0ZaeEM0REV5QmlTbXpaMFlMY3dhX1pDTUMwWWFpVFFDcFpfY2JmQndyZ0gxQ1Y2eGY3MjVfQmZPOW1nTmIxTjhlSkRCSmFYNjVJQTFCMXhrTF8xYUJheFg2cGtZVkFBQTdNblMtV3BabWxwMFFRUExVVkYyOW9FMGhra09pc190Y1hGMTI3SXc4ODlHV09teFBQRmRsVEU0OURxc3RNMmZweWNGRWFPVDZ3X294aDRMV1A?oc=5",
-          "date": "Mon, 21 Sep 2026 04:11:44 GMT",
-          "source_country": "MX",
-          "country": "MX",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MX",
-          "llm_subject": "Lee to embark on weeklong trip to U.S. for UN General Assembly, state visit to M"
-        },
-        {
-          "title": "Lee to pay state visit to Mexico after attending UN General Assembly this week - Hankyoreh : English Edition",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43akg2UjVKaXBrcGVZdkxETzhjM3BHNzd0NlItaWt0QUhHVUlPYy1tRU0zdVB5d2owRElfNEVUM193VUM5REkyYkNpR1RiQjA2RlAyUDdFbGRDd1FYaFFtMVNQQ3JkOHBxYzgyMU40NkI5Wl9vVm4xWGxKSQ?oc=5",
-          "date": "Tue, 22 Sep 2026 05:54:00 GMT",
-          "source_country": "MX",
-          "country": "MX",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MX",
-          "llm_subject": "Lee to pay state visit to Mexico after attending UN General Assembly this week -"
-        },
-        {
-          "title": "Indian Embassy in Mexico issues advisory to citizens amid security operations in various parts of country - News On AIR",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQXBaTmNSY1ZSYjI4V25ONGYySkVZeURXR3lySmhnWWlHRWt4TnZzRC00NGt3RHlOOENNaUJycWVTQUFkZ1BoUU14Ymp6LWlldHFIclU3NXQweDhqdVVrdFZ6d29HdkUwNG5ya3NrZGhrN3FEMzFWa2FYUm1NYU0zYkROczZ3c2hUQjV4YmVVNzJQVmU4b1M3bnJmcmJkYjFGekE5RTVSUUZRSDItQy11QW44MHdQNDEtc3JFNVJsaTBHZEEtRUI2TU05cw?oc=5",
-          "date": "Mon, 21 Sep 2026 11:56:53 GMT",
-          "source_country": "MX",
-          "country": "MX",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MX",
-          "llm_subject": "Indian Embassy in Mexico issues advisory to citizens amid security operations in"
+          "llm_subject": "Mexico GDP Rebounds 1.4% as Rising Debt Service Risks Growth - Mexico Business N"
         },
         {
           "title": "Mexico's economy up 2.5% y/y in August, preliminary estimate shows - TradingView",
@@ -12506,10 +12461,10 @@ window.WTI_DATA = {
           "llm_subject": "As Xi Visits Trump: Five Charts on China’s Latin America Ties - AS/COA"
         },
         {
-          "title": "Mexico is affected by the global situation - MEXICONOW",
+          "title": "Mexico Outpaces G20 Growth in 2Q26, But Forecasts Remain Divided - Mexico Business News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OTnptem1DTDB4Z25fRWNDTVlud2YxQXJma0h3UG9ac2kwS1Vqb05hUER0TlB1enUzQ09yUUpiY1E0aGxzWmRNYzRxUndIbGwxeDVkX0RRN1VjMGtjdV9vaXE0QjVIazdXa1ZWdGZTLXBMTHRa?oc=5",
-          "date": "Mon, 21 Sep 2026 20:38:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDlsd28zTExiRC00TXRjMnh3WU8wU2kxRVFFT0hwWkdjODFIRGhXQmF3RkFheW16T1J2eG9aODBGQjctZ1BxYnhMa1RNTnlqa05pZGxhUkI1X3dNR3JFVi1wUmRzNmpkTXY4Ri1kQl93N3FGbEtndmZ6M0RWb21QaWNHTFl5YUFGMVNyMUM1Z2dMdEJiNExVYUtjd3RtaExETW1hb3pJdjJvdw?oc=5",
+          "date": "Tue, 22 Sep 2026 18:42:06 GMT",
           "source_country": "MX",
           "country": "MX",
           "category": "neutral",
@@ -12518,22 +12473,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MX",
-          "llm_subject": "Mexico is affected by the global situation - MEXICONOW"
-        },
-        {
-          "title": "Mexico’s PODECOBI Secures US$17.4 Billion in Investments - Mexico Business News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRW94dkFnbUFqbm9jcTNDY2Q2cnh4ckRURXI4TFpsTHFzTXk2M2lZendwWVNHbl9kbms5QmduWFQwc1l4QWI4cXM5ZkVaS3Y3Qnh3aXZzMnFSM29TamNlNEhiNGlNNHRuZm9qWVJxN3ZXUEFLZk5aeTI5OEZUS3RqS3EyN3FVV1VCTmVQRm5RNWJ5VGNJMVA3QUcwVjdRb1E2TlRtSjktRQ?oc=5",
-          "date": "Mon, 21 Sep 2026 16:52:37 GMT",
-          "source_country": "MX",
-          "country": "MX",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MX",
-          "llm_subject": "Mexico’s PODECOBI Secures US$17.4 Billion in Investments - Mexico Business News"
+          "llm_subject": "Mexico Outpaces G20 Growth in 2Q26, But Forecasts Remain Divided - Mexico Busine"
         },
         {
           "title": "Nu Mexico and Jalisco Partner to Launch 300 Tech Scholarships for Women - FF News",
@@ -12551,10 +12491,10 @@ window.WTI_DATA = {
           "llm_subject": "Nu Mexico and Jalisco Partner to Launch 300 Tech Scholarships for Women - FF New"
         },
         {
-          "title": "Mexico pushes for lower US aluminum tariffs as trade talks advance - AL Circle",
+          "title": "Mexico is affected by the global situation - MEXICONOW",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTNndlU3TE55TG5KNjk3NXNaTDhyX0E4dF9qQmVDa21fb2ZNUlRhWmtNa3FUUUlLR1NUSFd0Y2diUi1ndndDWWk5TXF3RDQ2aTdOczFjVFBzRjR3Wkp2ektMX0JhSC05Y3N3empBWDczN1dLcW13aEJhckVXME81NXY1czllSkxJbFRYeXl1bFhQeUlFUy1SZ192dkNRUU9aN196cnNR?oc=5",
-          "date": "Tue, 22 Sep 2026 07:00:04 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OTnptem1DTDB4Z25fRWNDTVlud2YxQXJma0h3UG9ac2kwS1Vqb05hUER0TlB1enUzQ09yUUpiY1E0aGxzWmRNYzRxUndIbGwxeDVkX0RRN1VjMGtjdV9vaXE0QjVIazdXa1ZWdGZTLXBMTHRa?oc=5",
+          "date": "Mon, 21 Sep 2026 20:38:31 GMT",
           "source_country": "MX",
           "country": "MX",
           "category": "neutral",
@@ -12563,22 +12503,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MX",
-          "llm_subject": "Mexico pushes for lower US aluminum tariffs as trade talks advance - AL Circle"
-        },
-        {
-          "title": "Mexico looks to reduce U.S. trade deficit as USMCA negotiations continue - KJZZ",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzZsay1HNm92TFFPNHJYUy1RYThHWmxZR1g5ZllFRGt4dGMzcjdUeUN6MkpuTlBicUhUR0tOS0ZRek5pQmgxVXdLd0QxRk5OczROLU8yYlByd3dYbjZZUU0zZzdrZWZ1NzV3Y3B2WW16bW93YlNLdHhGbl9JY0dRcktWNGxJM2c1TEVZMjQ5cnlZSGt5bVRHcTJ3bVJibTNjaDZMUnRqZWYzZ212UVNFcHFMRmhuRUxxNnc?oc=5",
-          "date": "Mon, 21 Sep 2026 21:15:00 GMT",
-          "source_country": "MX",
-          "country": "MX",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MX",
-          "llm_subject": "Mexico looks to reduce U.S. trade deficit as USMCA negotiations continue - KJZZ"
+          "llm_subject": "Mexico is affected by the global situation - MEXICONOW"
         },
         {
           "title": "Mexico plans to boost US imports as part of trade treaty review, Sheinbaum says By Reuters - Investing.com",
@@ -12596,6 +12521,21 @@ window.WTI_DATA = {
           "llm_subject": "Mexico plans to boost US imports as part of trade treaty review, Sheinbaum says "
         },
         {
+          "title": "Mexico’s PODECOBI Secures US$17.4 Billion in Investments - Mexico Business News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRW94dkFnbUFqbm9jcTNDY2Q2cnh4ckRURXI4TFpsTHFzTXk2M2lZendwWVNHbl9kbms5QmduWFQwc1l4QWI4cXM5ZkVaS3Y3Qnh3aXZzMnFSM29TamNlNEhiNGlNNHRuZm9qWVJxN3ZXUEFLZk5aeTI5OEZUS3RqS3EyN3FVV1VCTmVQRm5RNWJ5VGNJMVA3QUcwVjdRb1E2TlRtSjktRQ?oc=5",
+          "date": "Mon, 21 Sep 2026 16:52:37 GMT",
+          "source_country": "MX",
+          "country": "MX",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MX",
+          "llm_subject": "Mexico’s PODECOBI Secures US$17.4 Billion in Investments - Mexico Business News"
+        },
+        {
           "title": "Mexico as a Platform to Diversify, Grow, and Compete Globally - Mexico Business News",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUZBOWhLUEljVXhsYUJpcmZqVWhkVmhVN09tYnJEOXVpMXhVX3NUdnlwY2lXMVVKRWVmQU5QajIzLXdhNWlnZkkyTU0tanI2NTdyYlZLS1JPcWZTYm4xZW91d2VvRFI2ZmxCUlNNdGZ5UV9KdUU2Nnk4Y1VHN2NzM1pmcDVBZmFzRzNfZnJjbF9FcTNVV3l6aW5jOHRuOGRHTTliaFJhanA?oc=5",
@@ -12611,10 +12551,25 @@ window.WTI_DATA = {
           "llm_subject": "Mexico as a Platform to Diversify, Grow, and Compete Globally - Mexico Business "
         },
         {
+          "title": "Mexico looks to reduce U.S. trade deficit as USMCA negotiations continue - KJZZ",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzZsay1HNm92TFFPNHJYUy1RYThHWmxZR1g5ZllFRGt4dGMzcjdUeUN6MkpuTlBicUhUR0tOS0ZRek5pQmgxVXdLd0QxRk5OczROLU8yYlByd3dYbjZZUU0zZzdrZWZ1NzV3Y3B2WW16bW93YlNLdHhGbl9JY0dRcktWNGxJM2c1TEVZMjQ5cnlZSGt5bVRHcTJ3bVJibTNjaDZMUnRqZWYzZ212UVNFcHFMRmhuRUxxNnc?oc=5",
+          "date": "Mon, 21 Sep 2026 21:15:00 GMT",
+          "source_country": "MX",
+          "country": "MX",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MX",
+          "llm_subject": "Mexico looks to reduce U.S. trade deficit as USMCA negotiations continue - KJZZ"
+        },
+        {
           "title": "Can T&T enter the space economy with Mexico’s help? - guardian.co.tt",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzVJNkFvS2h3ZUY4WUtYOVRkTGYxakc1MXlYaUhLME0yQzFWY3VXRURGRmh1a1lIeXd2WDNfNkhuZHFkekg0a0E4OVRERWsySVhreWVvNHpxMjk3WXIzZ1lCTVljQURrQ1VqakZOZ2plRWhYU3lEUk5uNkNxVXo2UERseHFmM2VudFdQaVl2NjNQUy1GUEU3WDc0WmcxWHJ2cnAzNDNlTk81dw?oc=5",
-          "date": "Mon, 21 Sep 2026 05:46:36 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclVGd0pHRXdKOEU3SnZScnVyTm51UGszXzd2cHRRQWpzSGZIRG5GWkdQQXp2dHdacm5fcmRoNkJDYm0tTHhGVUktYWdIWXFGSXZqOURvaGVQRTNTcTU3MDY0QW1pMkI2bjMyY3BrQmM2WmtXY0pELUQyRl9ydmdTeFlOYzFJSzg3VVBGczA1UWFZSE1YSGhZNjdzclRNN3d1REJ1QjN2VVU?oc=5",
+          "date": "Mon, 21 Sep 2026 06:30:24 GMT",
           "source_country": "MX",
           "country": "MX",
           "category": "neutral",
@@ -12626,10 +12581,10 @@ window.WTI_DATA = {
           "llm_subject": "Can T&T enter the space economy with Mexico’s help? - guardian.co.tt"
         },
         {
-          "title": "Mexico charts its own path in pursuit of trade deal with U.S. - The Globe and Mail",
+          "title": "Brugada, Mamdani swap notes on housing, care systems at U20 mayors summit in New York - Mexico News Daily",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTG80blR6VjRqYTJtRWFLSDNQX3hFOGtaWFYyTzVET2tUaGp1bkloeEcyVUxleTFzSDRIYU5wY1BwcUUwaUJZSkpGMXB5Yy01amdGQjl6UF9iMTd6WkNsbzJER1Y5UlZneXNYZUJibFN5V1RBR1FSdG5aYmFWQkpoVzFrdldrcDZLTXNWNHhsZjNlQmdQWXpiNDh6QU8?oc=5",
-          "date": "Mon, 21 Sep 2026 19:16:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnhQbGFLeUxSaXpVSDJyUkNlRkg5UmwtSTJBV2ljQnNpQ0NkOU0zOElZRk1SV0VqQWM4WmZxTVhzRGxEbTBLWkI0RFVZZU9ZUE9qSjgyQjVEaV9jdVRjYk9OQXZySzJEdDB0Q05MTGR5Wm1lckZNbUxxUkQwVmZZb3NHTzc3NXVhREdIZ0dxenB5aXgxM3ZpVjNtcVJyeXpnZjJSd1VBQ3BnZDV6RmNrOUh3?oc=5",
+          "date": "Mon, 21 Sep 2026 23:35:36 GMT",
           "source_country": "MX",
           "country": "MX",
           "category": "neutral",
@@ -12638,7 +12593,52 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MX",
-          "llm_subject": "Mexico charts its own path in pursuit of trade deal with U.S. - The Globe and Ma"
+          "llm_subject": "Brugada, Mamdani swap notes on housing, care systems at U20 mayors summit in New"
+        },
+        {
+          "title": "Polo strengthens to a Category 5 hurricane off Mexico's Pacific coast - ABC7 Bay Area",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLU9ia0tqb3RWdDNQTXhXVmNzWnFYTmhIZjdkM09fTDAzeHVLSWlSLTVCRUduQ3hzWDZwOXhYUkJsdDJMZ3hpNTZNYlNsSXV4WmZlTW1Pb1JvNVdzNEw2OW43cnlZY0tYN2tRUElwTU51UW1VMWlpWmhfOHRxRmc1QU1HUFY2ZU9qTVRtT3NVNlNJS1JUUW5zdWhPb2EyYXlla0E?oc=5",
+          "date": "Tue, 22 Sep 2026 14:47:22 GMT",
+          "source_country": "MX",
+          "country": "MX",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MX",
+          "llm_subject": "Polo strengthens to a Category 5 hurricane off Mexico's Pacific coast - ABC7 Bay"
+        },
+        {
+          "title": "El Niño goes wild: Pacific Ocean under siege from tropical cyclones - USA Today",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTdpaGlwX25VNUtXbnZSYnFfVWduZ1VJQ1ZoaVdwb0luRkNEa2c2T0tCb3ZxODFnZGN2Ui1pODlxdDV4SzhrLW16WnRwNjVfNGVZRVVZVUhOZTNrbHNCVXAzVXlIeHUxc3k4aVlmMjVERlJzMkZiT2gtYWR2cXdEcEt5RGFZcG5CcnpOSDI0V3IyMlRuODNVdWV4NmpEb0VfSTVxOHBzSFg5UTVTZmdpWlZpMA?oc=5",
+          "date": "Tue, 22 Sep 2026 20:14:00 GMT",
+          "source_country": "MX",
+          "country": "MX",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MX",
+          "llm_subject": "El Niño goes wild: Pacific Ocean under siege from tropical cyclones - USA Today"
+        },
+        {
+          "title": "Hurricane Polo expected to reach Category 5 as it nears Mexico’s Pacific coast - Mexico News Daily",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVU4ySWNaMGRuRlREVjh6RWJibjJDcmNRV0cxWDl6dDFYLUR6amFyd2Z5WEJNMnJZRWNIVUVJWklTdGtxejdqZDFMS3BILUNEZ0JwbkROZUlFblNJc0FET1JRazFTYkRnMTNvOXZScm4yZnVfU3Y2MTRyZ1M3Q05FLV9ESF9EdE0?oc=5",
+          "date": "Mon, 21 Sep 2026 20:24:00 GMT",
+          "source_country": "MX",
+          "country": "MX",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MX",
+          "llm_subject": "Hurricane Polo expected to reach Category 5 as it nears Mexico’s Pacific coast -"
         }
       ]
     },
@@ -13110,15 +13110,15 @@ window.WTI_DATA = {
     },
     "SD": {
       "name": "Sudan",
-      "index": 3.57,
-      "raw_score": 1.4,
-      "status": "STABLE",
+      "index": 4.61,
+      "raw_score": 2.13,
+      "status": "ELEVATED",
       "events": [
         {
-          "title": "Heavy security ahead of new South Sudan transitional government - Arab News",
+          "title": "Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Somalia - OCHA",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3BYbVdGZmozQ09JbG5lTUNQXy1WbGl5NXdhV1VBcUExXzg0WktSclAyazRReWp6SXJnaUdYSWwtUm1zZzZiZzV3S0xUcjIyckFScFlEejZHVXhmZ3FSYTJCNWotTXhqNkZOS1o2RlpNYmV6RWFIZnpfVXBUU1FHQmc3RjRTWkIxT2NOM0dIdzlsNjNZeThNMHgtcTRYNzNSSFFQNg?oc=5",
-          "date": "Tue, 22 Sep 2026 16:39:04 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGVOVks5S0RjT3JPajdMUzVlMFNPUERLekJhbDhZb1daVEtlLVVQNlpGUF9IZmRydXgwWF9TbXpCZEpLaTJIQWJlYmNSMXVzUFN0cGFiVzhKeVdYVGFnbGlPMlo5ZXh1bk91ZlJZblNkNzVwZWJyZVBmSU1hQ1cxT2o3RUplckV6YmRRVFBuV3N1RGJHcG8tT0lR?oc=5",
+          "date": "Tue, 22 Sep 2026 18:28:23 GMT",
           "source_country": "SD",
           "country": "SD",
           "category": "neutral",
@@ -13127,28 +13127,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "Heavy security ahead of new South Sudan transitional government - Arab News"
+          "llm_subject": "Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Somalia - OCHA"
         },
         {
-          "title": "Somoud anti-war forces call on UN Security Council for immediate truce in Sudan - dabangasudan.org",
+          "title": "Sudan urges UN intervention after US denies visa to military chief Burhan - Sudan Tribune",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOXpua1FDMnBBaUxLMGl0VFkwMTdtV0x0OHJhcWlUNzd1WEFJaUFlMlFxTHM5TVhnLXpLd3hrLTlUcGpDNFg1M0RzWkpLVVJ0Ynh2dndtM2xFb2txUEJQYlhNckNRU1FNemN2ZHZmc09saHZ3WXlhTUtBZmFCemdIN09JWHdWVUV0RWMxd2lmRmdOVnhsX3FuOGFteG1fR0pkR3dId2JPYVNvbERhY0Rtal9oWGEtVHM4UmsyczBaQ0dZb0ZzM0lnN1N3?oc=5",
-          "date": "Tue, 22 Sep 2026 12:49:46 GMT",
-          "source_country": "SD",
-          "country": "SD",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SD",
-          "llm_subject": "Somoud anti-war forces call on UN Security Council for immediate truce in Sudan "
-        },
-        {
-          "title": "Heavy security in South Sudan as election law changed - Al Arabiya English",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzNCNWZQNENobGQxNGl0cDRVeV9oZVhnSE4wejlKYVoyVWd5RF9TN04zckMweURidFVOa3diNklKdWl6OEdxMGMyVUx5aVV4OUJ0WXVMTGFUMEtESmYtQWpNZGpNRDRjTnk3OWl6TmJJY3ZHZmRjU2o1bFNmVWV2RWFOT1F5TlpxbU9BZGVEWUN0c3ZZS0tSTkJ6Q21qVGFucUxvQVJmQTbSAa4BQVVfeXFMTk9zUHk5SWNFbjBrV3Zwa19vc0U5aGxKSWhtTkI0T1BSelVJVFhHRFp5NGt0SWdnMmwwNkc1VkVIMFQ0dDJObHUxcDlOY2xoZzVCYWNJMWpXdjFLenRIY3p6Wmd2UGtLM3liVC1UalFrcUc0S25JMGtlZF94OTNHSGxieUx0SXI5WEFkNmhXSzh3RE11ZllPeTM3YTVraUc5a2tkNmliT3djejVoSGJ3?oc=5",
-          "date": "Tue, 22 Sep 2026 13:37:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLTWhpQjVhWmJ5bzJSOEdQcDNYT1pZS3E3QzByYTc4Z1pqcENyazJQMDRJYWIwcGF3S0tneGZmeW5ENFBYZFlCN05LQ0NRQ1hw?oc=5",
+          "date": "Tue, 22 Sep 2026 19:15:31 GMT",
           "source_country": "SD",
           "country": "SD",
           "category": "neutral",
@@ -13157,13 +13142,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "Heavy security in South Sudan as election law changed - Al Arabiya English"
+          "llm_subject": "Sudan urges UN intervention after US denies visa to military chief Burhan - Suda"
         },
         {
-          "title": "External Support Networks Sustain Sudan’s Multi-Faceted Conflict - Bloomsbury Intelligence and Security Institute (BISI)",
+          "title": "Djibouti Calls for Unified African-Led Peace Process to End Sudan Crisis - sudanhorizon.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnZVdkI5dWxDRXJraFN0UzFSVGV0WWY1OVVwdFFBUURzeExZT2x6UEJGNUxLMFNpWXZqR0Q3VjI3SEllcWxqMXNSWS1PUTQ0a01YMFZ6SVlTSGZMVVNldVNPVVdpT1pUWlMtSHNXaFlvTUwyalpxZmZnLXNKNHdaMzdtSGZxZm5zQXlRT21FLU5RR3BLaEE?oc=5",
-          "date": "Mon, 21 Sep 2026 05:01:56 GMT",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOE9USUczaTJpNkJqTlV3d0hWcXQ5RmtSSHEtQVo5VnZxN29LQ2gyUDFHemVLb3U2OFFFaWFTX196blJGYkhOY295WkVfUDdieEJ2N2pFZ19iTmMyTndyQ1VFSlJLNGlRMTJHTkJCeDR4VkhkVEtxSjhNR204cVJ4THR3OGVuUVdKejY5bEJBdlc3SE11UHJNRkExQ2xDUWc?oc=5",
+          "date": "Tue, 22 Sep 2026 18:36:53 GMT",
           "source_country": "SD",
           "country": "SD",
           "category": "neutral",
@@ -13172,13 +13157,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "External Support Networks Sustain Sudan’s Multi-Faceted Conflict - Bloomsbury In"
+          "llm_subject": "Djibouti Calls for Unified African-Led Peace Process to End Sudan Crisis - sudan"
         },
         {
-          "title": "Heavy security ahead of new South Sudan transitional govt - Africa - World - Ahram Online",
+          "title": "US yet to grant Sudan’s Burhan visa for UN assembly, sources say - Sudan Tribune",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzlZblNHdVpEcXRURjdIZDl3R0Jfd0F6NFRBa2JOYzN1Qm9CS1l4WndscVNEUFdDblo5MUdubUpsV1BGdVk0ZkZQOG5wUkhUWk5qdEVOOXdvUnZ2YVhxTGJGM05tNHVORmxCcDRsd2F0S2lBUVFBZTdZbVpiRllLdjhleDlpcGxjLTFJZTJHZWpuWXBBaTM2TTlqWVJReE52SWNDc2NkZVl0Y25WbldiZkt3Q0FPbUl2dFhodHVn?oc=5",
-          "date": "Tue, 22 Sep 2026 16:08:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcGZja2gtZEhjYWI0Wm9wblZZaGxKekp0QlpjOHR0Sk5OV2c1aFU5VG90dF8xWW1BU3RaX0lzbE8yQ1NHaVVvaUJHazEyS1Rh?oc=5",
+          "date": "Tue, 22 Sep 2026 13:54:46 GMT",
           "source_country": "SD",
           "country": "SD",
           "category": "neutral",
@@ -13187,28 +13172,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "Heavy security ahead of new South Sudan transitional govt - Africa - World - Ahr"
+          "llm_subject": "US yet to grant Sudan’s Burhan visa for UN assembly, sources say - Sudan Tribune"
         },
         {
-          "title": "News: #Sudan gold mine collapse near #Egypt border kills 10, injures 21 At least 10 people were killed and 21 others injured after a #gold_mine collapsed in northern Sudan near the border with Egypt, with rescue efforts continuing to search for survivors, acc - facebook.com",
+          "title": "South Sudan President Kiir dissolves transitional govt ahead of December elections - People Daily",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmFTdlNrZm4zSm5hVDZXcERudFNLSWhIWjdKRUFpbTNsb2xhYzdlU2hQenJXRWY3VXVrQU5RVHhvbHotWkY5NlNDeFZKNUdBMUpYRGt3bDdDVTU2QkxDaXV1Nm9YWlUwdDJMQkkxWFluSXN6RVZjR0FKc25QVG9JVnRJeS1fT0xVeEtodXk0LW9WWGdyaG44WXVBeFV1V3F0dTZUWURrbFh4SjVPQU9OaG13UVpjYWN6UTFMV1h3TnR0QVdWSWlvR2FsQWF1UlZJSk5Sa2dkQVlQRWlnZngtdg?oc=5",
-          "date": "Mon, 21 Sep 2026 05:41:37 GMT",
-          "source_country": "SD",
-          "country": "SD",
-          "category": "border_security",
-          "weight": 5.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SD",
-          "llm_subject": "News: #Sudan gold mine collapse near #Egypt border kills 10, injures 21 At least"
-        },
-        {
-          "title": "‘42 surgeries in 48 hours’: Doctors face extreme pressure in South Sudan - The Telegraph",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1h5dzlOR2JnQ3NWTnFtclFnbGNLY3pQbENwb3ZtZ3FkbW5XZ1dVcWpENE9XU21LaWNzQmt6TWt5TFlET0xjUmFzMkMtUXpPR29xNHhwNWFQa3BTS1FCVTdSWWp6aEstSDdzLTNBNlFfRmZPWlR2N3NRR1hpTlJrOFJ6YXhQRXpOeGMzcGQ1T3lWYlhSZ1VGaVo2QzlBazFGa1FJSEJSOWFCUGM3cVNLOXhXeW9QUzQ?oc=5",
-          "date": "Mon, 21 Sep 2026 15:25:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNEtVQWJfSkFCVV9odWM2bW96QXZSZXFUUkVKLUFmc0lyUVBoeDIxdnlBbUcwZG1iNktzTVhQR09qUUUyMTBsc1NxdzRiR0ZCQTFfQXVuQnBoT2xHQ21TMFZGMUFwQ25jREZKWHRQOVJsRHFIbDNfZ3NZbTdlMGxsemFzREdkdHBoRFZIQkV4QllQeS1pZzlHbWNvWV9fQ0NsU1pDdl9Kcl9rTG1OQ3NLYzhKZTh4akRqTlkxWUs4MS1iUUNX?oc=5",
+          "date": "Tue, 22 Sep 2026 16:55:46 GMT",
           "source_country": "SD",
           "country": "SD",
           "category": "neutral",
@@ -13217,13 +13187,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "‘42 surgeries in 48 hours’: Doctors face extreme pressure in South Sudan - The T"
+          "llm_subject": "South Sudan President Kiir dissolves transitional govt ahead of December electio"
         },
         {
-          "title": "Sisi to CIA Director: Sudan’s Sovereignty and Unity Are Non-Negotiable - Sudan Horizon",
+          "title": "US refusing to give Sudan's de facto leader visa for UN: diplomatic sources, UN - RTL Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXhHOFZ2U0VJUkxiN29fX2Z4UHBMMkgtYjNZWW5ZaTFUTmFraWJQZlBhVWZpTVZxOGVad1N1VVJwU2VKRl8xekk0WHZvMV9IazRYOUZCZndoVURjWTRKc3k2U3FDakd3YUZHX0g3ajY2Uzk1TVFsYXN6aGlSMGlmMG94QXNTT01hQTBPNlFHTV95U1VGMDZHaUd3?oc=5",
-          "date": "Sun, 20 Sep 2026 16:54:22 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUMxbzY3ZnNnakE5ZnhVdmg5LVNOSTBRMUZEaGlpeDh1eElCRjZOa05kZUY4d0tWZENpaVBvTnlLSlZtZjlOVHNUMmJrelFvcTA1dWdaQnhQNVRlV2hSdnRMNnR3dWpIOU0zQ2JwMUpUVTRYSG1xaXlSYTNGNG1HQWR5X1EyRjZjTlk1c0FubnlVMkdPcFlORmpaV3N4ZFhJTUQ5ZkVNeTdDUy0xRmpWQXpmTHZnandQUzZF?oc=5",
+          "date": "Tue, 22 Sep 2026 20:23:37 GMT",
           "source_country": "SD",
           "country": "SD",
           "category": "neutral",
@@ -13232,70 +13202,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "Sisi to CIA Director: Sudan’s Sovereignty and Unity Are Non-Negotiable - Sudan H"
+          "llm_subject": "US refusing to give Sudan's de facto leader visa for UN: diplomatic sources, UN "
         },
         {
-          "title": "Egyptian President, CIA Director discuss regional developments and maritime security - سانا",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZk94OW56Z29FbU5KcHVITWhicmdPQS1VbnVFVzNBR19kMTV1SjlIOXMxS1c3N2hzWXZVdGRWN3B6TFJLLTdUa1d4QnJhS3Iy?oc=5",
-          "date": "Sun, 20 Sep 2026 20:00:54 GMT",
-          "source_country": "SD",
-          "country": "SD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SD",
-          "llm_subject": "Egyptian President, CIA Director discuss regional developments and maritime secu"
-        },
-        {
-          "title": "Egypt, CIA Chief Affirm Support for Somalia's Sovereignty - allAfrica.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NTHJtaUI4LUFMblRfRnRUSmFTR2t5bm5KdUZDT2pEQjhPWmhRUHk5WTFYRUl0cUNKaFI1UzNtVWtNNndXVzFkWmFodjYxdlFTOVg0SkRrSE15Mjg?oc=5",
-          "date": "Mon, 21 Sep 2026 10:27:28 GMT",
-          "source_country": "SD",
-          "country": "SD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SD",
-          "llm_subject": "Egypt, CIA Chief Affirm Support for Somalia's Sovereignty - allAfrica.com"
-        },
-        {
-          "title": "In Sudan, thousands flee Hamrat al-Sheikh as army advances - Benin Web TV",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzlfMExhb25VV1Etd1poWEtXclktYjFGV051Qy00d1ZqWVdYZ0pvMUhDdUNTMV9ETDlqTkE4dHlKZTFNeXZOdDU3cUNhbnYwNEY1T3doUHBoejRWQkJvSGpFUzVBRExsYVZQSU9WbE5LcUtHNDR4cmk4NWVCZUtnMjdRZlNkMUZ5QjlV?oc=5",
-          "date": "Mon, 21 Sep 2026 07:41:23 GMT",
-          "source_country": "SD",
-          "country": "SD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SD",
-          "llm_subject": "In Sudan, thousands flee Hamrat al-Sheikh as army advances - Benin Web TV"
-        },
-        {
-          "title": "Video of Webinar: Stand with Sudan, End Canadian Complicity - World BEYOND War",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMUp1dkVCZHB2akI2UTJBTjh1YUVDNTN5SDdQMVlSVVI0NVI2NFdNSUtCeXlsaHZ5WUNaY0xPRlI0eFdpNmNLYlJCWUxHY3N4UkdYckxkX3ZGbXo1SHhSSWFUX0hEa053RTN1UXpON09oQlowekhhZFlyMDFZTmJFNjQwazJPVmFkdVZnODln?oc=5",
-          "date": "Mon, 21 Sep 2026 17:09:02 GMT",
-          "source_country": "SD",
-          "country": "SD",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SD",
-          "llm_subject": "Video of Webinar: Stand with Sudan, End Canadian Complicity - World BEYOND War"
-        },
-        {
-          "title": "Gold mine collapse in Sudan: there are casualties - 1news.az",
+          "title": "Gold mine collapse in Sudan: there are casualties - 1News.az",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHozQXhZNmNFUDZ6Y2tsZnZmQm11dF9WTVFNbEZsNVBOZzhuOEFZRW5WNnRvTUZMdDd3cl9oMU5BNFBpa3puZTk4dlhDdzBxcnJDdERvZkhUMDZTbnFidkFsN2h0YVFyNEM2Q0l1QTVTS3V2VHlvWkh3ZTRkWHBHVU1KOUxudWVFa3F0dl9jSEYzS1BYd3c?oc=5",
           "date": "Mon, 21 Sep 2026 10:17:47 GMT",
@@ -13307,7 +13217,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "Gold mine collapse in Sudan: there are casualties - 1news.az"
+          "llm_subject": "Gold mine collapse in Sudan: there are casualties - 1News.az"
         },
         {
           "title": "Sudan gold mine collapse kills 11 as search continues in Red Sea state - India Today",
@@ -13325,10 +13235,25 @@ window.WTI_DATA = {
           "llm_subject": "Sudan gold mine collapse kills 11 as search continues in Red Sea state - India T"
         },
         {
-          "title": "EXCLUSIVE: US withholding Sudanese leader's visa over ceasefire plan, sources say - Reuters",
+          "title": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation - Al Jazeera",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5",
-          "date": "Tue, 22 Sep 2026 14:19:49 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYl9ZRFd6bkE0NF9zbk9YS18ycVRxTVBaZ1NxdU4ySlFJenRjY3JaQWowV2FPaGE3YnZ3eVluU2Jzak1XOGFrZjY0b0FkS2pKdHoyOTdVYmdDWHR4TW12THFORmJtbkg4X0hIZVZtWURpOVNsd2JWUC1ld2gxeEx5bDN3YjBJTnpxc2lVSEVnRlBjbV9XbndNTTZENlNoYVVuanBKN2VRVk8tdjZfNXfSAbMBQVVfeXFMTlR1bUZYdjB5dWNCNnl1N1pTR0JMMGltb09Oc0pBNFYxelNzU0dwendZVUtnQ3JoMy15dkQ0aXBrSjVMdzlubjRsa0pQc1R0ZnVPbl9YMzB5OThza0k1UkdMOHpha0JaUFlYM2NFNnM5aVZCeDZjSlJJUVVLdzBpU0RZRFU5STNkY0ZPandlWUtrMlhYX1MzUlJIdTVwV1hvdmFWcHEwVXFrajlPX3VRUkJrWFE?oc=5",
+          "date": "Tue, 22 Sep 2026 08:57:25 GMT",
+          "source_country": "SD",
+          "country": "SD",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SD",
+          "llm_subject": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation - Al Ja"
+        },
+        {
+          "title": "Currency collapse heaps more pain on civilians in divided Sudan - Reuters",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEN5UFZmVDFrTDZSTUM2OVpoelY1a0l1SEFKRVBBYURPT3BjMXhRMFZxTm5pbFZmT0xCYzctUUVzYmt0cGJrZ0NhdUlxMnpTYWVqdlN4S0RRTUdqcTlfLTduNGdQTUY0RzRXQ0hOd05TOXpJckhSZHMtdTFIVlFFSDdMQm00UEU0YVhyQ1I4ckduTVlYeHE4VHB5S1N2amxkb0d1dDh1amVYZw?oc=5",
+          "date": "Tue, 22 Sep 2026 13:21:16 GMT",
           "source_country": "SD",
           "country": "SD",
           "category": "neutral",
@@ -13337,7 +13262,82 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SD",
-          "llm_subject": "EXCLUSIVE: US withholding Sudanese leader's visa over ceasefire plan, sources sa"
+          "llm_subject": "Currency collapse heaps more pain on civilians in divided Sudan - Reuters"
+        },
+        {
+          "title": "Currency collapse heaps more pain on civilians in divided Sudan - Internazionale",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa04zNWVQTG1kd0FGRTZZVGNpM3ZSeXJ5cDZ3MmJza1NFYmJxQlA4eFRUbnNxMUhQVVcxUzBmSHNtWWpSX184OGF4ZG12X0dzNDRnMHlaeFZoRktVU3JoUUV2QkpDZTdtcEJTOG0xaS1qMVBIclBXVVgwZVplNnNFNmJmV1hFZm5RSk5RWjZYeE0xSHdyNS1nQjBMQ2lZejhLMmhxVl9ZQU5RY2NCRXJnLVg1bXlFSjRZLVdBRXFVRXh4N1NKOHc?oc=5",
+          "date": "Tue, 22 Sep 2026 13:18:12 GMT",
+          "source_country": "SD",
+          "country": "SD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SD",
+          "llm_subject": "Currency collapse heaps more pain on civilians in divided Sudan - Internazionale"
+        },
+        {
+          "title": "Sudan’s War Economy Sends Pound into Freefall - english.aawsat.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVlqV3ZFLVAweFFEVXVuQjRfN1NZQTlFRGFUNFlQemRscGRpNS1wbGs3TDVBODV3ZVhJS25SZnJJbHl5WUJyVFNoc1Buem85aDVLT3J5bnhxTTdNaGhUUzF0a0RQMk4tQXFNc3RpMXBzV1Z6WnJHVldZNVBEQ0xJbUVwMWtQTjZ2ZUFCbUh3WDNtOTZrUkFJ?oc=5",
+          "date": "Mon, 21 Sep 2026 13:41:15 GMT",
+          "source_country": "SD",
+          "country": "SD",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SD",
+          "llm_subject": "Sudan’s War Economy Sends Pound into Freefall - english.aawsat.com"
+        },
+        {
+          "title": "Sudan vows to bring down inflation as war fuels hardships - Macau Business",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXBGYkx2blRvY1dteTdRV3E5a0pjYThabi1tQ3ZEd2hZb01lMXlQUjhtb01PZlFSeUZ5azhiU2pac2o0ZmlzV3RFbkJhMHhrdlI3d2ZFZ1JJRGxWZWtKQ2FtbTVia3MtY2xud0h4WGgwbUtMSWg1ZnNLWDBLa3JNUnJJZDFwVHAweGJtRw?oc=5",
+          "date": "Tue, 22 Sep 2026 12:48:48 GMT",
+          "source_country": "SD",
+          "country": "SD",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SD",
+          "llm_subject": "Sudan vows to bring down inflation as war fuels hardships - Macau Business"
+        },
+        {
+          "title": "UN: Sudan’s Economic Recovery Impossible Without a Pivotal Role for the Private Sector - sudanhorizon.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXlrMXFMM0xwUW1PbDhrZHc1YVFXTWhNTTR4cUlhZnJTQzFRYUlFWnpCdU9fVEdDQW80ak1kNTgyMkxjbUtwNDFtZ2hfeHB1Sml5cmJpS3NFbHFlWGxpeGJFOWp4ZlllZUJVNGRXQnhYc01QcTAzbFhsRVgxNWRmT21VQUo0OUt3cmVDRnBhTlNVWGlYWEFRWTZCTEFYMFJIdGQ3UlJqMVdIM21jY3pv?oc=5",
+          "date": "Mon, 21 Sep 2026 15:42:59 GMT",
+          "source_country": "SD",
+          "country": "SD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SD",
+          "llm_subject": "UN: Sudan’s Economic Recovery Impossible Without a Pivotal Role for the Private "
+        },
+        {
+          "title": "5 million Sudanese return home to broken places, IOM warns - Azərtac",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVl9SdmpmMVV0Rk5zaU9MbWxvbDZ6YjNLYzYxNDYtdFhkUktGWW95b0R2UkNfRUZiZFk2azR2aWI4aWFUaTd6LTYzcmRQX1BFWm82ZkJYSS12SVhKclVadVdnRDU1by12R0I0c242MFpiMUp5MGhuOGc2YTFKMFdUNzV3Ql9EaGlNVTRCcVMwSklqSWo4Q29oZQ?oc=5",
+          "date": "Tue, 22 Sep 2026 09:02:00 GMT",
+          "source_country": "SD",
+          "country": "SD",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SD",
+          "llm_subject": "5 million Sudanese return home to broken places, IOM warns - Azərtac"
         }
       ]
     },
@@ -13809,10 +13809,100 @@ window.WTI_DATA = {
     },
     "ZA": {
       "name": "South Africa",
-      "index": 3.31,
-      "raw_score": 1.23,
+      "index": 3.87,
+      "raw_score": 1.6,
       "status": "STABLE",
       "events": [
+        {
+          "title": "Could Thabo Mbeki break the US-South Africa impasse? - theafricareport.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUW5ZTVpIc2w1Zzh1NFJwMjVtcVgtalhrZUdEcXpZZ3YyT2NJcl9XV0QxMEZqM1lSbzlaT3pxT3ZVc3dfTEJhcTE3UDgtc3ZWWDlTcF9wYUF3UENkaExBdVJJUmhqZVBXU1l3R25rSzBxZ2pfOFB5TzRER1FSLVVjZXA0ZEZsUzYxV3l3bjhMZlM1U1NMWUE?oc=5",
+          "date": "Tue, 22 Sep 2026 15:21:18 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "Could Thabo Mbeki break the US-South Africa impasse? - theafricareport.com"
+        },
+        {
+          "title": "South Africans Back the US Against the Government on BEE and EWC - thecommonsense.co.za",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEstQ003WWtCS1dEaVVWbHh6YlVlLVgyQzYyaWhOZXc5emkyQnpRVnN5RTFkMWQ3STd3NlRJUDM4c1FVbDVvSjNSVVNJNGNoUGE5RTFkd2ZEZDNHNS1ibFV5eGRUZU5aYmY0U09qRUwyM0RjdmVKV0lCSjNPYUVXa2lzeW9mMm9Ebk9tQ0h5MUVIQVlCUXc?oc=5",
+          "date": "Tue, 22 Sep 2026 03:00:09 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "South Africans Back the US Against the Government on BEE and EWC - thecommonsens"
+        },
+        {
+          "title": "SA will not be ‘bowing its head’: Ramaphosa hits back at US visa restrictions - news24.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckhMQUV3Y2lUVDRoczBuZGNjVVBwczJrY25iUFBmekZCeVc4WEhwcGVsdEpzTGJQQmgxSXhpaWlnWVRJUl9QTzM0eDZXdmI2OXA5c3dGLTNKVjlpRWVoY2ptNmZzcXFvMTAzcEFqMDBfN1RZWmtneHh4V09ZRWV4blJ2LUtBQ1NjUlJRbVR4b0lSTnlXQmFqT2NfVzNod2xRam9FNDZVUTQtVVRaYkJHckJhZEdJdw?oc=5",
+          "date": "Mon, 21 Sep 2026 10:20:45 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "SA will not be ‘bowing its head’: Ramaphosa hits back at US visa restrictions - "
+        },
+        {
+          "title": "'The weakest link': Mbalula under pressure as candidate list crisis puts political ambitions under scrutiny - The Citizen",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbTBRYmEzaW1kelphakhKdklscm1zRlluUjJYd285R01PX3BLQ0N3eS1iY19oTmtjUl9INkV4eFJ2LVRCMVc0OUt2T1BrRE1JbUtsQWVOcHNhSGJQRkh0MVdNQUNHUGZnSGpKb3dqM1U2c0syZmZRekk3WEVSLURFM2NpVDN0WWl0UkJ4RGJ2cEx5MHRiNXh5emhDVFdnX2Y3ekgwRUdobVo1am1tOFhxR0FFcVA4aTdiNFpMZ21CYVpMSGVwNEYzNmJ1SWxNWGx6STFORWlrNFU3OHZlMF9ESTJrelZNbGNRTnRQanJXR1ZKV3IzU2I0TWFB?oc=5",
+          "date": "Tue, 22 Sep 2026 10:32:04 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "'The weakest link': Mbalula under pressure as candidate list crisis puts politic"
+        },
+        {
+          "title": "How Curries Fountain became a landmark of South African sport and politics - IOL",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1B6RHFpNm5VSXA3RTlqaFpSUDhmbmI0U09Mbnl4cEJFb1hXcG1JaDFaUjljZ3M3WFMzbGhqX1dIMWF6emhETUplYi1nT3FxcGw5Zkp2WXpiR3d4NnFNbl9xbjFnMFUtQkJkRFBMTVYza0QwenN6Z0wwd2pvUFlvYjRYRUVsOVRlUi1rWFZCS21JWGdGSmNWOXZXX2U3a2M5QjBqbFBFR0x3Njh6YWpENzFB?oc=5",
+          "date": "Mon, 21 Sep 2026 06:38:46 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "How Curries Fountain became a landmark of South African sport and politics - IOL"
+        },
+        {
+          "title": "Windbag Mbalula’s stupidity is emblematic of the ANC’s plunge into ignominy - Daily Maverick",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1NXcmN1dEU5R3hxWGg2M1ZCb1BMRzVEeGlxLU1SemVQTS1fazhWdHZPT3Zrc1ZKcmdORzBJei1UaXN6c0k2Zkp2RkFaTFFLOFctUXVwUGExcTFfWVoyelRmMm1DdmRsWFFIZ243bXFqX3dKQktVdDlyOUFORlVXQkJuREVMVW1VaDlJRFpsektTRUVNTWpzZHZtWHZDU1RHLVZ1eXNCb01nYnFNMjRBNFFTdl9NbVM2dGJEY2JyTXUyNG8?oc=5",
+          "date": "Mon, 21 Sep 2026 14:59:10 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "Windbag Mbalula’s stupidity is emblematic of the ANC’s plunge into ignominy - Da"
+        },
         {
           "title": "South Africa’s minibus taxi industry has lessons for policymakers on how informal systems work - The Conversation",
           "translated_title": null,
@@ -13859,7 +13949,7 @@ window.WTI_DATA = {
           "llm_subject": "Samsung Galaxy and Content Creator Awards Invest in the Future of South Africa’s"
         },
         {
-          "title": "South Africa’s economy from stabilisation to expansion - South African Government News Agency",
+          "title": "South Africa’s economy from stabilisation to expansion - sanews.gov.za",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHdBaVZvNUx2cFRUaVktbmxJazJRYURtUHd4Q1U4V3RGdnh6TzBpM3dOaEw4T1JrRUZNMlQwNXdzNkEzeGhDSU1RU1lwTzFYWHkxYUUtRnUzcm1lUmxuTGpiTGYtWmN1LUhaVktjTkdha1BYLWRoWlN2eTZGaHd5bFlOVXZTVFUtandzZA?oc=5",
           "date": "Tue, 22 Sep 2026 12:19:35 GMT",
@@ -13871,7 +13961,52 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ZA",
-          "llm_subject": "South Africa’s economy from stabilisation to expansion - South African Governmen"
+          "llm_subject": "South Africa’s economy from stabilisation to expansion - sanews.gov.za"
+        },
+        {
+          "title": "Africa’s 3 biggest economies are at UNGA 2026, but their presidents are missing - Business Insider Africa",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVdINVhfbVFmTmE0UE1XbmlkUmI3MXlQdGpER213TGZCVWFJTFl3UDNJTlg4a1hNdk5HT1N0aGd3bkVLWWUxbDAwNUtVLXo0WElsSHVUaEFydUtxNmw4Sms4VWhkVDFrV00zRzl2ek9kbHZkUXRBaGVUWWVFTWo3WFFLMVo1YUkxYmQzUFVMYzdXcGJyeVU3dWo0bzEwbm9RTDJMWVFBU0dOWjlTRmNrZDhwQ2t0UTV3bGxiYm5fX2o0Y0NWQldRUTAtc2ZoRFU?oc=5",
+          "date": "Mon, 21 Sep 2026 19:40:29 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "Africa’s 3 biggest economies are at UNGA 2026, but their presidents are missing "
+        },
+        {
+          "title": "Inside the Rise of the Content Creator Economy in South Africa - Fast Company South Africa",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjItckt3eDhsM182bkhBTHdLTkpRRXdCRVpnei1GYWlVMElSUl9UMkhMQ2plT0dObzlwZWlmN214Y0Z4RHo3V080ajB3Q1NFWDMzX05GVWxabUxuTy1aTmFQYnpwVGVBcUZ5eDhjUzF1cUxGSms1dlowa05iSHZNc1gwbVQ1SE5tVTRUWjIwakI?oc=5",
+          "date": "Tue, 22 Sep 2026 15:32:47 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "Inside the Rise of the Content Creator Economy in South Africa - Fast Company So"
+        },
+        {
+          "title": "‘Direct threat’: US warns expropriation law could damage SA economy - African Insider",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1FoZ3E0a3p6VU5xX2QtMEF4UkJJWHBFenNLVTJkbzM5WDdXN0xxQktrWFJTSy1TYVhxd3MwN1NtS2dhUHhXem5tZWFjYkNOMXhBaC01aXhaSV9EcVQtOVoyb0tDX3k2UmhMZ2NRRnRieHdNbUZJbWM0ZEdCajdTbmFNaTVseXNXNmlfNlJRQUFJdWNHb2FkSTFGS3c1Unp1V2xtMGZrdGs?oc=5",
+          "date": "Tue, 22 Sep 2026 17:21:26 GMT",
+          "source_country": "ZA",
+          "country": "ZA",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ZA",
+          "llm_subject": "‘Direct threat’: US warns expropriation law could damage SA economy - African In"
         },
         {
           "title": "United States warns expropriation without compensation will crush South Africa’s economy - Daily Investor",
@@ -13889,36 +14024,6 @@ window.WTI_DATA = {
           "llm_subject": "United States warns expropriation without compensation will crush South Africa’s"
         },
         {
-          "title": "GDP decline: Is South Africa’s economic recovery derailed or delayed? Experts weigh in - IOL",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDRaREc5djdLSjhCNWxhbmJYb19OWVlEWWFSbFVWODZDYzBOdGUxb2tQWTA1UFVkbE5tbkZvUUg3SWFtaW5xcjBmcEN4dDJWWmdIMGhoNGx4bTVMQU9hUkFjdnJTZ3c4Wlp0Qi1xLVp5bUk5NEduNjduZTRxNWFkTHBqTExJaTQ4SWFmN245dlNOaHBKcW9XVnBDRS02bTRGbC1yTE9UdHl6VTlpNjhNRkwtaG8wTU1iLTZ0a0tLN0l5QkQ5SFVIbDJB?oc=5",
-          "date": "Tue, 22 Sep 2026 07:36:28 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "GDP decline: Is South Africa’s economic recovery derailed or delayed? Experts we"
-        },
-        {
-          "title": "South Africa’s next big growth story sits in the township economy - Moneyweb",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1NYZzNORlNTRzd3MS00UnpPRG1EcndjMjZYdEhBYjJDdzVOcERpcUxxZGVjOWJNLW9rbHF3SWJmMlU0VEQxeHlsTkZiZVMxSVBIRlZKbDdIb3hBajVVdDl6ZExCWWxoRDQzYkJwbUtQVHJuSVVKdWt3eGlFU190LTFRaFZ5djhtV3JCdFh5bUoydlhSNVBpYVp5Sko0RmMzUWp3R1RBVmw0eFZIbk5GSDBxTWNRZ05fRTNjckdvNENPbDhM?oc=5",
-          "date": "Tue, 22 Sep 2026 14:36:00 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "South Africa’s next big growth story sits in the township economy - Moneyweb"
-        },
-        {
           "title": "The white population is shrinking in South Africa, posing a severe risk to the economy - newsday.co.za",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUVNzZGlhcUszLWlGTnFPUE5feF9za3BuakpzcTN5VjBMS3EzcU1sM3BOSHZ4UlpkYUNjR0lNU1lMamJ3SlFTdW5iUUpodGRsdkUzakV6OVRzaVF3bmpyXzhQNGY4X2hZekVQSUFmbzFPdGZLUFFOQ0J5aEJpcnV1cl93VFJ5aDBwMnVQUnZOLWd1RF9VbVYwNV9TVGE1Z2pQY0FXSnhma2o3VElzSDd2UVdqZm5UNGdjRkJhVDFwaHpsV3VGN3c?oc=5",
@@ -13932,111 +14037,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ZA",
           "llm_subject": "The white population is shrinking in South Africa, posing a severe risk to the e"
-        },
-        {
-          "title": "SA tightens screws on steel imports to shield local producers - Business Day",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWZEOEVoeGtlaGlRaDZwU1o0d1FRc3BEdENiWGNMVFdQeEpYZ1ZFME81aEZGTUtBNXVXU2V6V2Fxa2xiaXY5X3REUHRWUlZGa0tsOUJUZkszZldRci1PYllWbmlYZk5seTJkWGpYTS03SzJOclFJdEw3QjY3M09WNER6Q3BDN1BnbVUwYlJYYmt4alhOSEphTjNTdjI1RmZwMDhjOG9vT2lzNTFG?oc=5",
-          "date": "Tue, 22 Sep 2026 03:00:00 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "SA tightens screws on steel imports to shield local producers - Business Day"
-        },
-        {
-          "title": "Jamil F. Khan | SA’s economic deprivation persists because citizens are failed by leadership - EWN",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHBoWmQ3RXJEU1hLbXIzVHFCNm5hMXJudHpzT2pYbzVwVXV3NXFXeXNzemRmZGJLalp0UHRzOFhudmc5SHp3VmJzXzBiYjNKOGlHa0ktN013LW1EYklNdjczdlpkV1ljT1R0WHVpeERid2ptNVdkOVFpZkh0blFnTExLMjF0dG5vZGxudU11cWZMU01rYzZORWx5TmwyQi1KaFVlay1qVVlZenJvS1ZSTDdCTzJNSHJLekZ5Q1h5QQ?oc=5",
-          "date": "Tue, 22 Sep 2026 08:29:05 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "Jamil F. Khan | SA’s economic deprivation persists because citizens are failed b"
-        },
-        {
-          "title": "Is South Africa’s economy FUBR? - IOL",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHhabnlPTEV1cFEtTWNPdEJPaWVFTkpjZEtOX1JxSTZvVVdRLUF5MEgyTld5cFRyM1hnY3FMS2hEak4zbVJneTItNjNBektWdkpZMjgteFJzVHVpNC1xREZBc2lXdFNUbXpsZjJvT0VEXzlkNzJfcDBlS29HdXlTQjBR?oc=5",
-          "date": "Tue, 22 Sep 2026 07:36:28 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "Is South Africa’s economy FUBR? - IOL"
-        },
-        {
-          "title": "South Africa finds evidence of cement dumping from Mozambique, Vietnam - Business News Nigeria",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEpMaDB4WjM3WHQ1SjRDYmJmVjJVSnB1V3pROVpPYUdiWFF5R0hRcF9VTDM0WEZ6Z3BhcEVzTFdNMlZhX25Pd2FiMnlGUXRidGMtaUd3UTFfU2tsb2VvRlNfTktzY2Q2dW9walk2bm5vRjZtdENsQ0tZNWtkNGgwOTZIdHFPeWlOZGZ0UmZrRzZtNU55TERGTFZ4ckFIejA3cFNCMC1XNUZfSzlM?oc=5",
-          "date": "Mon, 21 Sep 2026 20:45:09 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "South Africa finds evidence of cement dumping from Mozambique, Vietnam - Busines"
-        },
-        {
-          "title": "SA moves from economic discussions to concrete projects - Minister Tau - South African Government News Agency",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWZxOHlKNWVZTkphbU9aZF9GeFcxRmcxX09ZeGhkdjA5b1JXcVZNVl9MN1ZRUmYwX2t4LVNKeVZrZjBCWVJNUEZrTXQ4cE9mb0ZuNlZ3YTVkSVM5MFpBOE5VMExIY0lqWTY3V3JRWXpVSFhpbFo1QURSdjVGYzRWeTFqSWNqRmt2elpRcF8tNEFkOEFaN2gwMVVBY0pyTHp6?oc=5",
-          "date": "Tue, 22 Sep 2026 00:29:11 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "SA moves from economic discussions to concrete projects - Minister Tau - South A"
-        },
-        {
-          "title": "US hikes rates as Africa’s largest economies face MPR decisions this week - Business News Nigeria",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3ppUU9KdW1wQl9kSjluYU5pX2VScE1jS0pka3VNMWdsTE5pSVhqNklLYUQ4d2ZaZHJuU0xudHFuRERkdW1uXy1fMEpSVFBlX0loZ3pZaVNGVmRPR2NPd0VkZ0Z3SmZMTmgzWUQxOVEwZTJ1QU1Yd1FubG1CRXUwZTF6emZOblNGeFJjZEFrS0k3N2NtQnVVYmZrdHRheEJudWp0bVRVZDFNZEFNdVJUWnp4NHk?oc=5",
-          "date": "Mon, 21 Sep 2026 09:36:41 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "US hikes rates as Africa’s largest economies face MPR decisions this week - Busi"
-        },
-        {
-          "title": "South Africa scrambles to stave off US sanctions as Lamola visits Washington - IOL",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjlNbU5vOWV3SUVvODhWaC1WaENfX0dVZF9KYnhNdEtGWFpyelU4OXg3azN6SHlwR1gtQzBJMlh5WDJBX1ZXcG13TEFFSzE5M1UzRm03THJnVVY2cXlkd1MwNEhHTmUzRXRhTnZwa016eE9PZEs2YjlnV29iOGMwd3ZRa3V1bVI1a0pVaDNYVUx5NEZUQlE5cThpSF9yelhpeC1iY090Mm9WNWtad1phUHpKZmN5ejI4R0piMDM3V0o?oc=5",
-          "date": "Mon, 21 Sep 2026 11:50:06 GMT",
-          "source_country": "ZA",
-          "country": "ZA",
-          "category": "diplomatic_tensions",
-          "weight": 2.5,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ZA",
-          "llm_subject": "South Africa scrambles to stave off US sanctions as Lamola visits Washington - I"
         }
       ]
     },
@@ -14310,10 +14310,10 @@ window.WTI_DATA = {
           "llm_subject": "What Can Bangladesh PM Tarique Rahman Gain From His Upcoming US Visit? - The Dip"
         },
         {
-          "title": "Fuel price hike to push up transport and production costs, worsen inflationary pressure: Selim Raihan - The Business Standard",
+          "title": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch - The Business Standard",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjNiR2dMTFhia2g0TElFN0dwRDJtRnF5cW5jd3hBR0J3TnEzek9UcjRJd095QVBvNjNZUlhhdDUxR1ROVnMwNUgyWk9rRG5zLWlzR185VktsdnZfVW1UTEttWUdjX19QdTB2Y2kzWV9zWFZ6eUI1WXAxZHRWeHhoeTd3dVdiOTlFSVVpSVZFa0Q2M29NNFVqbXFrbXJ5TGVsN2ZacGRnak44ejlRcE5mN2JfdXRVaUNOUGc?oc=5",
-          "date": "Tue, 22 Sep 2026 08:36:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnoxQlFLazN4d095RE1uNVRrSXhlRTRaXzNnaHAtN05oZHpsdjRiYi1zLWx6YmFWV1hvMFRxRWFkVXNfQW9FR2d0TVhBX3NVengxbFVkbGZxWUZqSW1Qcm85SmEwdmNxYnNidGhNWmpvU2NiX0ZBUFBJN1BlemItcV9YcVRLWnByVVlCcVVfcHNma1d2TVdldzBoSWdPbXVnSHhHTHhWZzBHbjFn?oc=5",
+          "date": "Tue, 22 Sep 2026 19:14:36 GMT",
           "source_country": "BD",
           "country": "BD",
           "category": "neutral",
@@ -14322,7 +14322,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BD",
-          "llm_subject": "Fuel price hike to push up transport and production costs, worsen inflationary p"
+          "llm_subject": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch - The "
+        },
+        {
+          "title": "PM, WB President discuss Bangladesh's development, economic progress - Bangladesh Sangbad Sangstha (BSS)",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jWU5KWF9TQWU5TV9Qck9xdmxVdVF6RGFlWm1OVnNrR1NBMDU5NVdhdmJWSzRVNlpJM2hXdEdUQVFMQktOdnRqU2VKRmU1dDk1R29RVTNCZFpJSEk4WFlRMFJVejQyLXRVUzBySGN3MlpYTUJmazJjLVRn?oc=5",
+          "date": "Tue, 22 Sep 2026 17:30:59 GMT",
+          "source_country": "BD",
+          "country": "BD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BD",
+          "llm_subject": "PM, WB President discuss Bangladesh's development, economic progress - Banglades"
         },
         {
           "title": "Fuel Price Increase Impact Bangladesh 2026 | Fuel shock to ripple across economy - The Daily Star",
@@ -14355,6 +14370,21 @@ window.WTI_DATA = {
           "llm_subject": "Germany eyes deeper economic, political ties - dailyasianage.com"
         },
         {
+          "title": "BCCCI highlights Chinese technology, investment potential for Bangladesh's energy needs - The Business Standard",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGdJLUhmdFBqS2V6YmFkai1NYjE3UXRicWxTMGlYUEtrb1FLR0NmdmFsSE9ZLUdvaU5LOFpjUDU1bW1PYk9XNzhWME45a0xoTWtRSVRldkI1Y1NhX3p6b1N2dEpYem9ycEI1UVhJSlNKT2tCZXFPbnJwYm1HUWRkT1BybGhnT3phOVVkSGIwYlRpV2tDbjZJZVIzQUpWQ0hEVm9hTk9VRENhemt1ekMtbF83NmVNNW51N1pPdQ?oc=5",
+          "date": "Tue, 22 Sep 2026 12:25:54 GMT",
+          "source_country": "BD",
+          "country": "BD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "BD",
+          "llm_subject": "BCCCI highlights Chinese technology, investment potential for Bangladesh's energ"
+        },
+        {
           "title": "Iran economy contracts during US war: official statistics - Bangladesh Sangbad Sangstha (BSS)",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GSjliWDhNSExDUVlRV1Z5eWdlem85WkdQNTZFb3BzMW9RRGJTd3pkZU1hX0lrdE9XbDBnSVdBU2V5dC1Bb3Z3SVFqYU1sTXVR?oc=5",
@@ -14370,10 +14400,10 @@ window.WTI_DATA = {
           "llm_subject": "Iran economy contracts during US war: official statistics - Bangladesh Sangbad S"
         },
         {
-          "title": "Fuel prices hiked by Tk20 per litre - The Business Standard",
+          "title": "WB ready to support Bangladesh amid external economic shocks: Khosru - The Business Standard",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXdqMS1KYWtzWnE2YjRwdDJqR252OWY0WlJwdV8wbHJXeUFwSEZZLXFfQ2pOclZkTnR0WXpiTkpmT2ZGOW9pRE5sZ2RBMU5lWVduMUhlaGtaLXlCUWtRcUMxaW5GOWRhcUNudVNjeldiTVQwQmRpYV9EcDB0Qm16eQ?oc=5",
-          "date": "Tue, 22 Sep 2026 11:48:33 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanBjaXBZSWNPbndYUHpBZGg0T2pITkJySXJoMkVJakl6c1BReFMtRlBHRGFRejJPbXNvU1o1ZkRCSGRYd251UWNvMTBsdEIzY0FHSFFjZ09CWTc2RG1RQ2ZWeWJndzh1YmlZMUVLZzg0RXFycjRsZ1p4UkF0VUEtWWZCbDQ4c2hUaDhPVHRnU3NKeU9WRHJUMlBvNWxoVkthR3NjdnBIeVlVZjRnRDYzVA?oc=5",
+          "date": "Tue, 22 Sep 2026 18:04:14 GMT",
           "source_country": "BD",
           "country": "BD",
           "category": "neutral",
@@ -14382,22 +14412,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BD",
-          "llm_subject": "Fuel prices hiked by Tk20 per litre - The Business Standard"
-        },
-        {
-          "title": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch - The Business Standard",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnoxQlFLazN4d095RE1uNVRrSXhlRTRaXzNnaHAtN05oZHpsdjRiYi1zLWx6YmFWV1hvMFRxRWFkVXNfQW9FR2d0TVhBX3NVengxbFVkbGZxWUZqSW1Qcm85SmEwdmNxYnNidGhNWmpvU2NiX0ZBUFBJN1BlemItcV9YcVRLWnByVVlCcVVfcHNma1d2TVdldzBoSWdPbXVnSHhHTHhWZzBHbjFn?oc=5",
-          "date": "Tue, 22 Sep 2026 07:00:00 GMT",
-          "source_country": "BD",
-          "country": "BD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BD",
-          "llm_subject": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch - The "
+          "llm_subject": "WB ready to support Bangladesh amid external economic shocks: Khosru - The Busin"
         },
         {
           "title": "Fuel price hike: Who bears the cost? - The Daily Star",
@@ -14415,10 +14430,10 @@ window.WTI_DATA = {
           "llm_subject": "Fuel price hike: Who bears the cost? - The Daily Star"
         },
         {
-          "title": "Beyond traditional aid: Why Bangladesh needs to diversify public project financing - The Business Standard",
+          "title": "Fuel price hike to push up transport and production costs, worsen inflationary pressure: Selim Raihan - The Business Standard",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFadGJqRUlkbTVKQzBseHB1cHVNbU1GLXlCbGl0OEROUlV1N2pHeGg5UnhINmJ1dGRwc1NlSzlKa251QklUbndGSFhhd0twb3RQWkU4Ui1zem5PdVNlYVd4OXEwaV92eWM2dUY2TmlpNmNVS2k0YjU1dnhac19SM1VPNTRDQlJ4ckhOTDR0dXN6cWRJbkVYWTg3VllJZmdxdFhzOUNPN2Nnb0tRcjNQV1liWUlObEhUUDRV?oc=5",
-          "date": "Mon, 21 Sep 2026 07:28:57 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjNiR2dMTFhia2g0TElFN0dwRDJtRnF5cW5jd3hBR0J3TnEzek9UcjRJd095QVBvNjNZUlhhdDUxR1ROVnMwNUgyWk9rRG5zLWlzR185VktsdnZfVW1UTEttWUdjX19QdTB2Y2kzWV9zWFZ6eUI1WXAxZHRWeHhoeTd3dVdiOTlFSVVpSVZFa0Q2M29NNFVqbXFrbXJ5TGVsN2ZacGRnak44ejlRcE5mN2JfdXRVaUNOUGc?oc=5",
+          "date": "Tue, 22 Sep 2026 08:36:03 GMT",
           "source_country": "BD",
           "country": "BD",
           "category": "neutral",
@@ -14427,13 +14442,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BD",
-          "llm_subject": "Beyond traditional aid: Why Bangladesh needs to diversify public project financi"
+          "llm_subject": "Fuel price hike to push up transport and production costs, worsen inflationary p"
         },
         {
-          "title": "Bangladesh’s gold paradox: From a shadow market to an export industry - The Daily Star",
+          "title": "Fuel prices hiked by Tk20 per litre - The Business Standard",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUNQcTRZVnluSUFOYWppR1FsWmE2Y2xLSkFOVmtKUUREU2NPT1g2MW10MzV0ZGctNHJnUWc1c0JUYmliM3YwVlFQOFQ1bzRIa1hnaE5NbW5pRWNianpYdmdQdDBtYThQOUQ0Y2pEaDNXTWtqSE1FaG91TFZrc1dUcTd2X3BzZkh4SktwZlhfS3pWbDR1ZWhBMDU1SFVWTFdxM04zcFRBYUc2am9pYkZnOW9aMWNPTml2NTk4?oc=5",
-          "date": "Sun, 20 Sep 2026 18:10:57 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXdqMS1KYWtzWnE2YjRwdDJqR252OWY0WlJwdV8wbHJXeUFwSEZZLXFfQ2pOclZkTnR0WXpiTkpmT2ZGOW9pRE5sZ2RBMU5lWVduMUhlaGtaLXlCUWtRcUMxaW5GOWRhcUNudVNjeldiTVQwQmRpYV9EcDB0Qm16eQ?oc=5",
+          "date": "Tue, 22 Sep 2026 11:48:33 GMT",
           "source_country": "BD",
           "country": "BD",
           "category": "neutral",
@@ -14442,7 +14457,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BD",
-          "llm_subject": "Bangladesh’s gold paradox: From a shadow market to an export industry - The Dail"
+          "llm_subject": "Fuel prices hiked by Tk20 per litre - The Business Standard"
         },
         {
           "title": "Costs to cool Bangladesh garment factories can be recovered within four years: Study - The Business Standard",
@@ -14460,21 +14475,6 @@ window.WTI_DATA = {
           "llm_subject": "Costs to cool Bangladesh garment factories can be recovered within four years: S"
         },
         {
-          "title": "Germany seeks closer economic, political ties with Bangladesh - The Daily Star",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcEJ2QzFERFBsUE5qQnU1UlhHX2lObFhVbWgyWEZIYWl6b1E5RUI4WDNCSTJlajRuLU5oZUJZNmlUMXJkQjdzVzcySzhPV3JIZU8zNXVPVzZkMWFIQnpxelVxUllVbFlESVpNUGREOHp2eUFtSFByQUp0a243VWhZaU4tc0dGWHhCNmN6X2lmZTNzM3ZiSk12MWpTbUFkOHl4R3ROQV9lVXEzYWZUcy05aktBckFLZkhfX0s2QV9JS0U?oc=5",
-          "date": "Mon, 21 Sep 2026 06:29:17 GMT",
-          "source_country": "BD",
-          "country": "BD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "BD",
-          "llm_subject": "Germany seeks closer economic, political ties with Bangladesh - The Daily Star"
-        },
-        {
           "title": "Energy crisis biggest challenge for Bangladesh economy: President Fakhrul - The Business Standard",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTUswRmhqZGUxQkxEdXBCVVRZS0FOWVotUVUzZndKWkNXYUsyUTdBeE0wWktzak9OVVRkcUg3ZWVBR1FpNGRUNEVBeFRBbnlTWWN0YkNxNkhVV0dZS1RzaUtrTGs3Zl9LQW9XcFlWX0xQbUpxc214Z0cxTGVKYU1UVXBGWHljOERaTG5MdXc3RDBmLW90YkRnTE1lQTdKWnk4ckJDdnppc0xibGMyUFFPbVpQbDYyRlBSQURz?oc=5",
@@ -14490,10 +14490,10 @@ window.WTI_DATA = {
           "llm_subject": "Energy crisis biggest challenge for Bangladesh economy: President Fakhrul - The "
         },
         {
-          "title": "StanChart Bangladesh plans to close retail banking operation - The Business Standard",
+          "title": "Germany seeks closer economic, political ties with Bangladesh - The Daily Star",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWZKNFdDM25sMmg0UE1JQnQ2U0hjaWhMRUFCVnVCVUhsVy1GMTFBNWdkX0Y1Ry1rcVRqb1ZHd0p1T0tfdG1vVG9hYmVMZEVndWxqamp3LVY5VFRfdDdSOUppWTRRMmRTMHVhMlNaUXF2ZGNOVkx1WWtKS0lRQ19IY1FkSno3ckNvVW4wY00tX09nc3dET2tsdmFZOW5VNmdYUzlydVhNUTVVc2lyN29uRHhtSUZVdGVfaVczS1hoUnI?oc=5",
-          "date": "Mon, 21 Sep 2026 19:38:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcEJ2QzFERFBsUE5qQnU1UlhHX2lObFhVbWgyWEZIYWl6b1E5RUI4WDNCSTJlajRuLU5oZUJZNmlUMXJkQjdzVzcySzhPV3JIZU8zNXVPVzZkMWFIQnpxelVxUllVbFlESVpNUGREOHp2eUFtSFByQUp0a243VWhZaU4tc0dGWHhCNmN6X2lmZTNzM3ZiSk12MWpTbUFkOHl4R3ROQV9lVXEzYWZUcy05aktBckFLZkhfX0s2QV9JS0U?oc=5",
+          "date": "Mon, 21 Sep 2026 06:29:17 GMT",
           "source_country": "BD",
           "country": "BD",
           "category": "neutral",
@@ -14502,7 +14502,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "BD",
-          "llm_subject": "StanChart Bangladesh plans to close retail banking operation - The Business Stan"
+          "llm_subject": "Germany seeks closer economic, political ties with Bangladesh - The Daily Star"
         }
       ]
     },
@@ -15385,10 +15385,10 @@ window.WTI_DATA = {
           "llm_subject": "Haiti extradites 18 suspects in assassination of president to US - BBC"
         },
         {
-          "title": "18 suspects in killing of Haiti's president being extradited to Florida for trial - cbsnews.com",
+          "title": "The Northern Passage - The Atlantic",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOS14WnpkWWdaR0VHc1lQemJ2NmNUcWlPREtwQWJnc3BTXy1QUVBJa2VlbmdGZTY0elJxYlN5aS1TU3BhVmRtYXVQNnNLellQOXJ2SVVYdTE4cXc2b2h4MVhBY0U0NEZWYUdmTDY2UEVYY3hRTjVsdmF5MDVEdWF1bzdyRFYyN25yQU9kNE1xeUk?oc=5",
-          "date": "Sun, 20 Sep 2026 19:33:12 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXB3N2RKZDZGSlJMOVAxbzQtZUd1V09lc2dqT0lBSllNVlBWSzZUb2JtQ2ZWdi1GMmhSS0ZLS3VhUVJiUDRzdGVfWGtCWW5IempmTEpaM1luODNIRU04bkQ2MnhzMDNlclpCWW4zQmdMZHBRdks5eHBwdGY4Qk1UVWFn?oc=5",
+          "date": "Mon, 21 Sep 2026 10:00:00 GMT",
           "source_country": "HT",
           "country": "HT",
           "category": "neutral",
@@ -15397,7 +15397,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "18 suspects in killing of Haiti's president being extradited to Florida for tria"
+          "llm_subject": "The Northern Passage - The Atlantic"
         },
         {
           "title": "Ex-Haitian official, 17 others appear in U.S. court involving 2021 plot to kill Haitian President - Florida Politics",
@@ -15415,7 +15415,7 @@ window.WTI_DATA = {
           "llm_subject": "Ex-Haitian official, 17 others appear in U.S. court involving 2021 plot to kill "
         },
         {
-          "title": "18 Suspects in Haiti's Presidential Assassination Case Just Landed in Miami - Latin Times",
+          "title": "18 Suspects in Haiti's Presidential Assassination Case Just Landed in Miami - latintimes.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2FENlFNUDhVanl2S0FMaXRzeUdPY04xUnlrcFEwUDhETC0yWVhZSlVXZ0lHVGVLWUxjTEgxVXlFWWdhZUhDZWdzOEhhN1ZIMWxpaGx4NDgxVFJPM256Tl9hbFJrdEY0QS1QeFFvMmxjWFdiWnYycm9FRTFzSnZudHFSWXZPMDNvWk9vZDZDellQOGNVZVRreUkwdmpxS2Y3NjY2Qg?oc=5",
           "date": "Mon, 21 Sep 2026 23:42:29 GMT",
@@ -15427,7 +15427,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "18 Suspects in Haiti's Presidential Assassination Case Just Landed in Miami - La"
+          "llm_subject": "18 Suspects in Haiti's Presidential Assassination Case Just Landed in Miami - la"
         },
         {
           "title": "Haitian professionals blast U.S. government $3,000 offer to leave and rebuild Haiti - South Florida Times",
@@ -15475,10 +15475,10 @@ window.WTI_DATA = {
           "llm_subject": "Haiti extradites 18 suspects in assassination of president to US - People Daily"
         },
         {
-          "title": "18 Suspects in Haiti President’s Assassination Transferred to U.S. for Trial - Today FM 95.1",
+          "title": "Haiti - Military Regimes, Duvaliers - Britannica",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0hhNlpNOERQb2N6VGZPMUNYN0tVUFZ1MUN3b2E2c21yS3JsZ3d6M0V6bE1qeGZ2M3F1MHRKYm52OW9tYW8wV2lsOTM4LUJmOFJmNHFNSmZwSmlfOUdUVTZnTWM0aTJkZnQwS21ncjVQU2hScUpsWGpfSWtTeng4ZUc0WTA1YTIwN3BVak1keWFvV1BZSzNrY1NjeHo3ZS04?oc=5",
-          "date": "Mon, 21 Sep 2026 19:38:13 GMT",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPZUQzQVRSblhJMm4zcTgzaU10YlhpRmNhRXNzNGViajFJb1V0SDlsVEFlSzQ4WG9oVDY3bTNuRjhYb1h3QzI0cWhGdXlDU0pTbXBJM2gyektUZjJZQm0weEJqdDNOQm5uZjRNUUNqZ196bjhscGNhRUdxS0k3QQ?oc=5",
+          "date": "Sun, 20 Sep 2026 05:00:00 GMT",
           "source_country": "HT",
           "country": "HT",
           "category": "neutral",
@@ -15487,13 +15487,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "18 Suspects in Haiti President’s Assassination Transferred to U.S. for Trial - T"
+          "llm_subject": "Haiti - Military Regimes, Duvaliers - Britannica"
         },
         {
-          "title": "US Extradites 18 Key Haiti Assassination Suspects to Miami - SuaraGarut.ID",
+          "title": "Haiti - Economy : New report on diaspora remittances - HaitiLibre.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5eDlmVzk4dzdLaXJJMlAwdEpxUFMyQlM0MEVPRWJYSl9rMF9GZVZ5VDFhckFXdnh4c2dqMlJQOUZkVklPaUZIQzhwck5SbVQ2d1V5X09YUy1xWGM0M0U3Q1AyeDVXU0FMQ0ViR1VOaVd2M3JfRWc?oc=5",
-          "date": "Sun, 20 Sep 2026 19:55:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTBXSFMzcjU3a3ZZR01ZLWhuZ016TGNkQkZZbjU3RVU3dEZsRlF6R1E1V1EyMEoyWURHSHhYYkFNaGFHejIzRU9BY19RaWNELS1oNGhPWVRpOUdOYmdNaVd6LThOaXNpdGlHUmp5SG02bWNSZzNMbERyNjg4UG55N1lHYXZ5dGNyQ3dYbERTYXZhX04wMGVHSmJn?oc=5",
+          "date": "Sun, 20 Sep 2026 14:02:17 GMT",
           "source_country": "HT",
           "country": "HT",
           "category": "neutral",
@@ -15502,13 +15502,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "US Extradites 18 Key Haiti Assassination Suspects to Miami - SuaraGarut.ID"
+          "llm_subject": "Haiti - Economy : New report on diaspora remittances - HaitiLibre.com"
         },
         {
-          "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited from Haiti to U.S. - PBS",
+          "title": "Florida economy faces a workforce reckoning as TPS for Haitians ends - The Week",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWsweTRIV0lqSkxlb29ic3BFWmZpY0k0d3pFcUd3Nl9rbzY2angxSnJRZy1wcXZFX1FsMXZMOWg5dkpodFhrbTJWang3azd4Ylk0cGU2SWtQeEMtVk55YTRCYWY2ZGJWNmlaejNoTzRFeTZEdUtsX3NmTnFyaE81ekY3b2xqdmN5aTdhdy1yay1MOHNrMUZJRUJnbnhGcmUtcWhqZE5WRHptbHJnejZiVThvcjRFUzdfS2ItMHVLS1RVbEN4aVFhWdIBzgFBVV95cUxPdm45eV9EUU05MHl3c1BNenFkckxldXk4eE1iQm1BX21oOHk3Q29ITERaWkZPcVhPd3Z3QTRhd2R0dkxEMTBSTUF0RFpTcmFIaFZPbnV0Y3RYT0o5NDdnNzlla1Bob0pIZFFiSDgtTGRGbTVlX1o0Z0hoQ2h4UThWUXVIaUNYYW5DSXp6M0Vob0NKQl95MkFsckIyQkFjcDZXbGZfTUw5ZE1fTkNQY0c4SURnSmVVUHBwOEcySDE2Y0RQanR1bjlMRnJvdXlfdw?oc=5",
-          "date": "Sun, 20 Sep 2026 19:38:38 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNekpTRHZBNTZsV0FjQTVHckNJQWVLZnk1bmZZSTdnQUZrM20xN2lXSWhuelFvY1hCMUFnNXlzb09YM0k5X3JwRDExN2tpMXctZlNoalpqUXpHSmdjRzF4QVFxUmFfRFVkN1VxbUJraVd1NEVvZ2NVZERJQzBiZGVrNHB2c1lzbWhpM19uSVNZMVlqMXZCQW1NaTN2S1o3WldjZFZFS1Q4Rzg?oc=5",
+          "date": "Thu, 27 Aug 2026 07:00:00 GMT",
           "source_country": "HT",
           "country": "HT",
           "category": "neutral",
@@ -15517,13 +15517,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "18 suspects accused in the 2021 killing of Haiti's president being extradited fr"
+          "llm_subject": "Florida economy faces a workforce reckoning as TPS for Haitians ends - The Week"
         },
         {
-          "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president - The Guardian",
+          "title": "Jobs, Trade and Credit: The Structural Gaps Keeping Haiti’s Economy from Moving - Devdiscourse",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXJOSGhkZF9QTWNjSktoZDdKZHFCV1pTekstU3l3b0RxbHpxVDRvejVaMUlmMzkzM0Frajdxekc0Q1VBeXhjODRZY3ZBT0NFTzQ0ZG9nelJsaW1Bbk01UVZWbVMxQjNYeGhsaXIxUlhhb3hBUENPVnAtTnY4TXdtQzBZWW9NUWw3Vlp6MlpUSlhrcVdEcWhaX2tVLU9VMVhKUkxMYVl0d25RWGlPTC05MnVaV09CNGxxU0dPTDF2TmRxdFBs?oc=5",
-          "date": "Sun, 20 Sep 2026 20:17:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGlJaWV0WmUyOTBRbGU5ZzdOUDZlXzhFR2NISFdqcmh0alZpTV96VURmcjNBaHdaeXplLXJEazRMNldFX1czSEtmeHpOTVRpU1RHUXlhdVFNaVFudGVlU0xCdXVjT0NBVmxNbGpyS2phZUZiSHdwVDJkeGE5Z1l6Z2R6SmdvUEVZcGZoUzhuZ2QwVW9pWWE4T3k2YmM0cjc3RXg3VkI2WjhQOFFqQllRSjBJZ3BSLTJQaE1kN2QydEZmTEVjRUVXNnhn0gHPAUFVX3lxTE5jYTZGbU1Gb0ZsaHlzZjh2Nm5Mc2JhQk0tTk9GbV94VTdGTGFvOW0tN1VwVXE1WmhRcE9hWVNPS2J3SjhucEhSelk0NmVkUzNROTUxSmRHbThIUzJfX1hfNjNRTjZldERJOU9GNDNxajliWUhodnllS2NKbHM2XzgxQklyVXdFSWtVQ1RJUHh6a21iQU9IcU5TOUwwYkpnMEZLYXpzZGJFeXEza3hGN0dGS1p3dGpfMVkxZ1VjR0wyMXlqSVU5S2N6ZkJJblNNNA?oc=5",
+          "date": "Thu, 17 Sep 2026 17:02:25 GMT",
           "source_country": "HT",
           "country": "HT",
           "category": "neutral",
@@ -15532,7 +15532,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "More than a dozen arrested in connection with 2021 assassination of Haitian pres"
+          "llm_subject": "Jobs, Trade and Credit: The Structural Gaps Keeping Haiti’s Economy from Moving "
+        },
+        {
+          "title": "In rural Haiti, the blue economy keeps rural communities afloat amid crisis - IFAD",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS20wVFB1QThDM0RQZTVROFloODlFTDQwOS1MOG96NjZXbjhHYWpnQmUzcEl3RXFNRHJqamF1WUpubnE1eGVFYzhSalAtLV9pWUFaXy01bUoyenJ6UmZ3ZEFHMWU3NkZfVkJqdHRhZGVZOG4tYW9OU2RHbjVIZTBEZHJ1cHQ1LXFGTHlJZnpVQXgtbXpRX2V3Z3l5MWtFZjNraWRjRTRFUjBkTS1VU0hzNVhVZw?oc=5",
+          "date": "Tue, 18 Aug 2026 07:00:00 GMT",
+          "source_country": "HT",
+          "country": "HT",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "HT",
+          "llm_subject": "In rural Haiti, the blue economy keeps rural communities afloat amid crisis - IF"
         },
         {
           "title": "Today's top news: Yemen, Occupied Palestinian Territory, Ukraine, Haiti, Afghanistan - OCHA",
@@ -15550,7 +15565,7 @@ window.WTI_DATA = {
           "llm_subject": "Today's top news: Yemen, Occupied Palestinian Territory, Ukraine, Haiti, Afghani"
         },
         {
-          "title": "Thirty More Arrested in Jovenel Moïse Assassination - nytimes.com",
+          "title": "Thirty More Arrested in Jovenel Moïse Assassination - The New York Times",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbWYtZUQ2U25RSlBOQ3lzSnpjaWU1Tl9jam9uajlrdGJnejdDZ1JmWDNBT1dfV3R1SzkyUFQxTHhnT2F2ZzYzR0ZFR2tkVy1PVGNXeFJOdWVST29nS1kyejhHUlFEbFJqcDAwSk5wVDJ2dkhwcWdpLUgtdXdOR0R6M0kySkFZejVMeDJIWVhjTQ?oc=5",
           "date": "Sun, 20 Sep 2026 22:20:25 GMT",
@@ -15562,10 +15577,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "Thirty More Arrested in Jovenel Moïse Assassination - nytimes.com"
+          "llm_subject": "Thirty More Arrested in Jovenel Moïse Assassination - The New York Times"
         },
         {
-          "title": "18 suspects in killing of Haitian president flown to US to face trial - usatoday.com",
+          "title": "18 suspects in killing of Haitian president flown to US to face trial - USA Today",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnNiTk40SHF1TTdqRTZ1WWRMcmd5dlZ4blZWdF9LUWk2TVlxTmVwdktPNmppb2ZVZVM1UmIxcy1FaE5xb0ZxM2ZPVm1fYU5xNFBWaTdRQ2VKQS02SWp3bnJja3VJY0xlZVhPd0hDTmczUUhjOEJmWktSZVNOX1QxTUNBX1ItVHBlNVBERk1TLUtFRXVnQ2dVWUFWTU9GcUJNQWkwbEtGbUxZdUppVGpFQw?oc=5",
           "date": "Mon, 21 Sep 2026 02:55:00 GMT",
@@ -15577,22 +15592,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "HT",
-          "llm_subject": "18 suspects in killing of Haitian president flown to US to face trial - usatoday"
-        },
-        {
-          "title": "FBI Transfers 18 Moïse Assassination Suspects From Haiti to Florida for Trial: how 14 outlets framed it - NewsCord",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdGRxVUQwOXYtWmlUVWgxQ3Y1eC1iYzlsbXlMUUFXOTRzcDVNRnlzcmQ1cFNhLXpCNE1GQWpFWUJZM3l0dTRlVFRKNFQxR1hrbkVseGZzM29CU3M4c1hSS2Rjc3djamlUcC1IeVNYZjRqNjNIWWJ5SFIyRHNBdTBUNHJVMWpBS0tFM0UzVzU4U0FCTl9ITlp0TEtjN1ZxQVpfYjR6d3pPUzhwMjhIbDhqRU5IcHI5a0dzTVRFRGdjSERsSG1fd2xTUmxTUXZ4ckR3eTBxYU55Zk0tMnpQQl9SZg?oc=5",
-          "date": "Sun, 20 Sep 2026 20:04:33 GMT",
-          "source_country": "HT",
-          "country": "HT",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "HT",
-          "llm_subject": "FBI Transfers 18 Moïse Assassination Suspects From Haiti to Florida for Trial: h"
+          "llm_subject": "18 suspects in killing of Haitian president flown to US to face trial - USA Toda"
         }
       ]
     },
@@ -15791,7 +15791,7 @@ window.WTI_DATA = {
           "llm_subject": "Kansas City’s Competitive Edge for South Korean Investors - keia.org"
         },
         {
-          "title": "US, Japan and South Korea launch economic-security talks before Xi summit - South China Morning Post",
+          "title": "US, Japan and South Korea launch economic-security talks before Xi summit - SCMP",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcl9zcUZOZzE2TjNJckdHeUJaUmZSMTBxYXl3OGM5eldnd1BnVzM5RU9JS2p4TEpMZVRfcjFjbFV2VEVEeWZlZ05MVHZTSy1taUM3bE1Qb3o1bm9FT180MzgydXQzMWZNeUFaR1pwejY1RnBLR3kyUDktcVpGY1NfNFFOTjF1STFrb19WNTE0QnZqNGdTTVdWQVhIOHZaMXRVSGFlbWRQczNES3FGR3NORzBsLTlWX1o3My0tUdIBvAFBVV95cUxPZ3NHWlBYcTRuREJ6cExqTGNYWHdjOTJpbFVLT2xVS0VaU1BpV1RVbGZZcElHeVVmVmtKa0pKTWRBZldvbVhUdGVac0I1b3VranRoV2ZwUzd2Q29hREJpbzJYajNaNW5ROWtVTWNnVVBoaG1HNmh5RXFEMGRFSWxTWUtDdnBSRlFjY2NEbFVzSVdJTnBOaHV0bVVaenZGZ1BvUXR1M25MbG1HcXJoZDdXLWpncDR5cmxKTnAweg?oc=5",
           "date": "Mon, 21 Sep 2026 20:22:31 GMT",
@@ -15803,7 +15803,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "KR",
-          "llm_subject": "US, Japan and South Korea launch economic-security talks before Xi summit - Sout"
+          "llm_subject": "US, Japan and South Korea launch economic-security talks before Xi summit - SCMP"
         },
         {
           "title": "South Korea picks Texas power plant for first US investment pact project - Nikkei Asia",
@@ -15881,10 +15881,10 @@ window.WTI_DATA = {
           "llm_subject": "Chihuahua Government Coordination / South Korea State Visit - Mexico Business Ne"
         },
         {
-          "title": "Chip boom masks Korea's growing zombie firm problem - The Korea Times",
+          "title": "Chip rebound deepens South Koreas reliance on exports - Aju Press",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmNzRXNlenZpSmpjNUZia2IxcHYxa2dLcTJfelluWXBid1l2S3N2RzFzSDJxQmdETmNScFU3RkZ1bFBLbk5NMWVZUlhRR19rLXlkMDlMakpUT3EtRklGZTROOXlqNDJjMGthYkRuUUFLdXhBZkt6eGljQVBXaDJScS12QjgteVcwRE1WeEtfbE85Vkd3S3BCVzBSOEbSAaIBQVVfeXFMTUFPc1FyZWJXdTcwY0Q3WWZ6UDhRWUFRMG5ZdEZ2c3VuVEwwYUdMZnpkWklxRlZCZV9jX3pXTGpjcFZzR1FGT0w2azg4V2hDUW1heGVpVG94TktiNTRKbm9vUWFnTF9GZTN6LWo2Nk9QbEpmc2N3eVBuZ3VQdEU3YTFjeko3YWE1NlF1QXVXWm9IQ2k1dEJYZ3FhOTZjUi1xOXZR?oc=5",
-          "date": "Tue, 22 Sep 2026 07:00:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92M0ZfYThaZnVuejBtZnN3OTE1WDZ4cUZxNVR5QlZFYU1VUndvbUdJa044TmJLcVp5aVdUM1J4YndpaF9rcVpNVmFsRzctMEpmU0Z2TmNWRXh0Wm_SAVdBVV95cUxPcEZKYU16OC1uMnk0dlVTNnJ0MzE0NkgweUl6VFBXQXA2TmpiOFFUa2VtTzZtNkRzMEVRQS1GcHZ4QTZwV3ZpS05HRzFPbmZ5TUlseXJUaHc?oc=5",
+          "date": "Mon, 21 Sep 2026 06:09:10 GMT",
           "source_country": "KR",
           "country": "KR",
           "category": "neutral",
@@ -15893,7 +15893,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "KR",
-          "llm_subject": "Chip boom masks Korea's growing zombie firm problem - The Korea Times"
+          "llm_subject": "Chip rebound deepens South Koreas reliance on exports - Aju Press"
         },
         {
           "title": "South Korea's Semiconductor Boom a 'Party for the Few': Corporate Income Jumps 18.5% While Wages Rise Just 1.9% - finance.biggo.com",
@@ -15926,6 +15926,51 @@ window.WTI_DATA = {
           "llm_subject": "South Korea's New Deputy PM Lee Hyung-il Orders Full-Scale Reassessment of Econo"
         },
         {
+          "title": "Chip boom masks Korea's growing zombie firm problem - The Korea Times",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmNzRXNlenZpSmpjNUZia2IxcHYxa2dLcTJfelluWXBid1l2S3N2RzFzSDJxQmdETmNScFU3RkZ1bFBLbk5NMWVZUlhRR19rLXlkMDlMakpUT3EtRklGZTROOXlqNDJjMGthYkRuUUFLdXhBZkt6eGljQVBXaDJScS12QjgteVcwRE1WeEtfbE85Vkd3S3BCVzBSOEbSAaIBQVVfeXFMTUFPc1FyZWJXdTcwY0Q3WWZ6UDhRWUFRMG5ZdEZ2c3VuVEwwYUdMZnpkWklxRlZCZV9jX3pXTGpjcFZzR1FGT0w2azg4V2hDUW1heGVpVG94TktiNTRKbm9vUWFnTF9GZTN6LWo2Nk9QbEpmc2N3eVBuZ3VQdEU3YTFjeko3YWE1NlF1QXVXWm9IQ2k1dEJYZ3FhOTZjUi1xOXZR?oc=5",
+          "date": "Tue, 22 Sep 2026 07:00:03 GMT",
+          "source_country": "KR",
+          "country": "KR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "KR",
+          "llm_subject": "Chip boom masks Korea's growing zombie firm problem - The Korea Times"
+        },
+        {
+          "title": "S. Korea's trade reliance up in 2024: BOK data - Yonhap News Agency",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UZ3ZkN2xKbFJ4QzV3a1VUY200V24xalVqU2g4Q1h6NlBBR0lhZ0lKbDBRV1Z0RUJsWVFoSVBQdC05bUVyTkNralYwakxxZHR5bVdZRmFWMGpWdw?oc=5",
+          "date": "Mon, 21 Sep 2026 03:00:02 GMT",
+          "source_country": "KR",
+          "country": "KR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "KR",
+          "llm_subject": "S. Korea's trade reliance up in 2024: BOK data - Yonhap News Agency"
+        },
+        {
+          "title": "South Korea's Semiconductor Industry Employment Effect Weakens - 조선일보",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTA4SkVseG1NM0Z2OGRZOG1KQXhRMWtka2ZzOUdkcmhDMm9Ca0VhaWhqdlVSY0EyS0ZPWXBxMnJVMHEyYjB0a0pJQ2YwVExaYS1aUnNRcHNiVWREa19ySjRKbndvblIxbE44dFJoLW02UW5hQkZ1b2ZKUkMwVTJCZEk4UzRqS29Lb2RaZlRn?oc=5",
+          "date": "Mon, 21 Sep 2026 04:18:23 GMT",
+          "source_country": "KR",
+          "country": "KR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "KR",
+          "llm_subject": "South Korea's Semiconductor Industry Employment Effect Weakens - 조선일보"
+        },
+        {
           "title": "Yonhap News Summary - Yonhap News Agency",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TVhFZ2dNVDdCSzFoTTQ5V1pFWGxFdDV2SFpvWnFfSlJUUEpOTGhoRGtITWFfWDJZLWxyNWctUGZRV3hFcFI0UlBtbWtUSktHZlZGQWZKZUloQQ?oc=5",
@@ -15954,51 +15999,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "KR",
           "llm_subject": "Korea's First U.S. Investment Project Lacks Power Purchase Deal - Seoul Economic"
-        },
-        {
-          "title": "S. Korea's trade reliance up in 2024: BOK data - Yonhap News Agency",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UZ3ZkN2xKbFJ4QzV3a1VUY200V24xalVqU2g4Q1h6NlBBR0lhZ0lKbDBRV1Z0RUJsWVFoSVBQdC05bUVyTkNralYwakxxZHR5bVdZRmFWMGpWdw?oc=5",
-          "date": "Mon, 21 Sep 2026 03:00:02 GMT",
-          "source_country": "KR",
-          "country": "KR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "KR",
-          "llm_subject": "S. Korea's trade reliance up in 2024: BOK data - Yonhap News Agency"
-        },
-        {
-          "title": "South Korea's Semiconductor Industry Employment Effect Weakens - chosun.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTA4SkVseG1NM0Z2OGRZOG1KQXhRMWtka2ZzOUdkcmhDMm9Ca0VhaWhqdlVSY0EyS0ZPWXBxMnJVMHEyYjB0a0pJQ2YwVExaYS1aUnNRcHNiVWREa19ySjRKbndvblIxbE44dFJoLW02UW5hQkZ1b2ZKUkMwVTJCZEk4UzRqS29Lb2RaZlRn?oc=5",
-          "date": "Mon, 21 Sep 2026 04:18:23 GMT",
-          "source_country": "KR",
-          "country": "KR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "KR",
-          "llm_subject": "South Korea's Semiconductor Industry Employment Effect Weakens - chosun.com"
-        },
-        {
-          "title": "Lee Hyung-il pledges to share growth gains evenly across South Korea - CHOSUNBIZ - Chosunbiz",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBid1Z5MW1ycUJjSU5SUnlSRkZZS2w2UVB0NmZURVBYMEhnLTU4bVlrRHA0SUhpQmxPMVN2Vm5pMTU0a2xlTC1EN0JLU0c4aF9keG5iZlhNMERvNXc0bE5IbUx2Sjk2bkVZcENlWFYtODA3SU1aZU1JbVd1VWhzU0XSAZMBQVVfeXFMTUZpbjJDOVgtMV9lMTlFR0xGbGdCM1VSN0Z5V2ZVT3V5SjhWay1YNWlhQmtCdTN1WElQZGRoLVNlWHRaeFRZZjJ5T1VSMTJmaUtuc3Z4QTMyVmRDYlJZLUFPMG5sTS03M3JhUlJMRlhfbU5ncDRHa3pwa2VnR1JSY0RDN0tBcUlZOUlrS0tnaHh3bF84?oc=5",
-          "date": "Tue, 22 Sep 2026 01:58:00 GMT",
-          "source_country": "KR",
-          "country": "KR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "KR",
-          "llm_subject": "Lee Hyung-il pledges to share growth gains evenly across South Korea - CHOSUNBIZ"
         }
       ]
     },
@@ -19279,7 +19279,37 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
-          "title": "Former battlefield enemies unite seven armed groups in bid to overthrow Ethiopia’s Abiy Ahmed - africa.businessinsider.com",
+          "title": "Ethiopia aims to become world’s largest producer of Arabica coffee - TV BRICS",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1hsdXd1alM2U2JRS28tNVN6eE5DUEJnUHVTX1ZCc0xfbnNHVC1iYzFaMzI5N3hCaC01Njg1WmtvazB5eTJIMkZNS0dISlhFa0dWZHBwZmFUNmlMbm15bzgtTXJJZ0kwVVE0SnFsWFRrMkFEZGRhbWdoSUVzTzZVQ0VBTDFHZ29OakFaWktVclBJQ09PMU56bVlJaw?oc=5",
+          "date": "Tue, 22 Sep 2026 11:02:11 GMT",
+          "source_country": "ET",
+          "country": "ET",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ET",
+          "llm_subject": "Ethiopia aims to become world’s largest producer of Arabica coffee - TV BRICS"
+        },
+        {
+          "title": "Ethiopia’s Red Sea Role: The Missing Link in Regional Stability - ENA English",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mOGJEeXdSTHZsZ0l0dlJWVEpUMXNYUlRMTFlwaVduRkNMMC1SMWtFZElZUVd5bkNfRlloZXRWTVZQWVNDWU1YckgtUDBLN0N5UGc?oc=5",
+          "date": "Tue, 22 Sep 2026 17:00:06 GMT",
+          "source_country": "ET",
+          "country": "ET",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ET",
+          "llm_subject": "Ethiopia’s Red Sea Role: The Missing Link in Regional Stability - ENA English"
+        },
+        {
+          "title": "Former battlefield enemies unite seven armed groups in bid to overthrow Ethiopia’s Abiy Ahmed - Business Insider Africa",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQzRUSi1YYzhwME1zTDc0N2ZzVXpDbkRjRG1Fc3RIVWFhTTFCRTFPUUN4T3hyYVFFdkZLb0NvdjBhX3U5WUN5eTBMRGxibmFPTHZyRXFicnROR1o5VHZOY1hkSFgyVWotc213LUtNX1F3d0FpUXNGOWtJNGlFTC1aQ01rZTZRbGdmUlFxRkpUUGtpdlotTHhHT1pOZDRZejdVa0R1dGhpeGpJRTFaTzhkc2Z1dTcxanVYdDVpeURQbTlhczVoeFZCZVhuTXZ2U0puT011ZA?oc=5",
           "date": "Mon, 21 Sep 2026 19:11:07 GMT",
@@ -19292,36 +19322,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ET",
           "llm_subject": "Former battlefield enemies unite seven armed groups in bid to overthrow Ethiopia"
-        },
-        {
-          "title": "Ethiopia’s Red Sea Role: The Missing Link in Regional Stability - ENA English",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mOGJEeXdSTHZsZ0l0dlJWVEpUMXNYUlRMTFlwaVduRkNMMC1SMWtFZElZUVd5bkNfRlloZXRWTVZQWVNDWU1YckgtUDBLN0N5UGc?oc=5",
-          "date": "Tue, 22 Sep 2026 15:39:41 GMT",
-          "source_country": "ET",
-          "country": "ET",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ET",
-          "llm_subject": "Ethiopia’s Red Sea Role: The Missing Link in Regional Stability - ENA English"
-        },
-        {
-          "title": "Ethiopia and UAE expand cooperation in investment, trade, tourism and technology - tvbrics.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUElaRVI0MFppN2FVN2I5NXhTN3M2ZDJfd3A3Y0NhdkM4VTVmbmdiU2g2X0Z5aTRneHpaSFk4TkZtU1pSRFg0STB3dVhyZUZKZWptQ0lINlBmcWZ4bFhEQkNKcGpGUVZnSm5lZmQ2bzA5dDZWanloNkk5N2RpRng5UjM4cWZsYjZSU2xRSkh0SFU2Ulc3R3BobmZLSnhaOVB5V0N6d0lrd253MTg?oc=5",
-          "date": "Mon, 21 Sep 2026 12:03:13 GMT",
-          "source_country": "ET",
-          "country": "ET",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ET",
-          "llm_subject": "Ethiopia and UAE expand cooperation in investment, trade, tourism and technology"
         },
         {
           "title": "Africa’s escalating Red Sea war that could disrupt more than Houthi advances - thecanary.co",
@@ -19339,10 +19339,10 @@ window.WTI_DATA = {
           "llm_subject": "Africa’s escalating Red Sea war that could disrupt more than Houthi advances - t"
         },
         {
-          "title": "Ethiopia’s Jobs Numbers Don’t Quite Add Up - Shega",
+          "title": "Ethiopia and UAE expand cooperation in investment, trade, tourism and technology - TV BRICS",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlMzVaNXJ5V3NBajM2WEMwU2pSc3B3SWFjUXpqdUZGOXNSUWZNVGhWdS1GOVd0cGpVNlF5QlhkV2p0QmhUY21LYkhIMS1uU3lIQ3BVQjJHbEg0bERPUGw2d3JhVjFjcS1mNTFuTzM3bURTUQ?oc=5",
-          "date": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUElaRVI0MFppN2FVN2I5NXhTN3M2ZDJfd3A3Y0NhdkM4VTVmbmdiU2g2X0Z5aTRneHpaSFk4TkZtU1pSRFg0STB3dVhyZUZKZWptQ0lINlBmcWZ4bFhEQkNKcGpGUVZnSm5lZmQ2bzA5dDZWanloNkk5N2RpRng5UjM4cWZsYjZSU2xRSkh0SFU2Ulc3R3BobmZLSnhaOVB5V0N6d0lrd253MTg?oc=5",
+          "date": "Mon, 21 Sep 2026 12:03:13 GMT",
           "source_country": "ET",
           "country": "ET",
           "category": "neutral",
@@ -19351,7 +19351,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ET",
-          "llm_subject": "Ethiopia’s Jobs Numbers Don’t Quite Add Up - Shega"
+          "llm_subject": "Ethiopia and UAE expand cooperation in investment, trade, tourism and technology"
         },
         {
           "title": "Ethiopia’s Sea Access Pursuit Imperative for Regional Growth, Stability: HPR Member - ENA English",
@@ -19369,10 +19369,10 @@ window.WTI_DATA = {
           "llm_subject": "Ethiopia’s Sea Access Pursuit Imperative for Regional Growth, Stability: HPR Mem"
         },
         {
-          "title": "Ethiopia’s Strategic Water, Red Sea Access and Diplomacy Take Center Stage - ENA English",
+          "title": "Ethiopia’s Jobs Numbers Don’t Quite Add Up - Shega",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JQjlHdjd1ZEIwVnB5SDg4bWRRSVlsQ2Jvb0NaWXIzb1VneUp3WWJPQmwzMUJWMFdzelN4LUhmWWxlQm9JSE9NQnNxNjBxRjU4TUE?oc=5",
-          "date": "Sun, 20 Sep 2026 20:53:53 GMT",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlMzVaNXJ5V3NBajM2WEMwU2pSc3B3SWFjUXpqdUZGOXNSUWZNVGhWdS1GOVd0cGpVNlF5QlhkV2p0QmhUY21LYkhIMS1uU3lIQ3BVQjJHbEg0bERPUGw2d3JhVjFjcS1mNTFuTzM3bURTUQ?oc=5",
+          "date": "Mon, 21 Sep 2026 07:00:00 GMT",
           "source_country": "ET",
           "country": "ET",
           "category": "neutral",
@@ -19381,7 +19381,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ET",
-          "llm_subject": "Ethiopia’s Strategic Water, Red Sea Access and Diplomacy Take Center Stage - ENA"
+          "llm_subject": "Ethiopia’s Jobs Numbers Don’t Quite Add Up - Shega"
+        },
+        {
+          "title": "Coffee Production Proving Its Position as an Economic Pillar - ebc.et",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYMTYxZ3hTdHVXMHR0cUxLQmRad21SVENOdDdUa1JiSHVPbERvXzhzLWlEZE8ybUpKRFZHTlNoMGxHZFlrTjJ4Y3Q0M3QxS1dpMEg0eThPSGhTaXFWYU90ZTAyZ0Fhdw?oc=5",
+          "date": "Mon, 21 Sep 2026 10:09:18 GMT",
+          "source_country": "ET",
+          "country": "ET",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ET",
+          "llm_subject": "Coffee Production Proving Its Position as an Economic Pillar - ebc.et"
         },
         {
           "title": "Polish Economist Outlines Lessons for Ethiopia’s Economic Growth - Ethio Negari",
@@ -19444,21 +19459,6 @@ window.WTI_DATA = {
           "llm_subject": "Ethiopia conflict: Seven armed groups form alliance against Abiy Ahmed - BBC"
         },
         {
-          "title": "Ethiopia’s main armed groups announce alliance against government - Arab News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVl5WkdvcDJaa0lHRnIyXzFEU0VHV3FQRnREdnRvcXhhcUJSZ0JWamFJMmw2d2R1QVlvU2RGc1NzSXBtV0VFUmRoaTlJOE1aYUgtbktDZ3ZZSHRSQ0FoLXp4S2VPMzc1LWFTUFFyTTdhdkZrdlUzaEkzWVBTdzhTSXB2NXBVLWp2YVl5dm56YkJJNUdlMDdDbXVvd0p4LXFzU1hOU0dB?oc=5",
-          "date": "Sun, 20 Sep 2026 16:57:25 GMT",
-          "source_country": "ET",
-          "country": "ET",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ET",
-          "llm_subject": "Ethiopia’s main armed groups announce alliance against government - Arab News"
-        },
-        {
           "title": "Today in Africa — September 21, 2026: 10th Woman’s Body Found in South Africa, Former Foes Unite to Oust Ethiopia's PM - OkayAfrica",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPamQyWnFDOFgxLTBTRWpPdFJlT3pxUUZ6dlZLRDg4MnZLTTF3NVBYcWlwME4yaHFadzdlb0RPdkZwRXNQcXA3MGw3dllObk1DZjloa0NzaGw1SWw0T1pYSzRLaVdoWVFGODRab3ZZVjlybXEwaGVkMENRZ2pSbG1qWUhfMHUxUmtwWVJVM014cXZfcGdIeU13UHZua2JnaXdNa3ZkVWFhZmg5bVk1ZTEzc3RTSVpUVnROZ19aTVRIMkQ0LWhHaTlFbkEwZmpvbEs0bEc3SFU4Y2lqMVlTTlJN?oc=5",
@@ -19474,6 +19474,21 @@ window.WTI_DATA = {
           "llm_subject": "Today in Africa — September 21, 2026: 10th Woman’s Body Found in South Africa, F"
         },
         {
+          "title": "Remembering Ato Eshete Moges Amid the Current Political Realignment in Ethiopia - Borkena",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldsMlpjUHhZSUM2cUNZYk5XOHRjMGhwMmZYNjQ5REQwTmkyeEpqb1Vkc2ttc09YMjVGSW1UVmNwZmYyeWk2a29qeVl0dXlPNHNiQzU3cFpVN1IyX0NNU25CWkNnZXE2MDNiMWFUMHVWTVlpdmFiY3JhMWp2WHAyaGFLSjBDS2pBV2JZcURFSGx3NlM3bWE3eGM4bklyNEw0NkNhWjROa3ZRUkd1NUE?oc=5",
+          "date": "Tue, 22 Sep 2026 15:58:26 GMT",
+          "source_country": "ET",
+          "country": "ET",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ET",
+          "llm_subject": "Remembering Ato Eshete Moges Amid the Current Political Realignment in Ethiopia "
+        },
+        {
           "title": "Ethiopia’s armed opposition unites against Abiy Ahmed: 5 reads on the country’s political struggles - The Conversation",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFPMVJPaGFRMUVJRTB4M3ZQUTh5alc5QkhSUW5qems4ZVlsVENmX1FIRjhJOWRzSWZHSkNoNG1WNk1DQkllT3pQS3ljR1Q5SHRrWnhYejhBSmxKN29UU0djOEJjSzR5V09xbXJyNlhlWEpyckRZVEJDWGkwWXVFQW5ZQ0pZbEh1bzJlWE43dFd4ZHoxTml5MlRyeF9QQkk3Y01FaG5PMUJEUUIyZGMyU1lBdmJ0eEt2QWUtUEFHYy14N1RmZzhIeTVfZw?oc=5",
@@ -19487,21 +19502,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ET",
           "llm_subject": "Ethiopia’s armed opposition unites against Abiy Ahmed: 5 reads on the country’s "
-        },
-        {
-          "title": "Ethiopian armed groups forge alliance against government - Al Jazeera",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXRSdDdyQUNQeTJlc2tTb291ODhUTHM1bm10UFB1UjFjeFpRek1ZVjd0cW9aME9PYl9Gcnc2TGd3Y2dqVkprZnROYVlsREl6UGRYRHFuQmlWOXVPVlFwS2lsSFk0WnllMEdnazQwVEdLa245RDYyc01mZ1Zxb1FIcDdJOWQ5UHhtUlYtc2szY2dtdzRsRFIzbUVpbkdJd9IBowFBVV95cUxPZy1KNXJYOHd5bC1LeTRrSkZQV3pxNjhiNnFNczJUYzdMRmR1MzNKWXdoNVZZQUE5LVlVdFlndXlURk1DMlJ0QTFKdmYtZ3l6LWx3NDRncFhWblBEYUwwQTBpTE0xWjBIY2RkcW9lOHZpTTl1d3o2ejVSVHhrSk5McXpwTzc5ai1jV2Q5Vl90b0d4RGlCMVdqekhoa21jQzdjZ1k4?oc=5",
-          "date": "Mon, 21 Sep 2026 00:44:42 GMT",
-          "source_country": "ET",
-          "country": "ET",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ET",
-          "llm_subject": "Ethiopian armed groups forge alliance against government - Al Jazeera"
         }
       ]
     },
@@ -23935,10 +23935,85 @@ window.WTI_DATA = {
     },
     "ID": {
       "name": "Indonesia",
-      "index": 1.0,
-      "raw_score": 0.0,
+      "index": 2.08,
+      "raw_score": 0.53,
       "status": "STABLE",
       "events": [
+        {
+          "title": "The remaining surplus of Bank Indonesia is used to pay the last obligation of BLBI - VOI.ID",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zNEE2bF8tUWZqY25aUmE1aXNYLUJpa1Z2TVVvSlUweGFYYUpiOVVaUTgyTGpzUmhYVUlBNXptZ1oxSFI0Wm9J0gFCQVVfeXFMT1d5M1lQSTJ6WWxCOFVlYV9PSHFYSzBrenZiWENmekllSzl2WHVJczkxSHNXQVhPYkE2RWtvak5NU0J3?oc=5",
+          "date": "Tue, 22 Sep 2026 13:00:00 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "The remaining surplus of Bank Indonesia is used to pay the last obligation of BL"
+        },
+        {
+          "title": "Wamenekraf Irene: Creative Economy Can be Indonesia's New Mine - VOI.ID",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xaFB5OFBaUy1rYXMxcWs2WmljYlhRaDRERmlIaTBWTXRldkNuMlR5S0xUS0poT2xVdkxTTHA4dkFmNTJIOXpZ0gFCQVVfeXFMT0hESzJ3aFgzTXRkd0ZQZHo5Y3ZFWHlhTG1iSnFPVTFJV1dBYlBvSEx5OE5Va0xhLVlpUWs0dm9lNHpR?oc=5",
+          "date": "Mon, 21 Sep 2026 18:07:00 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "Wamenekraf Irene: Creative Economy Can be Indonesia's New Mine - VOI.ID"
+        },
+        {
+          "title": "Indonesia's budget stays on course despite spending push - The Star",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3pNUkhkc0FSYmJnR2JpdU5zaGFndFM1UWVnV0JIMnNEQl9YNkZ4ZlRqcHFBZTM5OFhHaVRKY1lfblNIQnQxNmdUOGFKMUpTdEltY2YzbHN6R19QLTNXVFBPQUNvN2Eyc09Xc1pOTldBdDF4cG41WUxjX0tCMGlsTG43dDBCRzFwYWNfU1ZFT05ONnVIWjI1TnlmT1A1TnYyMGE4dlZGaXVkMUMtc3p5dHl4NlhTMVFlR1BZ?oc=5",
+          "date": "Mon, 21 Sep 2026 23:19:36 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "Indonesia's budget stays on course despite spending push - The Star"
+        },
+        {
+          "title": "Government encourages the development of the manufacturing industry and supply chain in Indonesia - VOI.ID",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yS2EzQzQ5WW56M040ZU5JVy1sVk1fdXRsLWVJQUExZldnaVhSYThFX2d5ZTJlSjNtbFV4dGtjRTUwRTV6OGJr0gFCQVVfeXFMTXpqbklqaUxRS0hraGdsZjZTNTRHZmFIdUh2UWdSUUE4bzhRSHFlekxEOU9EMjItUDR6c3NyYUMtTFRR?oc=5",
+          "date": "Mon, 21 Sep 2026 07:35:00 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "Government encourages the development of the manufacturing industry and supply c"
+        },
+        {
+          "title": "Indonesia and China Expand Blue Economy and Marine Governance Ties - Aktualita.co",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJ2RDBwRzhKdEdOWlZHRk13N0lZUk1MN1pmOHhHMFluc0lyeUFTQUNweFFTSjYtcWhXcGhqLXhsRDRNcEd4NzhsVi1LdkZkYS1wSEZFYWJBeTQ3ZnJkdHNsMlRnUWJyOGtWOXpfZldwUUVrcXhsanIzR3BaQWk2UGU0MWVXSmdydDg0c1pjcmJER3Z6QlYybUttSjczWEVBZ2NUM3JFWQ?oc=5",
+          "date": "Mon, 21 Sep 2026 17:29:43 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "Indonesia and China Expand Blue Economy and Marine Governance Ties - Aktualita.c"
+        },
         {
           "title": "Can Indonesia speak for the Global South in its UN Security Council bid? - SCMP",
           "translated_title": null,
@@ -23953,6 +24028,21 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ID",
           "llm_subject": "Can Indonesia speak for the Global South in its UN Security Council bid? - SCMP"
+        },
+        {
+          "title": "KRI Sriwijaya-100 advances Indonesia’s shift toward ocean-going power projection - Indonesia Business Post",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3l6Ukg2S1U3dmNBSFBTTE8wZVNzelNEcjlBNDBGcUFjUDMwbW9od1BtYUxZTm1wNm1NcEVKZ0c1UDVSbzE0d3pfRVpRajBwdlo1V0JSeWRZRTFFZkNNeTFmQmdKM2pYWDYwc0ZpUE5FZGF0cHdyRjV6T2hDWVBMbjY3NzVGUmZyN3hxMHA3ekYtTTZNb09PcXRqYm1rREVDWjhNZjl0MHlXNUE0OXBLQVJReDdqLTREMTVKc0RleDhJWjZCbE5lRFZRSzdJWDluTXlWYldDZw?oc=5",
+          "date": "Tue, 22 Sep 2026 16:06:29 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "KRI Sriwijaya-100 advances Indonesia’s shift toward ocean-going power projection"
         },
         {
           "title": "Indonesia eyes coal liquefaction to boost energy security - ANTARA News",
@@ -24000,7 +24090,52 @@ window.WTI_DATA = {
           "llm_subject": "FIFA ASEAN Cup: Indonesia Deploys 5,641 Police Officers for Security - Tempo.co "
         },
         {
-          "title": "Can Indonesia speak for the Global South in its UN Security Council bid? - SCMP",
+          "title": "Indonesia doing 'everything' but still struggling to curb fires - CNA",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzcyWS1sN3RIM2V3dGFycDNKYXZIUEdJeGF2VW1JdHdNdVlOUzRTdWtWSE1qdkpWVEVORnpPTUxqRVJaUnRnZnFxa0hHOV9KN2tISHJ4X3BTcmY3S09kTUp3X0VocDFob1JTakJ6bmVyRUV0VVF6RmoyaF9kejlYY1N1SFlnN2Z0NUFEd1V0eG56UQ?oc=5",
+          "date": "Mon, 21 Sep 2026 08:08:00 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "Indonesia doing 'everything' but still struggling to curb fires - CNA"
+        },
+        {
+          "title": "Malaysia face Indonesia test in Asian Games badminton team quarterfinals today - Malay Mail",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWURMRTF0cFIyVmNka2Z0U2ozb2J3Z0dubkFVTFFsa1RXd2hEb2Naa0VBZjlFSF91cmg5T3VwX25TRDlCS0tKc2ZwT2pBa1lUUFltNXZadTFhR3YzVV8wdnRKcDBuZ0ItNzZYM0k4SnRCOG14X2kzYkFxR0FrLTh0T05keXV4ZHRoclhmMFItQ1QwLTRzUll1WUM2ZnpneU10WW1DcUd2U0xVVXhLTlpfUVBQWHJLaGp1OVlrYXA2T0dTMjJBeG5QVTNockg0WTjSAdQBQVVfeXFMT2JSLVJId0pJYTVMcG16T0Y1Y2p6amNtcVhCZ0prZURFdVA1cjloNnRwUm9SVHNLQ3gxVWptd0J6Y3dfLWtHSURQbUdXUFJRN2NXRmVyU2I2OTVkcW9oXzFvbEplWk1Ob0JvTWJZcmFpX0tZZjd4NUtKck4zRElnVE5WaVpRYmUtd014dHFGNFhWekxPZjU4LUJDZ0VseTdRRTd3WHNLZmRlQ1d5OEViQkVTaHdzek1nVHZ4Nm1qdjJZRTBMOHgtd1JJUUk4NlFIckExdFY?oc=5",
+          "date": "Tue, 22 Sep 2026 01:01:43 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "Malaysia face Indonesia test in Asian Games badminton team quarterfinals today -"
+        },
+        {
+          "title": "Indonesia doing ‘everything’ but still struggling to curb fires - Free Malaysia Today",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjJMSTl0M0toUktmZWowSUZtaVdaWFNyaTVCdE5tMHNwdE1vQUptQnRCOW9PUU1zRlV3WFUwZlR4U3U5LWVKWUpMMzVkNHlVeXctZjlNaGg1REtseTNhY0xTaTZ0aHpsYWxzVmFUdTAxa1AzaW1pZkNjWjBZbjRPeHZLd080UTFKcVl0SVNLY2ZyWUlYbmxPT19McVU1YzRsbEsyeHplVHA5WjVNTWNSRktPRk1WVkN5eXJaWUVB?oc=5",
+          "date": "Mon, 21 Sep 2026 06:33:00 GMT",
+          "source_country": "ID",
+          "country": "ID",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "ID",
+          "llm_subject": "Indonesia doing ‘everything’ but still struggling to curb fires - Free Malaysia "
+        },
+        {
+          "title": "Can Indonesia speak for the Global South in its UN Security Council bid? - South China Morning Post",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTM2aEtlX3Y2bkJNREotNW5TZ1R5cHhRNTBpZWE4SVYyS1RIejlZT2FmR2JBWG9RajcwUW5uRWJzclB4cHlSRFRJOTAzNjNrQWtDTWtuenlrdHNkSmx6QWJaZ1hiMlQ1MHd6WTRqVGxXcDI0OHotYUlVVFFkS2I0YlJ1RmxwNkJpN215VkhlekNBbHphemdIM2hvNHZEN3RJNmQyTEF5Q0FCM2M3dGZMMkJ0eUwtWW1YRVE?oc=5",
           "date": "Tue, 22 Sep 2026 08:01:02 GMT",
@@ -24012,10 +24147,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ID",
-          "llm_subject": "Can Indonesia speak for the Global South in its UN Security Council bid? - SCMP"
+          "llm_subject": "Can Indonesia speak for the Global South in its UN Security Council bid? - South"
         },
         {
-          "title": "Indonesia to Form New Body to Oversee Land Conflicts, Reform - bloomberg.com",
+          "title": "Indonesia to Form New Body to Oversee Land Conflicts, Reform - Bloomberg.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZUFLZ1BHVnBhZkpCMDRIYWtYYUp4NnFTWVpCejRsZDNUUkpHZmhoYlo0WWQwTzlyeGVwZ1ZPRVF2Qjltdnk4bFhZWEpkLWtYTHNiaFVmTWE2UXo5dHFGUkF3X1JWUVE3d0xxMWc4X3ZGUG9FZUxJd2FpOEF2dUJFSmliaXNWTVNhbWdkSlpjcVYzQkVPUlJCYTA5blotWWVDRkVZbllJa3hLallpQURObGlOSGJodVdMamRtRUhTd0E5b3EzUUc4bHlUN0FJdw?oc=5",
           "date": "Tue, 22 Sep 2026 10:24:02 GMT",
@@ -24027,142 +24162,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "ID",
-          "llm_subject": "Indonesia to Form New Body to Oversee Land Conflicts, Reform - bloomberg.com"
-        },
-        {
-          "title": "Why Indonesians Feel Increasingly Bitter Today - The Diplomat – Asia-Pacific Current Affairs Magazine",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVktWXRnVHJxeHNvNmhHanNneEdIU19HRmoxNklZTHVxLVhadHRoeWZWaE9CUm1iNzB5TkdOaGR5bjhPYXN6OHNvaGxXd05tc0k1STFINy1mNEs4alR2WWs0SThybGJQQ1g1VnVlTWRKSWlRUjk0bHR4MWlKNnBKSThON1F6UQ?oc=5",
-          "date": "Mon, 21 Sep 2026 17:46:16 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "Why Indonesians Feel Increasingly Bitter Today - The Diplomat – Asia-Pacific Cur"
-        },
-        {
-          "title": "Is this Indonesia’s next president? - Financial Times",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzdRTlJscDVrYVpJUmJ6OEY2MzNSMG1iZnVlOFBweE84enZkczU3eGxVNUF4eVpybllRTjN0M2ZsM29uZzBJT3Zfb1JTUTRtNzZPRUxuckZvXzZzQmxKcktlU3RhU2cwZDRCV29pbXdNWVl0TlkyclY2dDBlUEpnWG5aeGE?oc=5",
-          "date": "Mon, 21 Sep 2026 01:57:04 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "Is this Indonesia’s next president? - Financial Times"
-        },
-        {
-          "title": "China's top political advisor meets Indonesian People's Consultative Assembly speaker - People's Daily Online",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJMjA5YlZzNmFxc2RlZlJ6WFdUYnpVT0ozRU5LUmlicG9pTVdJYkpjWko1WnUxYkd2VHQ5aVRtWkplWFh4cWtxN3NVeGZlc21uYkJHWDdTdnFvVDFOWlotS3Q3bXE?oc=5",
-          "date": "Tue, 22 Sep 2026 00:34:00 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "China's top political advisor meets Indonesian People's Consultative Assembly sp"
-        },
-        {
-          "title": "Civil Society Groups File Lawsuit Against Indonesian Government Over Kalimantan Wildfires - The Diplomat – Asia-Pacific Current Affairs Magazine",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWNGU3M4WXB5TTh4QnUwUHBXTkJXZnA2UDNFdE5GOVF6TlFCUlFhTHF1WmUyNmswa1JMWDlWc21SX3NBalhwaE1YT2xRMUp5NFJ4Q19Yal9zMTVBX0pLVERybllGZ1dBQXdRQkR5U2hOb0laZ1lJak54NjdrdWwzdG1Dd3NuMW5jbXVFUXFkRzdVczhXVmtmSkdGMFkxcGlYVnlxc1hDb0RRa0ZfWWFEakVHaWNJZC1FLUZvY29Jbw?oc=5",
-          "date": "Mon, 21 Sep 2026 09:46:03 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "Civil Society Groups File Lawsuit Against Indonesian Government Over Kalimantan "
-        },
-        {
-          "title": "Nusron leaves Golkar post months before Agrarian Ministry graft probe - The Jakarta Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1F0UmVRVmZNY2VxclBfLVBhQmcxVHlMZHdta29yZGhfWWlxcTVVVGY3Wk1SaTJURDNxLU55cFdZNndGRzJ3ZWJPMlFCb3BwRFBiVHR1anNzSzF4M2VEQ3c1YzVTWFVNZzY3N3dOQVQ5Z1Z1UW5FVm5xZ000c0plLW9pcnBSWkliN3FBc3owSEZReXU4THRGam5qV3l2VkNqbmc3b0Q4M2hiOXdzVG5pNTRRTTVpRzRiR3BubUtB?oc=5",
-          "date": "Mon, 21 Sep 2026 11:08:15 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "Nusron leaves Golkar post months before Agrarian Ministry graft probe - The Jaka"
-        },
-        {
-          "title": "Indonesia moves to strengthen maritime agency’s enforcement and investigation powers - Indonesia Business Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPazIweklpUHdUSFU2cHlOVW91LXRVS3ZyVEhObERxaHA3QnRHWkxhVnFkYmZ4TklRcXMwMi1ZX1NIVzNzbkU3UEo5c0w0MnVJQ1lwangxZkZBVFNtdXYwWnJFeDN0dGtmQ1RRcTQ5YWFISmJ5Yl9hNXlRd3AyeHNGNUUzLTI0Qnd6MkRPS1hjUFVRZ2dHMm1xZ2J4cmh0RXpUVWdPQ3dkTG1mZ19IUU43RDZ6UVFfWURPdW94WUNXbGFFREJLWVQwdXY4ZTc?oc=5",
-          "date": "Mon, 21 Sep 2026 14:30:17 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "Indonesia moves to strengthen maritime agency’s enforcement and investigation po"
-        },
-        {
-          "title": "The remaining surplus of Bank Indonesia is used to pay the last obligation of BLBI - VOI.ID",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zNEE2bF8tUWZqY25aUmE1aXNYLUJpa1Z2TVVvSlUweGFYYUpiOVVaUTgyTGpzUmhYVUlBNXptZ1oxSFI0Wm9J0gFCQVVfeXFMT1d5M1lQSTJ6WWxCOFVlYV9PSHFYSzBrenZiWENmekllSzl2WHVJczkxSHNXQVhPYkE2RWtvak5NU0J3?oc=5",
-          "date": "Tue, 22 Sep 2026 13:00:00 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "The remaining surplus of Bank Indonesia is used to pay the last obligation of BL"
-        },
-        {
-          "title": "The Care Economy Is Not Just a Women's Business - Kompas.id",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdUNLZUFCUEs4YmRSRHlhRTJkdllRVzlzOGRTZ3RsdVdiNGF1ODhWOVZNZDZrNFZLbnJMX0IxUTd1Tzlfajd6TjNWRGpnbWRSTE5FTTlWQmFYOWpRVF9udi1QU280RFdqbmllYzZhS2xadWlVU3hPdUJHcUl1bG54T2l4MUh2X25ZUE5ySUwxVWluT290ZFU2OG1ZeWxrT0MxTFRHZ2cwaVg2MVFwTUhCNmZjOEdab2hDNFpqblg3QlRkSlU?oc=5",
-          "date": "Tue, 22 Sep 2026 12:48:22 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "The Care Economy Is Not Just a Women's Business - Kompas.id"
-        },
-        {
-          "title": "Wamenekraf Irene: Creative Economy Can be Indonesia's New Mine - VOI.ID",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xaFB5OFBaUy1rYXMxcWs2WmljYlhRaDRERmlIaTBWTXRldkNuMlR5S0xUS0poT2xVdkxTTHA4dkFmNTJIOXpZ0gFCQVVfeXFMT0hESzJ3aFgzTXRkd0ZQZHo5Y3ZFWHlhTG1iSnFPVTFJV1dBYlBvSEx5OE5Va0xhLVlpUWs0dm9lNHpR?oc=5",
-          "date": "Mon, 21 Sep 2026 18:07:00 GMT",
-          "source_country": "ID",
-          "country": "ID",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "ID",
-          "llm_subject": "Wamenekraf Irene: Creative Economy Can be Indonesia's New Mine - VOI.ID"
+          "llm_subject": "Indonesia to Form New Body to Oversee Land Conflicts, Reform - Bloomberg.com"
         }
       ]
     },
@@ -24634,15 +24634,15 @@ window.WTI_DATA = {
     },
     "MM": {
       "name": "Myanmar",
-      "index": 2.33,
-      "raw_score": 0.67,
+      "index": 2.15,
+      "raw_score": 0.57,
       "status": "STABLE",
       "events": [
         {
-          "title": "Myanmar Regime Seeks Military Cooperation in China, Belarus as Losses Mount - The Irrawaddy",
+          "title": "Business | Min Aung Hlaing’s Investment Pitch at Odds With Myanmar’s Economic Reality - The Irrawaddy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnprNk5xM2R3N3IxYnF6SWlMY2hBV0NDTG01dkVXRDBLdHMyM3JmN1BMdGJuZnR5b1BubjVxanN2Ry1wYTJmQ2VhOVUzVV92VFl0T3FwbHJKSlJTMk4wYUtla1NDemRWeEVrdDluRXNsd2ZJNTZraEI0WnNuYWd5YTNKR3ZZRVpmTmI2T1c3MFJaYzdGVmhMRDlncEhQdjNkN0lWWkdmblcxU0RTWFdYbUt0SC1jeE0?oc=5",
-          "date": "Tue, 22 Sep 2026 10:43:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3Y1NUxSQUU5QkNsVXhGWVJFWThDcUdyaHFORHRBRG5XbmxHclFBczYzNnFjMkEwb2tuLXVRU0lQdXB5dHdQOTNmdXhNdkxLek13MnBLOXl0WWtuSzVJTU50alVVQlVrQVl5YThKU092SHRMNlNjRUxDWVZXdTBISUtMby00ZnVnemVGcTY4MTdzdzNfbVpqSTU1SGw4Z3d3bG1tWnpZZHlVQTNsdm9oRVZn?oc=5",
+          "date": "Mon, 21 Sep 2026 11:58:41 GMT",
           "source_country": "MM",
           "country": "MM",
           "category": "neutral",
@@ -24651,67 +24651,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MM",
-          "llm_subject": "Myanmar Regime Seeks Military Cooperation in China, Belarus as Losses Mount - Th"
-        },
-        {
-          "title": "Myanmar, Belarus discuss security and counterterrorism cooperation - thestar.com.my",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenllQUxRc3g1QkhRaEZMcHFROXdqeW1RVkRtVVFSbUQ1V1REckY1Ulp3OWVwYUJyMEp0cVRqZkVOb3Q3OVNSelRHRkZWWTlfOTJwbkdKdVBrRFVHUUpGZkk1NDJubFBEWFhCVGpua0pyZWdMVTBydk1WSWh1TERqajFtZEF3d1lxRnlVWWNpQ1BXRFZ6WjEtOWR5WUc3aGZCTHowVmZqcTJiV2xsUjBXbk9PMVllZVJlTmpYMUFOWUlHQ1NyckNF?oc=5",
-          "date": "Tue, 22 Sep 2026 08:17:00 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MM",
-          "llm_subject": "Myanmar, Belarus discuss security and counterterrorism cooperation - thestar.com"
-        },
-        {
-          "title": "Myanmar, Private Military Contractors and the Van Dyke Mystery - tatsatchronicle.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzZkWk01am1oT2txdkx3TFVoNENrTDRiSEIzUm1FMkU2dWlZX2YtYUp1WnNfVGFLSlFEUVFwamVlOUViMzRHWjZkWmU3RlkwQ3hwWGtNT3lFRzg5WTdwVTJpSEd5SGtvWUNweUtNc3NhNmJHR3pfMU8wSHc3Wm5OVnpIZTliTkdyZ1pLNTh4YXJrS0FW?oc=5",
-          "date": "Mon, 21 Sep 2026 05:11:35 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MM",
-          "llm_subject": "Myanmar, Private Military Contractors and the Van Dyke Mystery - tatsatchronicle"
-        },
-        {
-          "title": "Myanmar's USDP confirms Min Aung Hlaing is a party member - thestar.com.my",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX25BVkF2Uk01UVhjVWlmendMTHhNSFdQX3pHTF9BS2hkcEpWbmN3ODZQaUFfelRTeHliWXBMR25MZlRVbncyNG5yREhEQ2pvckFObHFvU01Ta2JpZzdOZ0xBX2Y3ZW9OdkFmQXFFbVFWOFRSVXBMRHFyWERVVTU5c3UzaFdqVGlyeG1KVzhsQldMS0Q0Z3Y1SzdhUGFMV1g0MHAwMXJfTmMyWEF4R0xFRjRHUXotSzFVNHZSVmtyVQ?oc=5",
-          "date": "Tue, 22 Sep 2026 03:51:00 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MM",
-          "llm_subject": "Myanmar's USDP confirms Min Aung Hlaing is a party member - thestar.com.my"
-        },
-        {
-          "title": "Meeting with Senior officials: Deputy C-in-CDS met with Senior Tatmadaw officials - Myanmar International TV",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdThqN0JSekNkQlpLTmxURWx1THA0U1dVeXpvOVBSdGRSWjVScXptWVl5aGpKb3UtQ09jUWgtR1Zyb19qZ3BlMUNOQ1RJLWpuMFRNbWtSbkEzNjNNd2JQRU9tX05yWkhoeWNob3Y3dDVXRjZCbEdqZE5ZcFpRU19HcHhOWFNYQ3RPN25UV1hHQkNhVXA5SDIzcjc4RmY4amJh?oc=5",
-          "date": "Tue, 22 Sep 2026 03:34:04 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MM",
-          "llm_subject": "Meeting with Senior officials: Deputy C-in-CDS met with Senior Tatmadaw official"
+          "llm_subject": "Business | Min Aung Hlaing’s Investment Pitch at Odds With Myanmar’s Economic Re"
         },
         {
           "title": "Iran’s economy contracts more than 10 pct during war: official data - Myanmar International TV",
@@ -24729,10 +24669,10 @@ window.WTI_DATA = {
           "llm_subject": "Iran’s economy contracts more than 10 pct during war: official data - Myanmar In"
         },
         {
-          "title": "Business | Min Aung Hlaing’s Investment Pitch at Odds With Myanmar’s Economic Reality - The Irrawaddy",
+          "title": "Guest Column | Arakan’s Fragile Trade Lifeline - The Irrawaddy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3Y1NUxSQUU5QkNsVXhGWVJFWThDcUdyaHFORHRBRG5XbmxHclFBczYzNnFjMkEwb2tuLXVRU0lQdXB5dHdQOTNmdXhNdkxLek13MnBLOXl0WWtuSzVJTU50alVVQlVrQVl5YThKU092SHRMNlNjRUxDWVZXdTBISUtMby00ZnVnemVGcTY4MTdzdzNfbVpqSTU1SGw4Z3d3bG1tWnpZZHlVQTNsdm9oRVZn?oc=5",
-          "date": "Mon, 21 Sep 2026 11:58:41 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDM3VVcwTjFMN1l6MkhiRk1EX3hhbzhaNUZsejlJT3pqNElTZjZKS0ZncTZrMFpFbnU1X0t5bnpEV1ctZXdXelBpVklyMmZxWEVFUDltOTZnMU00b0dMcFJ2UGlVbFBrc0h4ajV5WnBVV3M0VEdwdm5fUkhXY0FZeVBOdzUzYmc2TGc?oc=5",
+          "date": "Tue, 22 Sep 2026 12:35:29 GMT",
           "source_country": "MM",
           "country": "MM",
           "category": "neutral",
@@ -24741,22 +24681,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MM",
-          "llm_subject": "Business | Min Aung Hlaing’s Investment Pitch at Odds With Myanmar’s Economic Re"
-        },
-        {
-          "title": "Constitutional Patchworks, Fragility and Public Finance: Myanmar Country Brief - PeaceRep",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3Z5MkpkYmI0bzg3OGRVWWtnb2d3V0pteTFLRHVpWnpfbUdCY2R0V0RUaDhOTU1KY1dEdkM0WUpPdVJyUHBzdE1WSTBuUmZGbldLTkNxamNfSHJmUElCclpVYXpXejNKN2JBYkZMbTBWazNtVEo0RUszX3dIamRRbTMxNUNHYnlYTzJyaUhJUS1nUjJ4c3YtNHdnbGc5cFJWQS1aS0tSTEhOMTdXUjNr?oc=5",
-          "date": "Mon, 21 Sep 2026 13:09:37 GMT",
-          "source_country": "MM",
-          "country": "MM",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MM",
-          "llm_subject": "Constitutional Patchworks, Fragility and Public Finance: Myanmar Country Brief -"
+          "llm_subject": "Guest Column | Arakan’s Fragile Trade Lifeline - The Irrawaddy"
         },
         {
           "title": "Myanmar Politics - dailyrecordnews.com",
@@ -24802,6 +24727,111 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MM",
           "llm_subject": "Myanmar Politics - The Herald Journal"
+        },
+        {
+          "title": "Myanmar Regime Seeks Military Cooperation in China, Belarus as Losses Mount - The Irrawaddy",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnprNk5xM2R3N3IxYnF6SWlMY2hBV0NDTG01dkVXRDBLdHMyM3JmN1BMdGJuZnR5b1BubjVxanN2Ry1wYTJmQ2VhOVUzVV92VFl0T3FwbHJKSlJTMk4wYUtla1NDemRWeEVrdDluRXNsd2ZJNTZraEI0WnNuYWd5YTNKR3ZZRVpmTmI2T1c3MFJaYzdGVmhMRDlncEhQdjNkN0lWWkdmblcxU0RTWFdYbUt0SC1jeE0?oc=5",
+          "date": "Tue, 22 Sep 2026 10:43:06 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MM",
+          "llm_subject": "Myanmar Regime Seeks Military Cooperation in China, Belarus as Losses Mount - Th"
+        },
+        {
+          "title": "Myanmar, Belarus discuss security and counterterrorism cooperation - thestar.com.my",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenllQUxRc3g1QkhRaEZMcHFROXdqeW1RVkRtVVFSbUQ1V1REckY1Ulp3OWVwYUJyMEp0cVRqZkVOb3Q3OVNSelRHRkZWWTlfOTJwbkdKdVBrRFVHUUpGZkk1NDJubFBEWFhCVGpua0pyZWdMVTBydk1WSWh1TERqajFtZEF3d1lxRnlVWWNpQ1BXRFZ6WjEtOWR5WUc3aGZCTHowVmZqcTJiV2xsUjBXbk9PMVllZVJlTmpYMUFOWUlHQ1NyckNF?oc=5",
+          "date": "Tue, 22 Sep 2026 08:17:00 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MM",
+          "llm_subject": "Myanmar, Belarus discuss security and counterterrorism cooperation - thestar.com"
+        },
+        {
+          "title": "What Malaysia’s Rohingya Repatriation Plan Means for Bangladesh - The Daily Star",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNzBBQm5MR2pweXc5MllER2tvSC1IS3M5eDBBUDhJODNINE9maUFBRVBQMzN0OXI1cS1aTHVrQTI2TklXelJFWS1scG95aVh1SWVRazBQaG9ndjlmX3o0dk4yM2JLMFA2MTg5RFRkRlBCeGd5S01STkRMS1RYaWlhRUdkdXI4ZTFkN2stUEhSbEFSZ0d2V0ZTbjQ3N3BodG5Gb3UxdmZtd1dBVFJDdjJqYko0cGRERHMwQ2k1QXlRZGlvRXlSWGlIcnZDdTRNdw?oc=5",
+          "date": "Tue, 22 Sep 2026 18:16:11 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MM",
+          "llm_subject": "What Malaysia’s Rohingya Repatriation Plan Means for Bangladesh - The Daily Star"
+        },
+        {
+          "title": "Myanmar, Private Military Contractors and the Van Dyke Mystery - tatsatchronicle.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzZkWk01am1oT2txdkx3TFVoNENrTDRiSEIzUm1FMkU2dWlZX2YtYUp1WnNfVGFLSlFEUVFwamVlOUViMzRHWjZkWmU3RlkwQ3hwWGtNT3lFRzg5WTdwVTJpSEd5SGtvWUNweUtNc3NhNmJHR3pfMU8wSHc3Wm5OVnpIZTliTkdyZ1pLNTh4YXJrS0FW?oc=5",
+          "date": "Mon, 21 Sep 2026 05:11:35 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MM",
+          "llm_subject": "Myanmar, Private Military Contractors and the Van Dyke Mystery - tatsatchronicle"
+        },
+        {
+          "title": "Myanmar's USDP confirms Min Aung Hlaing is a party member - thestar.com.my",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX25BVkF2Uk01UVhjVWlmendMTHhNSFdQX3pHTF9BS2hkcEpWbmN3ODZQaUFfelRTeHliWXBMR25MZlRVbncyNG5yREhEQ2pvckFObHFvU01Ta2JpZzdOZ0xBX2Y3ZW9OdkFmQXFFbVFWOFRSVXBMRHFyWERVVTU5c3UzaFdqVGlyeG1KVzhsQldMS0Q0Z3Y1SzdhUGFMV1g0MHAwMXJfTmMyWEF4R0xFRjRHUXotSzFVNHZSVmtyVQ?oc=5",
+          "date": "Tue, 22 Sep 2026 03:51:00 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MM",
+          "llm_subject": "Myanmar's USDP confirms Min Aung Hlaing is a party member - thestar.com.my"
+        },
+        {
+          "title": "Low-pressure system off Myanmar Delta coast expected to strengthen into deep depression - thestar.com.my",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU2lOUm15V3AtWEdlbFBxRXZaU09KWlk4NlE2RHNtZXRjQ2xuTy16UEppd3ZFSm5ybVU0aUliRzFIX1h2Y2s5TDA0U29jSXNHbkg4c3JaQ1RRY0VTcGF5djN0d25HY3BKNnFqUnJpUkVQU0oxRzJCUWFMVEp3b1dUOVlyNEFnaE91d1NXN2tWeGZmNXVvcmZJTC1iOWVWTWd0bWdFdFF5NC1sdldKTjJIbVEwLXA3dkRoYnNuRTd0QVEtb3lZR0d0eWF6RjNMUnZTcUxWWlkwb0NWOUVIcWp4OVZkZ20?oc=5",
+          "date": "Tue, 22 Sep 2026 06:39:00 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MM",
+          "llm_subject": "Low-pressure system off Myanmar Delta coast expected to strengthen into deep dep"
+        },
+        {
+          "title": "Meeting with Senior officials: Deputy C-in-CDS met with Senior Tatmadaw officials - Myanmar International TV",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdThqN0JSekNkQlpLTmxURWx1THA0U1dVeXpvOVBSdGRSWjVScXptWVl5aGpKb3UtQ09jUWgtR1Zyb19qZ3BlMUNOQ1RJLWpuMFRNbWtSbkEzNjNNd2JQRU9tX05yWkhoeWNob3Y3dDVXRjZCbEdqZE5ZcFpRU19HcHhOWFNYQ3RPN25UV1hHQkNhVXA5SDIzcjc4RmY4amJh?oc=5",
+          "date": "Tue, 22 Sep 2026 03:34:04 GMT",
+          "source_country": "MM",
+          "country": "MM",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MM",
+          "llm_subject": "Meeting with Senior officials: Deputy C-in-CDS met with Senior Tatmadaw official"
         },
         {
           "title": "Myanmar orders head of ASEAN member state East Timor’s diplomatic mission to leave country - News On AIR",
@@ -26496,130 +26526,10 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
-          "title": "Why China’s economy may be headed for its worst year since 1991 - The Washington Post",
+          "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues - The New York Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdG15TGx4RnhJYVhHV0prOUhmWUxHVjhjVDJrdE1UeXdtTFhQQXo1U1BIellWVG5ReGNNbl9PdHNYXzRzXzc1elVCVFU4dWgxY25kR2cwblROR2JkWlNCZzdOQ1V1V09lOXVkVzZ3NG9aTXZabXdoeHNSdktYbld3dDBHU1dDVW9sMVYyWTQweHYxWXhHX0tKeGJvWmNKelRsajItekN1SG9BVVJWMy1aM283YnJJMC1yampIa1lB?oc=5",
-          "date": "Mon, 21 Sep 2026 17:00:00 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "Why China’s economy may be headed for its worst year since 1991 - The Washington"
-        },
-        {
-          "title": "Once key economic weapon, US-China soy trade offers fragile relief from tensions - SCMP",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQUlNX2I3S0dwT2VOX2lnY3hoWlJZY0tjdXp2YktWUk1oZWJBaDF1UHJmRDRoT0JWSDlFR0JKdEJJS0tleWtSMW0wX1E1QnhFRGhWUnk1YXlDelZYVHY5bjhzY2xTb3dpS2lKbVUxcVNlMEpYUjdlUDF4NkJwSTAxWXJFUExUeXBRS3pZNnZiOXJjZWRPTGR4NmNfQy1DdWdFRk9CV05OUHdWRkVmTHZJYWZkWDdDb3lPOHhqUFBVdV9nTnpJOHZobkhuRjBwSElsaU1pakt30gHWAUFVX3lxTE80aUpneWx2YVZuMTl5bVJJTVlPUS1idEl1MThrQWVzN2tqNXR1NHlWV0xLcElCdi1pNWtIcldPajMzQzRVMkhBQlBpSk5LdzdaRW1kNnJqVndsTVdIOHNWYmtYUURsbzNiTnAtQmVPOGNKbUV2cm5Send4TzZSUlJxX2NMeTRvbXk0WHROZzRVc1l2ZjRBOGcxeEx3eGtONzFBYmYxem1wNkpxSEx2U3ZheVBxVnU0UnVwZXJITlBiUWxXMWpYa2ZEZHVPWXNkZW8tUUNKa3c?oc=5",
-          "date": "Tue, 22 Sep 2026 09:00:09 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "Once key economic weapon, US-China soy trade offers fragile relief from tensions"
-        },
-        {
-          "title": "China: Supporting Demand and Improving Income Distribution for More Balanced and Inclusive Growth - ASEAN+3 Macroeconomic Research Office",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2RNaHpRVkQ4aUdibFRiQndXb0ZGXzhMNkdHcE0zajh1dkVhU1dxZ1V5R0d5bEstZ29FV3VlX1RMRjd0RUpMSWRHX3F5WXVHek9SaFFpYVdEZmdHZHFCblZlQm1DZHl3bUlHN0RJbkp5Rnhfc0lISnJhWTBza2VJREhfcVhlQ29lRFhfMXlvcjNPeGVoT3Y0ZWJJRHhfZXp2RWIxWVRNWGhoRk4xYTlreVFLODZLQjRIUjV5aDJTcw?oc=5",
-          "date": "Tue, 22 Sep 2026 08:29:02 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "China: Supporting Demand and Improving Income Distribution for More Balanced and"
-        },
-        {
-          "title": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Policy",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0VhMWFJeEJyX0JLQTU5enRwRjZVYUctWE9qS1ZnT0hUbkdaSnNGczhBSmZDcXBVNTBKN3ZJSWFHX3lQNUlZT2JPQ19sejNKdTZ1YnhrZ1cxYjVSYUxYZWVIOXhpcVBTMFo4b0NxX0VlYTljUHhnZ1gtbTB0Mm1xZnJ3dHlXRVhFeEJUcTk0Wl9EZVVWNXV0VUx3aFFndXlVVm1RRFhVa2hNemV6THE5YjZxR05XYWlmS2lNRHFLOHVBZnc?oc=5",
-          "date": "Tue, 22 Sep 2026 10:01:24 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China - Foreign Polic"
-        },
-        {
-          "title": "Trump Holds Leverage as High-Stakes Talks with China’s Xi Set to Begin - AMAC – Association of Mature American Citizens",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFUwdG5HVkdjS0NFQmNNWEltM1c2SUJlN0FYTzUtb1o5T2FlazNERmpmNmpPTlAzM0d2VktyTE5jN2VGbURFYzE3WW1EcnE4aks2cHRIOG5QeGVFazRRY1ZBbWtNZnhSMktVa0IxdlNRUlh1RlpPSnMzcTEtYXdISDYwRkpjT3FSU2lUVjJQNVJTMTg2LTRVaTdTNA?oc=5",
-          "date": "Tue, 22 Sep 2026 10:05:42 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "Trump Holds Leverage as High-Stakes Talks with China’s Xi Set to Begin - AMAC – "
-        },
-        {
-          "title": "China's weakening economy gives Donald Trump 'enormous leverage,' Gordon Chang says - Fox Business",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zRzRHbG11ZFMyS1FvTlREaC1GUEtLcFl3QzRrMWFhcWJuZDJ6aFpvb3I0Rktuako2c2VKbTM0Sjk4Y0tVNGwwbkV3RldVNDdCZFZsTkR6ajNEMms?oc=5",
-          "date": "Mon, 21 Sep 2026 12:46:21 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "China's weakening economy gives Donald Trump 'enormous leverage,' Gordon Chang s"
-        },
-        {
-          "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit - nytimes.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcy1fdWNraV9LM0J4WlBkOV9pdFozS3VIOGVYVl9PVkV2Vm9pVkxFUFBCeHJGT203aEhIQlRoQXZwVW5JN0xOeGw4dE5zcGRsa3RYVTNCSVhsbnZRY2VDeUxaWURILXNPY0RHYVRtSVpXdUZiQjBLVDk1WjBSa25PY0xwWnptV1E?oc=5",
-          "date": "Tue, 22 Sep 2026 13:48:00 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit - nytimes."
-        },
-        {
-          "title": "US proposes AI safety notification mechanism in talks with China - aljazeera.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1TS25IZmhWU1RiZXVzQ0dENnU5cVV0RGdGMUJ5SHkzMUFvMTY4NUlEaE5Vd3pqSFJCNnM3QU1hZ2dJRXpBSWZWSlZhTW9fdjlVVHlSQ3h3dlhpRG12cmxDaGZ2akd4WnpBZFE5bUxFLVBlVzhycmRaREZhcklNMWd0ZHZnaFkzbTExZzRDTWRCNVhRZmhTSEd4WTFBNTdO0gGmAUFVX3lxTE40OUtiQ0ZKOHFhLVp5VFU1QVZYSHRJa3FtWDhBbGFqYi1iQklUcWItOFlsMmpkM2loelh4NnFlU3BtLTRGRXdZSEdkbFEwS0hoamtMM2EzaXUyMFBPcW5sa3FLSzUxakdpaWxKelMzT3BuaTMwdVdSY0xiWGNzbC1GZGd4eEcwLVRjdjk5eEJmRHY5bzFLSElPTmFyWWJ4cUxuVldGdHc?oc=5",
-          "date": "Mon, 21 Sep 2026 04:37:21 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "US proposes AI safety notification mechanism in talks with China - aljazeera.com"
-        },
-        {
-          "title": "A shift by China towards service-based economy may realign trade, EU group says - SCMP",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkpVWFJhUklDb3J1bzdVSl9MaWxvOTgyNGJkNTBTcDFoZTd0ZzU2TnNKcTJrbERrYTd5OGxHNkJzeFdqeWg0bnF1RDlsYVE3QjlHUG9ncUkwWUNDMFFGN2F4a3BwcHhPaHgtbjhIcWJqVDJycGhZOUt4MHBteUVtdHlmbGxOM2Z0RUo5Ykd5aTFGam9UMlJKM0lRZVE2Rjd5amxpRHdGNFp2NmdxVFNxMGNVTnFpMmFlS2VybF9xUW9Qc1pOcWtFNVdnWnduaTRkeXAw0gHTAUFVX3lxTFBtd0lPdk15ZExWM3RyUGhDWDIzT1VfQmRJWlBvOGVvdVRiVXZfckFVUlBaRDl1cDRhSXA3UEhHcFBYZWlaNDhCalU4RnpmUXIwbVBEWHV5Vkx5U1Y5RURob09qZDhJSGRrckNQXzRPS2RmYzRNbEtFNHRYSS1jT2dDSWxUSzlyWFRkUHhJZ1JlWVZoRWVrcVR0RjkySFNFbnJQNVB4ejdqZWQ1aWZVV21NVTJNV2loQVR2N3JyZlBNM0ZDNGFBcmtHclM2ZjM1TkY5bFE?oc=5",
-          "date": "Tue, 22 Sep 2026 05:11:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
+          "date": "Mon, 21 Sep 2026 10:53:00 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "military_conflict",
@@ -26628,43 +26538,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CN",
-          "llm_subject": "A shift by China towards service-based economy may realign trade, EU group says "
+          "llm_subject": "U.S. and China Discuss System to Warn of A.I. National Security Issues - The New"
         },
         {
-          "title": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce - nytimes.com",
+          "title": "China’s Security Chief Warns of Six AI Risks Amid Reported Military Data Probe - Vision Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVUFXNWVEWmRtdmJOTURTN1RnY29vM1VxODhZSkJlVC1pUklYX0N4UkpUMFlLWW96VWk4b1dKZnJwZjVFRHVwVnA5ZGtwRU0wQWI3REVXSndJUDJyZFJIQ2dSdVZsQks3SUxWeU5jS3ljZXJ2aGNTenhZQ0Y3NGFybC1iYw?oc=5",
-          "date": "Tue, 22 Sep 2026 01:03:49 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce - nytimes.com"
-        },
-        {
-          "title": "Economists urge Beijing to act fast on local-level debt while prices remain low - SCMP",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUZHTGpiZ0FvYnlqYThYdnQ2ay1Fd2hHSU5IbG5kQXU2NDZILTlSVjMtbW5SdlRBcC12aERobC1QWDhsVVE0T1FFQ01Gd1VGd3ZOakJ1YnNuX0dPa3hFMF9SYmlzaDVaS0Y4aklCVk83TTFUdzNVSk9kNElXWjVFU0IzYUdXSVJUcXhGUUo5d2JMQjlBVEpGeTZ0ZGJUNmpTOEtyREFDYmN2dTlnV2pmb2VYX0tHQlBhYlNLM3dPWVdIcFljNjZucFFBUHjSAcwBQVVfeXFMTlNvWmxHRWZkSEVPV2lNazBwVDZKQWJvYXBvTDlUSlJYaXVUWHg5dEhBeTNHak5taFpUNjQ5aFg1TDdlS0pUMTdJYmMtdVpMdC1vWS1jVzZBWF9XZmRwSEE1R0lQbFVpVzBoUjRUMWdxRjNhbVIzRTlyVlM2dWdaWW9CRGVnaGlXNnhTcHVORVZBNVY4NG5NNjZGdGxuM211QlNKdEFZV1FRV2pvZVF5ZUZiSFBFMHlULWFhMWR2Uk41dlZhNF9RLXhCWkM0?oc=5",
-          "date": "Mon, 21 Sep 2026 11:00:10 GMT",
-          "source_country": "CN",
-          "country": "CN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CN",
-          "llm_subject": "Economists urge Beijing to act fast on local-level debt while prices remain low "
-        },
-        {
-          "title": "Chinese province urges firms to capitalise on warm US ties before Xi-Trump talks - SCMP",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPemRvSDBJWUpPMWJkWkNsNlZVbUstRlhEYWxBemxUVGFjT2o1OXVmZklTaGJqWmxzdk0tX0d3Y0hnLWtsUzk1ajFpQV9HMG9SdEJ4RktuQ1dsNC14enhuaFNFX1VZQmFwSmZ5eGVxTE4wYkJNVVl6Q2NvaHZqWDIyTGFzbDk0Y2ZiQi01dS1CX0dDaUlQTTVUY1pNcTdsM0NScUtObXg5b1NKTTZ5QjZsZFdOMkZrRVJFaHp3enZXWm02UlFFYTNkS2N6RW56NUpyRzFDWXdR0gHWAUFVX3lxTE8tcWVpajExaWhJcTBaTFB1QTRGeUdCVzJpa3JfeW9XS1RSeE11SVRlM2FwYVpmaXdkSEpGMFVHcUI5eHp2WEhUbEhhYU5iZ2l5MUNCRkpmQThCd3I2SGVYWUZ6alNZalR5UGd1aFBHcjdSSUNWZVVfNS1GUnR6WlYxLV9IRHJocmhKcnF1TE5QREVMaVZhUFVOS0VFbnZaYUFWOFNkQkt2bGlwMnNYTWtmazlBdTNuVm5TVzU3SzI2WkQwOC1KbG00OTdCcEhIeVAtR3Q4T0E?oc=5",
-          "date": "Mon, 21 Sep 2026 00:00:10 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd2Z1YWdseTN3cHVnLWhjRWNzdGlDcnZuM1ZMb1Ztd2s3Uy1BYl9ScVBKeGtocUloN0lZdURyRFEtUnh5WlJqM2hNU2NIUU00ZGQtNFNUbVBrRklxSkhFU0tacENvckVFdFVVajQzTHdJVTF2eERnY2pybWkzZTRRZF9EeHE0Z05qZ0VQdElhZC1RbE9oZ3dFWW9QX1I0UTJ0enJzbk1rQW9qeER3QW9vanI4MUtVQUNZMnlwWTVR?oc=5",
+          "date": "Mon, 21 Sep 2026 21:03:35 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "military_conflict",
@@ -26673,13 +26553,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CN",
-          "llm_subject": "Chinese province urges firms to capitalise on warm US ties before Xi-Trump talks"
+          "llm_subject": "China’s Security Chief Warns of Six AI Risks Amid Reported Military Data Probe -"
         },
         {
-          "title": "Low-altitude sector hits turbulence in China’s Hangzhou as subsidies face repeal - SCMP",
+          "title": "China’s Other Military Resource Edge: Sand - New Security Beat",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTU5xOXNmVVJnOFplelUyWlg4RkZQMUZNamZNNDJXbXc1VVdoY3pLM3J4SHJsVU92ZHpHQTNDWEo1dU5DVUw4R0x0VE1IZDhJQ3ktRkJhdXRwcHdYZjNHbWZqNXFHbkRnRTdlcVJTM0xOcUZkakR2b1U3dzhMZVZyUWRZVWpVRk5BaFc3bk8yMWVNRWRRX0JmWml2YzBtcExqQlJrSWUxUXc1Z2hqQlBBLTV4dnhJRmZLcTd5WURmclhXemp1LUgzc2RPc0l0WVVs0gHQAUFVX3lxTE45ZFp2cDRvdTg3X3pnMjBXcDBXZ2ljN195NzN6WVNRRmRReFZaam9ucmk5Nl9kMXc1Y2xKamdkRVNlYzhKNHZaZzdQVlB1U0VZLTlpSThqdmlNOWlsRi1SNzMxUHJpNERKN1RCZ2ZGVUtua3pYQXpHNlo0WVdMZUdFZnVVNjdGVUlORUhxWHRVMjRzSTRjSXRZUnN6bVJlWlVmTTc2dFZYRHZRV3BDR01CblZJbk84V1oyUjhENnhWeFppb2dhQnl0U3pTdGQyMHk?oc=5",
-          "date": "Mon, 21 Sep 2026 12:30:10 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFVPNkN4WmRnakRpb0tHRHhFa3hqQk1VLWJkcHQ1WWJYRDJpSUhPV0cySG42WVVibmVXMlkxV2NKYlh1SnR5a1ROQnZVWFVEc2huRU9EZTJOcmhQSDduVmtlQno1WEVMQVpsZjdUMUVyV05iMzMtNzY5Qlh0M0RYcUkxZHZHWUdJ?oc=5",
+          "date": "Tue, 22 Sep 2026 18:47:13 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "neutral",
@@ -26688,13 +26568,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CN",
-          "llm_subject": "Low-altitude sector hits turbulence in China’s Hangzhou as subsidies face repeal"
+          "llm_subject": "China’s Other Military Resource Edge: Sand - New Security Beat"
         },
         {
-          "title": "China is trying to corner the global economy - The Spectator",
+          "title": "Ratcliffe in Cairo: Why China Is Watching U.S.-Egypt Security Ties - Modern Diplomacy",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUVjUmRuTnQwaXdlVkM3ZnZxZ1BuX1UydndXZzRqTjNCOHpGMzZ0cDBxdE4tcV9GeUZDZVJJQV9VekF0MHE5a1BxLWplWVdRZmd2OEpMenN5Tmx1UWhRLXpFUXo3VlNOTlBDbG1HMjFSRXhuVElYU1NMZEVuZjlhbg?oc=5",
-          "date": "Mon, 21 Sep 2026 09:56:40 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmp5MDktS3RXdTlCU2s0dGU5bjM3aTBlVU5Kb3ZHQ0U2RkI0dk5yT0hpN3E4eWR1N1V3VDRmNGJoQzB6QTFLZFZ5QTRaZU0teUdWSG1OckdBcW5VNGt4eG1hQzcxeWpWZ3dUbDZHOXhScng5WmtVRXdfU0RkQ0JCQ0VnZ1NmOHp6WkliZ3pWV0Itbl9nQ3BWWUhqRnJlaFlUSkNrOC1n?oc=5",
+          "date": "Tue, 22 Sep 2026 15:00:00 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "neutral",
@@ -26703,13 +26583,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CN",
-          "llm_subject": "China is trying to corner the global economy - The Spectator"
+          "llm_subject": "Ratcliffe in Cairo: Why China Is Watching U.S.-Egypt Security Ties - Modern Dipl"
         },
         {
-          "title": "China's electrification rate surpasses that of major developed economies - China Daily",
+          "title": "US and China Discuss Alerting Each Other to AI National Security Threats - WIRED",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96d3ZxQXVWZzVLNnF4U29xT2N5SmVSMTZ3MzRqaVJ5NWZ4WnZ3ZmczMDZxRUhVYnZ3ZWp3Y1kzWkRoZ1h4RHVEOVNtV1BvTml3Um1rb1ZiZ1h0SzhYWGJOSDlHR0JvQUN3QVI4TlNKNHhkbkdRZWhuX3lnNFBVZw?oc=5",
-          "date": "Tue, 22 Sep 2026 09:25:25 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGdOMm5uLUo5eWpnUlJjV1pKcDFBdWxuZ1NRcDJWZ2ZxdDdJS3Rwd2tvNWxxc0xYZG1KelRpZ0FtenRQdlpKRjdRcUwzUWsycVl0NVNOZ29tU3FId2RBQXN2MVVQMHZwV3RGMHNYelN5R2JnX0RYd0FlSjFscml6MXBIRXN5VWdfOHM5RnotNjR3dklRVGhvbnI1LWZMY0N2Mlgw?oc=5",
+          "date": "Mon, 21 Sep 2026 10:34:00 GMT",
           "source_country": "CN",
           "country": "CN",
           "category": "neutral",
@@ -26718,7 +26598,157 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CN",
-          "llm_subject": "China's electrification rate surpasses that of major developed economies - China"
+          "llm_subject": "US and China Discuss Alerting Each Other to AI National Security Threats - WIRED"
+        },
+        {
+          "title": "Z.ai says sorry for slurping up your code, open sources ZCode - The Register",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzVBVVJwaGVBNGFiV3YtbVlITXlVOS1TbklEODJDeHJrZk1GUF9CTHBfOG5RaElhajV4SGZRQUtnX3R1cDJzUmVGalZWS2RCQUJxQ3N2Z3FtSzBDYXFrUzVScXh4UzZvYXB1S1N6bjR1djZhZmFvYjZ1ODZkZWF3QUc5T0luQUJwaEVjN1NZaXpBUTFrYU9qQVg0eWU2MmM2LURjZEp4dTN1UUxVVDFhdDNuMlpBUQ?oc=5",
+          "date": "Tue, 22 Sep 2026 15:59:00 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "Z.ai says sorry for slurping up your code, open sources ZCode - The Register"
+        },
+        {
+          "title": "China Probes DeepSeek, Moonshot Over Data Security, Report Says - Bloomberg.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWThhYXJzdkc0V0V3S2NkS2w0akJjUjJfdzVlSlYzSlppTUI1RlZUVW0zWmZVcGZXT1hMaEY0NDBqdTZqUk9QeUtpNXFiZ3VjSkYycUlDX2p3WUYtRm9FRjNKQXZfbjFsbVhYcWhWSXlZMDdJMGZpcFRnYTZMM2kzZjFHYnB2cjJVbDRERG5ZWXFnbkJaX0hSQmFnQU1WN0ltZDc5MjFMSHpfenJfT1BkNTZFazQtNHJVWWRnNmhXV0dlWHRXT29uR2VldXZxeDllNk51aHE2TWhnQ2VCdGlR?oc=5",
+          "date": "Tue, 22 Sep 2026 11:44:10 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "China Probes DeepSeek, Moonshot Over Data Security, Report Says - Bloomberg.com"
+        },
+        {
+          "title": "China's grain market remains stable despite global food security challenges - China.org.cn",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUjAxUUFFa3dFSHdzeUV5U3VhZ085S05ycTVlZXhlejdrb1Z1ZFh5ODRPY0x0bmVPODdHRlg4bHI0cFo1eUdxVFNCcFpQWHVhZG1PNEZzYXdwT1NqZEttYjFYTjB1Mm9IalE?oc=5",
+          "date": "Tue, 22 Sep 2026 08:07:43 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "China's grain market remains stable despite global food security challenges - Ch"
+        },
+        {
+          "title": "China Is Turning the Red Sea Into a New Security Front - The Times of Israel",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0liZ2RRQWI0Rjl6V3VsQ0lIelQ5bHQwRUYxdFRabG92WVBvWjVOaTE4UnJPUF9XaTVPczJCajhZSnBqZkx4Qkg4VGlMaUhGVkJJdHoyWThzSnN1VFp5T0kzaUVoeEFZOWdralBmS2YwcGxWdlFRVVJ5MXd2S3ZBeVpOMmhEYTFfa0prYUJmZGU?oc=5",
+          "date": "Mon, 21 Sep 2026 16:33:00 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "China Is Turning the Red Sea Into a New Security Front - The Times of Israel"
+        },
+        {
+          "title": "US, Japan and South Korea launch economic-security talks before Xi summit - SCMP",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcl9zcUZOZzE2TjNJckdHeUJaUmZSMTBxYXl3OGM5eldnd1BnVzM5RU9JS2p4TEpMZVRfcjFjbFV2VEVEeWZlZ05MVHZTSy1taUM3bE1Qb3o1bm9FT180MzgydXQzMWZNeUFaR1pwejY1RnBLR3kyUDktcVpGY1NfNFFOTjF1STFrb19WNTE0QnZqNGdTTVdWQVhIOHZaMXRVSGFlbWRQczNES3FGR3NORzBsLTlWX1o3My0tUdIBvAFBVV95cUxPZ3NHWlBYcTRuREJ6cExqTGNYWHdjOTJpbFVLT2xVS0VaU1BpV1RVbGZZcElHeVVmVmtKa0pKTWRBZldvbVhUdGVac0I1b3VranRoV2ZwUzd2Q29hREJpbzJYajNaNW5ROWtVTWNnVVBoaG1HNmh5RXFEMGRFSWxTWUtDdnBSRlFjY2NEbFVzSVdJTnBOaHV0bVVaenZGZ1BvUXR1M25MbG1HcXJoZDdXLWpncDR5cmxKTnAweg?oc=5",
+          "date": "Mon, 21 Sep 2026 20:22:31 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "US, Japan and South Korea launch economic-security talks before Xi summit - SCMP"
+        },
+        {
+          "title": "US pitches new AI alert system to China for incidents affecting national security - LiveNOW from FOX",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVMteDNrbDZDbkNzZm5GUTVkZXR2WUNVMXNndzRZeWJFLWFEUUZpTUVGZGxmaGNnV2VOT2U4bWktcTl4eF9qQmJrclRHdEhXZWlCYTFxZXF6c3h6RDJjTzFQbTR4R1ZMcDJMRUhzRi0wTU1OOVF0MkI4UHowZTlCbHZTTGtqTlIxa2ZGN3N4bXoxUzVnQmxPWDhwQ21CeE9USGQ3M2JwUm9YQQ?oc=5",
+          "date": "Mon, 21 Sep 2026 03:17:36 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "US pitches new AI alert system to China for incidents affecting national securit"
+        },
+        {
+          "title": "US weighs ‘red phone’ hotline with China ahead of Trump-Xi meet amid AI security risks: Report - timesofindia.indiatimes.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOelZEbDlZY19hTy11cEV5dlNjWFJuQnpPQVFMbFVDV3dYZGlUdlNCTWpiNDRPVXdYeU1tWV9HYnRfRlJNcHVTM2NuZkx4dHhkZDNlLXMtaWFjZkthU0h2bncyUnVZM1lwaldvYVBmbjVETzhla05DQkJQeUFYclpLODVUaUhaQXFaU0laUndmV1JPX1hKeGcycVpWbV82YVNnODhVN0c4eEM0anQ5RGw0dzlOOTY4NDVvQUEwVHBiX1hQcEhraHRsYU12b1NsNURBQ1pfTVkyZkNkMGVndk9pYUR1STF3ZHhUS0doRjdmVzUwU21w0gH6AUFVX3lxTFAtQ3RUOEs1OHM2Vk1OR1RBYUNNeURhaUtiSnZPaXpwUjdCbnE2a21vZ3Zqblp4Wmp4NVAxQktYVmZkOVczaDNwUHdsU29wdHRwLV9HQkpseHphbzhLYmhhZHhOX1hqUDY3cTc2YlkxSUlDa1dWdHhzUFo1ZGdPS0R5Qjc3TS1ZYXpLLXdXUUt2MlBDLWMzdDVmWlVjZDY5eEdiQk0tQ3hDbEgxdnFOZnV0VUZUUjhxTjJSLUd0SDl2c2FLWjlDa0hxNlpaYlFPRE1yMWFaTE9aeEZ0VWJiME1PUl9ld1J5VmxQV2VJWEtqN0t4YlZ3Q29qSFE?oc=5",
+          "date": "Tue, 22 Sep 2026 15:23:00 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "US weighs ‘red phone’ hotline with China ahead of Trump-Xi meet amid AI security"
+        },
+        {
+          "title": "China moves to strengthen food security across grain supply chain in 2026-2030 - news.cgtn.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObUxVVVctX1p2MVlTVk5YVGZ1NHQzZG14eVZYeDdpSVJxX3V2cnpoaWU3WE1BU2NsNGRLdDZaOGQ1T0pjRnlGTmUwcTlKb0cxYmw2SmppeXNxRG9Gdk9SNDZFYS1WXzBpeWpockZZUlRNb1otNW04TTZxMWw3MHROZzFpTk1JMk1TUDB2UHVGWU54X29lTjZmRXNWckJjWlFaeXRfd2twbUtuaThIWlFmQ2FQTnhVMU9fM1FVR2JsNA?oc=5",
+          "date": "Tue, 22 Sep 2026 05:02:25 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "China moves to strengthen food security across grain supply chain in 2026-2030 -"
+        },
+        {
+          "title": "Bessent: US proposes AI incident alert system in talks with China - ABC News - Breaking News, Latest News and Videos",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlJsX1ZtMmpYb0cxVjFnRE1jUVJ4MlFKZTdxV3RMT3pwMDZQRGhHU1J2MVRoQnRQNnVtb1FlUXo5VFI3ZnhqYlh4WklkWm1iRWNsXzRCSVhfdy1nX1FzZ05nRXBaYjFNcHNhX0h5TWhDc2E5cnRENWkzbDQyVVVNMmhSZkI5djRRbWdxbk5HX1djSkxRWERuM0ZDV2tXcXZQSmZR0gGoAUFVX3lxTE9MVVlvSVRtQ2Z2T1NYLW0teDQzdmtQV3J2LUVacHAzLXF3RFhXQXAwNklyVVg2SWRpYm1UaGdJNjE3NXd5X1dURnpwUWVsVmZ4blVoTXQ3YXlnSVZSeXk0V2VqeThncnNRcm1IZ1ZTQjhHa0FtUEZDTm9UZk9iSDdfVE5uLU4xMmdVNW1pSjNQQ3lVRnN4MHAzdWNxZVdwOXA4b2NVN2lRVA?oc=5",
+          "date": "Mon, 21 Sep 2026 06:38:39 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "Bessent: US proposes AI incident alert system in talks with China - ABC News - B"
+        },
+        {
+          "title": "Denmark, Greenland, US to sign Arctic security agreement - China.org.cn",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HcnY4ZTlMUFdXa1hWSzRqNFdOTHRWbUxPYUNpckhFWkRPMnVQVmdXYW1tZHlCc3Vwb3VWTXhqVlJlSEJjVUx6emdObkE1QjhWZDdYMWZYdnpvN2otNzgwTU5tNC1oUHJNRWc?oc=5",
+          "date": "Tue, 22 Sep 2026 05:35:43 GMT",
+          "source_country": "CN",
+          "country": "CN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CN",
+          "llm_subject": "Denmark, Greenland, US to sign Arctic security agreement - China.org.cn"
         }
       ]
     },
@@ -29754,15 +29784,15 @@ window.WTI_DATA = {
     },
     "AR": {
       "name": "Argentina",
-      "index": 2.92,
-      "raw_score": 1.0,
+      "index": 3.04,
+      "raw_score": 1.07,
       "status": "STABLE",
       "events": [
         {
-          "title": "Milei’s US Trade Deal Is Under Threat as Argentina Demands Better Terms - bloomberg.com",
+          "title": "Prefectura Naval Argentina Concludes First International Maritime Security Audit Course - Data Portuaria",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDhXQnlNTUxPSjctNkRiN0VyQmNDeEU1eGduUFJPaU14ak92VWRYczZ2dkpvNm5pREVJYS1jaHJ1aXFjRzlRMV8zUkc4MEFMMGM2bHktS05jZzJWWGZ5X0dOc1gtR0ZMbDRoZ3c3RC1ocDRIeDdvTFdfMG5VYjZsUjFuei0xLVdBMEt1UzNlY2poaXpiOUtMZzd1R3BfbGtGVEFQdi1nblhOa3N3YUtXUEJaMVZXMjFCY2dLZ3Y5U21ETkk?oc=5",
-          "date": "Tue, 22 Sep 2026 13:51:08 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODdKX1FXT2dKZ2lxOVhpaVEyUTRnbS1KcDNNYjU1VkNqNU1oWmJUOVRGc0xIVmdmaGdpRW9ya1Bta2pNWVNtRTlrcXpxdWZXRVIwZUcxZ3MzRi1yX1ZDNTV1cmVjelBRQjNSSWJGbTIyS3JMaVpYcUVBM05HZXVFWS1xY2JQbUtnMXJPWnVNTDZKOW9HbmZWYXdkMXhzNDBSQTM4c2Fnek1FcEZ3Ukl2QkZJOUNUZw?oc=5",
+          "date": "Tue, 22 Sep 2026 20:55:08 GMT",
           "source_country": "AR",
           "country": "AR",
           "category": "neutral",
@@ -29771,25 +29801,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AR",
-          "llm_subject": "Milei’s US Trade Deal Is Under Threat as Argentina Demands Better Terms - bloomb"
+          "llm_subject": "Prefectura Naval Argentina Concludes First International Maritime Security Audit"
         },
         {
-          "title": "Argentina Economy - bdtonline.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmhrWGc4VFNWLWJoLUZjVndCd2VfV0ZkdS1wRnk0RlVJLVpMeFplSnRZbWpaaXdGazJ6RmE5SktUZERRRENESktKZGphWDZ6ZXZqU3hFbWJBb2IySVowN0VqUi1rVHFaSWNKMzNmT05hWmtFTlJXQm9ZV2dYMGdYSm5rVi10eXhzTDdaNDFacGlOTlBmcmQzelotcEh1ZVhudGNRdFpkeG15OHBjbVE?oc=5",
-          "date": "Tue, 22 Sep 2026 13:16:54 GMT",
-          "source_country": "AR",
-          "country": "AR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AR",
-          "llm_subject": "Argentina Economy - bdtonline.com"
-        },
-        {
-          "title": "Trump Takes Page From Leftist Playbook With $5,000 Dividend Proposal - Reason Magazine",
+          "title": "Trump Takes Page From Leftist Playbook With $5,000 Dividend Proposal - reason.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdE96ek1nRy1jc01rSU9takVnVEhFSHVEUVpBeGpDSFlvbTlWczhpcUs5Mzh2WHRXYUhVR2Q1LVNfaW9saWVGODJhRTI1X2o5QW5WNXNCeWtqYmVnbE5HV2MwVlFiWXVpVDdMRTczVnpZcE4yLVV1ZkJYQ19tYktZdEFIb3paS1RuZk1USTl3RXFseUZ1YkFNcFBHRng0UQ?oc=5",
           "date": "Mon, 21 Sep 2026 17:35:53 GMT",
@@ -29801,7 +29816,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AR",
-          "llm_subject": "Trump Takes Page From Leftist Playbook With $5,000 Dividend Proposal - Reason Ma"
+          "llm_subject": "Trump Takes Page From Leftist Playbook With $5,000 Dividend Proposal - reason.co"
         },
         {
           "title": "\"March of Outrage\" in Argentina: What Are Citizens Demanding? - Latin Times",
@@ -29819,7 +29834,7 @@ window.WTI_DATA = {
           "llm_subject": "\"March of Outrage\" in Argentina: What Are Citizens Demanding? - Latin Times"
         },
         {
-          "title": "Milei’s chainsaw inspires Bolsonaro to wield scissors in Brazil election - Buenos Aires Times",
+          "title": "Milei’s chainsaw inspires Bolsonaro to wield scissors in Brazil election - batimes.com.ar",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDBnbVlnQmJBVVJGR3VublhxY0VTRTczalNqT1VyMnZLYWdOOXdMa3dQRDFSQ3FiM0R0VW5aWVZSVGFFaDN5alJxNDladFB2Szh5UndNejlGSzRBSFF5LXV2SVlwODl5ZGJxVUJiRlMwZ1ZZdEs3dGR4cldmUmZuaFVyd19xbG94eVNpYlpDaXNvYWJtX1hnaUlYY0dWV05udi1RQVFYZkxsVzNBV1Q3SjFpRWVRSllUek0xTTRvRE3SAcYBQVVfeXFMUGlKSUwzeWRCZGlEdDRZY19QdUVDaTBhb1RqSTFFandQbXhzQWhOc0lZV1dYZmVpUTVZMWs5cEMtZGJFNE1oQWI0OEZEMEJGY214YktoZHlheXIwdjQ5X29hd2M3QS1DWnk0ZmJCalRfOF9lbTFhOWRyOUlVRmlKeE85aFBNaExVMXBRaXZTVXVBc2VkSFlvVTRqMkRPY0hlVWNvbUtRbVFwcDVIZ1AyNVdxbHU0bVFZWlVONFlsNmJTaTdTQ2tR?oc=5",
           "date": "Mon, 21 Sep 2026 04:29:43 GMT",
@@ -29831,10 +29846,25 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AR",
-          "llm_subject": "Milei’s chainsaw inspires Bolsonaro to wield scissors in Brazil election - Bueno"
+          "llm_subject": "Milei’s chainsaw inspires Bolsonaro to wield scissors in Brazil election - batim"
         },
         {
-          "title": "Tens of Thousands Protest Milei Austerity Plan in Argentina - SuaraGarut.ID",
+          "title": "Big RIGI: The ASX companies joining Argentina’s bid to muscle up its economy - Stockhead",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1RvWURZWmptVjV0TzhaeDktcl9HRWhXaFNNejdqOEkxUTEzRTQzTWdvRU1Yb2JjanJ1cUVBRTZQMkpSRnQxMUJCVk9TZXRVdkVCbWNRV21jb25DMVJRaFc2Y0NqVlYtZTkwRUV6QmoyNnJfTDRkeE5paE1ZRGdNdVloWDVHVE9YWHJVOU40T2tmT1BScnBGRHZEREZrb1pTWERUWVVMdlJFTGNYc0Jj?oc=5",
+          "date": "Tue, 22 Sep 2026 20:40:16 GMT",
+          "source_country": "AR",
+          "country": "AR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AR",
+          "llm_subject": "Big RIGI: The ASX companies joining Argentina’s bid to muscle up its economy - S"
+        },
+        {
+          "title": "Tens of Thousands Protest Milei Austerity Plan in Argentina - suaragarut.id",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RdW9xRE9RZEItd0RtbjZXVHZOMlozZGlLeEhKeS11cUtsU0Q5Y1BjaWEtQVZQakUtXzRPQlpoMXNZN2hJMXNyTXlGRWttVE9vZlBXWXhiY1lDcnBId1JONlZrLUotVHJKbFIxa1JZa0pYWkVXV1lJ?oc=5",
           "date": "Mon, 21 Sep 2026 21:00:00 GMT",
@@ -29846,22 +29876,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AR",
-          "llm_subject": "Tens of Thousands Protest Milei Austerity Plan in Argentina - SuaraGarut.ID"
-        },
-        {
-          "title": "Javier Milei and an Argentina in a state of shock - Universidad de Guadalajara",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQazZ0R0JWTHhwUlJNeDRhU0lTOTRwb0twUmFydjkyUHVNOXUtVlJ1ZFNSN3ZoSk1fZVJ0RkhDM1NXdHZSSVRoN09tQWdKLUVhRDdHclRjWEd0ZjBXVXp4bUZDOFVUejY5Sl96VXRQdEdpTjhSOXVBU3JLU0tZaGpxdUp2dw?oc=5",
-          "date": "Sun, 20 Sep 2026 18:42:48 GMT",
-          "source_country": "AR",
-          "country": "AR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AR",
-          "llm_subject": "Javier Milei and an Argentina in a state of shock - Universidad de Guadalajara"
+          "llm_subject": "Tens of Thousands Protest Milei Austerity Plan in Argentina - suaragarut.id"
         },
         {
           "title": "Pope will retrace his missionary footsteps in Peru and finally visit Argentina in November - The Tribune-Democrat",
@@ -29879,21 +29894,6 @@ window.WTI_DATA = {
           "llm_subject": "Pope will retrace his missionary footsteps in Peru and finally visit Argentina i"
         },
         {
-          "title": "Wanda Nara's ex Mauro Icardi goes to war with government after new Wag's antics - thesun.co.uk",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW1hTXpyc055SlJYbThxbWhIbWlrNVRRbHkzOW9HcE85akE2SzRibm9TMVNvY1VxZnZBb0tULUZWMWw2dFc5VlFQaEtDTmo0bVJJdGxPX2pMMkwtd09ITExNZjRkckdDcjB2N1BPV2hSRFJVRVl2d1VyRjF4Zzd0a0NaUjUzeVk?oc=5",
-          "date": "Tue, 22 Sep 2026 13:54:00 GMT",
-          "source_country": "AR",
-          "country": "AR",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AR",
-          "llm_subject": "Wanda Nara's ex Mauro Icardi goes to war with government after new Wag's antics "
-        },
-        {
           "title": "Pope will retrace his missionary footsteps in Peru and finally visit Argentina in November - Greeley Tribune",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UYVowaktCbFB4dV94a2VtU2NwUE05V0JTcU5TVER6Um5CSVFlVGpiWkJuUm51QlJ1ZXg4d2J1bEs1Z1hZVjRXV2pJdkNHajNFZWU4UU1DMkxOMjlQODlBdE9rYldrclBvY0haUzlJQ0dobXot?oc=5",
@@ -29909,19 +29909,19 @@ window.WTI_DATA = {
           "llm_subject": "Pope will retrace his missionary footsteps in Peru and finally visit Argentina i"
         },
         {
-          "title": "Argentina: Judge Orders Trial for 1994 Terrorist Attack - blue News",
+          "title": "Wanda Nara's ex Mauro Icardi goes to war with government after new Wag's antics - The Sun",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVkyeDUxN0RDQWNlVkZaNW5RbkJveUc1YWdzQzY3LTZTejBLSGItSFhxOURkZl83a2c2aVRXaTNvSWE2UjdUNmlYc3BWSm40UzN2WkI3LWFDaF9pM1RlTEZFRklJanRYTXprWGpPeTVNRWduVlFTMy15OHZjTEE3bHNGT3FGWHlsYmxtQWNrdzU4ZjktekgxaHBiS24?oc=5",
-          "date": "Mon, 21 Sep 2026 23:16:53 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW1hTXpyc055SlJYbThxbWhIbWlrNVRRbHkzOW9HcE85akE2SzRibm9TMVNvY1VxZnZBb0tULUZWMWw2dFc5VlFQaEtDTmo0bVJJdGxPX2pMMkwtd09ITExNZjRkckdDcjB2N1BPV2hSRFJVRVl2d1VyRjF4Zzd0a0NaUjUzeVk?oc=5",
+          "date": "Tue, 22 Sep 2026 13:54:00 GMT",
           "source_country": "AR",
           "country": "AR",
-          "category": "terrorism",
-          "weight": 7.0,
+          "category": "military_conflict",
+          "weight": 8.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AR",
-          "llm_subject": "Argentina: Judge Orders Trial for 1994 Terrorist Attack - blue News"
+          "llm_subject": "Wanda Nara's ex Mauro Icardi goes to war with government after new Wag's antics "
         },
         {
           "title": "Pope Leo sets packed agenda for November trip to Peru, Argentina, Uruguay - ThePrint",
@@ -29937,6 +29937,21 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AR",
           "llm_subject": "Pope Leo sets packed agenda for November trip to Peru, Argentina, Uruguay - TheP"
+        },
+        {
+          "title": "Argentina: Judge Orders Trial for 1994 Terrorist Attack - blue News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVkyeDUxN0RDQWNlVkZaNW5RbkJveUc1YWdzQzY3LTZTejBLSGItSFhxOURkZl83a2c2aVRXaTNvSWE2UjdUNmlYc3BWSm40UzN2WkI3LWFDaF9pM1RlTEZFRklJanRYTXprWGpPeTVNRWduVlFTMy15OHZjTEE3bHNGT3FGWHlsYmxtQWNrdzU4ZjktekgxaHBiS24?oc=5",
+          "date": "Mon, 21 Sep 2026 23:16:53 GMT",
+          "source_country": "AR",
+          "country": "AR",
+          "category": "terrorism",
+          "weight": 7.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AR",
+          "llm_subject": "Argentina: Judge Orders Trial for 1994 Terrorist Attack - blue News"
         },
         {
           "title": "Energy briefs–oil, Houthis, Qatar, Argentina and EPA - Oklahoma Energy Today",
@@ -30458,10 +30473,10 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
-          "title": "The number nobody can prove: how Colombia justified bringing back gun permits - Latin Times",
+          "title": "Colombia’s Inflation Accelerates to 6.24% in August as Bancolombia Sees Rates Holding at 12% - Finance Colombia",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN213YjIyd3l0VDJwSWNXNEZoLXh1ZW5oejlEQU9SUjVnWG5XcnlZMDdlQlY4NGxPR3dtY3pTZ0h1TGV5dndZXy1kVDR2QnRERlZiQm5pY2JNTHM4M3JwUmExNlBuaWVyVF8zcHRmQUNybURjWGl4OFZjaFhEclVKeEREOGUzekNkZkpTWGZvalRsRWhyLUtLamNPZ21ReDNZa2NEZFNUaVNmLWlIR3FhX2E2MlJEdHVKOUU3NWNn?oc=5",
-          "date": "Mon, 21 Sep 2026 01:06:25 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEF3cUFLbVhLcTBQZVhZcGpZYnl1SFRhZHZBamRhOWt5YVdEY3FOS09zZzZqTWVvTnY4NFBBcnR0VVh0VGFJTnFFQ1FKcGlPZEZZcVZuZklmS0N1QlpJeGQtN2ptSHd4LU1hX3duZW4yWDdjM1MtR3JGQWpNTjlUZkFBTnNHejlWX2RlR25QQW1XWXRzdEU1RWpXdGwtRW1oaVRGRWQ3b2NnYkRXWGhLdlhkbUo3SVBudURieXR6cw?oc=5",
+          "date": "Tue, 22 Sep 2026 20:09:16 GMT",
           "source_country": "CO",
           "country": "CO",
           "category": "neutral",
@@ -30470,67 +30485,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CO",
-          "llm_subject": "The number nobody can prove: how Colombia justified bringing back gun permits - "
-        },
-        {
-          "title": "Colombia Withdraws Its Intervention in South Africa’s Case Against Israel Before the ICJ - ColombiaOne.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPazYtSmY0SGJnblpNVUREWUh2c3dadnkzNGlwNXZ1bVRUV3JQR200RWZPYndVUG5OLTJQYXNWbW1RS3JIaEJjeFdndDVYdDBZRTBFMTdHcDJ2TkNIU2NiVVdYTFNISjI0cEpwRDZjTFRIbzdfWnFFU1NuLWtXdVFpbm1hTThlYXRaQmZsVWlJbGlyVmpDWlhBRTN4QjBxMV9nMmhfckhPWGFiSjByMGs5UmZ0TFQtSmRzUXB2dC1KZnc?oc=5",
-          "date": "Tue, 22 Sep 2026 03:12:00 GMT",
-          "source_country": "CO",
-          "country": "CO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CO",
-          "llm_subject": "Colombia Withdraws Its Intervention in South Africa’s Case Against Israel Before"
-        },
-        {
-          "title": "Colombia VP Jose Manuel Restrepo Kicks Off UN Agenda in New York - ColombiaOne.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXNmNHaEtnd19LcG1Qb21pa0FFczZ4UzgyajU1QUgtWHJoU3Z0dlotNm8tZzM3RWNNMy1XdVZqc2dhOG1PRGcyby1UdFNINy1aRjA4aW9waEpTQW0yZ1pELWZHSUFOWUNUOVIw?oc=5",
-          "date": "Mon, 21 Sep 2026 17:23:00 GMT",
-          "source_country": "CO",
-          "country": "CO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CO",
-          "llm_subject": "Colombia VP Jose Manuel Restrepo Kicks Off UN Agenda in New York - ColombiaOne.c"
-        },
-        {
-          "title": "Alejandra Jaramillo: Colombian CNN Journalist Barred by Trump - ColombiaOne.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaF9pY0RNdWM3UVB0VmphTzNBTHk0VUEyNW1uYVpiY0piQnZLaEtIemtMNkNVa1l5eGpiWl8xUmU3UWxvX0xuaE9ibWc5S3FzdElvdHpQVW04WFZUSUw0SzQwLU5JUWg4N0dpNDFRTGxDS3hfUDlicHdhcjh2VHduXzM4cTJLbjU3LTBvWXVsZTFKVXkyZFlsZHVsbmY?oc=5",
-          "date": "Tue, 22 Sep 2026 12:53:11 GMT",
-          "source_country": "CO",
-          "country": "CO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CO",
-          "llm_subject": "Alejandra Jaramillo: Colombian CNN Journalist Barred by Trump - ColombiaOne.com"
-        },
-        {
-          "title": "JEP Budget Could Be Slashed Under De La Espriella-Backed Proposal - ColombiaOne.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEUFVIT1cyaGVrTWhpdHlKbEdORU12Q0VQbW1IUGc3eWEyTVE2dURhUENNbFV4N3BBME5iVWRYWlREVE8zdHhEblZINEV6TTZGSWRabl92WE1WYXVDVE4wTXR2ajFUQQ?oc=5",
-          "date": "Mon, 21 Sep 2026 12:35:00 GMT",
-          "source_country": "CO",
-          "country": "CO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CO",
-          "llm_subject": "JEP Budget Could Be Slashed Under De La Espriella-Backed Proposal - ColombiaOne."
+          "llm_subject": "Colombia’s Inflation Accelerates to 6.24% in August as Bancolombia Sees Rates Ho"
         },
         {
           "title": "US Dollar Tops 3,200 Pesos Again in Colombia - ColombiaOne.com",
@@ -30578,10 +30533,130 @@ window.WTI_DATA = {
           "llm_subject": "Mision Crecer, Strategy Presented by Colombia in New York to Accelerate Investme"
         },
         {
+          "title": "Asylum denial forces Greenville family back to Colombia l Exclusive - The State",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHNjIwWkFsd3UzQjNGRVhwVnJKLXhySEZXQ0pETngxSWIyU1pNREFId2QxeDNUYjlNNVBQakZFN3FFRkZxNGM5ZHd2NVFOTnlTVXZNYUhsdVM1NGZ1OGhmWg?oc=5",
+          "date": "Tue, 22 Sep 2026 14:24:09 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "Asylum denial forces Greenville family back to Colombia l Exclusive - The State"
+        },
+        {
+          "title": "Colombia Confirms 58 Yellow Fever Cases and 27 Deaths This Year as CDC Posts Level 2 Travel Notice - inkl",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGtHQVRyM3dCMV84SjhVa1Y0WmhObUpRYjdMVUQ2RWpJempSTzRLNXFxSndFdWxIdDlrUk11ZHVTN2xZRmdpMFprODBJYWNRRFJWNnFjU0NSbzZ1X2I1M2pHaEk1eEF3YWIwczdoQnp4Q00xQW9WM2VIUWxka0RQSXQ1OXIyUU56c3FwSTVrTlJacGNubXdkQzI3ZURyV2lTMUZZclVkeVI4WHdNdFJ2N2RqMGpNblZRTjRDZ1Zfc213UQ?oc=5",
+          "date": "Mon, 21 Sep 2026 17:00:05 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "Colombia Confirms 58 Yellow Fever Cases and 27 Deaths This Year as CDC Posts Lev"
+        },
+        {
+          "title": "Security, Key Issue at Meeting Between Presidents of Colombia and Costa Rica - ColombiaOne.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSU5Udy1zelFySjU5UGVuTzQzamhPd1pVZHpUUkVpNjBXQWh1U0Vyc0Y4OEpqVXptR01jSDJWZlRfSWFQMVpWbW0zemJCRU43c2VRMi1aSzVmWUFSM2FIQ3FKXzlIbkFBdlEydkRIRjkzamN4QU9uNWVaNUx1QnE0Rmo2MDBybGk4ODQ3LXdUeWVJaXFyQ1E0dg?oc=5",
+          "date": "Tue, 22 Sep 2026 20:59:24 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "Security, Key Issue at Meeting Between Presidents of Colombia and Costa Rica - C"
+        },
+        {
+          "title": "The number nobody can prove: how Colombia justified bringing back gun permits - latintimes.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN213YjIyd3l0VDJwSWNXNEZoLXh1ZW5oejlEQU9SUjVnWG5XcnlZMDdlQlY4NGxPR3dtY3pTZ0h1TGV5dndZXy1kVDR2QnRERlZiQm5pY2JNTHM4M3JwUmExNlBuaWVyVF8zcHRmQUNybURjWGl4OFZjaFhEclVKeEREOGUzekNkZkpTWGZvalRsRWhyLUtLamNPZ21ReDNZa2NEZFNUaVNmLWlIR3FhX2E2MlJEdHVKOUU3NWNn?oc=5",
+          "date": "Mon, 21 Sep 2026 01:06:25 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "The number nobody can prove: how Colombia justified bringing back gun permits - "
+        },
+        {
+          "title": "Colombia Withdraws Its Intervention in South Africa’s Case Against Israel Before the ICJ - ColombiaOne.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPazYtSmY0SGJnblpNVUREWUh2c3dadnkzNGlwNXZ1bVRUV3JQR200RWZPYndVUG5OLTJQYXNWbW1RS3JIaEJjeFdndDVYdDBZRTBFMTdHcDJ2TkNIU2NiVVdYTFNISjI0cEpwRDZjTFRIbzdfWnFFU1NuLWtXdVFpbm1hTThlYXRaQmZsVWlJbGlyVmpDWlhBRTN4QjBxMV9nMmhfckhPWGFiSjByMGs5UmZ0TFQtSmRzUXB2dC1KZnc?oc=5",
+          "date": "Tue, 22 Sep 2026 03:12:00 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "Colombia Withdraws Its Intervention in South Africa’s Case Against Israel Before"
+        },
+        {
+          "title": "Colombia VP Jose Manuel Restrepo Kicks Off UN Agenda in New York - ColombiaOne.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXNmNHaEtnd19LcG1Qb21pa0FFczZ4UzgyajU1QUgtWHJoU3Z0dlotNm8tZzM3RWNNMy1XdVZqc2dhOG1PRGcyby1UdFNINy1aRjA4aW9waEpTQW0yZ1pELWZHSUFOWUNUOVIw?oc=5",
+          "date": "Mon, 21 Sep 2026 17:23:00 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "Colombia VP Jose Manuel Restrepo Kicks Off UN Agenda in New York - ColombiaOne.c"
+        },
+        {
+          "title": "JEP Budget Could Be Slashed Under De La Espriella-Backed Proposal - ColombiaOne.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEUFVIT1cyaGVrTWhpdHlKbEdORU12Q0VQbW1IUGc3eWEyTVE2dURhUENNbFV4N3BBME5iVWRYWlREVE8zdHhEblZINEV6TTZGSWRabl92WE1WYXVDVE4wTXR2ajFUQQ?oc=5",
+          "date": "Mon, 21 Sep 2026 12:35:00 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "JEP Budget Could Be Slashed Under De La Espriella-Backed Proposal - ColombiaOne."
+        },
+        {
+          "title": "Alejandra Jaramillo: Colombian CNN Journalist Barred by Trump - ColombiaOne.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaF9pY0RNdWM3UVB0VmphTzNBTHk0VUEyNW1uYVpiY0piQnZLaEtIemtMNkNVa1l5eGpiWl8xUmU3UWxvX0xuaE9ibWc5S3FzdElvdHpQVW04WFZUSUw0SzQwLU5JUWg4N0dpNDFRTGxDS3hfUDlicHdhcjh2VHduXzM4cTJLbjU3LTBvWXVsZTFKVXkyZFlsZHVsbmY?oc=5",
+          "date": "Tue, 22 Sep 2026 12:53:11 GMT",
+          "source_country": "CO",
+          "country": "CO",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CO",
+          "llm_subject": "Alejandra Jaramillo: Colombian CNN Journalist Barred by Trump - ColombiaOne.com"
+        },
+        {
           "title": "Colombia, Costa Rica Leaders Meet on Drug Trafficking - teleSUR English",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mS0l4WUhudDJQWmloRnFmMGJqVjFWcmVFYk9qakEzcjZMM2dpdnUtaGNNZll4U2hfS0hXSnYwYnR0MWhraE9JeENBT1I2MG1RbnRqeGdmQXlBNGFoT1hzSURHck1tSHUwaTJORkdNeDVaemlFQVVN?oc=5",
-          "date": "Tue, 22 Sep 2026 10:57:02 GMT",
+          "date": "Tue, 22 Sep 2026 16:05:48 GMT",
           "source_country": "CO",
           "country": "CO",
           "category": "neutral",
@@ -30621,36 +30696,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CO",
           "llm_subject": "Colombia Arrests Leader of a Dissident FARC Urban Guerrilla Group - teleSUR Engl"
-        },
-        {
-          "title": "Asylum denial forces Greenville family back to Colombia l Exclusive - The State",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHNjIwWkFsd3UzQjNGRVhwVnJKLXhySEZXQ0pETngxSWIyU1pNREFId2QxeDNUYjlNNVBQakZFN3FFRkZxNGM5ZHd2NVFOTnlTVXZNYUhsdVM1NGZ1OGhmWg?oc=5",
-          "date": "Tue, 22 Sep 2026 14:24:09 GMT",
-          "source_country": "CO",
-          "country": "CO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CO",
-          "llm_subject": "Asylum denial forces Greenville family back to Colombia l Exclusive - The State"
-        },
-        {
-          "title": "Colombia Confirms 58 Yellow Fever Cases and 27 Deaths This Year as CDC Posts Level 2 Travel Notice - inkl",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGtHQVRyM3dCMV84SjhVa1Y0WmhObUpRYjdMVUQ2RWpJempSTzRLNXFxSndFdWxIdDlrUk11ZHVTN2xZRmdpMFprODBJYWNRRFJWNnFjU0NSbzZ1X2I1M2pHaEk1eEF3YWIwczdoQnp4Q00xQW9WM2VIUWxka0RQSXQ1OXIyUU56c3FwSTVrTlJacGNubXdkQzI3ZURyV2lTMUZZclVkeVI4WHdNdFJ2N2RqMGpNblZRTjRDZ1Zfc213UQ?oc=5",
-          "date": "Mon, 21 Sep 2026 17:00:05 GMT",
-          "source_country": "CO",
-          "country": "CO",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CO",
-          "llm_subject": "Colombia Confirms 58 Yellow Fever Cases and 27 Deaths This Year as CDC Posts Lev"
         }
       ]
     },
@@ -31355,15 +31400,15 @@ window.WTI_DATA = {
     },
     "IL": {
       "name": "Israel",
-      "index": 2.92,
-      "raw_score": 1.0,
+      "index": 3.77,
+      "raw_score": 1.53,
       "status": "STABLE",
       "events": [
         {
-          "title": "Qatar: If Gaza Aid Reached Hamas, Israel Bears Responsibility - Haaretz",
+          "title": "The Four Species of Israel’s economy - Israel National News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdDNUX0Q0eGIxUzVYLWNZeWF1VGhqaXk3bzAxWWxEQ0pjY1RDcEc0SGFxVDJiV1dSc09uWWF1bldQR1RZdGFhSmtSZUEyT29vUWUxX21XakYwZkxWRWFqNHdfVkt6V0tHTnBYZVlEZTNjU3RKRF9OR2tpejFlaUtJSmxyWjdkNE5Va1VBeDdzbmVmZFJHRGZlbndMSDV5bURWU2NBYlNFVDdCcWl5S2hQdWVBTThUR2p1VEtIS01CTmptWkxSaFpOSFZGVnNjVWpUUTBMQnZ0Ry11cnF5enY0M1llY0pOb2JLa3p2WklHOEV2bE9RemJyb1JLSno2bVBOczA1SGs2RERqN0U?oc=5",
-          "date": "Tue, 22 Sep 2026 09:41:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMURtS05GSXRzVkQ4ZnpTMTAwTzE5SmFLa0NaeGVBanVSN0xGT0JSRzk1VzdZQzBKQTA5RXpZMXlGc1d0SUREYXJTM0FrUG5TMm1ybWg4YVBmQQ?oc=5",
+          "date": "Tue, 22 Sep 2026 11:00:00 GMT",
           "source_country": "IL",
           "country": "IL",
           "category": "neutral",
@@ -31372,7 +31417,67 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IL",
-          "llm_subject": "Qatar: If Gaza Aid Reached Hamas, Israel Bears Responsibility - Haaretz"
+          "llm_subject": "The Four Species of Israel’s economy - Israel National News"
+        },
+        {
+          "title": "Iran cuts office hours, expands remote work amid fuel shortages - aljazeera.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWVXR2Y2WW9yTDFaM212YlBQRjdtSEZ3dl8tTkZuQ25xOHFoMnNrNGMtZHN2aTk5VDRpdTdZUDBGQW5PbjJfNkdRcXBOQkd6QzhkS1VsdDUtem5VVWRXMjdQdE9IMC1ZYkJheHhLZmVlb1A0SGRtYUd4LU9SZWJqV19md0YwSlk1SkpfVUFvMTUtaFcyZklfZlM5QmIxX055TWFLTjcwWVZBdU5KUzVDaE9nVmtkUdIBuwFBVV95cUxPcDBraGZlTVFsODI1NERIVzB4RFVNZHF5Zk4yRjZjakdTbDIyM0RLYmlOQVVOam9kc1lBN0hMS1hPaFpwcTNsTmRmbDZOU0VEV052RmJNNGdJRzVDT0hLZlIyWkgtSVFsMmxYMGdnc2tKSk9lelR4RGs2RmtmQ2E4aDZFbDBCa0lNc05MNVNOU2ktVU9KQlZOR2FudVRGYUxqaTRka290REttU0Y3MXU5NEhRWXlkMDhYS0lF?oc=5",
+          "date": "Mon, 21 Sep 2026 14:58:10 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IL",
+          "llm_subject": "Iran cuts office hours, expands remote work amid fuel shortages - aljazeera.com"
+        },
+        {
+          "title": "Iran economy shrinks 10.1% during US-Israel war, official data shows - Firstpost",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2xXSjZqRXdjRjZQWEU1NHZSY1VyNmpNSUZzOEhuNlRkV2NRTDZxUEFTYmV1V0ZsMjRSMzJvQUhVbDM0NE1HaW1HaVNPamRuaVNNLVc0LUpvb1NmZURFOEt1b2txeEFBOUYxLUQ5dHMxRVpTMGs1RkJSeDBOZm9nMnJEbll3blRwb0U2RV82WFVnM2FaQnfSAZsBQVVfeXFMTm9ZaWpQSmJsaFZVdzc4aWw4RVp0R1JhdDVHdGczRElyanp6eS1XYy1mTHkxaTJHTkVQaWtBaVZCOGxpRlpqYUhfVGJESmpKcG1kSGVDZkxlRXBOSTdaVjhhSkFOQ3hhczluS01MdUtDelRHT2JndVpCd1BSWXpBdVB0OU9fcFhIOW9EZ2c5dnloUzVfWWszNnpwaEk?oc=5",
+          "date": "Mon, 21 Sep 2026 01:08:31 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IL",
+          "llm_subject": "Iran economy shrinks 10.1% during US-Israel war, official data shows - Firstpost"
+        },
+        {
+          "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war - aljazeera.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFNseXpCVmJUTWVPSTdnMG0yQUo1Zm5RQkVxM0dIVkxEOE5mYWxmcm1fSmNwekxacm83c3ctY21YVC1pb2FrUkhfQ0RTakRJb2d1S0hTSzVTNWNvc0tBSXBweUNSb3NJMXh6MVpuTUpwSEZtZW9PYWU3OVprMnhKNGQtdWtpZl9GWHhaVHJNNFdpZUtzTGJ1dEtWM2NING1JY004YTVsTFJmQdIBrwFBVV95cUxPam1TVjUtRDluV2pseWpDVVRUMFotNlFjVGtvWl8xUlNJODBocklZVDdFdExLYy1CNkszQkNDcmhzakFBLXFuVW1ob0I5ZUJybTdZTVd2d1NMc1BjRTNwMVdDRmpYRk56blBJR1BDcUU2eW9SN0ZwTDZ6QW1JWkZCQVVBeFdUT0huRHJIZzNMTnp4V3lMME93Z3ZON1dNVUY5OEo0WVVQUlgwdFB3a09j?oc=5",
+          "date": "Mon, 21 Sep 2026 10:44:53 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IL",
+          "llm_subject": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war - aljazeera."
+        },
+        {
+          "title": "Live updates • 14 Israeli civilians crossed into Syria and later returned to Israel, IDF says - haaretz.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNY3VQSjlWVkdycG8xOEN5NzVTZEl3bVpyd0ZKdHRNU0JoMkowbXhfeEZONGZfRHpoNDlmYWtYVEQ0azc4Um1DaURNZnFKM3N6TDBOTVVOYTNEOFpOcjZoSW9aOEtDOWZsTkRpZmpzN2Z5WEw4N0tFeDVnblZQWjA5RkJWdmh1LVlrd19GcVg0czBIZmRJSTdpa0VzbklBRXpVTndyelJXczFTaUN4a1hiT2wwWUNmdnN6NVg5ZG5hRzV6VlMxMkg2b3RidHhMblRZc2VNX2I0RldQOUp2QkhUdjYzTFBsVkFnaHB6Z0trLXA2aXRQbTVqTmY4eFVITVZjR0s0cGlaT2JvQl9ub0NMZ0k5RnpnUQ?oc=5",
+          "date": "Tue, 22 Sep 2026 19:57:00 GMT",
+          "source_country": "IL",
+          "country": "IL",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IL",
+          "llm_subject": "Live updates • 14 Israeli civilians crossed into Syria and later returned to Isr"
         },
         {
           "title": "Houthi attacks deepen Saudi-Israeli security cooperation - The Jerusalem Post",
@@ -31405,10 +31510,10 @@ window.WTI_DATA = {
           "llm_subject": "Saudi Arabia Faces Growing Pressure as Israel Security Role Emerges - GV Wire"
         },
         {
-          "title": "Do Israelis feel any safer now than they did on October 6, 2023? - aljazeera.com",
+          "title": "Israel may soon learn occupation and devastation are no guarantee of security - SMH.com.au",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGdPRERDNThhQWc2eXZVT3RBSGlNUzdFaGRWa1g2Z3JzRi1yTG84WW5FVTZZLU1hRE9SNzE0RERoZGRVUk90alUtTGRkRUN0d0VDUWZ2RFZManVDeGxpT3NpV1BURjhfNGFVVV9vQVU3QV9HQWRiTmlNcmh3dGhBM2taZ2p6STllTVlLREdiRGwwT1FqdkNIbUx3b0lFNDJ6Q1pxZ0ZR0gGrAUFVX3lxTFB0c1p2bXJlMnEzNFFQc01DQ0w0U2prVDJnR0VhbjRNRnR2bjNXeERGM3M3aGVGWUxwdUQ0QV9RRkRDTS1DOENKQmxCVEtNOVFJak5zOHc3S3lUOHh1ZzRsSHV5YUFfOFdOR0lfb3lGMnpEU2NzMVh6bDN1SU1xNlFNaGkzMHhkaUNoNTlzWkxmWEg3NDI2bjl4S25TVlNlQ1hqaVVucEMyWW1TRQ?oc=5",
-          "date": "Mon, 21 Sep 2026 10:01:27 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzZ6cjJoLWY0TXhCdGhqdFctWEFuelBvb09qcEt5MHlJUUNrX3RnR3pMeUtRVUM3Rk13UlJmR2hiUDVuMXBNWURrem5hM0U2d3RYZUphQWdjbFFxVWl4Sm0zQkZwTFVKMFIta3oxSWVGWlBMZ0FnMG83dzM4UjZtc0dFeTNHTjlHYVZnXzd6SG8xVllEUTlfQlNySmg2WGVnUHN0WmZEYml3M25RNDZWNy1DUzJtaVg1NzJRUUdtc29LcURndWpSQUFYbTB1eERqajFUMWNR?oc=5",
+          "date": "Tue, 22 Sep 2026 19:00:00 GMT",
           "source_country": "IL",
           "country": "IL",
           "category": "neutral",
@@ -31417,7 +31522,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IL",
-          "llm_subject": "Do Israelis feel any safer now than they did on October 6, 2023? - aljazeera.com"
+          "llm_subject": "Israel may soon learn occupation and devastation are no guarantee of security - "
         },
         {
           "title": "Acute Threat to Israel’s Water Security: Who is Responsible? - Pressenza - International Press Agency",
@@ -31435,10 +31540,10 @@ window.WTI_DATA = {
           "llm_subject": "Acute Threat to Israel’s Water Security: Who is Responsible? - Pressenza - Inter"
         },
         {
-          "title": "UN General Assembly week in NYC: What to know about street closures, security - ABC7 New York",
+          "title": "Macron: Only sovereign Lebanon can disarm Hezbollah; condemns Israeli violations - haaretz.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHZ5WkRpdklodUFpbkxPa2w0Q1g1MUZVNHJfQWRZV3I4Q180cWUwT29mMXlNLU1qUl9LUFRjTjg5MUtFel9qd1lDcWpFbHdiUzNSQlZYTm9FWjBmaEczZ1k0eVNFV3c1QXp0MUhHQ0NXSkZQa3hYdTRpQWVWYW1hRTRzQzhfd1RnT09xVmc2Mkg3YzlVdmNvYnN30gGfAUFVX3lxTE4yajYyVXRUZDFObHV0UGJOZHBZYUdiR0RKZGpnbEpwSE9MTDNhVFVZMHduZWVpMGxiV3F1WHBScTlEQ2RUMUdTZ3ZSZ3h3MVJvek8zTUIwRHkzczRFMUlZWWV0MmVUSm1sX09qNkFIamxKdngtV09tdDE2ZENMTFEtNlhqbGhYcmtqQjI1MW5wdUhqTGpfd1drS0JIeU83SQ?oc=5",
-          "date": "Sun, 20 Sep 2026 22:14:17 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdXhmc18tZ0dLdGFiZWVYbklRV3ZsaUYxeUxhX0VoU2phT0p2Mk5SODIxWjdka3hkSVdMbXRUQmQxdHlmdW8wQnFSckd4UXRtcHcwY2I1aWc3Vk5MbnM2dFJYWGhGRVNhaGlhQ3FHVkpta2JFLXV0VVJ4bHN3ZF9ZeXlVTkJleXhHR3BFaTVjbHJOLWRQc3dOc19qN2pZY3AwUFNfZFZFM2RLZDQ0RHpmMnVHR2pLX09JUnJicVlOLXN3VVdhVHBnSC1FMkdCWDlGMW54ajNRbFNhX2V2VzdJbFBNX3d3N1JsUm5GbjRibmw2WmNvT3g1SDNwRW51RktnSU1ZTUFJWnFMSFBVczZfMlVLZVZORmhN?oc=5",
+          "date": "Tue, 22 Sep 2026 19:50:00 GMT",
           "source_country": "IL",
           "country": "IL",
           "category": "neutral",
@@ -31447,7 +31552,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IL",
-          "llm_subject": "UN General Assembly week in NYC: What to know about street closures, security - "
+          "llm_subject": "Macron: Only sovereign Lebanon can disarm Hezbollah; condemns Israeli violations"
         },
         {
           "title": "Arab states, Israel expand regional air defense cooperation under CENTCOM - The Jerusalem Post",
@@ -31465,10 +31570,10 @@ window.WTI_DATA = {
           "llm_subject": "Arab states, Israel expand regional air defense cooperation under CENTCOM - The "
         },
         {
-          "title": "Gaza City will be evacuated if another Israeli abducted, defense minister says - Haaretz",
+          "title": "Do Israelis feel any safer now than they did on October 6, 2023? - aljazeera.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZjFNMk1zNVZzcUZKREFIOHBGNTFqeDR6eVkxdWlaWXBfeUN4cUhEelJadFBXS0ExbEJhYWN3RUFDZm9ZQlc1R3hfQ3lRbURHbjdoRV91QlRKRVFtdWdjeUVjVlh3d1REdHJUaDJJMTRaamxaM29oa0lqbTB6U3p5MEVBZFRSYjdUQ25nRDlSOHl3RndCQ3IzYkREQzhRSjV4bHRsSWZDQzNFY01CZWx1WS16bVpMR3MybnJob2hUQWhUeHlTQjNrN0ZkbWNOVUpxS2FuVmE2eTRXS1kxcVJwbmM5MndIYkFxMGxhNHpVQXFZcHhxNUZiN2VPTW5na1ZBZDNsUTN2WmRzcW9Fa2NxbFBLYUZUS254eHhacFBjQmZWOTg?oc=5",
-          "date": "Tue, 22 Sep 2026 12:25:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGdPRERDNThhQWc2eXZVT3RBSGlNUzdFaGRWa1g2Z3JzRi1yTG84WW5FVTZZLU1hRE9SNzE0RERoZGRVUk90alUtTGRkRUN0d0VDUWZ2RFZManVDeGxpT3NpV1BURjhfNGFVVV9vQVU3QV9HQWRiTmlNcmh3dGhBM2taZ2p6STllTVlLREdiRGwwT1FqdkNIbUx3b0lFNDJ6Q1pxZ0ZR0gGrAUFVX3lxTFB0c1p2bXJlMnEzNFFQc01DQ0w0U2prVDJnR0VhbjRNRnR2bjNXeERGM3M3aGVGWUxwdUQ0QV9RRkRDTS1DOENKQmxCVEtNOVFJak5zOHc3S3lUOHh1ZzRsSHV5YUFfOFdOR0lfb3lGMnpEU2NzMVh6bDN1SU1xNlFNaGkzMHhkaUNoNTlzWkxmWEg3NDI2bjl4S25TVlNlQ1hqaVVucEMyWW1TRQ?oc=5",
+          "date": "Mon, 21 Sep 2026 10:01:27 GMT",
           "source_country": "IL",
           "country": "IL",
           "category": "neutral",
@@ -31477,13 +31582,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IL",
-          "llm_subject": "Gaza City will be evacuated if another Israeli abducted, defense minister says -"
+          "llm_subject": "Do Israelis feel any safer now than they did on October 6, 2023? - aljazeera.com"
         },
         {
-          "title": "What will Israel bring to its most important alliance? - opinion - The Jerusalem Post",
+          "title": "Qatar: If Gaza Aid Reached Hamas, Israel Bears Responsibility - haaretz.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SaS1EQ2hYYVR6N2lTc3VNOU9OdHR4WGRaNXVBeDdNR3FPMWkteUtkNXh5WFNIOHUxd1VkajZIbW03b2M5T2praDZIb0trcUJBRkl6MGVqZjRmWHdjVVdfRjkzaw?oc=5",
-          "date": "Tue, 22 Sep 2026 05:18:37 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdDNUX0Q0eGIxUzVYLWNZeWF1VGhqaXk3bzAxWWxEQ0pjY1RDcEc0SGFxVDJiV1dSc09uWWF1bldQR1RZdGFhSmtSZUEyT29vUWUxX21XakYwZkxWRWFqNHdfVkt6V0tHTnBYZVlEZTNjU3RKRF9OR2tpejFlaUtJSmxyWjdkNE5Va1VBeDdzbmVmZFJHRGZlbndMSDV5bURWU2NBYlNFVDdCcWl5S2hQdWVBTThUR2p1VEtIS01CTmptWkxSaFpOSFZGVnNjVWpUUTBMQnZ0Ry11cnF5enY0M1llY0pOb2JLa3p2WklHOEV2bE9RemJyb1JLSno2bVBOczA1SGs2RERqN0U?oc=5",
+          "date": "Tue, 22 Sep 2026 09:41:00 GMT",
           "source_country": "IL",
           "country": "IL",
           "category": "neutral",
@@ -31492,22 +31597,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IL",
-          "llm_subject": "What will Israel bring to its most important alliance? - opinion - The Jerusalem"
-        },
-        {
-          "title": "Analysis • Trump's arms deal exposes the illusion of Netanyahu's 'Sparta' vision for Israel - Haaretz",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVHZpQlFsYlJNMHBwSVA4VWtsVHpWZzNWY21tMGU1X1M2aXV3bzBNbkpKLUxDaHEzNWZRMkhaenRQSTNuWThxTWxQb2pkSG1uVzktTHAxNWJxRzFJYXkwX0luQjZZV2JRUGFQNlVvbHRLeUtKLXhfWUc3Si1mQ280aEdTZWZxR055X2dnbEo5V09OdDlmQWQwdEZCNTBMdjNRQUNwWTRxSFF6czF1dDdJZ0MwYzZLdGZkV0JkWEhtSFdETkVaOGdfZGpJWllLZklOeTdqNzYtbUtuZGpnWFhxTFY4cjBPTGsxWXhPdl9qQWZtcDZXU2U2MmdhU1BFeWJfdVd0LWJ3aTEwRi1VNGVDX1daQ25VU1Y5?oc=5",
-          "date": "Tue, 22 Sep 2026 12:00:00 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IL",
-          "llm_subject": "Analysis • Trump's arms deal exposes the illusion of Netanyahu's 'Sparta' vision"
+          "llm_subject": "Qatar: If Gaza Aid Reached Hamas, Israel Bears Responsibility - haaretz.com"
         },
         {
           "title": "Negev teen charged over 45 TikTok reposts praising Hamas, October 7 massacre - The Jerusalem Post",
@@ -31525,10 +31615,10 @@ window.WTI_DATA = {
           "llm_subject": "Negev teen charged over 45 TikTok reposts praising Hamas, October 7 massacre - T"
         },
         {
-          "title": "Israel fears Syria’s army rebuild could create new regional power - The Arab Weekly",
+          "title": "Gaza City will be evacuated if another Israeli abducted, defense minister says - haaretz.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUnM1Umo5X1NxTi1CVHpOdW1sTkFHMUExMExublA1NWNlVE9pZ1Y2dmViZFE0QlNQU3lWS2w3bnhfaFNvWW1rcjNMY3h3cGRDM0hSRXpuOUh5X01mSXlCNUdzXzVHSFNuUUpJZERqdlhYd1Bxei1xbm8tcU91eTZkLW83Nk1nd2t4dHU4RG9UbUpBNC0w?oc=5",
-          "date": "Mon, 21 Sep 2026 08:17:22 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZjFNMk1zNVZzcUZKREFIOHBGNTFqeDR6eVkxdWlaWXBfeUN4cUhEelJadFBXS0ExbEJhYWN3RUFDZm9ZQlc1R3hfQ3lRbURHbjdoRV91QlRKRVFtdWdjeUVjVlh3d1REdHJUaDJJMTRaamxaM29oa0lqbTB6U3p5MEVBZFRSYjdUQ25nRDlSOHl3RndCQ3IzYkREQzhRSjV4bHRsSWZDQzNFY01CZWx1WS16bVpMR3MybnJob2hUQWhUeHlTQjNrN0ZkbWNOVUpxS2FuVmE2eTRXS1kxcVJwbmM5MndIYkFxMGxhNHpVQXFZcHhxNUZiN2VPTW5na1ZBZDNsUTN2WmRzcW9Fa2NxbFBLYUZUS254eHhacFBjQmZWOTg?oc=5",
+          "date": "Tue, 22 Sep 2026 12:25:00 GMT",
           "source_country": "IL",
           "country": "IL",
           "category": "neutral",
@@ -31537,52 +31627,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IL",
-          "llm_subject": "Israel fears Syria’s army rebuild could create new regional power - The Arab Wee"
-        },
-        {
-          "title": "Senior Syrian figure: 'Israel missed a historic opportunity' - www.israelhayom.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFNFaTZfUjNna0RCN2d2X2cwX1FycWFBNzkyc3RrM3pnbFdIOGR0X2x6Y1JER3k3blpWRlF6VWkyRklvRGtQTkNTT3dEN3JJS3IxRFphc09GYnRQOU1QWFdOQWhrZlpzUnlKRWtVTFJoUmlTMldXQ3Y3ZFZXaFh1eEFSQWtIRmZ4eHQ0V1VncWl2cnVKeUNRcUh4dU5sdw?oc=5",
-          "date": "Mon, 21 Sep 2026 19:37:08 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IL",
-          "llm_subject": "Senior Syrian figure: 'Israel missed a historic opportunity' - www.israelhayom.c"
-        },
-        {
-          "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’ - aljazeera.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw?oc=5",
-          "date": "Sun, 20 Sep 2026 20:13:39 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IL",
-          "llm_subject": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’ - aljazeera."
-        },
-        {
-          "title": "Ex-Fatah official: Israel and Hamas were close to reaching deal before Oct. 7 - Haaretz",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkRQOFdSUF9VMm1DUlNzdlFmZmhRXzN6cHJ6dVQ2akswTlJQME1QZEh6eVo4N0h1TzJmNEo3TndocmJBZklkWUZyVFZvWU9oeW5EYUk3czBtT1A4bVc5a3Yyb1lFM2hpTVJISW55MkwtMTNXdWhNYTZ0U2N2R1ZYd2oyQWg4WGNvZmM4MmNhNjhubGl2SGl1TUItWWdsNXZEZ1NUWE9XdExEZXdVdWhxd2JHWERzbVRja1ZsY3VXSlpOalRnWENCMWpVamJsbDVqNnk0Q2U2amJyZ2RwZG92RVUyeVpKX3JPRDU5a2doQ1pYMkdJTlA4RGtvczAzZnhFUXc?oc=5",
-          "date": "Mon, 21 Sep 2026 09:01:00 GMT",
-          "source_country": "IL",
-          "country": "IL",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IL",
-          "llm_subject": "Ex-Fatah official: Israel and Hamas were close to reaching deal before Oct. 7 - "
+          "llm_subject": "Gaza City will be evacuated if another Israeli abducted, defense minister says -"
         }
       ]
     },
@@ -31776,10 +31821,55 @@ window.WTI_DATA = {
     },
     "LB": {
       "name": "Lebanon",
-      "index": 4.61,
-      "raw_score": 2.13,
-      "status": "ELEVATED",
+      "index": 3.87,
+      "raw_score": 1.6,
+      "status": "STABLE",
       "events": [
+        {
+          "title": "FM Raggi meets Lebanese community in New York, highlights ties to homeland - LBCI Lebanon",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa28xc0lseG1rY20tQkZXT3F5N3ljcWoxd0JxRHpZekJjdzI1cmNVYThXdlVIT1hnR21oUnJWRmxBUVBwVFJkR2N6R0hKSDZXX0s0M25KTkhPeGc0VWZHZ3dod1VodTc2WEJ0NjNjLVIyS2s4R09BYVBVaTdyR2ZkZGZHZzZaNkVGV0I5aDlRcTFuQ2EwVF94bVphZEZJZGxwWmR1Nm5YTEk1eGo2NFNIVWFWaGtCaEcySkNOc3lBZw?oc=5",
+          "date": "Tue, 22 Sep 2026 16:27:08 GMT",
+          "source_country": "LB",
+          "country": "LB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "LB",
+          "llm_subject": "FM Raggi meets Lebanese community in New York, highlights ties to homeland - LBC"
+        },
+        {
+          "title": "From fuel to food: Global energy crisis deepens cost pressures in Lebanon - LBCI Lebanon",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVFlU09VOWdYYVh3NjhHeTZNTlE2aVVYUno4V3RMX1RTR0pVc2h4Vmk2MlVPWlI3NlFJWVYtVDY2UFFjLVV4ejJQVlBqaFpQUlBSS1E2cDdjeFRhZk1Ma2l6Y1ZQSWFlNkJkSkZ1M2l6bVVyNUYzNkdtQm8tVXJhSVFxZ3JhWU5aa3Q4N1BCZHZDR2RJeC1od1RGS210RjNWX3dTdkd2N3pfUnJabEJCSy00dnZnMWloRGJqQzVFVVJsdThYcS1MU2t4TQ?oc=5",
+          "date": "Mon, 21 Sep 2026 16:58:00 GMT",
+          "source_country": "LB",
+          "country": "LB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "LB",
+          "llm_subject": "From fuel to food: Global energy crisis deepens cost pressures in Lebanon - LBCI"
+        },
+        {
+          "title": "Macron: Only sovereign Lebanon can disarm Hezbollah; condemns Israeli violations - Haaretz",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdXhmc18tZ0dLdGFiZWVYbklRV3ZsaUYxeUxhX0VoU2phT0p2Mk5SODIxWjdka3hkSVdMbXRUQmQxdHlmdW8wQnFSckd4UXRtcHcwY2I1aWc3Vk5MbnM2dFJYWGhGRVNhaGlhQ3FHVkpta2JFLXV0VVJ4bHN3ZF9ZeXlVTkJleXhHR3BFaTVjbHJOLWRQc3dOc19qN2pZY3AwUFNfZFZFM2RLZDQ0RHpmMnVHR2pLX09JUnJicVlOLXN3VVdhVHBnSC1FMkdCWDlGMW54ajNRbFNhX2V2VzdJbFBNX3d3N1JsUm5GbjRibmw2WmNvT3g1SDNwRW51RktnSU1ZTUFJWnFMSFBVczZfMlVLZVZORmhN?oc=5",
+          "date": "Tue, 22 Sep 2026 19:50:00 GMT",
+          "source_country": "LB",
+          "country": "LB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "LB",
+          "llm_subject": "Macron: Only sovereign Lebanon can disarm Hezbollah; condemns Israeli violations"
+        },
         {
           "title": "South Lebanon faces possible security gap as Unifil withdrawal nears with no successor agreed - thenationalnews.com",
           "translated_title": null,
@@ -31796,21 +31886,6 @@ window.WTI_DATA = {
           "llm_subject": "South Lebanon faces possible security gap as Unifil withdrawal nears with no suc"
         },
         {
-          "title": "Salam says Lebanon moving to strengthen state control over arms - سانا",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zZlZvNHFZNzBCZlhVQUZvRk9sU3Z1RC0tRC1EWmc0VDlJNXFNTUxmcjhqTld2VUNwbUk2QzhEU09KdkJjZ3dkOFZmaTBpYVFqVDhr?oc=5",
-          "date": "Tue, 22 Sep 2026 11:31:24 GMT",
-          "source_country": "LB",
-          "country": "LB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "LB",
-          "llm_subject": "Salam says Lebanon moving to strengthen state control over arms - سانا"
-        },
-        {
           "title": "UNIFIL: Security Situation in Lebanon Remains Fragile... - jordannews.jo",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUd0dmY5d1FuRlRvMDNoQ1R6aXBXTkZhd1VmczRBQ256ZEZKR2F0RS1wQVk0MU84RUhmN2RiNVhINzA1cWl0X0Q2SDdNT3VQVWNBcVBveXVLRHZFeUtQb2MxTTdVdHY5VTRyOHV3UkxMUXZOUEM5dkotbWk3cXJ3VkNubFlZSFlkWW55ZzBaendhOGZkZ0pVcVJRT2tmclNROWRzMENNNEN6ZUE?oc=5",
@@ -31824,6 +31899,21 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "LB",
           "llm_subject": "UNIFIL: Security Situation in Lebanon Remains Fragile... - jordannews.jo"
+        },
+        {
+          "title": "Salam says Lebanon moving to strengthen state control over arms - سانا",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zZlZvNHFZNzBCZlhVQUZvRk9sU3Z1RC0tRC1EWmc0VDlJNXFNTUxmcjhqTld2VUNwbUk2QzhEU09KdkJjZ3dkOFZmaTBpYVFqVDhr?oc=5",
+          "date": "Tue, 22 Sep 2026 11:31:24 GMT",
+          "source_country": "LB",
+          "country": "LB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "LB",
+          "llm_subject": "Salam says Lebanon moving to strengthen state control over arms - سانا"
         },
         {
           "title": "Lebanon warns of security 'vacuum' as UNIFIL exits - Breakingthenews.net",
@@ -31856,21 +31946,6 @@ window.WTI_DATA = {
           "llm_subject": "Trump signs security deal with Greenland, Denmark at UN - LBCI Lebanon"
         },
         {
-          "title": "Lebanon needs international force after peacekeepers leave, PM tells UN chief - Free Malaysia Today",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWWNuTzBSYy1ZeEhYYkZETXpzOElzcHY2UVFZV0ZkMG1pSnpkdFMzZTdDbEZma0M4Y1M3SXhVemw0SWpkOEVXTW9qNk9SNVRJcEZKRmI4dTV2STBxVTdVSmEyS09ETDN3U296TWh4eU1QazRLVDktdGlkcjl5cXQwbmxxNS1EZEt3azZwMS1GYzUwYktIS3h0S1EyYzJZcjV5TVVuZl9tekpuUjRuM3E5WlZWTVF3SGM4Qk0xS1E4RkM3TzJHX0RTSU1aU3VJUHFPbVE?oc=5",
-          "date": "Mon, 21 Sep 2026 22:43:07 GMT",
-          "source_country": "LB",
-          "country": "LB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "LB",
-          "llm_subject": "Lebanon needs international force after peacekeepers leave, PM tells UN chief - "
-        },
-        {
           "title": "Lebanon Seeks UNIFIL Mandate Extension amid Lack of Agreement on Alternative - ASHARQ AL-AWSAT English",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzRTU184eXN0bVNhZ3BTSERVcVpKY2R6ODVrVWtGa0lLNXlYLVA3N3l1NkFXcDBmR0VIY0xkRjlQa2JwMFh1Tm15TTgxbWVIOXFQV2tuS2ZPSi1JSUxBdGZ1TjkxdWdNTmhyODRKaWljLW15RnUycVF5MXNOWDJ6aV9iaGFYZDlmNXZpempqM2xmWWJ3dlVXSUR2VURnckFKQVlkOWxwNmRIUGZreFlUODlKbXltcHc?oc=5",
@@ -31901,10 +31976,10 @@ window.WTI_DATA = {
           "llm_subject": "Lebanon claims its advances negotiating with Israel and accuses Hezbollah of put"
         },
         {
-          "title": "FM Raggi meets Lebanese community in New York, highlights ties to homeland - LBCI Lebanon",
+          "title": "Lebanon needs international force after peacekeepers leave, PM tells UN chief - Free Malaysia Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa28xc0lseG1rY20tQkZXT3F5N3ljcWoxd0JxRHpZekJjdzI1cmNVYThXdlVIT1hnR21oUnJWRmxBUVBwVFJkR2N6R0hKSDZXX0s0M25KTkhPeGc0VWZHZ3dod1VodTc2WEJ0NjNjLVIyS2s4R09BYVBVaTdyR2ZkZGZHZzZaNkVGV0I5aDlRcTFuQ2EwVF94bVphZEZJZGxwWmR1Nm5YTEk1eGo2NFNIVWFWaGtCaEcySkNOc3lBZw?oc=5",
-          "date": "Tue, 22 Sep 2026 16:27:08 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWWNuTzBSYy1ZeEhYYkZETXpzOElzcHY2UVFZV0ZkMG1pSnpkdFMzZTdDbEZma0M4Y1M3SXhVemw0SWpkOEVXTW9qNk9SNVRJcEZKRmI4dTV2STBxVTdVSmEyS09ETDN3U296TWh4eU1QazRLVDktdGlkcjl5cXQwbmxxNS1EZEt3azZwMS1GYzUwYktIS3h0S1EyYzJZcjV5TVVuZl9tekpuUjRuM3E5WlZWTVF3SGM4Qk0xS1E4RkM3TzJHX0RTSU1aU3VJUHFPbVE?oc=5",
+          "date": "Mon, 21 Sep 2026 22:43:07 GMT",
           "source_country": "LB",
           "country": "LB",
           "category": "neutral",
@@ -31913,37 +31988,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "LB",
-          "llm_subject": "FM Raggi meets Lebanese community in New York, highlights ties to homeland - LBC"
-        },
-        {
-          "title": "UNIFIL marks International Day of Peace as South Lebanon continues to bear impact of conflict - LBCI Lebanon",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYms0alp0WWdLOXZtZDdCWFNuYjVyWFNCSVBFYlVqUUotRkZsTV9CSXhXdC0wSEc2TWpxNS1xRko3Q3daMGMzWmVZOWJrU2Vwalh4Z3R0cjc4VjFSQ2YtNUNuRW9YZVY1V2ZoQlMxVl9fdWowTG52aERkblFqVjVYX2lvc0hxOFU3REk4UG9BOENmQnBnQzdsZEZaYnpWZDh0UFZEdV9rNXYxTlhENkxWWW9McEdPMWJsaHJSLWhB?oc=5",
-          "date": "Tue, 22 Sep 2026 07:58:25 GMT",
-          "source_country": "LB",
-          "country": "LB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "LB",
-          "llm_subject": "UNIFIL marks International Day of Peace as South Lebanon continues to bear impac"
-        },
-        {
-          "title": "From fuel to food: Global energy crisis deepens cost pressures in Lebanon - LBCI Lebanon",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVFlU09VOWdYYVh3NjhHeTZNTlE2aVVYUno4V3RMX1RTR0pVc2h4Vmk2MlVPWlI3NlFJWVYtVDY2UFFjLVV4ejJQVlBqaFpQUlBSS1E2cDdjeFRhZk1Ma2l6Y1ZQSWFlNkJkSkZ1M2l6bVVyNUYzNkdtQm8tVXJhSVFxZ3JhWU5aa3Q4N1BCZHZDR2RJeC1od1RGS210RjNWX3dTdkd2N3pfUnJabEJCSy00dnZnMWloRGJqQzVFVVJsdThYcS1MU2t4TQ?oc=5",
-          "date": "Mon, 21 Sep 2026 16:58:00 GMT",
-          "source_country": "LB",
-          "country": "LB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "LB",
-          "llm_subject": "From fuel to food: Global energy crisis deepens cost pressures in Lebanon - LBCI"
+          "llm_subject": "Lebanon needs international force after peacekeepers leave, PM tells UN chief - "
         },
         {
           "title": "America’s Best Non-War Option to Finish Hizballah in Lebanon - Hudson Institute",
@@ -31961,21 +32006,6 @@ window.WTI_DATA = {
           "llm_subject": "America’s Best Non-War Option to Finish Hizballah in Lebanon - Hudson Institute"
         },
         {
-          "title": "Türkiye continuing efforts to help establish lasting peace and stability in Lebanon: President - Anadolu Ajansı",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2Vqa0xzOHdYVlZQY1RoNUMwekd2cXk2enl5UUxMT2tkYmZmR043ZmxqUFZyUTRBdVZiREp5YXc0TmFIVmR5OGlQczcxTlNlRzFGTWtuM0otcE9wNTkzdjRPX3otdjVtVTJZWXpkT0NUZE1wdGt1UHpHN2VPUUk5YlB6cUtjMDVRZlZnMURWeUx4cF9QYi1rUkV1NGRzLUZLRkc5b2t3azdGR3dHMWhCZkJaWDA3VHhTQ0ZYdTQwdi1BRjJHYnlwQzF0MGhpeXpD?oc=5",
-          "date": "Mon, 21 Sep 2026 21:57:33 GMT",
-          "source_country": "LB",
-          "country": "LB",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "LB",
-          "llm_subject": "Türkiye continuing efforts to help establish lasting peace and stability in Leba"
-        },
-        {
           "title": "UNIFIL warns peace remains 'elusive' in southern Lebanon - TRT World",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SZFFFSE9ZTkRqMjQtQVlfazlhM0taVVNtSEdybU1VZXpES2ZLUWlnYU1mWXdnOTdjLXN3YXZsLVc5VTBVdWI5WFh2QUpyUnN2Z3UxUVhUTmQ?oc=5",
@@ -31991,26 +32021,41 @@ window.WTI_DATA = {
           "llm_subject": "UNIFIL warns peace remains 'elusive' in southern Lebanon - TRT World"
         },
         {
-          "title": "The UNIFIL warns of the fragility of peace in southern Lebanon and points to the conflicting parties. - Demócrata",
+          "title": "Türkiye continuing efforts to help establish lasting peace and stability in Lebanon: President - Anadolu Ajansı",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVElIVS1BYnFDb05UZ29lUk5DeW4wVHdIN3g4bkZ1SS1odVdVZXQ0Q1ZlaVFRXzJmVENfY2cyeEF6QUlOUWNXWWZPWTlKckJzQ0xST2lrc282TWJEVVA2bGZBUE01d0RJSnk5Y3BxR2tJWVQ0OG5kdlNHRV9walAwS0daT0I4YmM3a1JHM1J3QU9KdTdkdkptZG9fRzhrYVJ5SjI2SXdSWTZLb3dHWlRUd08zdFlZWVNGUlAyV2t3dlNEWmk3YndyOF94SFdNWUM4anF1dzFpcUVFMEHSAeABQVVfeXFMUDFtT3NyblI3WFliUjBjc3pqajRwb0V0VW1PMWFjUlJvcWd6STF5YzlrMGUxLTZrVDYtN3FwdzdtVWUzV2FjVUlqY2duNDdVVXhFcHV5YnJTRHNLNEZtbGh4S05sU0xjUVFXN0dXVEJOeDJqQmNBVmRiZnlGRzNLc0VFclVNLU9zWXF0VmVhdkRvZG5VbnBTYjEwY0lmR0NRTDdHRExqbnpRbWhoLXYyZzdtc182V3hHSVlMVWxNUlhZM3ZZRnVPWmdDTHpaZWtNdVZNcFF3RHVWR0l2dTNWdDA?oc=5",
-          "date": "Tue, 22 Sep 2026 14:26:45 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2Vqa0xzOHdYVlZQY1RoNUMwekd2cXk2enl5UUxMT2tkYmZmR043ZmxqUFZyUTRBdVZiREp5YXc0TmFIVmR5OGlQczcxTlNlRzFGTWtuM0otcE9wNTkzdjRPX3otdjVtVTJZWXpkT0NUZE1wdGt1UHpHN2VPUUk5YlB6cUtjMDVRZlZnMURWeUx4cF9QYi1rUkV1NGRzLUZLRkc5b2t3azdGR3dHMWhCZkJaWDA3VHhTQ0ZYdTQwdi1BRjJHYnlwQzF0MGhpeXpD?oc=5",
+          "date": "Mon, 21 Sep 2026 21:57:33 GMT",
           "source_country": "LB",
           "country": "LB",
-          "category": "military_conflict",
-          "weight": 8.0,
+          "category": "neutral",
+          "weight": 0.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "LB",
-          "llm_subject": "The UNIFIL warns of the fragility of peace in southern Lebanon and points to the"
+          "llm_subject": "Türkiye continuing efforts to help establish lasting peace and stability in Leba"
+        },
+        {
+          "title": "Sánchez holds bilateral meetings with the leaders of the United Kingdom, Lebanon, Panama, and Namibia at the UN Assembly - Demócrata",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXNkbHdJZGxIS2lOX05rU2RSTWJORnJYeE9QZFFDOEtueDRtRDVZOUVMS3Q2QXNPSUVxOFpYa19jeWg5QkVpN2JuME5NOUVuRzA2VURIT0lhdXRyUkZjdTNIZDVoQnpvcGNFMWxwVEY1d3hNVDg0bVJMY2Rjal9mM0lpQWlMQTRMT2tzNjB2ZGdSZGlydUFkTThTZ0dSVk1RMWdlTzR6QVkwZDBnVTI2V1VwTlhvWWlBcnN6NTJMdXAxV3pkNnZrV0N4TW9rUXhNazQ3cEg2aE1UellsTktpMFZZYTgtNl92ckZn0gHwAUFVX3lxTE8wRzk4TTlmQVBseEgwdHBPRFR1WWp0ZWhKTzU5TWNjRTRoQTFPdnR2Wm5KclR0M1BhekhBNnFGeF9lTVNVY3JqYU1ISS1oYU1oMlhfNTE1MHRGT2NtdVktZEhLZG51N0FxVlZCa2Z0bHRoRG9pRWx5akRNZVZCUTZ1Tk9QQVRLRGV3ZVFMMWJLdlNuVmlIUzRjX2xlX3NPNm5HclNsckwtWlF5YUF2TFJBVVYwdUNZVHJuX21rZDY2Z2JqaEpGVG9hQjBIQnBzUTdsLVVTeGJvWnJzTWQ1WUVvNl92elZfNFBYaUNZajMzQw?oc=5",
+          "date": "Tue, 22 Sep 2026 19:20:45 GMT",
+          "source_country": "LB",
+          "country": "LB",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "LB",
+          "llm_subject": "Sánchez holds bilateral meetings with the leaders of the United Kingdom, Lebanon"
         }
       ]
     },
     "MA": {
       "name": "Morocco",
-      "index": 2.08,
-      "raw_score": 0.53,
+      "index": 1.0,
+      "raw_score": 0.0,
       "status": "STABLE",
       "events": [
         {
@@ -32029,22 +32074,7 @@ window.WTI_DATA = {
           "llm_subject": "Morocco holds elections after mass migration attempts and deadly youth protests."
         },
         {
-          "title": "Morocco holds elections after mass migration attempts and deadly youth protests. Here's what to know - The Killeen Daily Herald",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZVd1WDhlY0xFdllXak41NDN3Tk1taXB3WE5WV1oxUWdnS1luLUJxdURDOEpOQTd2eWswQUZSV3M1V0tMUWR4UlA3TmdTbk1nbWlBVWJ2ZGw0b0IwTG05LXBnWE8xZ0pyT0pWWTkxMUlVaUEtZ0NRMld6MlVYLWhWNGRGNHY2Q3FIaW05M2JNSktxZExrZGtDVk1GSlJEdWZMczBtNlpOUkZRRTZVZExySGgteHpESjJKUEdFeXhIWVE3V0RTcUQ5eVU3dGFKME9KUWozRjZOSjlLVmR3T2xWcENEcE43V2dwclZPb29XMlFPNHRTQVh4N1UtcEhZc1VDRGtmbTFmMHo5SUU?oc=5",
-          "date": "Tue, 22 Sep 2026 12:07:15 GMT",
-          "source_country": "MA",
-          "country": "MA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MA",
-          "llm_subject": "Morocco holds elections after mass migration attempts and deadly youth protests."
-        },
-        {
-          "title": "Mecklenburg-Western Pomerania: Why North Africa is so important to the economy + Morocco: What to expect after the elections - Table.Briefings",
+          "title": "Mecklenburg-Western Pomerania: Why North Africa is so important to the economy + Morocco: What to expect after the elections - table.media",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOal8wZFBJSkttbXc0QnJRdjN1bzZMaUxQaG1WRHIxRFRHVG0wVVlHY1dOUVg1VDhxUmh6dDdrWFBGLVFaZEp4Y0NWLVMxZE1RdEZIaV9jSzgwZTM2YzNuR2xQUmJ6RU5tZ1JuNlVrUFktVXRpOGxudVJha194T1l6aWtERkY5VnVKU3RXZ2FRV0N1OW1nbmdFVTFLUGhPbFVleUxfNHdGYUJFOXU2QWZHMENJY0xfYVlSMTNUaWFFX0duWjZER0pidmRJZ0w2dC1mTk9UVjNVRV9qOEpHRVFNOGFpUjNJRk5sNDdvZnFmR1RyUkdZMlI0LVNoNnU0amJrdGpoX3M0cw?oc=5",
           "date": "Tue, 22 Sep 2026 04:16:49 GMT",
@@ -32089,10 +32119,10 @@ window.WTI_DATA = {
           "llm_subject": "Bank Al-Maghrib keeps rates steady: What its latest outlook says about Morocco’s"
         },
         {
-          "title": "Morocco’s Social and Solidarity Economy Prepares Overhaul Under New Framework Law - The North Africa Post",
+          "title": "Morocco's economic growth expected at 4.4% in 2026 - HESPRESS English - Morocco News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS25lUlhacHFEamgyWEI2SkRvcUQzeS1sd2JwY0o1U3BrUjg3eEhPODV4MkhNTVQtS01hc2VfS0ZoSHhEY1drTlVlZzk3cUI0SFhWYzBVVGJwZVJPMzljVGhPdVZJLXNvcmQ2ZmE0RkhvcDEyalg4NmhudnBHaGNIVFNfY1JqeVo2OU94Qk94U2pLWmg5SmxtR0otWFFJY1c0WDl5eTIzcU1semtEM1NGRjNYdXJPU1RjVm5FMw?oc=5",
-          "date": "Mon, 21 Sep 2026 10:26:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWThjYjNSUHcwYTNSX0JDWmlOaDVXZXZoM2Y3SWl4aEVFWE9FbHJma0xqTDdqNVQyQ2U2UlhudVVRd2pfZHV6RDI1OEJsbmlFVDZ3ZmNoaDV6ZFZYWjlELUUzTXVhWENGV083b0FvdEUtalFLa0ZOZEZ0Z0IyVFRFc1lRc29hWWtnTWNhMQ?oc=5",
+          "date": "Tue, 22 Sep 2026 18:24:06 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32101,13 +32131,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MA",
-          "llm_subject": "Morocco’s Social and Solidarity Economy Prepares Overhaul Under New Framework La"
+          "llm_subject": "Morocco's economic growth expected at 4.4% in 2026 - HESPRESS English - Morocco "
         },
         {
           "title": "Morocco, Uganda Seek to Strengthen Bilateral and Economic Ties - Morocco World News",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTI4emJ6aWc3OThnNHpqWlh6ZUlCbUJxblVuRzBSSllNUWtiZ1c2alNwb2o2cGxBTXF4NXh6SThYanBGRWRKTnZMRlRhc3dWU2trUXJfSzdfd19aaFNVQ2N6aDRCU2FLTkQtUmoxaTNieGdzcUt6a0FNWFlMRmhHSWlFQkd0VFIza0xTNVJsR2ZkLVBfSFNZdUJfekNxTEw1ZzR1ajk1QmdJY3JwUjZF?oc=5",
-          "date": "Tue, 22 Sep 2026 12:56:15 GMT",
+          "date": "Tue, 22 Sep 2026 12:57:15 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32134,10 +32164,10 @@ window.WTI_DATA = {
           "llm_subject": "Can Morocco’s parties realistically deliver? Five numbers their biggest election"
         },
         {
-          "title": "Morocco vote to test youth’s faith in politics - Kuwait Times",
+          "title": "Marlink enhances safety solutions for Morocco Desert Challenge competitors - Satellite Evolution",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGFEb042LXMwelU1QlFYc2VYWVNSTkNtcm9WQnYxYlZJX3NXLWpFVWNVdFNlSTlNRW1CeWpkbDNIT0pJY2EyTjlIUU5vcEhQVjVmZEUtQnBQUDZRX1NxZm1BWmtkb2tNWGRfSEN2T3J0c29QV0lGcWxLZ3RQbDh4Qk5UeFpHNTBiU2hMLVZ5ZTRfZXZzLUZoX0JXSTl2d9IBogFBVV95cUxPSEk5VVRwUU9vM1AwNU9QNFFHSXYxYVhKajMzLTRiRGVKU3JzSTNfQm01NkRuWktGeERFNFVzNjN5TkRpTUpUM1Q0UWJCTG9ZUndzMVhjSThhN0lSSFBBam9qOUdUZTVoNGxWSDRMSGVzcTFkX0lPaTVYSkJOVFVENFdXekVrZlJqRnRjTTZSc3BfM0VPd1g4U2VBUWNlZFJ1d0E?oc=5",
-          "date": "Sun, 20 Sep 2026 18:20:32 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1k1RDk1RmwtQkYwZEgtdmtCQ1plUnpMcl9kcEw1RUpNcC0wdzRmelVlcEk1V2tIWW9qNzgwWmN1dGNFeTl1LUtUbmh3Q3dQQk1nZ0RwWGZTOU92NVFtcjVkcWo3ZUpUcTg3a00yQ29BS0NXWjBUakV1c0ZaOFBHS0ZtQlc2Q0JYNWtsSmVlandFWG1OOFl3WGo3T0hKMkp2R2ZLNDVheW4yVFV6S0stQ0ZyY1o?oc=5",
+          "date": "Tue, 22 Sep 2026 16:08:28 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32146,13 +32176,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MA",
-          "llm_subject": "Morocco vote to test youth’s faith in politics - Kuwait Times"
+          "llm_subject": "Marlink enhances safety solutions for Morocco Desert Challenge competitors - Sat"
         },
         {
-          "title": "Morocco’s youth take Gen Z protest demands to the polls - aljazeera.com",
+          "title": "Marlink expands communication and safety support for Morocco Desert Challenge - SatellitePro ME",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREhrMkxMVWtBVjU2SFFYV05qdnl3VnFCUEZ1SEJ5S3EwSkpUdkhMaEdFanVybkl0dEZiS2U2YjVXZ3picW9GRWE4d3MyNWlBMUtqSk5oVVdQNTROU29FQjhLbkJoc09sM3pkbWFBZ2RmelBDNlBuQTBZbXBLbndNME1ibXNsQlIzRHo4TlF3cXMyVFJ2NlF0am1aNNIBoAFBVV95cUxQeWJCcjVZSTJia3NOYVpBTmxMTjdGM3JCTmhKbTdEX3pGR3REWHZoNmpWaElIdmJQUTlxTEV3SkF1d2d4Y0JGNVRtOVA5Q0RQSG9iLU1CbDlpYURJanJVd2kwdTFoX015emVpVHFPTGlSQzJKNVozZkpVNVhmS0toX2x0S3VlUWRSVWVoUVFsanpPdTFGSGp2RmczZXVHaFli?oc=5",
-          "date": "Tue, 22 Sep 2026 00:11:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhsbVVsaXYwemhlN0Y5dHE3T2xPU01FYWMxUnJTcWpxTG1STWY1cHg0VERqV29WcVctUU9qOUFYNXdhTGJNN0pEMWFsVkZQR293MllwdzFvRFptSHdYOUhkMUNPb2hPb3U1T3c0UEc1b091dDZWN3NYTW94QkVQNUpZUnkwVVJTSVdjSXVHY2syWC1RMVh0cHl5SjQzUTlHZE4zdGIxUTNycDA1cWdB?oc=5",
+          "date": "Tue, 22 Sep 2026 07:52:07 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32161,28 +32191,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MA",
-          "llm_subject": "Morocco’s youth take Gen Z protest demands to the polls - aljazeera.com"
+          "llm_subject": "Marlink expands communication and safety support for Morocco Desert Challenge - "
         },
         {
-          "title": "Chile recognises Moroccan sovereignty over Western Sahara and moves towards a bilateral free trade agreement - Atalayar",
+          "title": "Algiers plays the Libya card again against Morocco’s UN Security Council bid - Yabiladi.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOGJYeldwWnVLV2E1NFJrcE5SS2RzeEFDTHZRQ3hfREhReE9LNmhVY3h4cmt0TkZTNVF4c3BDZUtTMkZ2bWN5VkhYMUlrbGNHQjdPOWkxNmdMYTgwQWRCRjlaN3kzTW9HakFnY0g2Mlg1M0EyNnBFZkZTZVhLMnYtc1VTWmlyZEs4bUtieWlrX1hwNVFQNkFMRjAxTW1sT3lpY2pWZTlSOEswdkdaT0lqU1hfdklwektXWTQzcDVENGZiOWltbmhxYm1ydUp6S2ZCb1FORXlaNFhkNnNacWZvQm03UzJVT2dVa0l6SVlQMGZBYU10eUgySXNqYTUwbm1VVndkWTN1cDg5Zw?oc=5",
-          "date": "Tue, 22 Sep 2026 11:06:36 GMT",
-          "source_country": "MA",
-          "country": "MA",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "MA",
-          "llm_subject": "Chile recognises Moroccan sovereignty over Western Sahara and moves towards a bi"
-        },
-        {
-          "title": "Young people in Morocco split over whether politics can deliver change as election draws near - Audacy",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS1jTTI3WkQzU3VQUVdmSHowd1ZocENvY05UMFhWN25uWUhuVURwZkcwT0tYMGEyRXozX0RLb2t3OHlIMWVvSzgwM3VuR1h6cTljaDR4TG93c09PZkptdU1SdDRpN3J3N3NHVjFhS1pxRnFQT2t1bTV4VXczOVc0UkJoRTNSaVowZ0Nja3J3U3VGTlFyTTFUQ0ZxSkZRUQ?oc=5",
-          "date": "Mon, 21 Sep 2026 03:08:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQby1PZHlESTZvWTV1cm8zX2xxUG1SREpxY0pIUm8xX3hiRXVSLTd6M1lDYnMxVmR5Mi1FQ1k2bGRUN3pqaE1yeTdvRjh0RUQ0c3NRc3lSM3RLcmZ0ZDA3TUdpekJwbVhXNHF2Q0NRaVBLdkdTUnRUVnpoUUVTbkNveUttY0txQnJGVDZN?oc=5",
+          "date": "Tue, 22 Sep 2026 09:48:03 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32191,13 +32206,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MA",
-          "llm_subject": "Young people in Morocco split over whether politics can deliver change as electi"
+          "llm_subject": "Algiers plays the Libya card again against Morocco’s UN Security Council bid - Y"
         },
         {
-          "title": "Morocco's 2026 elections explained: Everything you need to know - The New Arab",
+          "title": "Ifrane Police Arrest Senegalese National Wanted Over Hajj Fraud - Morocco World News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXlEY3RxSDd0dWQ4OE1BSEZHRkYwc29CUEV1amZHMkNMZ0UzeVNRY2liald4NzJobW81dVZ2THRGc2JKYUJFaEJUby1zT1pPMDBkNi1RdlhDSXhwTEhqa0d2amFEdmNvRi1WckdUVElRUUN2dlRlSU5GNWtQdXlyQzJWSS1yYnQtYm5tS2UtTUdKNFgwMUHSAZsBQVVfeXFMT3g3R0VFN0huOHYwc2g2c1JYa3BTZUVqTXZyN2V3MkxCNzA0alBCM3RweFVBanF3eHRGdk5fa2x6bUswTW94ck12WWpRUG1QWi1leC1Nb3h5RjN2UGRiYkh1WWhxZjhZalAydjQzMm9NWXcyOFZMeTdJWFZiek5pZXZ1TnY3U1RjU2IzeVNVdjFUTEI5TE5mSW9ZTGs?oc=5",
-          "date": "Mon, 21 Sep 2026 11:43:23 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaThNNzJ3UkIwUktpaklQcDFRQkJkZ1NCN3dKREd6ZkRLWGljTE0tNHBrWmhzWVRmUHNPS2JfZG04eGNXY3ZxZk1mMEFwd3FRUzdTbGdnV1dGSE50d1RBejFJeVVQYUZzLXJGeVByYU53ZmM2WlpYZ1QwTzN2QWJGU0UweFZhbDFHdWpQM0hLUHM4amJVaVQxOXJnNmowWEdmb29lajcxdWJscl9TVXJBVjdn?oc=5",
+          "date": "Tue, 22 Sep 2026 13:38:43 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32206,13 +32221,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MA",
-          "llm_subject": "Morocco's 2026 elections explained: Everything you need to know - The New Arab"
+          "llm_subject": "Ifrane Police Arrest Senegalese National Wanted Over Hajj Fraud - Morocco World "
         },
         {
-          "title": "Morocco vote to test youth’s faith in politics - Arab News",
+          "title": "Algeria, Morocco Rabat and Algiers step up efforts ahead of decisive UN Security Council meeting - Africa Intelligence",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTdsc2JNdEFJUUxwck1IZmlkUGx2WlI1R1d1YVlNRmEwdU5leGh1TXpQalFkc1ZZZzFmcVl3UlNHemo3VFNNTjM5SFZMTW8zeHNybHM3QXpJdzVKSDBJX3dIV0F5aUkzTDJLRkRPQW52d2paSzhscEJDTE5xMjBFbTFRYWRTTENtOUtqM1Z0V3FkTDVo?oc=5",
-          "date": "Sun, 20 Sep 2026 20:13:15 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdVhnYlRGZ0RIdzR2RkRCd0I2NWdoaGFUTFJhT0J3ck82VU1Xal9vZXBZbkFYWEM2eG5sRGw3clh6b3lpQll6NDlfcUFDa3N4U29Pd3VhOXF5ZzFidmNudk82dmEtaHB2a1ZoTWtSNE9EX3lzekZLMnB1NHZtdTJiU3hGUV9fYl9NM3l5bk5JTkxhc1FtUzRmUlVzaDhYd3lMdFBUdExYUm5oUW1IeUc3R2ZmcVVoV0ZNNmdJYW9BenJNazFJUHNxeHZ4S2YwVjRuWGhfMGFibVdLUVlZcGhmeFBrdzl4ckE?oc=5",
+          "date": "Mon, 21 Sep 2026 04:43:14 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32221,13 +32236,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MA",
-          "llm_subject": "Morocco vote to test youth’s faith in politics - Arab News"
+          "llm_subject": "Algeria, Morocco Rabat and Algiers step up efforts ahead of decisive UN Security"
         },
         {
-          "title": "Young people in Morocco split over whether politics can deliver change as election draws near - Ottumwa Courier",
+          "title": "Minister of Foreign Affairs, African Cooperation and Moroccan Expatriates, Mr. Nasser Bourita, highlighted on Monday, during a high-level meeting in New York on the United Nations “Women, Peace and Security” Agenda, the convergence between Morocco a - Africa24 TV",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYkJlTUdMUm5QZ3ZqUjZ5NjU0S3g3NW9GNVpMcjdndHZHSXFOUVhodmpQSzctcXZfdk1rVDNaNC15dW9FSU0xaEF6RjdrRThMMmVmNHBNT2I3ZU1DY2pqWGZnaDgzM01IVTN2ZXpxYjh5ZVl3amJmWDNXblVnWGU0eE9nYVhiZUZtTjFwcUctQThNSEpMUlBtUE16cFBYN3RUbkZGdEJaTVhZQ0xWQll6Y1BITEVqZWFSMjNNUl9xbVNyc0RkX3paSVd4NF9pdzBGMFF1ZWQyS0JXV2RmNmE4X1ltaTdpZTEwQWNkdHNabjR2UXVnZjRmSHhaUmJrT0h5b2Q3RHN2RmwxVC1MTFpvaXJjaWNJaC0zWUYtVWZ3?oc=5",
-          "date": "Mon, 21 Sep 2026 03:08:38 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPM2Z5UWxrTG0wQ1QzdXdFaGxpZnlWNlYtYmp2dUlHSkJRYzh1YnhJYVY4Q0pMa29WQWQzVnZROWltWnF0RTJtSUNKOU1iVTVhNnhESlRsX1gxR2hKeHZ6dVVHcFFYX2M2dkx1LU9CczcwemJzOVJjdjcwUU0yOTVLQUVFQmh5SVQ1aUEyM2pzSjRmRXVVSGJOemp6emhma1JwbDh3MUVQa0tNcG9qcGdwNVQxREVDeXdzMnBZWDJmSi1iZGs3WG1SVkx3RF9tX2pHNk5tZmM3dVQ0Q0tTV3F3ZmVWYkFZaXVVTHhncDM1ZzZwLXVhbFNJeEU1VS1Dakl6N0MzWlFyMEh0VlpySDZvYnFFY0Y5dmJ2VUJyUGRPeGxrUjdDN0xzTmo0X1pLWGJ3T0RN?oc=5",
+          "date": "Mon, 21 Sep 2026 21:35:52 GMT",
           "source_country": "MA",
           "country": "MA",
           "category": "neutral",
@@ -32236,7 +32251,37 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "MA",
-          "llm_subject": "Young people in Morocco split over whether politics can deliver change as electi"
+          "llm_subject": "Minister of Foreign Affairs, African Cooperation and Moroccan Expatriates, Mr. N"
+        },
+        {
+          "title": "Resilience Before 2030: Mega-Events Need a Control-Room Strategy - Morocco World News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGJOWUFUQWd1dEZhRnB2eloxeWczbGM1NGVWSEt2Yk9KTDlHRVJtUW0tb183TG01UDNTTWFaYzhfYWEwZ0VqR3QzaTBYSmxzTHY1UTNpZmlBM2tuMG52Zjl1d09waW9ST0xFRHV1RjVlMjVlSGFCX1VPU3RZM19zZXpMOVVuMlhXb3Q1WkJZYWI4eUFCU1RwN3AzRTZSZ3BPaTd6Z3ZUcGctYVE5VlFIVTB3?oc=5",
+          "date": "Tue, 22 Sep 2026 10:55:57 GMT",
+          "source_country": "MA",
+          "country": "MA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MA",
+          "llm_subject": "Resilience Before 2030: Mega-Events Need a Control-Room Strategy - Morocco World"
+        },
+        {
+          "title": "World Cup 2030: Morocco Signs MAD 1.26 Billion Deal to Upgrade Marrakech Grand Stadium - Morocco World News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTVneEthOXlxUEg0Z1BYMjM1akZYa0ZJNGw2T1MzX2E1ak1Ya1ZuRHhFRUVLQXBESTNESzIwQ1BPN09HVmxwZmRSbEdHakw2dW5IcnRhSTQzNFlOdENnZ2NRNzBNdS1lTWN5SG1VSVRWOTBvdVV6c0xDV0VVWi15MjZzN0NWX1JWcUlFa09Hbk1UMkVCbElLQW1CTTY4VHR2MEhBTC1Qb1F5NDRfazJDUFZFQ2pISlJiYnZySFd6ZmNkN2gyeWFscnBJdmRseEE?oc=5",
+          "date": "Tue, 22 Sep 2026 16:36:32 GMT",
+          "source_country": "MA",
+          "country": "MA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "MA",
+          "llm_subject": "World Cup 2030: Morocco Signs MAD 1.26 Billion Deal to Upgrade Marrakech Grand S"
         }
       ]
     },
@@ -32480,10 +32525,10 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
-          "title": "Nigerian newspapers review: 22 firms on NGX face debt exposure of N21.3trn - Vanguard News",
+          "title": "Tinubu’s poll rebound reveals Nigeria’s town-country divide - theafricareport.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTY2VGNmYXloZFZELWVhNjh0M2o1bnFOWWY5QVhfQ1lHb0VuSXhyQ3UyeUFfa0s2eVhSOUp5aGk1N0lfR3gzeG1sZEppMW90Tk1UVmVXLTd1SjdzX0kzcFRFZ2JwdWFVbXJqWjRFRktWZnlpMWRJNnZIUElFTGpxTDJoSjdnN2tiOUtOZlpZaS1EeExlRW5hd2hpdkF1MFRnUUtvZko3UklOZEVndGtyd19JT23SAbQBQVVfeXFMTy02NlRjZmF5aGRWRC1lYTY4dDNqNW5xTllmOUFYX0NZR29Fbkl4ckN1MnlBX2tLNnlYUjlKeWhpNTdJX0d4M3htbGRKaTFvdE5NVFZlVy03dUo3c19JM3BURWdicHVhVW1yalo0RUZLVmZ5aTFkSTZ2SFBJRUxqcUwyaEo3ZzdrYjlLTmZaWWktRHhMZUVuYXdoaXZBdTBUZ1FLb2ZKN1JJTmRFZ3RrcndfSU9t?oc=5",
-          "date": "Tue, 22 Sep 2026 10:14:02 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1czQW16MV94QXB1VUZpLU5oQ0V3QzdJSWNfRmZxR0RZSEVfOFh1ZTdlaXpxR3VleHUyRk5sSllwNkN2dklqQkVKdHB3MFMzclZJNFo3T2pCXzF3Y0hqTHRSa0ZKcVlnRzFQenFCS1hPcmIxVy1ES0ZVZU1jV1dhcVhsSTRkUjlVRzlMcnl4ZEVpWjJReERFTEZfZ25uUQ?oc=5",
+          "date": "Mon, 21 Sep 2026 06:54:31 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32492,13 +32537,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "Nigerian newspapers review: 22 firms on NGX face debt exposure of N21.3trn - Van"
+          "llm_subject": "Tinubu’s poll rebound reveals Nigeria’s town-country divide - theafricareport.co"
         },
         {
-          "title": "Nigerian Newspapers: 10 things you need to know Monday morning - Daily Post Nigeria",
+          "title": "Babachir Lawal Dumps ADC For NDC, Pledges Support For Obi-Kwankwaso Ticket - The Whistler Newspaper",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGxNNGQtUll2S21XeDVJWUtpM19RNzNlb3JneHVYOElIRWFpQXd6MUc5aXVLamZacmZRby1Ia1JZLXlZNXZGaXpFRTR0b21hWEpxVHl5RGZGTlExSmp6VEpBM2cybTVFS29kNGxHenBZelFzTllaT0h2S2lHV3hhbERFOWxjWG1zSUtMSGowekZDR3B6eVp3dlp1OEwtVzA?oc=5",
-          "date": "Mon, 21 Sep 2026 04:57:52 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDUyc095eXJXSFVNNWtCc195eExhWWwtdms4YXZtZzdhUHRtYjYxaXFCZ1hyWFFJNFNmbFJQbldhUjcwTzNSTE1sYjQ4WTFyU2lGTDh4eUszRkdpSFU5cnhmT1dPaUVOWkFvTWhEeGZrem8yT3lVNjM0SnpHWXdJZk5lZzNjdEFtRlRJYzNaYmZBZkt6Z1V1djF1cG56Zw?oc=5",
+          "date": "Tue, 22 Sep 2026 17:06:04 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32507,13 +32552,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "Nigerian Newspapers: 10 things you need to know Monday morning - Daily Post Nige"
+          "llm_subject": "Babachir Lawal Dumps ADC For NDC, Pledges Support For Obi-Kwankwaso Ticket - The"
         },
         {
-          "title": "'One After Another, They Started Dying': Survivors Recount Deaths in Detention in Nigeria - U.S. News & World Report",
+          "title": "Wike Calls Kingibe ‘Illiterate’, Says She Won’t Return To Senate - The Whistler Newspaper",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVWdQOVJXSm1zX29Md1V3Ri00WTRxOEtmTVBDVzNwV0VrQ0hWcnJRelN4UU9Ecl9QZkdpTHdnR0tic0IyTElkYi1XaUE5ck4tVnNNV3g5MFRlQnpNOVVuTjNPV2txZUNiMW1hcDdrRmJMNWlBRlMzTDFHVW9qS2E1elJkc1l1Y3NLVkVwWmFjRnpiY1BlVG5sU1lKWUc5MzZ1TV9raW56VElnRkdKM2RVTm5EUnpyYnZWbkJPUXR2WGN4R0Radk1PUmNYd0d1NEp3b1pzU3FB?oc=5",
-          "date": "Tue, 22 Sep 2026 05:05:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjFpODNKOTdTaVVsM2NmbVhoajYyY0duRHFuQnNOS1NRN08wUkREaC1pMjBMOVlHUkU1RVFDdXpXbEMtSmoySnNrY1hCa3N5eWdOcjZvQlA4TGtqNDEzVkg3aEtIbEhqSTRSUEUzUEU0OWl0MEZSUl95ZEYtaXotamI0Q2s5QmtTN01BSQ?oc=5",
+          "date": "Tue, 22 Sep 2026 18:51:24 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32522,13 +32567,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "'One After Another, They Started Dying': Survivors Recount Deaths in Detention i"
+          "llm_subject": "Wike Calls Kingibe ‘Illiterate’, Says She Won’t Return To Senate - The Whistler "
         },
         {
-          "title": "ZAWYA: Nigeria: Kalu seeks WTO action on food security, investment facilitation - TradingView",
+          "title": "Remembering Olatunji Akinwande Braithwaite: Nigeria’s irrepressible advocate (1933-2016) - Realnews Magazine",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZVd0WTZEN2RjQzE1dlFzdWpZV3BnMkdvci1LTTlvb0ZVSzZheVVmcVpzTWxueHFEaTUzMlZtZ2w1dEctYl9KT1Zzamt0WmVsWVVsdnRhV0N0b2VVSU1lbmFrX245UWZvMU5wajVqR0lFcmZrYkRsRThCYlZHTUNvdDVIY2tBcTVjUEY1SUlvbHoyMm9TOVhtVTZ2cUdUVVUwenFfSjk2UElYX3FRbUU4VV92RE1BcUVCZ0c4dlVIRG5MdFdxLUY3VWprb1BnTzcwTGdzemRGcU94YU5aTTg1Vy03VXR3eUk?oc=5",
-          "date": "Tue, 22 Sep 2026 09:36:45 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUJOWjdBTmRaVjVzLS16S3Y2cVZBQmh5VTRjQ1d6WG9KdE5nNEFvSHhpcUFkUUp0c3ZEdE1XLWl3c0RaRkNXMzV4MFZnM0k4V0lKaWJTTzFnUlBJcWdRLVRMR2l5RXk4aUdRbXdwbDlUcEpESXd4WnVHU2pGbktZQ2dRT3JQRE9XazZpVnZ0NnVzMDIxdGM4R0xYOXFORE9XQmJGYWFucTRqRk0xYktIM2sySk0?oc=5",
+          "date": "Mon, 21 Sep 2026 10:42:07 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32537,13 +32582,58 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "ZAWYA: Nigeria: Kalu seeks WTO action on food security, investment facilitation "
+          "llm_subject": "Remembering Olatunji Akinwande Braithwaite: Nigeria’s irrepressible advocate (19"
         },
         {
-          "title": "AI‑Driven Disinformation Threatens Nigeria’s Security Operations, Expert Warns - THISDAYLIVE",
+          "title": "2027: He’s on Mission to Save Nigeria – Qadiriyya Sect Endorses Tinubu - Politics Digest",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1UyQkRvVXh0dk9XcHZLdi1Da0VhX0ZMcmhtWU9FbWdDNmdZRHIta1hUSjBxRC1MVlVSX1MzS0dZa0NkT2Y5c25VeXJKRXBhd3M0a2RpWTIwQW8yOGI1aURvbDV5ZmVBQnltTmt2TG1tY1ZuZ19DazMyRVRNcWUybDF1TmQ4OWZnNnlCNDdFMTA4QTM3U1NWcGd4NEYtRkVzUWJkOVVUeHJwcmhqeXNiZjFzanYyRGtIN2lPeWQxMHFTUQ?oc=5",
-          "date": "Mon, 21 Sep 2026 18:05:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GSlpveXhtVm8zbkFTdnNXSTY1MXNMSE1KMURvRHpZMnpLbmJIMF81c1FqSE9RMzNBc3hTTFFHeU8xZlpNVGdoNkNyRklqdGFfcWpYVVl5NGI2N00?oc=5",
+          "date": "Tue, 22 Sep 2026 13:38:40 GMT",
+          "source_country": "NG",
+          "country": "NG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "NG",
+          "llm_subject": "2027: He’s on Mission to Save Nigeria – Qadiriyya Sect Endorses Tinubu - Politic"
+        },
+        {
+          "title": "Police Will Arrest Politicians, Sponsors Behind Vote-Buying, Violence — Disu - The Whistler Newspaper",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzVCVkdQRF9JdlAzNHhpLUd3UXp4UEtiMldVMVlyRlhnY2FWcGNBQmhGYlFGMWRCOUdudzJ5Smh1SndsRHpUNVVGejltT3Jvckk5NzR4MFNxN1psa2J1RHFsYld1VTZTZ0N0QnJTWmktMGx4Vmd0aEl1dnNLTW1hcjBQS3RHdThyOG9JWUViQ2xLTGlXNzNrXzZkem0?oc=5",
+          "date": "Mon, 21 Sep 2026 13:14:18 GMT",
+          "source_country": "NG",
+          "country": "NG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "NG",
+          "llm_subject": "Police Will Arrest Politicians, Sponsors Behind Vote-Buying, Violence — Disu - T"
+        },
+        {
+          "title": "INEC worried over misuse of AI in 2027 elections - Ripples Nigeria",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmdsb2RVbUlmNmN3RUtEMW1jU2YzX0xKbmZadS15YXRiQ01ReG1vT0pjOGgyaDhFa0pPc241SkNOdjNKU3lzTnhlRzd0elE5YzBxMlhBWkF2Nl8yd3RNdm13X0pLVXFjX2t5dGRNQ2h5NlEtVW1PMzNaTGRhakgxdWJnMjY1aDQ?oc=5",
+          "date": "Tue, 22 Sep 2026 13:26:43 GMT",
+          "source_country": "NG",
+          "country": "NG",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "NG",
+          "llm_subject": "INEC worried over misuse of AI in 2027 elections - Ripples Nigeria"
+        },
+        {
+          "title": "Political Violence, Intimidation May Undermine 2027 Elections, ADC Warns - The Whistler Newspaper",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUIyOVFjMi01RktOcFplN1F1YmcxeTVaNHhINVZQX3FWTnZYaWJuR1I5NlBJWnhNeDQ2RDl5bldUZHBIQlNfcThYQVhKekczcUV0TmROZEI3TzlyWnh1T2xIX0lCVnJCbU80dklRcTVjQ3dkVkpVRFFZaC1KdGpfUDFPWkN5cE5SeHl5blZjQjMyYlJVbll0MG5B?oc=5",
+          "date": "Mon, 21 Sep 2026 16:01:07 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "military_conflict",
@@ -32552,43 +32642,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "AI‑Driven Disinformation Threatens Nigeria’s Security Operations, Expert Warns -"
+          "llm_subject": "Political Violence, Intimidation May Undermine 2027 Elections, ADC Warns - The W"
         },
         {
-          "title": "IGP Unveils Six-Pillar Strategy For Election Security - Voice of Nigeria",
+          "title": "IPOB Accuses Enugu Govt Of Attacking Opposition, Insists Election Boycott Stands - The Whistler Newspaper",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtQl91cHgwWTFPN2FMUlRpU0FxRHdpZUotYU1yQzkzMzJmRnc3OVZTTXA4WExZN1lIRFVDTzhyQW1JQWFBMTEwNzBZMFA1M0RxNG1yY1c5dG1JZEdCQW5UZmoxV2FIUUhmbmxfa0cxT0hqZkNWaU1LWEVOeVdyUQ?oc=5",
-          "date": "Tue, 22 Sep 2026 13:08:42 GMT",
-          "source_country": "NG",
-          "country": "NG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "NG",
-          "llm_subject": "IGP Unveils Six-Pillar Strategy For Election Security - Voice of Nigeria"
-        },
-        {
-          "title": "‘We Owe Nigerians the Truth’: Tunji-Ojo Inaugurates Probe Panel over 37 Deaths In NSCDC Custody - Arise News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHRvcC1HRFU5UXlnNWJ4VHZFRGk2cW5UbUphWUFPZHlnVmxGZS1vVFRJc3MxeHVmV1hvemE2WkwwVl9RYmtNSXdqWjZCeE91VlhnTWpVc0NQZjl6RVBtdTRGV3FZWHlXNENUQXluWkdtcV9aaUladFdnUkFDSnJHRHpENmlUSndvZ3RCSTZNNTluRUFVOTlhdWdsYVc4MDFmeXJ5SGE2WlpkelMydGl4cTVkSXk?oc=5",
-          "date": "Tue, 22 Sep 2026 15:27:03 GMT",
-          "source_country": "NG",
-          "country": "NG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "NG",
-          "llm_subject": "‘We Owe Nigerians the Truth’: Tunji-Ojo Inaugurates Probe Panel over 37 Deaths I"
-        },
-        {
-          "title": "Suspected Boko Haram Fighters Attack Security Base in Southwestern Nigeria - Truth Nigeria",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUlprcExsXzZlWlVuLUJSRDFnV3FGdzB3dmx2S0NURUVJQ2gzUERtU05TbFFLRlB2enZ5cnZXVXVCczNDZmlOemM2SlZRVVF4b3hkV1BlTFBneTZ2cVVYSXFaWklpZFRxa3RlYkZxVFJ4aFk0R2txZW05MzNlaDJVNkRsamVfTkdIcS1xenBlcU5FQTRadUNUYXNVYngzTU1RY1F4TmVmZmFqQ29T?oc=5",
-          "date": "Mon, 21 Sep 2026 15:24:50 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXFhUVlxbEdGcE02anI0OXB5M1FmcEZ6bXlaWkp5VUxfWnhFdjc2bkpmVmliV0JBa1dIcXd6ZTlfVURzRWR2bG1mLS10V1F0SkFaWndtdGhyeElabklVQ0tVNlZ2bXh3amM3QW9OZ3cybUhfclNCVU5mSHdZLS1oV25XS3Z1RFJRNFQwMVNPUnhxeUhnSFlFXzA0SVhQRzZaLXVPSVVR?oc=5",
+          "date": "Mon, 21 Sep 2026 10:24:47 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "terrorism",
@@ -32597,13 +32657,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "Suspected Boko Haram Fighters Attack Security Base in Southwestern Nigeria - Tru"
+          "llm_subject": "IPOB Accuses Enugu Govt Of Attacking Opposition, Insists Election Boycott Stands"
         },
         {
-          "title": "Justice Mohammed to Chair Niger Commission Investigating 37 NSCDC Custody Death - TVC News",
+          "title": "Beyond the dance: Lessons from Osun 2026 for Nigeria 2027 - blueprint.ng",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR001bmdYSzczdHNRT09fZ2JtbzN0T1ktRDVpZTZ6ZlQ1YmlXSzhtMkNpM3FJdV9tSVViR1NsZ0Q3WHdlLTlBOEVtYzRKTkNBeGZsSVQ5aDZJcU5SWE90bW1pSEhKN09HLWVMWFZYbzFueWlBLTV5cHc3THhfam9POWxHTU5peGJEeVEtOEtzQllRLWhqNmhhRTNBY1VfbG0wcTUyTndR?oc=5",
-          "date": "Tue, 22 Sep 2026 16:40:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa01tcU5qZHFBNjZLblMzTWJEd3N0UXlIMlAyMVl3enlMcnhJUy1vY3RJazNnVXZWSDJuMF81eEtaeUVsREJBY2E3MFlDYVdoM09JRlYxc0RZNkFvQjFuejBMdjZDQnk4Z3hCd1ZQZms0XzdleWtUVVhTc2o0M2xxczZ1YWc0cjQ?oc=5",
+          "date": "Tue, 22 Sep 2026 18:45:37 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32612,13 +32672,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "Justice Mohammed to Chair Niger Commission Investigating 37 NSCDC Custody Death "
+          "llm_subject": "Beyond the dance: Lessons from Osun 2026 for Nigeria 2027 - blueprint.ng"
         },
         {
-          "title": "Nigeria to renew UN Security Council push, reforms at UNGA81 - Vanguard News",
+          "title": "Uba Sani Approves N3.66bn For 1,339 Kaduna Retirees - The Whistler Newspaper",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTE9uSFVOVkxpNjBib1E5NERtYlFkenV5LU5QQW9LS3BhNFllUEo3VkdXS3RoNmNMVmkzZlllNS1jb0hJNE5QT21RS3I2akVBZGRjdjlOaWFGS2ZaY1Fkb1JoUFRid2RfUllZNG9CZEh0Q0Vsc0lNQnAzTXBieml2Yi03ZFJIbjM1TzkxbDhfZUtHcE1aaXRIVThTcy3SAaIBQVVfeXFMT01RbG43dHc1dlVuUXFsbEUwZVVuTmNTQ0F3Q2dzTFFTSW9uMHhrREJMcTNvcGl2OFk4cERwXzN2MXI2UGxDV3l0TUwtcEFyQ1ZBd1Z4dDFGeVc1YzI5QTdkTU1fbnlpSjl4WVJHM3o4MjFIdmVUZFN6NWVkUkFwSmItZFlsZFZxWkc5QW9IcjltN2RDbFZvRUFsWld6MzBCMldn?oc=5",
-          "date": "Tue, 22 Sep 2026 07:50:39 GMT",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FS3RnR2hDWGJNUUFzTlNySE1XZmhtR2J2OTAwR3MtYW12Qnh1aE83S2lGQWxtNjJVUjZtWFJ1dG5CVmI2eDkwVW5JNm9oTDlxbVVTbU5fdmc2ZkN2bzlUcTl2VldZVjVFY0JCcUVFY0dha1hkbUJmVkY4alA4akE?oc=5",
+          "date": "Tue, 22 Sep 2026 09:50:25 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32627,13 +32687,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "Nigeria to renew UN Security Council push, reforms at UNGA81 - Vanguard News"
+          "llm_subject": "Uba Sani Approves N3.66bn For 1,339 Kaduna Retirees - The Whistler Newspaper"
         },
         {
-          "title": "The officer who cannot sleep: Nigeria’s law enforcement mental health crisis - The Guardian Nigeria News",
+          "title": "Wike draws battle line with Gov Uzodinma, vows to oppose Senate presidency ambition - Ripples Nigeria",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1ZZVXRDekd0dDBfLWZMelg2YjJldFJ3dkN6VUg2bXpRU0ZpQ3NZUDR1OXJmd19oRk9KTVpBMldZNGNFMjJhMHYzUXJoR19UZDgtekxWMXZIZlB6a2JPakdLM1VqUHZBRUdBNDR3bnBhNVBaSlRkV0k3Q3p1bEVXazJ1QlFqTUZYZmNQUml3dURDeWdNYTE0QW1HTUYtMzVMQzdsMkhB?oc=5",
-          "date": "Tue, 22 Sep 2026 05:52:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ081UzZXM3BQWFIzcGVHanlkVGIwcFk4bGI4VXFlX0NVWmpleHkwNHpaZTBUMUFFenZnZWUxR2ZXLUc4R0ZZeS1OTHVxZzNPa2ZVSkp3N09tLTNzTUM0SVp0U0tqb2dyaFhRdG8tTFpsRzlKYWFHdUhseWZuYjFFenlIbDY1QzJWaTFPNEgyVzFKaFVneHA2Vk53V2dMeWNIUmMzMkRmVFdqMFcyYVhWaVFIZDY?oc=5",
+          "date": "Tue, 22 Sep 2026 12:52:55 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32642,13 +32702,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "The officer who cannot sleep: Nigeria’s law enforcement mental health crisis - T"
+          "llm_subject": "Wike draws battle line with Gov Uzodinma, vows to oppose Senate presidency ambit"
         },
         {
-          "title": "Nigeria Renews Quest For Permanent UN Security Council Seat At UNGA81 - THISAGE",
+          "title": "OPINION… Godswill Akpabio and the Mgbeke Tapes: A national security angle - Ripples Nigeria",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0V4N2l5bWhZOThEeEJZS1ZKVEx2ODVOenNTR1BuTzZGS1NCeDgtOHBQbkZCR2VOV29lTnIxUFN6dGVENGtBUWFoWk44eGhEYmdCdXBlOTFqODhHbzR2X3JNSVk0bjVld2NjMDA4Y3NOektMenVXcl82VVJpQU01VVRJVm16V1k0R25DWTRXbHhBTlJZWFU2OQ?oc=5",
-          "date": "Tue, 22 Sep 2026 16:21:23 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUF6VGJfZC11QlcyRzN3MXJfN2dVSjdaZmZIbHlkSm5ySXFnUmxZaGlLR0txWFFoRmlIMlpCenlNOUFGbzZvaVpRUUpueU04WjQ4QS1yY3BvSHEzUE1xSFQzcV9ZVS01R2hoQUpXUTJxNFUxRzIteFhiOUtUamM1M3VSZ2N3S0l1Z3J4UVh2bVpuclotM29zYUJ5TU1xbS1VVHBpZ1Rn?oc=5",
+          "date": "Tue, 22 Sep 2026 09:16:43 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32657,13 +32717,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "Nigeria Renews Quest For Permanent UN Security Council Seat At UNGA81 - THISAGE"
+          "llm_subject": "OPINION… Godswill Akpabio and the Mgbeke Tapes: A national security angle - Ripp"
         },
         {
-          "title": "37 dead in a cell. Miners back at work. Nigeria explained - TheCable",
+          "title": "Adamawa 2027: Haske Names Ex-NNPC GM As Running Mate - The Whistler Newspaper",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUFzblJRc0NJQ0E3TGdMWWlFZEo5T1NSRWdHeGFnVlRpcVl4ZGxCekpxYTZwTjE5WVZNVHVTU2Jib1dBVHJuTFpheENFWDh4a2ZJWEktNnRqVlk1dnF1YS1MM2xBWEpTaGdTVTRRd2xGYmRXQmxObFpQNm1DWklVajliQng4cGc?oc=5",
-          "date": "Tue, 22 Sep 2026 15:43:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEhTTzY1X2NPWks3RnZPYXVTUk44dUhwSXJqbFhBWktJSHR4WFJWc1h5RFhjSjNtZmJuaEN1ZzVGV1pfOURqT3Y0SGdSVG1CX1BfMkpvcW43bUNWeGV0bDlBTVlsdTVVWW9Yb19BbVRfR3lFa1ROUU5YMFlMdVY1Tg?oc=5",
+          "date": "Mon, 21 Sep 2026 22:33:25 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32672,13 +32732,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "37 dead in a cell. Miners back at work. Nigeria explained - TheCable"
+          "llm_subject": "Adamawa 2027: Haske Names Ex-NNPC GM As Running Mate - The Whistler Newspaper"
         },
         {
-          "title": "OPINION: Northern Nigeria is digging itself to death - Ripples Nigeria",
+          "title": "Who is in Charge of Nigeria? By Atiku Abubakar - Politics Digest",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWE4MURuaTJ1VFE3dktXWjQzYVdZRWg4bHZFR0dYYzBqYzFkUk1TS01wQjhVOVJCLU84cDlyNGMzTXhVTTBZSlM1MTJITV9BVldyOTJ1cmtEVXd4by1OaVE3cmgtODhlUXZNSFJyV3JTVHRiYUY0OTJFODVycnU5NklCRHg5cW13NEZv?oc=5",
-          "date": "Tue, 22 Sep 2026 06:31:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWUsxUUxxaHBFMmRxTk02aHhsNkVRQlpqcEowZERfejRtSnhFSlV0VTdXTHdULU15LTFhMXhpb25yV0ZjVlgwT0ViQWd2OWZJLXVNYWc0NUVZSGhnWHlPaEVSUEhWOWc?oc=5",
+          "date": "Mon, 21 Sep 2026 21:30:53 GMT",
           "source_country": "NG",
           "country": "NG",
           "category": "neutral",
@@ -32687,22 +32747,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "NG",
-          "llm_subject": "OPINION: Northern Nigeria is digging itself to death - Ripples Nigeria"
-        },
-        {
-          "title": "TRUTHNIGERIA URGENT TERROR ALERT — PLATEAU STATE - Truth Nigeria",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLTQ1dHltTW45NzdrcENHdnIyQkhjZFJUdjJoM0hWRTkxN3NENGEyT3MxOFgxTlNIQ1djTVJDR2ZhLWxqNmoxRlJlRlhJcC1YUnlwMHVKUFZFVDRpQVBfVTR2QjJlSC1SY1RuTHRYY3ZhbndYX0N4bHFhdUhRSjZLLVVDNFNSOTA?oc=5",
-          "date": "Tue, 22 Sep 2026 01:04:11 GMT",
-          "source_country": "NG",
-          "country": "NG",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "NG",
-          "llm_subject": "TRUTHNIGERIA URGENT TERROR ALERT — PLATEAU STATE - Truth Nigeria"
+          "llm_subject": "Who is in Charge of Nigeria? By Atiku Abubakar - Politics Digest"
         }
       ]
     },
@@ -32941,10 +32986,130 @@ window.WTI_DATA = {
     },
     "RU": {
       "name": "Russia",
-      "index": 4.56,
-      "raw_score": 2.1,
+      "index": 4.52,
+      "raw_score": 2.07,
       "status": "ELEVATED",
       "events": [
+        {
+          "title": "Russia’s oil empire under pressure - DW.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbW1vYUlCanBFTlhzMjR0b2Rfb0RkYUZDUmZsMWlMenZsc0dkWlp5TGlnWEJidklaUW9sQ2JWcUZLbVQybVdMbVpZZ3RDemdyU2F2RXJzRHpQdWZvQUFuM3pVX2lqaU9yc2h5M3JWckk5YTdoRWdlTFA5ZXRSa3BiU25nTVN3VFhub1ZyVkhTSEJmOXp2R2haMlVRUWVvQXpqS2lGYmVPd2dlLVJiaENCM2FaaHFZZFotVUo4bjI5b1gyaUk?oc=5",
+          "date": "Mon, 21 Sep 2026 17:10:52 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Russia’s oil empire under pressure - DW.com"
+        },
+        {
+          "title": "Inside the World of Russia’s Elites - Carnegie Endowment for International Peace",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGtUTTVrMkstOG1hWkJlYkRYLTRNMm1zbVlzLU80VzF0U3lpa1BNOF9aOExhbXhqT1JJU1otV2NvdldJMHFDTTluRTZFc3FaRy1LYzYxd182ZnhVdmpEMGJBQXJyTHZoYzJMbjJBblZnY1ZGT3ZTcXdSek1WYjdvZEk3REozbDlLNzZIUzRR?oc=5",
+          "date": "Mon, 21 Sep 2026 12:03:39 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Inside the World of Russia’s Elites - Carnegie Endowment for International Peace"
+        },
+        {
+          "title": "Russia’s economic downturn will become clear by October, economist predicts - The New Voice of Ukraine",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkRGLVJSZF81bWdJYWdRX2E5MFR4Z05keF9hU0RFSk05YXNBalFKZ19veTRkd2V1S1hjRGZOZzE3Sk92cVhGRldQa0VheW5lRng5WUo3MENBa2FSVWx1SURaaXdGblgtdFl3bEV0MFFTaWdGZWZxejA2UXNqZlZuTTU2a1NoVXlIS3R5VnViQkNhN3RMU3k0VXJ2S3Z6dm9fM0ZqeFBfWEZha25IRms2Z3JxVGQ2T1gx0gG0AUFVX3lxTE1xNUV2NkkxSFp5WkotNXowbEU3c0cyT0VVWnVJWHg3S2U3YUw1cUlpVTJJUkZ6Qk9ZZEtsTXNBeDNiOFk0Vk5fT0hLd2pmZG04ZjBiT3hZdWlrd2VXeDJEVmNIUG94dGFHVC12czlQSzlqWENPcTNkdWhMWm9ZNUIzczd6UGgtOVp3Nk1aYUhBWllJR3VvRkY1c2NMZHdqM2Z1SU4yNHhqOTB6VXR0S3JPOHQ5Tw?oc=5",
+          "date": "Tue, 22 Sep 2026 10:55:00 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Russia’s economic downturn will become clear by October, economist predicts - Th"
+        },
+        {
+          "title": "Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Moscow - ABC7 Los Angeles",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnc0WVhud2k1ZUxOWTJ6NXdtOHZSSVRJTVUwdXhPTDJkM0VDVjBIcG52RXZicVpDWkx6OGVNRi13WEJnNmkxbEk5SjJqR1VLczFEelRTTG93a3QwTEJITTRhNXNYQlNEWFpQWk1ESmUtOVU4dzFUdkZxQXJrSFRuS250WU9LNHIyNFIwVWxfQlJsY0hOaG9qUnpkUGdSdzRD0gGmAUFVX3lxTE5rbFNBUVVBa2dJXzYxRUZtbWUyMU5Ed19aRlo5TUxIQmltbW1mdFNXbkFmUW5RVUpCOEZpVWZRakl4ZHpnTEcyaXBWWEtCRUJQVkd3MkxEdm1EZGdYbEVZdnhXOEw4eFZqS3pzV09WeEdLVjk2QUp4bVUzRUljY3NxT3BGSV9Od01KNzlmclNtRzQ2cUVKbFZ3T3pyLW1rZ05NYy15QlE?oc=5",
+          "date": "Sun, 20 Sep 2026 21:21:34 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "terrorism",
+          "weight": 7.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Mo"
+        },
+        {
+          "title": "Xiaolin's Take: The Four-Year Economic Ledger of the Russia-Ukraine War — Russia Props Up Appearances with Gold and the Military-Industrial Complex, Ukraine Survives on Foreign Aid, and Drones Emerge as the Only Win-Win Industry - finance.biggo.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTdi1UeXRkc1IwOTl5WXZCcmw2TEVjaGg2Zmp1TDlGYk9leVpfcW1WdkpTOUJjQVBDNUdaYXVWTXZyZWFRbFVWeUs1NkNldEhiU0ttNnM0VXFIQVU?oc=5",
+          "date": "Tue, 22 Sep 2026 11:08:00 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Xiaolin's Take: The Four-Year Economic Ledger of the Russia-Ukraine War — Russia"
+        },
+        {
+          "title": "Trade Tensions Tear at Russia's Eurasian Economic Union - oilprice.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2R6elViTDlDMTY3c0hwY1FVNjYzQlJNQkxpZjh1LXFQSERHVDNYLUw3b3MxclRyVkdoUHFBSEpTZlpub28xRFZaTEh0ZlFuQU43M0ZwLUVuYmszUlVsRXVEUWM1elJiLXVtaExHc3YwVFJXNnVreHVEbjU5cW16UDMtdDdiY0g4VXRnck9wdTZNWjZzQlR1NmNzbjgwZ9IBowFBVV95cUxPcXQtNk1aYzZOLXphNDJaQ29wVHRscV83bW9LdHZ6R1ctaGh1N2NWQmFMYXBBd003ZllpVFJQOEQtMTZNUzNoeU9zWldkRkNsQldrQ19zYlgxYTAyWjRzOFF4VjJFNW9OWERObFhrSDN0YVdEWWJFdE1KMS1TZGNoUThfNm5hRjBMaG9Xa05BYXZLTUN1cXI3eURsZkV1ZHJ1YzM4?oc=5",
+          "date": "Mon, 21 Sep 2026 18:00:00 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Trade Tensions Tear at Russia's Eurasian Economic Union - oilprice.com"
+        },
+        {
+          "title": "Russia hammers Ukraine steel industry as part of ‘economic war of attrition’ - TVP World",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZnk3QXFxMV9HV1RaS3EtcjRHVU5yUExmNllIQXRFQzV4UG1TNzNTRW9YZjk3Y2FnSHRacHZ2U3h1OWFhSzl4dnZFMmdCeDNIWlZmem9keGIwWEROdmNER2ZDMUMxd21xdWNUeUVfZHYxWG94Z3FFRzZWRklpMWJqcHV0djZMLXh5TDJGaExJOVFjaUlUdUluQndBQ0prdw?oc=5",
+          "date": "Mon, 21 Sep 2026 08:29:00 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Russia hammers Ukraine steel industry as part of ‘economic war of attrition’ - T"
+        },
+        {
+          "title": "Remember cheap gas? Russia mocks Germany over economic losses, election setback - TRT World",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IcTVsd29yeTA0bzBpd01mRjZwYWYwQTdjY1YzYzJOay1TeTF0RDdwb1lRdHRUMEJUTEV0blQ4ZTExV3dJVnNMbkktTzQzLTlzYVNXbWVXczk?oc=5",
+          "date": "Mon, 21 Sep 2026 13:22:56 GMT",
+          "source_country": "RU",
+          "country": "RU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "RU",
+          "llm_subject": "Remember cheap gas? Russia mocks Germany over economic losses, election setback "
+        },
         {
           "title": "Russia is ‘Greatest Threat’ to U.K. Security, Says First Sea Lord - USNI News",
           "translated_title": null,
@@ -32959,21 +33124,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "RU",
           "llm_subject": "Russia is ‘Greatest Threat’ to U.K. Security, Says First Sea Lord - USNI News"
-        },
-        {
-          "title": "A calculated gesture – Foreign and security policy - IPS Journal",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVBRSDZtME1ab1RLR2RkSERxWlR6ckwxNmc3TWd4N0hDQUE5LWdJVlFyVWFnV0VHeWZONGQ1ZEc4ZS0tSS1LbnJIM3lsaWdlZ29POEhZaVh0UHJ3SGF6QU1ONDQ2NlVoQi0za1NjRVAwYTZZdkRkTlJRdS00Y3QxZ3hpSjhzS3ZZUEMyQ0N3LVpNdw?oc=5",
-          "date": "Tue, 22 Sep 2026 09:21:45 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "A calculated gesture – Foreign and security policy - IPS Journal"
         },
         {
           "title": "How did Russia manipulate its elections to maintain Putin's hold on power? - The Jerusalem Post",
@@ -32991,10 +33141,10 @@ window.WTI_DATA = {
           "llm_subject": "How did Russia manipulate its elections to maintain Putin's hold on power? - The"
         },
         {
-          "title": "Putin Expands Federal Protective Service - The Jamestown Foundation",
+          "title": "A calculated gesture – Foreign and security policy - IPS Journal",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qcWx1U0NWelJHMGdEVGc5R1p3MDVEd0dBYU9ob2F6NEN1eVV2dGx5WHBCeEg0SF9zeWtPM193c1NLclJHUTk3RjVrSV9XeVEwc0lzczNVU0VNV2t3ZDZHalhqNl92UkF0VXVZN1BkbjU?oc=5",
-          "date": "Mon, 21 Sep 2026 20:49:48 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVBRSDZtME1ab1RLR2RkSERxWlR6ckwxNmc3TWd4N0hDQUE5LWdJVlFyVWFnV0VHeWZONGQ1ZEc4ZS0tSS1LbnJIM3lsaWdlZ29POEhZaVh0UHJ3SGF6QU1ONDQ2NlVoQi0za1NjRVAwYTZZdkRkTlJRdS00Y3QxZ3hpSjhzS3ZZUEMyQ0N3LVpNdw?oc=5",
+          "date": "Tue, 22 Sep 2026 09:21:45 GMT",
           "source_country": "RU",
           "country": "RU",
           "category": "neutral",
@@ -33003,7 +33153,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "RU",
-          "llm_subject": "Putin Expands Federal Protective Service - The Jamestown Foundation"
+          "llm_subject": "A calculated gesture – Foreign and security policy - IPS Journal"
         },
         {
           "title": "Belarus: Accomplice in Russia's War Against Ukraine and a Threat to International Security - EEAS",
@@ -33036,10 +33186,10 @@ window.WTI_DATA = {
           "llm_subject": "Emergency go-bag sales up in Lithuania amid Russia security threat - TVP World"
         },
         {
-          "title": "Russia's Putin, Saudi crown prince discuss Gulf security - Latest news from Azerbaijan",
+          "title": "Details of alleged Russian spy murder plots are exposed in new indictment - NBC News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXZPSDlnU0hnWXhpazdIZXllS2dEbW14NmROMkcxdG9PNDhnaEtLeUZJQ0VHd2FHM1pQbVNXNlBCd2RVRW9QUWhVRG5fV0dSZVlEUXVIeGVGbDFzN3FGaDVOWTIzMXFFU3NIaUJJZ1lsQndnVjIyR1oxMnRFZkJFNnFn?oc=5",
-          "date": "Tue, 22 Sep 2026 13:58:02 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb1ZGVEQtN1NBeXU5ZVlDOHVQOXE5Z2gtc1V5Zm9LQVZueWhWY0J5X1lBd0c1UkRWR05iX3VVNXduNUl3TXNGWkxULWVacVBLOFFBc2FHTnd1UEhkRnktOUdQUTBrSFp6T0RacmN5bk1pMGFtdmNMa3FQdVFDYXhiMk9TMGRjNEc0MEp0aXpBNDdTaGFKaTNjRWs2aHZsc1dVWG10cTRpRWNTM3VDQ1ZhQlJsYXBvOFEweWpBZnJRUTh4S0RlenNBTg?oc=5",
+          "date": "Mon, 21 Sep 2026 09:00:42 GMT",
           "source_country": "RU",
           "country": "RU",
           "category": "neutral",
@@ -33048,28 +33198,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "RU",
-          "llm_subject": "Russia's Putin, Saudi crown prince discuss Gulf security - Latest news from Azer"
+          "llm_subject": "Details of alleged Russian spy murder plots are exposed in new indictment - NBC "
         },
         {
-          "title": "Russia imposes restrictions near Estonian border amid mobilization concerns - The Kyiv Independent",
+          "title": "Putin Expands Federal Protective Service - The Jamestown Foundation",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjF4ZXVvNXUxSlBLSm1FZGtjZUZsOUxDUjg5cVh6bzhFNVBLQlRUVnExc0Z5OVRGaVdXRzh2Qjk1UHFfMmlrZ29Eekh5U0NlX2VZSmNhbndaRnpJeDVpNGxtTmdPNnFVYmNsMnRYWU41ZnFyejRuZmFrUUdYNGNBX2JPdEw1SjdnYUtKTE9QRUNqX0ZhVHpzdU11YjlFMHItSlRYS3p3WQ?oc=5",
-          "date": "Tue, 22 Sep 2026 11:08:38 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "border_security",
-          "weight": 5.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "Russia imposes restrictions near Estonian border amid mobilization concerns - Th"
-        },
-        {
-          "title": "The main Kremlin party wins tighter control of parliament in Russia's carefully orchestrated vote - Stamford Advocate",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWZKNzM5VGlqV29qN2VseDlJYVhhV1FKTVU0SHFYZmxuRXBjNEVqQlcxWHpZLXBzV0RjS0hRMU1BYzREdWVsZVFOOHIxc2FZZ0tHdmlhZGlxbEtIVWJqS2JlY0FqNWxqY2UyUURJRkVjYjlHSklVYTVlQ09MSl9LeFdpNWRBR2VWR0VQcDFObFM1b0pfRDVLdVZJOVlLLXIzbFVRYndR?oc=5",
-          "date": "Mon, 21 Sep 2026 20:47:18 GMT",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qcWx1U0NWelJHMGdEVGc5R1p3MDVEd0dBYU9ob2F6NEN1eVV2dGx5WHBCeEg0SF9zeWtPM193c1NLclJHUTk3RjVrSV9XeVEwc0lzczNVU0VNV2t3ZDZHalhqNl92UkF0VXVZN1BkbjU?oc=5",
+          "date": "Mon, 21 Sep 2026 20:49:48 GMT",
           "source_country": "RU",
           "country": "RU",
           "category": "neutral",
@@ -33078,97 +33213,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "RU",
-          "llm_subject": "The main Kremlin party wins tighter control of parliament in Russia's carefully "
-        },
-        {
-          "title": "EU envoy warns Russia-Ukraine war threatens global food security, calls for 'unconditional' ceasefire - Yonhap News Agency",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcEs5TXNIRlNLSUc5RnlsZ2s3czB2cnlSSVRrbWswWHJOTjBhaHRJbEpVYU9VemVUSDRFZGZhcXBWTzA2U2JKWEE1aWpFRDM4QUlSX2FkNkNKdw?oc=5",
-          "date": "Tue, 22 Sep 2026 06:00:11 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "EU envoy warns Russia-Ukraine war threatens global food security, calls for 'unc"
-        },
-        {
-          "title": "The main Kremlin party wins tighter control of parliament in Russia’s carefully orchestrated vote - Boston Herald",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVXlUbk54bDctLTIzX3VrMTNMMTBfVGlZTjI2dVFOSjN3eVhCVDBlWkJzNmp1a1dacjZHYk9EMnJ3UDJZWG1PcnFSZHpBUHpsaDBHTFJkTTQyOUVuTm9tQTlKd2c0dDJoaWR0VGllOXNMUDViV2NKV2xaazIzUEc2d3ZySDY3ZkZfc2hv?oc=5",
-          "date": "Mon, 21 Sep 2026 18:06:32 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "The main Kremlin party wins tighter control of parliament in Russia’s carefully "
-        },
-        {
-          "title": "Russia’s ruling party set for big win in parliamentary elections - The Japan Times",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEFsZHZ4bGJXQm5CeENlUHNKVkNWbXpGSFRHdENCdHdwYjB4NkZ6QjFGUV85UUhoRGhZMjc1QVlEX0pTZ0U1RmNIRHMtVkpmejQ2LXpoRzN3bnJRR0lhZWNKQ3JrOE80Q2xndHZnN05fWGVNMGV1R2NfazZycS1wMjJYWFQ0a0RVSTNqSmNFSUQxT3E5Sk9wSlM2d3I?oc=5",
-          "date": "Mon, 21 Sep 2026 02:49:00 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "Russia’s ruling party set for big win in parliamentary elections - The Japan Tim"
-        },
-        {
-          "title": "Russia's ruling pro-Putin party on track to win wartime election after drones strike Moscow - CNBC",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWDJqS2NxNFR0bDJsWl94dzg1SmZNM0hkVHhvTVBCV2wxc0dzYVJTS2JqTi1xV2ZCTDA1eXJOTkNKcTB0QlhsQnpUTU5JWW1RTnZTVThta0dOWVRuSTNXZkJFQXdUWl8yNVdiQ1VsMWZWdGcxYy1jc3JfS0hZVENKcU9Jc05KMm1qbTc5cWxkRE5xekdqbmJ3dWc4RjFjc2UwQVHSAacBQVVfeXFMTmc1bnZFc21VTE42QTBzT1E0dnN1eGd6ZzhGY1BaeEwtNFVyd1lRZXNJSEhBT0dMa2ZiNy16UThQUGswVU5oS21QSjMtSEx4UVBLajhrVW1WMm1tdWRiLXR4c05WMXFXMEZCaUwxaEpaN2N6SHJEa1RmQU9nZGRIQmZjd2NYNXNqR1o4N1MzSVJvMGZLQkVzd0FkX1ZCRXd1cFZTS2NpbEk?oc=5",
-          "date": "Sun, 20 Sep 2026 20:10:06 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "Russia's ruling pro-Putin party on track to win wartime election after drones st"
-        },
-        {
-          "title": "Trump’s Russia Sanctions: A Remedy Or A Risk? - The Organization for World Peace",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xelV4TlotS29iYnEyQ3cyVXJZUmZKeGFGMnpzZjlHeTgzSGxNRFcyZ2RoZXpoWmpkN3pvbFN2cElod3JuM2RsemdyWmlCLXpDVUN2bWlLYUJXWFBlMTI4T05iWm12YWZNSFhFZWNUMA?oc=5",
-          "date": "Mon, 21 Sep 2026 21:04:42 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "diplomatic_tensions",
-          "weight": 2.5,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "Trump’s Russia Sanctions: A Remedy Or A Risk? - The Organization for World Peace"
-        },
-        {
-          "title": "Russia wants more permanent UNSC members, rejects Erdogan’s call to scrap veto power - Firstpost",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRzB6cWozYTV1NTRIeHpsNTNlOHZFeGpRa1FLbHpRNEJPdk9JQ1RCMzBEMk1OSHduNlNzc2pLMjN3MkVSem5EbGMwMzJkS1BhQnhaR0NNMl9NeE53SzdmeE4zZjJKQVRBVDRxY1RPOHZqcUpZR1AtMGV1ZmMxZ2Y3ZzJNemtGNHo3SlgwamxiQmEtdTFHampGZXJwS2ZfTVBZdTJRY2VJODd2WFUzeUFSdkZLYnRvelR2SGpwUTZHaVd5eW9Wa01v0gHMAUFVX3lxTE5WR3dOa0JZUXhOR244bmt5YTJUamFFbDM2NFo2aFpRQTg0UUdkZk44RmpuWTFTQkRqdkdfTkIzcmdMLVhhcUk1Y0tYNFpnOXpHQ3hUaVdYcElRUDFXQ0hjV2ZnT3hwX0h0QzQzUlhaVnpzc1JiS2s3VEN2RVU3S05HTTMyRjdFQmdERGMzMUtRbUxyck9GaG5sXzJRQzZ6ZG1FUEpUREE5cmNsNXltZzB4VHVUNFZFN1cxUy1mUXdCd01BWF9UbWJvaFVqTg?oc=5",
-          "date": "Tue, 22 Sep 2026 13:44:17 GMT",
-          "source_country": "RU",
-          "country": "RU",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "RU",
-          "llm_subject": "Russia wants more permanent UNSC members, rejects Erdogan’s call to scrap veto p"
+          "llm_subject": "Putin Expands Federal Protective Service - The Jamestown Foundation"
         }
       ]
     },
@@ -33878,7 +33923,52 @@ window.WTI_DATA = {
       "status": "STABLE",
       "events": [
         {
-          "title": "Washington’s Oil Takeover of Venezuela - Modern Diplomacy",
+          "title": "Trump defends his policies on Venezuela, immigration and security before the UN: 'America is back' - voz.us",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGQ3WXV2dldrZWRJOG1xekxyR1E2M0U0eThSUnB1UEU3UVRyOGotdk5MNVpKZ2RnVjZSVWMtbkxUTVFjVjFUYUFHUmlLOG1rMHcwUmNLLUMyTGk2c0p2TDlZek9jY3lHcEQycy0tbTFXbFRsLUo4eTZQS3prd0Izckg4c3U2NkowMEtzZlhsQUpDZW1BcGJVNi1mNzU0Zm9UN1JDaC1hSGVsZm00blVUV1MxSF9Dbk4xb3duTXY0dnZmTnJNRUNKdWZPOFhXZENnTWc?oc=5",
+          "date": "Tue, 22 Sep 2026 17:09:39 GMT",
+          "source_country": "VE",
+          "country": "VE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "VE",
+          "llm_subject": "Trump defends his policies on Venezuela, immigration and security before the UN:"
+        },
+        {
+          "title": "Venezuela poised to adopt Chinese AI for surveillance, report warns - SC Media",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUV5VVhlcG9MMUpXbWFPX3NLYmg5REhCcTNIWFpYVlk4d2pjRTROWW1FektTTS1HQmU4Um81a0t4bGtINlY4eG5lV3B4ZG00NWdCRUZUUlVRXzBYS3pfRDFsNzRBYVFzUm5BdlItYlB3OGhCSEtzYjhGMmZSLTlyaloxNGFsSTN0ZnlQNE0ySFlUbUVzOExBMWdRaWo?oc=5",
+          "date": "Mon, 21 Sep 2026 15:21:29 GMT",
+          "source_country": "VE",
+          "country": "VE",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "VE",
+          "llm_subject": "Venezuela poised to adopt Chinese AI for surveillance, report warns - SC Media"
+        },
+        {
+          "title": "After Maduro: The Current State of China-Venezuela Relations - The China-Global South Project",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVBqWGRZNnNuRTIxajVkZHJNdkVRVWN1SEFhS0NzYjJraGNiZWhxcVRrZkRuaWNuN3BVb3dPU0NCWVpGdnNpTEdUaTkweVhoYUlvdUdIY0N1OVkxRExHR0dtN1ZGYlUwMUczbWpOMHM2MUk4LUVTNzhxYVFXdjNkVjJqSQ?oc=5",
+          "date": "Tue, 22 Sep 2026 19:00:44 GMT",
+          "source_country": "VE",
+          "country": "VE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "VE",
+          "llm_subject": "After Maduro: The Current State of China-Venezuela Relations - The China-Global "
+        },
+        {
+          "title": "Washington’s Oil Takeover of Venezuela - moderndiplomacy.eu",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXBLM0tuVDF4cThoanBPNTdXSnQwSXBkNlN6Rk9ubW9aWG93ajNpRHVBR3lrY2NmVnJfN1BPeFhyWEo3S0JpN3Y1YVpPSGFMeVlZd1dMNllVSmx0NjBnQVFnTG0ybG9uZTY1XzVnVDM1blZMd3BnaV9Ga3hsV1Uwc1pn?oc=5",
           "date": "Mon, 21 Sep 2026 22:00:34 GMT",
@@ -33890,7 +33980,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "VE",
-          "llm_subject": "Washington’s Oil Takeover of Venezuela - Modern Diplomacy"
+          "llm_subject": "Washington’s Oil Takeover of Venezuela - moderndiplomacy.eu"
         },
         {
           "title": "Venezuelan Acting President Consolidates Economic Agenda with IMF Chief in New York - teleSUR English",
@@ -33908,6 +33998,36 @@ window.WTI_DATA = {
           "llm_subject": "Venezuelan Acting President Consolidates Economic Agenda with IMF Chief in New Y"
         },
         {
+          "title": "Exclusive-IDB head working on $2.5 billion Venezuela loan, faces board pushback, sources say By Reuters - Investing.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPME94QmV3Zm0yTnQyVHctSTFsTTdpWWlZVnJKd1pHRTFFNGhNUVVULU15Z3g0QmZZU082dFpJUVQ3ako5anp1YkE0OUlOUzRYbDl5aVFOZ1FBa1pkR0dDZE41ZmxjU2d1Ylhlc1B0YlNUNTZrMndBamRFWmVXNWFDc0pfNkhwd3dOcjNGOG02ZmNiU0JBSTUxb2hHd29iNXl4V0s2a3pJT3hqajd3UFZtNS1iOU91ZUZzT0wtZ2gtck01VmJsSjlYdVRmelV1cl9BZlJjejFR?oc=5",
+          "date": "Tue, 22 Sep 2026 20:29:56 GMT",
+          "source_country": "VE",
+          "country": "VE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "VE",
+          "llm_subject": "Exclusive-IDB head working on $2.5 billion Venezuela loan, faces board pushback,"
+        },
+        {
+          "title": "Cuba, Venezuela and drug trafficking: Trump takes a harder stance on Latin America at the UN - voz.us",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkdSY1ZCODRtQXBiMWcyN1ZTNlpJcDRNeWtVRkpsU3pyajRfeTlZcnM5V19GTVNUOTBMTXhlTzY3R0FTNHd5Q3BRYldqMC1mMEtfejQ2T2lzM2dsNWpJN2FJMEpoS1ZhZXhjeEluMEtmZlVLZmZ2NTJWY2NQZHEwWVluaW91blVfQWpwVkI0VkZNOEFjTTV2WmgybkUxb21wLTNuNTNNRks2SmdraWx0TlF6QlFoNC00Rk9SZkRJWnNxbVpkNllF?oc=5",
+          "date": "Tue, 22 Sep 2026 17:58:10 GMT",
+          "source_country": "VE",
+          "country": "VE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "VE",
+          "llm_subject": "Cuba, Venezuela and drug trafficking: Trump takes a harder stance on Latin Ameri"
+        },
+        {
           "title": "Venezuela's Oil Opening Risks Banana Republic - 조선일보",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmRvRnRKb0h0RVRubTg4XzJDSEFIbUEtTmJUcnJnbU80eF8zdXVSLW5QUDFiY1NVOWlBWFdsVThzNGlSa1NOZGdnRm9adnRxVzJUenBnWmk1WWNmY3VHN3o4UEdEUzh1SHhPbjJwUHh0VUN3NkFwMmhELUlCQ3pwQ0tPZ1E?oc=5",
@@ -33921,21 +34041,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "VE",
           "llm_subject": "Venezuela's Oil Opening Risks Banana Republic - 조선일보"
-        },
-        {
-          "title": "Trump's Venezuela Oil Deal Hinges on Decrepit and Distant Fields - Yahoo Finance",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUmFXVU1GZGFETkRCbjVCc2hidkZpWTRFc1VwYTJFX3lhbkswaThlNElVcUJxY0hPSHZCOTNtVGlEbmFlU1Y5Y19Pc19rUHBQS0hYS1NEQ0NRaGFFak5vVmliNERLTFhld1FDeDM1U3NsSTVPWlZzeDdvMlpUQnFpN1FYTEVUbjZzOVhnT0ttSHA0SU0?oc=5",
-          "date": "Mon, 21 Sep 2026 10:00:16 GMT",
-          "source_country": "VE",
-          "country": "VE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "VE",
-          "llm_subject": "Trump's Venezuela Oil Deal Hinges on Decrepit and Distant Fields - Yahoo Finance"
         },
         {
           "title": "Halliburton Seeks Venezuela Deals with Eneva, WESCA - Briefs Finance",
@@ -33983,6 +34088,21 @@ window.WTI_DATA = {
           "llm_subject": "Exclusive-IDB drafts two-year Venezuela plan, says electricity and social needs "
         },
         {
+          "title": "The IMF plans to open its representative office in Venezuela in the first half of 2027. - Demócrata",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0I1Z1N3RV9YSEJ5WnZxUEU2X3lxR3hRUnBtU00tLUoyMVhrNEVRNzRhNDY2Z2lXbDhXTFhQR2ZET21jNGY5cmRIWnFmV3N3bXhFSTA2bnlydFl5eUVxWmRidnh6ZUpaTFEwbHE4dVVsMjd3ZFNRN1ZpR2hoeUFhRHdNWmp0RUtteVZDbFRrQTdkQ0hlczROUlR2VHpncUxBdlJvNW14QWdyaGlLd1pQdUp0SmZCSWpGQVJHM3VDV0PSAcYBQVVfeXFMT0VCRUtUc2VJX3F0OVB1TVFKRUhLTVFubVlnbEhLbFhBNWY3RXg0TWRKOG9XRWFlWXhWMFJfdjdwN1d5c3Z5Z1huYmEtNHc3RkxRU3MzZEJvSmNFdDFWRmhQN0NvaU1Hc3ladHgxdHE2TEw3VGpsVXVGWXR0NEZPN1I2Z1V3cnExeEREelVadXhoTHozVXpnZFRqaEFzY2VOOVNnenYzc2pXOUNpV3FvV2hXTUR0TDlTSmFpMGlrNzVKdHgzWndn?oc=5",
+          "date": "Tue, 22 Sep 2026 17:22:39 GMT",
+          "source_country": "VE",
+          "country": "VE",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "VE",
+          "llm_subject": "The IMF plans to open its representative office in Venezuela in the first half o"
+        },
+        {
           "title": "Halliburton closes agreements with Eneva and West-Construcciones to boost energy projects in Venezuela - Demócrata",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmZJSlpJNnotR3VNSEFiOTFSRGhKTWl5QmppT0FkbC1QWWllSHFEbmNFZTl2aHN6NldKUUN4SlRzckhTVzRDaFRPNG95ZVlBbE50UHk1N0ZON1J1eXg2Vi1sb2lTWVIya04yMm8zSWFUUGxKT0FoRnRCU1UwRFlzTXY0TUxjZ1Nra19Yei1LUVdtS2pydmhUS2szMXhyRExFZXlkUndNRW93RXh6aTBDRXV1bjVXTEJWQzVHUDJJWHNoSXFtRHFUZ21FWGVzNWQ0dlFERGFR0gHbAUFVX3lxTE05QWpPRGhiR2N3TlVETWhUNFo5a0UzOGRzZVV5Q01LMXpmQV9DUHBxT2NGU1owQkN2UmZGNG1wZEFzUzFJZXZTUXpBMHZzNnlTaWVoZmNOOER6OWdzRmI1RjFVWmFfbm5tTUtqLXRGTW5pSTdTT0ZEeWFncWFrdHNKcVRUTktMSVRyVm9DZUNuY2I2eU9Xb2NiS1AzdXJ3V2QtRm1CN3NQSGhqUnYxZE4zdi04R1E5VXdnci10cDk2R0VtWDNxTTdydDlBcEpqNkdtRkVOWkxTNl9YMA?oc=5",
@@ -33996,81 +34116,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "VE",
           "llm_subject": "Halliburton closes agreements with Eneva and West-Construcciones to boost energy"
-        },
-        {
-          "title": "Venezuela poised to adopt Chinese AI for surveillance, report warns - SC Media",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUV5VVhlcG9MMUpXbWFPX3NLYmg5REhCcTNIWFpYVlk4d2pjRTROWW1FektTTS1HQmU4Um81a0t4bGtINlY4eG5lV3B4ZG00NWdCRUZUUlVRXzBYS3pfRDFsNzRBYVFzUm5BdlItYlB3OGhCSEtzYjhGMmZSLTlyaloxNGFsSTN0ZnlQNE0ySFlUbUVzOExBMWdRaWo?oc=5",
-          "date": "Mon, 21 Sep 2026 15:21:29 GMT",
-          "source_country": "VE",
-          "country": "VE",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "VE",
-          "llm_subject": "Venezuela poised to adopt Chinese AI for surveillance, report warns - SC Media"
-        },
-        {
-          "title": "Inside the Venezuelan prison meant to 'drive you insane' - Yahoo",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdW0wUVZQRVZyNWw5VnlLNjN2X0FsbWlUYnpyNkprTFl6VWNXR04tZDFjNW93Vkc2RWhza2RMbHAtZFRLUTJ2b2RLXzc0ckdXUzhGMUQ1XzM2T240bk5MQ1kxeEJPa0xPZ1Fic2drX0VRZDltQksyM0FrUnZJQ3BJanJrbGlycjRBWUxUeXRyVm9fSWtzVk80cA?oc=5",
-          "date": "Tue, 22 Sep 2026 01:28:00 GMT",
-          "source_country": "VE",
-          "country": "VE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "VE",
-          "llm_subject": "Inside the Venezuelan prison meant to 'drive you insane' - Yahoo"
-        },
-        {
-          "title": "Delcy Rodríguez Arrives in U.S. Vowing to 'Bring Venezuela's Voice' to UN - Latin Times",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnQxTm5va0FXMHRKLXkwM0RlaHJJdm9YZzlWWkstNUVsSEtScGJyMEt6RHJBcmw5UDdLT3FPNnRrSjJMNjRkVDJ4dS1kQlp5R1ZxeFMxV1ZaUFM5cmpoMzNfc0hleks2ZWVSOU9KaGlTTWZWWDJYVGhJQUN0VVlubUt4MzZmSlRWZzk0QzBMSFMtTDVVNmwyRg?oc=5",
-          "date": "Mon, 21 Sep 2026 15:28:06 GMT",
-          "source_country": "VE",
-          "country": "VE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "VE",
-          "llm_subject": "Delcy Rodríguez Arrives in U.S. Vowing to 'Bring Venezuela's Voice' to UN - Lati"
-        },
-        {
-          "title": "Peña Lands in Caracas: What Actually Changed With Venezuela - Latin Times",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcU9TNVMtSjBqaFpEYzRQUWZQWWJVSmR5eDVuNHMxa2dJcHhsOXc2cU1CUF9mZ0dvR0tNVExfSURzUlVzWnh0Y2FaLXU3ZFVwMUJsR3JDM1N0c2xBRTVzYWdBdHRqbzI2VmxTMmZlZHV3QUhXdzJROFhXVS1CM3JxVXdaQ1M1NzRQU19oUGxTQlBMZjdrZm95UTBsaU5oQnROaE5WaHNmenBpVWUzT3ZlMEs2S1A?oc=5",
-          "date": "Mon, 21 Sep 2026 19:38:50 GMT",
-          "source_country": "VE",
-          "country": "VE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "VE",
-          "llm_subject": "Peña Lands in Caracas: What Actually Changed With Venezuela - Latin Times"
-        },
-        {
-          "title": "WORKING ON IT NT Venezuela: The Cartel That Never Existed - Orinoco Tribune",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10MGFxM2RkNWwwdXB0Q0M2bEJ2SmJvaTBTUl9CLWJ6czVxXzNFYk1SYkNIdkI0RUFEZ0tIa0podDdiWGNxZ0hCejNoRzZiM0w1Nl9mVEdWb2VVTVlGN1pqNzhEWFZQaHh5N2UxYk8ta1pxMndONGc?oc=5",
-          "date": "Mon, 21 Sep 2026 16:36:42 GMT",
-          "source_country": "VE",
-          "country": "VE",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "VE",
-          "llm_subject": "WORKING ON IT NT Venezuela: The Cartel That Never Existed - Orinoco Tribune"
         },
         {
           "title": "Trump highlights Maduro capture and subsequent oil deal with Venezuela - NBC News",
@@ -34088,10 +34133,10 @@ window.WTI_DATA = {
           "llm_subject": "Trump highlights Maduro capture and subsequent oil deal with Venezuela - NBC New"
         },
         {
-          "title": "Halliburton—latest to cut a drilling deal in Venezuela - Oklahoma Energy Today",
+          "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI - UN News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3paSzJHM2ZmUkt1NVFjQ21PMXcwWmF2eDVjem5kOXhMbTlSWmpGZ0FpTWhockRQbjZsN0gwUUgzNXVSWmpreVY3aVByR2V5WTB5UGlnc240Rk9vY1hMVXBERFYtZkxvdGNnbFZNTHFSaHluc21hYVUyRlNlNU9ic0FRSlFUSVBtODZhb0FZUTc4T0k?oc=5",
-          "date": "Tue, 22 Sep 2026 15:48:19 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlX1BSTHprWTVWRmpURktsd2x3aEo0QkhnanhsQ2RnbmkxZzVORUROcXZwMUNfUEEtRU5SczhWc3pmZXJEWkZ0ZU9QbG1EWXk3d2lKRTU1UQ?oc=5",
+          "date": "Tue, 22 Sep 2026 16:42:32 GMT",
           "source_country": "VE",
           "country": "VE",
           "category": "neutral",
@@ -34100,7 +34145,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "VE",
-          "llm_subject": "Halliburton—latest to cut a drilling deal in Venezuela - Oklahoma Energy Today"
+          "llm_subject": "Trump defends military action against Iran, Venezuela, and calls for rebrand of "
         }
       ]
     },
@@ -34572,15 +34617,15 @@ window.WTI_DATA = {
     },
     "CA": {
       "name": "Canada",
-      "index": 4.52,
-      "raw_score": 2.07,
-      "status": "ELEVATED",
+      "index": 1.0,
+      "raw_score": 0.0,
+      "status": "STABLE",
       "events": [
         {
-          "title": "What Canada’s national food security strategy is missing - policyoptions.irpp.org",
+          "title": "What would being an 'associate member' of the EU mean for the Canadian economy and businesses? - Financial Post",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZndwcVFJaUFlSTRfUmZTTEdQS0JnVVJhTTB0bzJlX055Unh0d09hS2F6M3F0SGt4OUYtVW1oVnAxekRWSHpkWmhzLTlCdnhtMHB3OEJrbklpczlNenowbGFKU0RuQzFOakxuTkMwWFJkRmcwUnlDX2c4XzlfM2xRRWdR?oc=5",
-          "date": "Tue, 22 Sep 2026 11:14:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGNyU2JBb1F2SHFBZnF3UlBnc2ZUeEpEZGJ4WTk3dmEtVE5ZVVdPQWx5SklSUjlrWDdHWUgtZUhtU3RiY2o2YUhXMTVXelRJSExEYXZXSWNtNVFhSlNuWXlaNmM2cEFrb1RsRlR5UUVXZ25Jcnd0ZFZkY0Nubi1vSXQzblAtWW1tRHJKdVFoYV91OFk?oc=5",
+          "date": "Mon, 21 Sep 2026 17:42:27 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34589,13 +34634,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "What Canada’s national food security strategy is missing - policyoptions.irpp.or"
+          "llm_subject": "What would being an 'associate member' of the EU mean for the Canadian economy a"
         },
         {
-          "title": "One Year of Canada-Mexico Action Plan: Trade, Security Gains - Mexico Business News",
+          "title": "India seeks tariff rate quotas for crops, recognition of its economic heft as trade talks with Canada near finish line - The Logic",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2VsNFh2N25LZ0w0a3NtQ3dPaTlVR2MxUXNnOTlWRWJrY29uLXVpeXBTTU9FYkg0NnBJanNfMlFNRDdRRC1qRXA2aUdsY3JzdkJEU0JJY2hnX0RMQ2NpeUpOb0hMZHdGeTQwNzRaTHVxbkpNdV9YTkl0bUozWVEtcWs1eTRBeVZFeXBGWUp6M3Nrbjdqa1RINkpqSFkxZVNvNVNYZS0wdXg4S1lUbnc?oc=5",
-          "date": "Mon, 21 Sep 2026 19:09:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRelJpV2hYT2hLUi1ISXpwNmhES2JoWWlRTjFSWDZrVWhyV0ZDa2E2ekNueVI2bnJ2NEw1emZwTTRPR2pRdFJaMVlUZG8xRWpjYk0xenlEX3FxdzFBY2JaRk5QRHpaU0RnZE5fLWJFaDV6UDZrLXc?oc=5",
+          "date": "Mon, 21 Sep 2026 09:45:00 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34604,13 +34649,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "One Year of Canada-Mexico Action Plan: Trade, Security Gains - Mexico Business N"
+          "llm_subject": "India seeks tariff rate quotas for crops, recognition of its economic heft as tr"
         },
         {
-          "title": "Foreign Investment Law & National Security: Doing Business in Canada 2026 - McCarthy Tétrault",
+          "title": "Canada, France agree to closer ties in defense, economy - dw.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYjhjNWZUOEJ2T21NVXhpZjE0Z2VEeHdjMEdyNUtUTkc3SFRHb1RYVmE2REoweThBelFLRTBILVZkZG0wS0RwS2hnaUN2aXZDUjFhMTVnWVZ6UjluN0Y0UEo3TWVYYXNxSUJ4T04zdWU5UmdnRkp2Q09PN2F1NzRvT01MV0h4cFprdVZMWWFDRFk4SnVGMTV1Tm9RcDgtU1h1YUR6QjVWY3VqWkJjb2Zmc25pR0NhYkxDVzdz?oc=5",
-          "date": "Tue, 22 Sep 2026 14:04:52 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmJpNER6VjVGMDdCazlMMnFtdVNLdHYwNjVleTJqN1VudFAyUUlUc2R1V1A4bzd2T2FoeDFyVERKZEJPUlF4ejhneGY2aC1NbW9OeTZHTjVDTGhpcXRqeTVoQ2h6U0dCdFpMQ01KakhRNmhXcWljOUQ5SVFoMUYzS3NjcHY1MlNHUFp3ODBmWdIBjwFBVV95cUxPRkpUU0JzMjRHZTNWdkxZd1BrZGRkdXN2TU02UGFYWXZsX01NbkNOdnlTdHBkZFhwYXYyWnZhWlB3MElUT0hGcFViY0dteU9ISnUxcE1mclc0eVJoUmVnTFF2TTRCT21qRnBybVl1R0tNYktyWWtKWkdHYW4zZTdoeTJlT1loemxQMG5PRGwtaw?oc=5",
+          "date": "Mon, 21 Sep 2026 13:35:50 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34619,28 +34664,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Foreign Investment Law & National Security: Doing Business in Canada 2026 - McCa"
+          "llm_subject": "Canada, France agree to closer ties in defense, economy - dw.com"
         },
         {
-          "title": "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci - The Guardian",
+          "title": "Canada to Enshrine Expedited Project Reviews With Legislation - WSJ",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFJhUjFud0NCenBjb2hQRlhMeDNhZzFJRV9lMks4bllCa1dvUHdvQXNad3NxN2Vub1haUUlGVXJ3ZWxWeEJkWjc3Z2psS2xwNFQwbjBTSU9KeXF5Y0FFVXZ4RDJ1RXR5UnRvaTluMlRCNUduTnBmUlM3dWhuQ2pCNFRwYVRmT25wazVQQlhFSnFad1BLd2huN0c3el81Z0YxX3E5YXVJMWNWYzg2bHc?oc=5",
-          "date": "Mon, 21 Sep 2026 20:25:00 GMT",
-          "source_country": "CA",
-          "country": "CA",
-          "category": "terrorism",
-          "weight": 7.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CA",
-          "llm_subject": "Europe is under attack from three sides – but the EU and Nato are unfit to defen"
-        },
-        {
-          "title": "Canada and Norway coordinate security guarantees and military support for Ukraine - Межа. Новини України.",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UczlZTWZmOW1ldmczN20wSGd5Qy1ibHFTcHNTdmpDaVV1THNrSk4tcG0wamFnYzVNZUR5OVhQY1BDWXFWdnhfeXZxejFfLXNpTW0xYXN2Y3ZvcFdKYTBvZFJaazc?oc=5",
-          "date": "Tue, 22 Sep 2026 16:04:04 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUEN4eEFjbGoyZnpyMTFMOVV3YXRwcDdDVVozcnZxTXU2RUV3Q2NPOFlpUXRwbTgycVpIZGh2QUhPZm10MVNRTWxxeThld08tdURzanNtU0diRGNIWHRTRWNheWdQc29PYXlLb21RWW1PNzB5MUlNNUFPSGdVN0x3b0U1ZTdfUVNLb1BNN0tITk1sY0xLeVR6LWVDUWZpQ1ZFWTFLWnZ5NjQ?oc=5",
+          "date": "Mon, 21 Sep 2026 21:49:00 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34649,13 +34679,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Canada and Norway coordinate security guarantees and military support for Ukrain"
+          "llm_subject": "Canada to Enshrine Expedited Project Reviews With Legislation - WSJ"
         },
         {
-          "title": "Canada’s privacy czar launches investigation of major driver’s licence hack - Global News",
+          "title": "Bank of Canada says new US tariffs could slash fourth quarter growth - Reuters",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmltOUxjZjNkcEVCd1hFOGlpZ3hiQXJwOUtoZndJWmZGYVEzUGZoZEZOZ19MOWNLZGVlVmNrY0lYMXItTkx5bUI4NmFGRVVtcXB3dUV2ZUtJWDUyUVJ5ZktXaVotcTllNTdwV0o1dnAybXV6TjZPMDJHTG15djVaRXViZXFEdWFyenl1cjZSMm5FSlRFS3B3?oc=5",
-          "date": "Tue, 22 Sep 2026 15:51:28 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEhRT0NHV1hIcElfc0ZNTkd6MmFBb0I1bFZaaGsyTXNfbUF3c2JsZ0gtbnJiS1BNVmF6ZGdmeDhjeG9HeFp6TmRmcUo4c1NPYVNORXR5T0FjengySmhmbndCODZmUVJlWWx4dHU3SE5odjc1cDFXamRuT1FCX1hSTHBkZHdoSXFNcEcyYy1rYWJzcUVhT3dmSkdJcXFmVjNUSXNNcnJYTjlGZVlSa3Zr?oc=5",
+          "date": "Mon, 21 Sep 2026 16:11:51 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34664,43 +34694,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Canada’s privacy czar launches investigation of major driver’s licence hack - Gl"
+          "llm_subject": "Bank of Canada says new US tariffs could slash fourth quarter growth - Reuters"
         },
         {
-          "title": "Carney and Macron deepen ties as Canada turns toward Europe and away from US dependence - WFTV",
+          "title": "Canada’s first celebrity economist has a gift for demystifying the secrets of the dismal science - theglobeandmail.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DODB3NEVNbGNmY3lxQ0VNRlRDWlFiWFg3T3hIbGJYMWRVV1FKTUhTUTNNTWVRWURhYkZNNUhjLVdzTkJfWDN3OEg5SW41SVllYmdDQWpuS3ZmZzJfbUdyamVZWlY4Ym5lcW1MVFRJSnMtWXdiVjdqR0JzWXLSAZABQVVfeXFMUGhVUF9IWjFVMS01LVhKT3gyaVdVMWpfZS03UE00eHI0ejBHLWdjZHBPNFFwZHJ0dGk2NWJ1ellnMGcwbk5hT2ZuTVJoZkdQR0xFeTRaaENQMWN4NEM3YzNDZkFVUFY0Y3lwVHMwQllCbVNGeXhEUzRqQ1JVWDZ3WC02OWpkdlVtNkUxTUJpU1R3?oc=5",
-          "date": "Sun, 20 Sep 2026 20:37:10 GMT",
-          "source_country": "CA",
-          "country": "CA",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CA",
-          "llm_subject": "Carney and Macron deepen ties as Canada turns toward Europe and away from US dep"
-        },
-        {
-          "title": "Macron backs Canada as EU associate member as Carney turns toward Europe - AP News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTm9KMTZzbXpJVUZnellLVURXTW1veHdKejRLYkpYcTdscWwxd2dMdEJObEVFNGJzc3d5YXV2bmQyellxbV9WRmtiN3ExZ0ZySTBvWFE3YWdGeGhkTldnMzRld3Y4QjFDSm00eDltVXBlZ0pqWjZWcDQ1WkNmT2lpN3ZQMmJxZFBaYlFnUGNpRHJyUHZFSG9hZllkRQ?oc=5",
-          "date": "Sun, 20 Sep 2026 23:25:00 GMT",
-          "source_country": "CA",
-          "country": "CA",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CA",
-          "llm_subject": "Macron backs Canada as EU associate member as Carney turns toward Europe - AP Ne"
-        },
-        {
-          "title": "Food security and support on the minds of farmers - Yahoo News Canada",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRndJeDI4ZDNVWWUwajkxSU9lQ3lqcm5aQjVEMGo5MFhERlE5cGZxbTFHNTlrTnNmQS1sWkNULVV5M1hqWllRMVFwc1V0ZGFGd29yZkJRcDB0aFlKWWxybldJdksxVGd5eERidkhOcVBXU0NPSWtSeEVQVDRyX2E5ZE5B?oc=5",
-          "date": "Tue, 22 Sep 2026 05:14:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHI3b29JM1dLVWZERy1ac09HRVhHdkJMVVhiREpkQWdoeGh1R2M2WjBlY3d4WFVWWnAyM0tnY1hPQ2JOTDJ4ZEhORkc0YVUycDdsdWNqa19BWXdlSWFyLUJCaU04V25yeEVydEwwSU9IcXZPT25hTWhCY1VuWUE1Y3VVYTlaZzZBLXJqVlBaUDFYXzJ3MWp6aHpkWnYzZkpLQVBvUGRuRFMwaVhGUjJhaDlrakdSQU50UFNfM2owVy1UU1I0YzVN?oc=5",
+          "date": "Tue, 22 Sep 2026 12:00:00 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34709,13 +34709,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Food security and support on the minds of farmers - Yahoo News Canada"
+          "llm_subject": "Canada’s first celebrity economist has a gift for demystifying the secrets of th"
         },
         {
-          "title": "Canadian investigation launched into data breach that exposed millions of IDs - CBC",
+          "title": "Canada sells more oil and gas to China as relations with US sour - SCMP",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Gckxwd1B1NUZqRGwyZjdpOUkzNE1MY3JFemFZWllLVkE5emFseDM4dGhnSzdpMzdmN1dVcFYxYXZkME1JLXJWWkZHeW9OSXhza1phZjkwXzQ5U3VMWmR2Rjc3TmhKTTdJTjJYSVJFcnBLd1NCb3ZmZk51VDR6UQ?oc=5",
-          "date": "Mon, 21 Sep 2026 23:22:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObEx2a0VRYWpIYWR6WDhyenk4N2RTR3lpcC02R0RFdFpyM0x1cV9lQjlFMEZ3Z1NrTzc4bjEwX1BTU3dtWXVsd3h1Y2FWSFAxa2lFd0xpTFdDQnB6YWc5Yk4xQWhfY2VyM0pXTWFIZlotR2l0blVXVTVUYUpaVnJPMkFBaEpqZ0hoTG01MzBaLTZod0YtNDM0elRHaHVvYkxrR0I2SWpGR2NxZ1hDVFhWTkwwVkpVdm95VkpPOFZObFRSV2wwM2ZFWDZrVnhEclXSAc8BQVVfeXFMUFFvTVozOFVOa1JwbXVJZjJWN1NiQ3FBZlJ1enZFbkhiN05TUzliOFYxTlFiNFNMWFpNalA1SVhQVUZYckVQTl8ya2tEaGV6WHduU3Y2TEM0Szl6N3BHMFNiSEVUbUVCRFgzdHdhWmdMSjRtMWV6NTBHRDFma0t5bWowMXdWQkdfQVBMaURRYjJvS0ZiVzJuUWpUXzhWbkoxM3ZNLVhKdERMU0JIa0EyZWRBN0pCQUF1Q291Nm05LWdHOXl1TmVhbTFmNmZ1azFB?oc=5",
+          "date": "Mon, 21 Sep 2026 08:00:08 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34724,28 +34724,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Canadian investigation launched into data breach that exposed millions of IDs - "
+          "llm_subject": "Canada sells more oil and gas to China as relations with US sour - SCMP"
         },
         {
-          "title": "Canada’s unions look to government to keep its commitment on the right to strike - Canadian Labour Congress",
+          "title": "Key barriers in five industries stalling growth potential, new report argues - Castanet",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclQ3TXk1clVPcFl4RG1OTUU0SlA2SDdhVk5QQXQzT2hocW1RVldJR0p1Q2JYaTc0S3F5QnZHREM0QURTWFdsUzBlWFJuNjZ1U0tpQ2RHbmlUYVQtRnYwTjlUa1BZZkx6QWtWbXpwMXF3SHQ4ZzE5S0MxQzRtWms2UXN3LURMYnFjeG1iaHM2TGdsWno1NG1nTm9kQzVad2pGeVRnTTBUZGRPUQ?oc=5",
-          "date": "Mon, 21 Sep 2026 23:25:53 GMT",
-          "source_country": "CA",
-          "country": "CA",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CA",
-          "llm_subject": "Canada’s unions look to government to keep its commitment on the right to strike"
-        },
-        {
-          "title": "New Canadian military security force to be created as air force prepares for F-35s - Ottawa Citizen",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUh6Smg0M2ZHdVpPRTNfeEFPZS1oVDVHUG9kQWhXRXpwbVhScG9MU0loYzk5VlFtX2ZSR0EwTjBzU0dWRllkaEttbEVDOXVqbXptZmpiQWhuY2pXOFhWMTdRd2tHaUhQa25tTF92U2QyaDE0ZDVOb1hycG91Ykx2NHRfc2NLV3hZZ2NPWkFyWVVpNk1zREI4bXQzSTladw?oc=5",
-          "date": "Mon, 21 Sep 2026 08:06:49 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzBKR2JQdkZEZFJVTjRFRWxZQ0VfNmEyNE5fT3VZczFmU0lGX01pX3NHWU5jMS1pVExET3d0eGM0MVBQWmcwZUxfdlk3X1VrVEM2TS1BM0JGb1N4a2hYYVdsN0JHMFVJRHI1WGpPR040X3RzaDVxcUR5cUtHVnJtc2NIdDd6X1JWLVN1dGllWWFiODVJLWRwN1c2QkxZaFprelBiSmxpMll0TExtb1lqY1hKYi1sdGtIa2l5OTdR?oc=5",
+          "date": "Tue, 22 Sep 2026 13:29:00 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34754,13 +34739,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "New Canadian military security force to be created as air force prepares for F-3"
+          "llm_subject": "Key barriers in five industries stalling growth potential, new report argues - C"
         },
         {
-          "title": "Germany, Canada to Sign Major LNG Deal as Europe Seeks Energy Security - EnergyNow",
+          "title": "Trump says U.S. to continue buying Canadian potash — but wants cheaper price - Global News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUxmRW1DazZDcEJRV2E2NVp5dmlPQmxXaDFzeVZlc01YX0dNSTA0YWFHZXNkdU13QVlaWGVOVFZVUzlKblZMTVZtbW1TV19WbHE4WWRQMVNjNS1feGM2Umt3QU4zcHBfbzFGQ3NXM3dXOFBvdnQ3cllaRjZhQWJKeWZLV2g4bXVpSnVnYmlhUFFuQzQ2Qm1uX3pDaXpfQlRr?oc=5",
-          "date": "Mon, 21 Sep 2026 15:13:46 GMT",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90NVlzU1FSeGxHQTNyMFE3a0dOaWdjZnAyRXZBbUwtRWY5OG53MG5tY1VHQmpVbjM1cTNTQ1hLVEdTazBZMXk0YUJuSG1CR0lrSDFodnU0VDBvZmQ0S0JLdGFiSEstSWVmM0NQTzgwaEZhYXlKMHVoNDVWUQ?oc=5",
+          "date": "Tue, 22 Sep 2026 21:09:51 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34769,13 +34754,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Germany, Canada to Sign Major LNG Deal as Europe Seeks Energy Security - EnergyN"
+          "llm_subject": "Trump says U.S. to continue buying Canadian potash — but wants cheaper price - G"
         },
         {
-          "title": "Canada, Norway forge strategic defence industry partnership centred on Type 212CD submarines and Arctic security - Defence Industry Europe",
+          "title": "UK urged to ‘team up’ with EU and Canada in economic partnership - the-independent.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVgtX0dHS19PWVNQOGdyMTZGek9iREFLaVpZWDdoeUJtTDEyUGlyeUxvcnoycXJYSGUtSWplcGZIZmtZY3M3c1ctdnVVSTFMd3F2aTUwS3R4R2E3aUhjRE5SbUpLTDM5TkZOTnM3NUJBV1dsaXNPemdnNERvZE9kWTFLb1Z3aTJVa0o5ZWlJcm9YbVgwYlhoTkRXWmszWl9Uc2ZlVVlSU1JYSXdTT1V0MExwOE80TkRraTcybEp6VnFuTFpsX3lSejBacEVJd3VKV2l5bkgwMA?oc=5",
-          "date": "Mon, 21 Sep 2026 19:11:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmJKcEcxTGtETTlGZVBWTWZueEdiNmIwcnAwZUVOWXdqbUlpQk1SanJOX2tmNW5Hak1yNjBqdzFkNzNxcGF1VG1vNkg1YjVJUXlGbTdxSkR1RXFDVHRUc2Nzc3poTmlUVVBkcVE3ZUZ5d2s0S21JdjRhZmJIM1ByUm5MVkNEZU9RSV91VTh5YVBZUG9jUDhvQ0NacjIzZ3Y4SzNMOXNEYkJEVkU3ZkE?oc=5",
+          "date": "Mon, 21 Sep 2026 09:09:00 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34784,13 +34769,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Canada, Norway forge strategic defence industry partnership centred on Type 212C"
+          "llm_subject": "UK urged to ‘team up’ with EU and Canada in economic partnership - the-independe"
         },
         {
-          "title": "Carney welcomes Norwegian PM to Ottawa to discuss Arctic security, energy - Castanet",
+          "title": "Holes in Value Chains Are Holding Back Five Sectors That Have the Potential to Reshape Canada's Economy for the Better - newsfilecorp.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnlYV3B5bm1sTlE3MkN0bXh6aTNnRGs5enktbnJwVjhfQ25uNjVKQndGMlZ1RXExUzV1V3hXdGxqbF80QVVqem5PdG14MzQ3dlFNajVNdmRoNV9EMFpNMWo3eUZvdnItc1ZnVkZ5SDBWalM4aG9sTkNPQkVXb0pwM2ppN2ZSRkNZZV92VkxISGRfRTMtaHo4bUZfanRfaHZJQkM0UFlCdjNwTjBtUi1aeVhrNGh1WXM?oc=5",
-          "date": "Sun, 20 Sep 2026 23:41:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZHRRMURhUExZZHNHa1hTODJsRjlhUzg1R2JqYXlCS0d1S2k5N052cTc4TFlodEtWX2VsYUhMX2x0cXpHRk5GMW5zbnc1UFBhVDVFdkJmTllrWDhVN0JJdGZJdUgzVkpuZ2RRWWs4cjNhbUt5Q1FBaTdERnktWjRWbGk5aUNDREUwazhEQWhJLWN3dDUxcUVOTHFvcHVPaHp4Z3FsTUpEQWVxU1NJSnlPSk9uS3FwR2g5V3JTVVBlVHRaSDJ0eVkyLUFlMldNQjZfb0lvajBfZTR0aTM4T0JXS0FIWXhoWnJkM3pWckFuMF9wSFk?oc=5",
+          "date": "Tue, 22 Sep 2026 13:30:00 GMT",
           "source_country": "CA",
           "country": "CA",
           "category": "neutral",
@@ -34799,7 +34784,67 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CA",
-          "llm_subject": "Carney welcomes Norwegian PM to Ottawa to discuss Arctic security, energy - Cast"
+          "llm_subject": "Holes in Value Chains Are Holding Back Five Sectors That Have the Potential to R"
+        },
+        {
+          "title": "Report: Canadian Motorcoach Industry Generates $4.4B in Economic Impact - Metro Magazine",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUtIQjBZeVN5QXlqNUpmaVNPWEVVVUY2RWtpOXh6MnRLdW44SFRiQ3U0XzJ5YUk5WXBFdk5EZmFRblY5RzdRY1poVUZIQzhLUmUxbU94Nm55ZUNNVVItSkstdUc0MUpYLWxYclYzY2xwSEZQN3MtbkdLblo5a21tNV9yWDNfVjJySlI1aVh1eUw5NU5YMTRzYnRtRHNMVmNQOEFTRUxBMA?oc=5",
+          "date": "Tue, 22 Sep 2026 18:31:27 GMT",
+          "source_country": "CA",
+          "country": "CA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CA",
+          "llm_subject": "Report: Canadian Motorcoach Industry Generates $4.4B in Economic Impact - Metro "
+        },
+        {
+          "title": "AI regulation, Canada relations and job growth: Healey lays out her economic vision - MassLive.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZXNWWkxuUGYyRDVBYVpRWktRR2R6M2VybW1maTJCTTFXN2JfNXRqdFoxY0h4Y3lJVzI2RkJBemExcGNWOU5uSmZIanRmUEVydmpwdWlNbm83TzlKOWxRZWJOZ3A3alhtSV93Sy1iS01PNDVjWjVBemhoTW5iTUVLT2tLYWJEa0xnX2RQRm5YYkw3RXB5TVE4U3ItYlFncmZHMXVPTVVHeXZ2Z084dWt5dlBDSy1CNV9COVdZeWU4OEFKejJwM2RwTkRaU1Y?oc=5",
+          "date": "Tue, 22 Sep 2026 09:41:00 GMT",
+          "source_country": "CA",
+          "country": "CA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CA",
+          "llm_subject": "AI regulation, Canada relations and job growth: Healey lays out her economic vis"
+        },
+        {
+          "title": "Canada’s economy is losing $100B a year to illness and caregiving: report - Global News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SNl9MeWxjdG5CblVrRk93UGMzWGpFQ1dRRzRSQzZ2NEZid3NSZUc2RTdZUGhyaXlBeFRUaHZ5ci1fZ3V4NnN0c0tLRm1kcVVueXhLSFBuRU96T01aM3NDdE90NVk2cndsMEVNbkxlclI4LUl2aXJqVmRR?oc=5",
+          "date": "Tue, 22 Sep 2026 16:22:42 GMT",
+          "source_country": "CA",
+          "country": "CA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CA",
+          "llm_subject": "Canada’s economy is losing $100B a year to illness and caregiving: report - Glob"
+        },
+        {
+          "title": "Bank of Canada to make rate decisions based on domestic economy, not markets or the Fed, says Macklem - Financial Post",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWh4Zk5CVjJVaXpPVllIbUxKUy1naEVOcUlpc2xVa2QzUjJKVXM3VndmV25fbmJ1RHhwY0JoRmwwOWlSSGRGS0FILV9MUXFFNVNSQi14R3pZbE1uRXlPbVhIdDQ1dXlqdTB0ckpDOUZQbVZyU0tXZ3pRXzI0TUxtRDB4Tkd0TEdpY25RUFdMNkp1TmEyT2EwOWpB?oc=5",
+          "date": "Tue, 22 Sep 2026 16:56:59 GMT",
+          "source_country": "CA",
+          "country": "CA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CA",
+          "llm_subject": "Bank of Canada to make rate decisions based on domestic economy, not markets or "
         }
       ]
     },
@@ -35043,21 +35088,6 @@ window.WTI_DATA = {
           "llm_subject": "Al-Baour, Attaf discuss Libya-Algeria cooperation, developments in African Sahel"
         },
         {
-          "title": "Dhaka seeks Algeria's cooperation for energy, food security - bdnews24.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pZFI4MmtQdXFSNGdVUTJMNUZFN0xoUGVobXNnWVdJTzRuZjNhSWVrYjZ0d2k4VjF6aThndTBwV3BLYjI2SVhsNERiRHFkN0gyMjNZUg?oc=5",
-          "date": "Sun, 20 Sep 2026 17:12:00 GMT",
-          "source_country": "DZ",
-          "country": "DZ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "DZ",
-          "llm_subject": "Dhaka seeks Algeria's cooperation for energy, food security - bdnews24.com"
-        },
-        {
           "title": "IMF warns Algeria’s fiscal deficits threaten economic stability - Channel Africa",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW9POUUtcHhHN2FZRFI0RHQ0RC1RZ2RYdlNRMmd5X3I4dktIcG1WeWl0Uk8zVVQ3UXFLUkdKOGNqUVEwQzVMQ2lsYW01QmlqWGVfVUxYUmM0b0RzQVR0cDc0eGpiY2g5bXE1enNzZHRWZkFfd0NSeGM4ZEp0RFhwWEVncERQak45Z29DaXZYN2h4NUcyRDY5WG11eHpkd251elFzTkNWUThTY2NBQzJ1S0p3UVk?oc=5",
@@ -35193,6 +35223,21 @@ window.WTI_DATA = {
           "llm_subject": "Algeria faces calls to drop death penalty plans after wildfires - Al Jazeera"
         },
         {
+          "title": "Algeria accuses UAE of trying to sway two presidential elections - theafricareport.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeTVzclBiS1NPWlluUzlYNDRTYkNhcWcyczNsbklseDN1cFdOTVg5RzN3UFUwa0k5ZmdWaUdZUG1GNFpjMTlJaXJNNEdrZzJZVEJwYm9YLWIta2RDbWVyM0lmYUh5M0oydUVwaUlCTldBQWotZVpoZjlEUm1vbHZ2dG1uR2Q5RENaSDdpSEpkSVJ1ZFlweENXejZhLXlUeTZiQm9LYldiVQ?oc=5",
+          "date": "Sat, 19 Sep 2026 13:02:42 GMT",
+          "source_country": "DZ",
+          "country": "DZ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "DZ",
+          "llm_subject": "Algeria accuses UAE of trying to sway two presidential elections - theafricarepo"
+        },
+        {
           "title": "Araqchi Slams French FM, Recalls France’s ‘Colonial Crimes’ in Algeria - تسنیم",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkNOeTFVMEExS21IWFF3bkdpaDZoMlNVeUh1cGRVbU9Na2FMV0xaU3JXUjVadFdDMFFpY1JXc184Wm93UlgzN3UtTmExaXJPelphNjNFMmt1UmdRM3F5WHpyVkNzbEVNWnVYeS1BeFRFRkJuTUpqNzE0THJjWGg4TURPcER1YmktVHVicUp2MHU5aUFxWHhoOEZaM3VsWFBVYlpDV3g5cG9pT0FhZ1d4Ml96M3dhMlA0cUpLWdIBwgFBVV95cUxOREktZWc2ZFllUGJ0RFlabVg2N2QwcW50cWF0RVQtVmpYNFd5UndDYWY0bFNHTVphcXd4c3FhT3otaXg4WDlWdjdXQUFUb1NpRXdENVJvbEdXVjBzbmNpWFlMVEpsWnlnTmUyU1F2UW5XSEllODFzZFMxS2NKM0EyVlZ3YjlxTXVnZGNBZE9CS0dJb04tLUJTZEJUekwwLVV3TktlM1RCd21yQ0d6Mm9SQjJLSVRjU2x0SlA3Y0Q0LUJ2QQ?oc=5",
@@ -35211,15 +35256,15 @@ window.WTI_DATA = {
     },
     "FR": {
       "name": "France",
-      "index": 3.31,
-      "raw_score": 1.23,
+      "index": 2.02,
+      "raw_score": 0.5,
       "status": "STABLE",
       "events": [
         {
-          "title": "France's debt climbs to highest since 1978 - euractiv.com",
+          "title": "L’Humanité festival renews commitment to popular front politics in France - People's World",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nd2FTbGozOXFkcHJyT0V2ajdmYUFJWUxHakJnM0FiQlNZZmNHdUNCSzZ2b2VqTnNMcHJHWDNjQzV4dzNIeWN1VGlqUVpUTHBCeXFWdFpEa01KVHJNdHVXTFR1dkdMSXZMZll4YVFNQWdhbjkydXVkc3JmZWI?oc=5",
-          "date": "Mon, 21 Sep 2026 18:32:57 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlpkVzFkMkJaYWN4YmJNcFMxTFBlcDYwSVdxNkc2OW5fS0dmQ2J2RDE4MkVzYzFPb2FZeFZLS29mWkdoMGtGRXowQUVmMTczNU1CZGJlZE5nOVNNX3ExYmFCNlRPN2pWV1RwYkF2WXNNZ3VHWUV2bi0zZjBZcnhuNjNTeF9VZmxrN0lWR2c4T1hKaEZ2SC1jRWEtUThlSkZqREFZZjk0TGtZdw?oc=5",
+          "date": "Mon, 21 Sep 2026 17:33:18 GMT",
           "source_country": "FR",
           "country": "FR",
           "category": "neutral",
@@ -35228,13 +35273,28 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "France's debt climbs to highest since 1978 - euractiv.com"
+          "llm_subject": "L’Humanité festival renews commitment to popular front politics in France - Peop"
         },
         {
-          "title": "France draws up emergency measures as petrol panic-buying sweeps country - The Telegraph",
+          "title": "France and Latvia push EU's Russia sanctions to the brink - euractiv.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXpWY3A5R0o1aVlMeVFfRXB0cEdnTE12TFlDZ1VXQUY1RVdkN1RUS2gzN3IzenprZWJpbVJOMi1nOHE3dEFMeWJndEE2QXpnSFhWYWtSdzRzcm5ndnFVa0tUb2pfYWlHdXg0eGozYkMwajBiTDhxTWRfZllaRjNzOFJLbnFPY0lKS01rei1ab05VeTZTTWZYWXgwX1lTUHRlR2NSVmJDZVh4eW1y?oc=5",
-          "date": "Tue, 22 Sep 2026 12:19:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcW5iSzRqaXdxaWFrb1Fjc1pGX2JpOXV5REtpTG9TSUk5NkhYNkFWTU1kdTl3MUF1WHBvSmhoeVNFNXY3dmcyRDhKcVZVYzlOOTNVUUFQSUdhS05DX1RnOTltN2lzcF9aTF9xbmJUeDlINGpQb3M5N2U4OUlrREQxaGhUUWZ3MkE3M28yYXNfWkg?oc=5",
+          "date": "Tue, 22 Sep 2026 12:41:40 GMT",
+          "source_country": "FR",
+          "country": "FR",
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "FR",
+          "llm_subject": "France and Latvia push EU's Russia sanctions to the brink - euractiv.com"
+        },
+        {
+          "title": "France consults on revised funding criteria for EVs - electrive.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGx3azRfX0VsY3RBNk5naVhsbWg3YnpqN1NfQzhPX1hTbFJnUUxEN1hQWWc4TmFpZ081aWRETUlvQkJhRXVHZnowWDBzMUdBa25aX21PYnU2dlFVVGVlQlYxdl9JOUVhN1BKNTFNQi1GN3FBdmduMnIteW5xMTkxbEp4OGdpV0FwLTlFSzF3anNIWG8?oc=5",
+          "date": "Tue, 22 Sep 2026 14:30:00 GMT",
           "source_country": "FR",
           "country": "FR",
           "category": "neutral",
@@ -35243,13 +35303,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "France draws up emergency measures as petrol panic-buying sweeps country - The T"
+          "llm_subject": "France consults on revised funding criteria for EVs - electrive.com"
         },
         {
-          "title": "Canada, France agree to closer ties in defense, economy - DW.com",
+          "title": "Iran Rejects France’s Claims over Embassy-Affiliated Institute - تسنیم",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmJpNER6VjVGMDdCazlMMnFtdVNLdHYwNjVleTJqN1VudFAyUUlUc2R1V1A4bzd2T2FoeDFyVERKZEJPUlF4ejhneGY2aC1NbW9OeTZHTjVDTGhpcXRqeTVoQ2h6U0dCdFpMQ01KakhRNmhXcWljOUQ5SVFoMUYzS3NjcHY1MlNHUFp3ODBmWdIBjwFBVV95cUxPRkpUU0JzMjRHZTNWdkxZd1BrZGRkdXN2TU02UGFYWXZsX01NbkNOdnlTdHBkZFhwYXYyWnZhWlB3MElUT0hGcFViY0dteU9ISnUxcE1mclc0eVJoUmVnTFF2TTRCT21qRnBybVl1R0tNYktyWWtKWkdHYW4zZTdoeTJlT1loemxQMG5PRGwtaw?oc=5",
-          "date": "Mon, 21 Sep 2026 13:35:50 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlZ2ams3M3hXN3h0MElMTGUwUEVLZk5kekEyb2ZNZzc5TkpNbXRmM19pUHFCbzdqNF9qdVlHclBsYmZtUmhlOGk4SW5zZEtFTnZ3UEN6QkZiQTRwRHdOYTBscnRuUTgxOXRuV1BJdE12ek84R2NtWGxKWXYtRHR0cVZNNWFOV2x1V2F6ckpMbmJCa0NyRVdleDdCV2hYYlJLdEdCM3AzMVg5MFpYUWIxZ2swWm1yZ9IBuwFBVV95cUxOX2NXWnQ1cDdYOEVBMWtKdXkyM3VVZHUyOG1sdllOcFNXS3d3TEhlcHU4Z2lCNFIxTHpxSnhjM3FKeElUbkZreDRNdFJ4ZURFdUtiQUpUeFA2ZTdqdlFNRElidWIxOXpaUXdaZ09mWWQydjZNaU5HczBZMUl0VEF5VVB0ajBSUGthVGd0NEl0YzZqbHVBeGFKTXJpWUdPUW02cEN0QWhWVnlnTDhYZVZEX2ROR2ZHblFiYUlV?oc=5",
+          "date": "Tue, 22 Sep 2026 07:03:02 GMT",
           "source_country": "FR",
           "country": "FR",
           "category": "neutral",
@@ -35258,28 +35318,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "Canada, France agree to closer ties in defense, economy - DW.com"
+          "llm_subject": "Iran Rejects France’s Claims over Embassy-Affiliated Institute - تسنیم"
         },
         {
-          "title": "Carney and Macron deepen ties as Canada turns toward Europe and away from U.S. dependence - PBS",
+          "title": "Zidane gets down to work as France start new era - KMVU FOX 26 Medford",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkh2U1ljNU1UZl84aFNGRFR4Q1JiVWtkU1pMNzJtMV85TlliYnp3VVBuUFhIUGlkZzZ2NVhuZG5zVjdCc2tSNVdZaFFqZ0gySWdWQkhFZl9aaFhpLXlRY2xIaVltMnBGUWs3OGw5TGQxWFp6bW9yRElCajNaZjFjaTctdTFMWFlzNzM0RlFnWWxYZFZWaGZSbGRpeVJTVW1DUUFXLVRSTG9iRmVKQWdxOFRzb2FqUDBlUnVJYXpOQ0HSAcYBQVVfeXFMUGNyMG83S3pWVjZXaGdlY0VCd2xaTHh2UkttekxFQjBKZWlkaDVNQjh1cUZqRk5sMlZGcm5wbjhQRmN6eGU1U0lUc2ZfZ1BXbEZqcUVNdWFqWkozZjlOZnN1V1VHOVRPc2dxcXRXZldkR0huNXRYR0ZldGZoNkIydmZLUkhFS1lDWGt2TmdmUDh3U3lJQVBaR0JuSUdZSENzZzMzUTJndEdUdFBlVTlMbGFBc2I0bEdIdkJuWGVMOG1YVVVIWmhB?oc=5",
-          "date": "Sun, 20 Sep 2026 21:15:28 GMT",
-          "source_country": "FR",
-          "country": "FR",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "FR",
-          "llm_subject": "Carney and Macron deepen ties as Canada turns toward Europe and away from U.S. d"
-        },
-        {
-          "title": "Hormuz closed in February; now France is running dry - thestreet.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVEVnZS0yS2VJYTJNeWZ2akZiWEpRVnlzNUFydE1CYzZHU2IyYjhPY05sc0g3dk5icHhHUEVpMzBNNWFPS2RDUHA1X0pPZkgyZTFiLVdmWWw4RVNPNGVISTdGcW1TRG1YcWdnNGc2WTM2ZWowM1A0anVfV0tYbktIM0txTVNYVTFfUDd2YnBR?oc=5",
-          "date": "Mon, 21 Sep 2026 22:03:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNampURlk2U3RZRzFxSHBJUGRELWhEY3AtakZtMnZadUhjWG9CYWVxMGYxNHUzT0s1d0xEc2JWZFZJdFBBYU02TUUwVDdKTEFTVWxuamNxVTlKTjJURUlyb0xCWmZiX2RqOWozVloydnZJS2pRVTE0ZG0yd1RveWlubV9XMXJyTVJQSHJzUzJXM2RsX2JwOHFLUzdiaTFGRHJISXRlaXlJdndTcGFCU0ZuSG1ITUtCeHlPSjVhZnN5OGZCN2swUFg5WDJCUkdjNnE3cnV6bXdTNDg?oc=5",
+          "date": "Tue, 22 Sep 2026 02:48:51 GMT",
           "source_country": "FR",
           "country": "FR",
           "category": "neutral",
@@ -35288,13 +35333,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "Hormuz closed in February; now France is running dry - thestreet.com"
+          "llm_subject": "Zidane gets down to work as France start new era - KMVU FOX 26 Medford"
         },
         {
-          "title": "With France on board, over half the EU wants to delay methane rules - euractiv.com",
+          "title": "France Politics - Bluefield Daily Telegraph",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVTRIeXhqWDc0SUtkZHdyVVBpQVA1NDNGUTVPWVBYU1VLY2V5NXVYdjV4NGhXTmtwdVExTVVmdjQ0QzE3NEpBclRrR2VsaTZtejhsdnptWnFHYnBWQnFEZjhRZmcwUHp0eWJ2UEVsZVAydnhZMkc3SU1FVlVpaFJwWlMzS0FuX3UxWTY4NFFQQzVZeExFcENNOW1TVm1fUQ?oc=5",
-          "date": "Tue, 22 Sep 2026 11:40:34 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTRWdEw1SllwYUtrX0ZGR2p0R2hzS2JPcmdQQUYwQ0RPSThfVkhmUTNjaExKQmp1WmFESUJmRUhxMFNJTGxLT2dMV2t2eTBVY20xd3E3WGp2N3ZMbHNabmpvQzUtLV96Q1BSdUJkZ2pfdHNtMWNLckI3RW9kaG5WRjA4MmRaZ0ZUVm9mRzFxdjZOOTQtbDdkNjJ2RjlVdmJfU1l2Y1JkYTlTUmhHSDRndw?oc=5",
+          "date": "Mon, 21 Sep 2026 20:55:51 GMT",
           "source_country": "FR",
           "country": "FR",
           "category": "neutral",
@@ -35303,13 +35348,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "With France on board, over half the EU wants to delay methane rules - euractiv.c"
+          "llm_subject": "France Politics - Bluefield Daily Telegraph"
         },
         {
-          "title": "Macron and Carney to hold talks on strengthening Canada-France economic and defense ties - ABC News - Breaking News, Latest News and Videos",
+          "title": "Beyond Ukraine: Why Europe is preparing for a wider conflict - CNN",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTJCcllFcGtxcHJWOTZJbXlRMlNKX1ZQYndHb2MtSnY5eEQ4WjBrQnpwU3lqT3hiRUhxZUFwYlB0ajNLX1pFZkVhMlI3aTlkMDNEU2kwaEZiTzZBWHR5Nm94NDRrdXRPWDlGSmNYZk5WcndXNlpIa1k2X2QxaGZteE1FMFdIYno0X3h2MDVmd3hnRVhNV2RaVlF3VmJrQVpTckJLc0szZnhVYkRURHIw0gG0AUFVX3lxTE9yTDdnWHlpMXZRQTRGX0UzckVhdmNiU2xNQjlWRER0dVc2cXVOSS0tM0JuREhRcHV6T04zR2NPc0ljSjN5MjBBV0w1SUJOZDQ0bWtFYy0zSlNqZlhpazA5OGRkTlgxbXR3UkU1akJ6MXJYc2NiSXd1UWJISkQ4ZENLa3h2ZEhjS3llZzZNX094eVhqbW5HUG5UMHRjUGwySjJzRzllbzNEZWliZlMxWkZMcjUtWA?oc=5",
-          "date": "Sun, 20 Sep 2026 17:23:46 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDlQUmc0RGZGSEtNWXBOYUN5YjJlRTVZdU53N05lOXh2X0ptMVJYSzVlZHQwSzc3RFM3VUZXb0gwTjRMczNMX1lLZ005Y09YSTFZM3BrSGJnX0RoODVieEhwRlNOU0w1UW4zWXJiQjF0UUdsUTR6d25OWkVDSElFejNvekZHWlRGQ0lSbjV3?oc=5",
+          "date": "Mon, 21 Sep 2026 04:00:29 GMT",
           "source_country": "FR",
           "country": "FR",
           "category": "neutral",
@@ -35318,82 +35363,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "Macron and Carney to hold talks on strengthening Canada-France economic and defe"
-        },
-        {
-          "title": "France Is Living in Denial - bloomberg.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0NCY3FLcThSWldQNUV0aVhJOUx1V0lSZ3N6RGtUVDg5VGpJYnJUN2N3T3lDN3J5QlRrOEJod2RHelNidXhOTHE4c2hjYjNnbVllamdmSVd4M3NzeDRsZmYyN2k5cVpQY1NDQXdVbkJ6dW5BVU1MUnRMQ2hHMVd3c3VTWTg2NHdhOGV0djJEQ1lnZ0FfUG9BN2E2bHd0WkFsWThz?oc=5",
-          "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-          "source_country": "FR",
-          "country": "FR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "FR",
-          "llm_subject": "France Is Living in Denial - bloomberg.com"
-        },
-        {
-          "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
-          "date": "Tue, 22 Sep 2026 09:06:06 GMT",
-          "source_country": "FR",
-          "country": "FR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "FR",
-          "llm_subject": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr"
-        },
-        {
-          "title": "France and Canada deepen economic and defense ties - France 24",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0d1dEtTX0R2MDBReTV4UDFLTV8yaVVtU2IwOEJlcC03Wjh4aGNnRXNjTl9mZG16bGlURHQwcVdsY1VTa2hPR1M0bFM2REg4Wk9fT1lGbWV0TnA3VkNJQmt2YjdsaWxJYzM0YjZkX0xoUTh2MDFJT0stUFpObF94a1lSOFQ?oc=5",
-          "date": "Mon, 21 Sep 2026 14:52:43 GMT",
-          "source_country": "FR",
-          "country": "FR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "FR",
-          "llm_subject": "France and Canada deepen economic and defense ties - France 24"
-        },
-        {
-          "title": "France debt set for highest level since 1978 as fiscal strain grows - Yahoo Finance Singapore",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmlrSV9ESDNncVNDbzNwMG81UnJ0c2lqZGVaVU0yMHNpRVVhb0x1RGJ3QjNEemVCS3RxbWZNdTRSYlRBVHBYdGVwTGprX1BJbFFhUUdpSFFvN2VfVzlVTEF2ZEpzbXNmUWRLOHhxX29aSnd0cl91eVUzTzRSWlkxeXN2c3o?oc=5",
-          "date": "Mon, 21 Sep 2026 03:45:00 GMT",
-          "source_country": "FR",
-          "country": "FR",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "FR",
-          "llm_subject": "France debt set for highest level since 1978 as fiscal strain grows - Yahoo Fina"
-        },
-        {
-          "title": "Macron backs Canada as EU associate member as Carney turns toward Europe - AP News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTm9KMTZzbXpJVUZnellLVURXTW1veHdKejRLYkpYcTdscWwxd2dMdEJObEVFNGJzc3d5YXV2bmQyellxbV9WRmtiN3ExZ0ZySTBvWFE3YWdGeGhkTldnMzRld3Y4QjFDSm00eDltVXBlZ0pqWjZWcDQ1WkNmT2lpN3ZQMmJxZFBaYlFnUGNpRHJyUHZFSG9hZllkRQ?oc=5",
-          "date": "Sun, 20 Sep 2026 23:25:00 GMT",
-          "source_country": "FR",
-          "country": "FR",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "FR",
-          "llm_subject": "Macron backs Canada as EU associate member as Carney turns toward Europe - AP Ne"
+          "llm_subject": "Beyond Ukraine: Why Europe is preparing for a wider conflict - CNN"
         },
         {
           "title": "France and Slovakia seek oligarch delistings in EU sanctions deal - euractiv.com",
@@ -35411,25 +35381,25 @@ window.WTI_DATA = {
           "llm_subject": "France and Slovakia seek oligarch delistings in EU sanctions deal - euractiv.com"
         },
         {
-          "title": "'We call on France to support the creation of an International Panel on Inequality' - Le Monde.fr",
+          "title": "France and Slovakia remove Russian oligarchs from EU sanctions - euractiv.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbDh0MVJ5SnljYWFScWZJT0dWQXZCekZPLVB3dnVxd2hDQl93Y3gxSndZVnpQV0E1Y095SHFYZ3cwNnlqY1pkeFUyREJvV3VSZDRMd2pOS1YtWktjY1prRVlEa3Z1QkFtZDZ4NUJ5WVFmVjJZZ1ptbXFJcGNsTE55M1dMcG5LNkFiVWJBTUEzcTJEQ1hjMlVabUpTWUEwN1JTQU93ZEk3YjAxcG5tY0VjUVQ3WXpueW53ZzM5ank2bFkyeS1IMGp0eDNLY25fSDFyb3pGR05JaENCT21UVncxRmhhOUk?oc=5",
-          "date": "Mon, 21 Sep 2026 15:00:11 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHp3OHZFbmpMOEFGSXF6VnJxNE5TTTQxREVVaVE3UU9GZ0tkdmQzZ1otXzd1RXMwVmFJVEktV3JQUnZ3eU9fd1E2cGE0enVhZmFDZy04T2JIZ2tJSjU0UnU3UDJmaUdKV2dCQlFuM2paVWFYRlVMVEdlcmlFY0lwQkhUNm90ZThCQmhMdEE0bF9kRnE1TzZ1bg?oc=5",
+          "date": "Mon, 21 Sep 2026 18:42:35 GMT",
           "source_country": "FR",
           "country": "FR",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "diplomatic_tensions",
+          "weight": 2.5,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "'We call on France to support the creation of an International Panel on Inequali"
+          "llm_subject": "France and Slovakia remove Russian oligarchs from EU sanctions - euractiv.com"
         },
         {
-          "title": "Rates Spark: Time not on France’s side - ING Think",
+          "title": "Canada, France pledge to work together on space infrastructure, economy - thecanadianpressnews.ca",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VMTB5eXhSU3VpYkpMcWV2TnMxTUZYdVo2aDVZQVN1UzhMUkt3LVhJY1phX282WkhsenlNZDdSQ2p1eWRFdzdia1VhSDNVXzI3dXo4WXhnRlFTLTJmZnFHRTEwcmtpWmRCWk9zYlBJaG5rTlpDaFFF?oc=5",
-          "date": "Tue, 22 Sep 2026 03:00:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRmlHSVVvNks0Nm8yNFJ0bUdDakZxVlBKbU84blg5RkNON0tYb3BfSTg0bFZVd2pZd3Q1OHNmei1ZNmNRa1B4S3lEOFRoY3dGTVFLLTZxTjFDWlR0Z2xaVzJNUm1iRlBva2lxM3JhWDA4eGwwV0Z3M09UczJ3OVE2cmUwRU5qdlJOTGlrTDY5akV6eE9qMklrUDdDd1FObE54YmYyd092T2xNQWtXeHNLcUpOMDBMWWJPNVB2MUh5SnZlc1pyOGxRdzMtWmFMZUgtYTU3eTkxZGU5VUNzU25vY2Y5VkltOXRnQVBCUUpSbVZfU0xaTzdB?oc=5",
+          "date": "Sun, 20 Sep 2026 23:07:59 GMT",
           "source_country": "FR",
           "country": "FR",
           "category": "neutral",
@@ -35438,7 +35408,82 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "FR",
-          "llm_subject": "Rates Spark: Time not on France’s side - ING Think"
+          "llm_subject": "Canada, France pledge to work together on space infrastructure, economy - thecan"
+        },
+        {
+          "title": "A dream debut for Esteban Lepaul as Zidane feeds him passes in France training - Inside Politic",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUl80TE9yd29HcGdLTGQtOGZhTUl6SGxSbXE1ZGdLWWtlWnBjV0JObjFUb2pKQzNmYkEzd3pqeWotcWRnS3YxaGNlQmROVTVmUERfOWNIVVRyU1VXMktpR2RhU0IzTVRrMFVFdWV5YzlMQnV0Z1ppME5GdTlZYjRkdlpmX3piTDFLaWhpbmIwSFVZM25CVUw0V0kyaS1CTjhhSHhabTA3eklVRHc?oc=5",
+          "date": "Tue, 22 Sep 2026 15:11:32 GMT",
+          "source_country": "FR",
+          "country": "FR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "FR",
+          "llm_subject": "A dream debut for Esteban Lepaul as Zidane feeds him passes in France training -"
+        },
+        {
+          "title": "Thousands march in France against 'licence to kill' draft law - KMVU FOX 26 Medford",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOamYwckxBbkJiNElCeTVUeDUwVWl2UGtjYjlwYTdmSkQ5Tzg3Tkd1WGFROS1fSk9mQVo4d0ZxX3ZWNy1FbjFNajdFbEx1a1Rza21aQjZrX2dkcUhaM3ozOTRjdkp5V3lMLTdSMFRHYkVOY2JmRnB5RkNuVGRaMERoMV92ZE1QT0xsR2RzVno2VmljNHdCZHFWUTh0dWtPdkpBSmtWZklZVU9NWERvWDJaOGFNX2NwcHpiUnRadzVtOVR6ZndoTnAxaUM4RU1WRFFJWVN1TXlqdGxPTXpJMXNlazFmWTFNeUE?oc=5",
+          "date": "Mon, 21 Sep 2026 01:45:11 GMT",
+          "source_country": "FR",
+          "country": "FR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "FR",
+          "llm_subject": "Thousands march in France against 'licence to kill' draft law - KMVU FOX 26 Medf"
+        },
+        {
+          "title": "France mulls new UN Security Council resolution on Hormuz, diplomats say - Reuters",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGstUFppYTNUUUFMa2Z0MlpVQnVlWDRIZENwRllDaDZtd3U1d2pRUVhyYTBfcmFzNEpqVVQ4N2V2dUJCWUxtMTlKZ19OcDZxVVhReVVVTDN6ZkE1MlhpZU9sZmd5ZzFuWGxxbkpVbU53WDVHZWJHYnNoWmQ0VUxVbHVBTWc0VE55d245YkxXRHRLeURnZnBab2tIb1RBNDlYREdKZmNpbU1CSGp3MFZJ?oc=5",
+          "date": "Tue, 22 Sep 2026 13:51:43 GMT",
+          "source_country": "FR",
+          "country": "FR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "FR",
+          "llm_subject": "France mulls new UN Security Council resolution on Hormuz, diplomats say - Reute"
+        },
+        {
+          "title": "US, Denmark and Greenland sign security deal to bolster Arctic security - France 24",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmdhZVJMcEJmOS0wV2xqWEFfN251ZXRBZDRmb1NwaHdYU0ZjVTNGM0QzdFhVdTU5TFhmeWJtMUpZdmdiLUJLUl91aWVneVlkRXNuZ3kwVHpZX0Fzd3pEZXdoV0ZwZTBnVDhpWlgxaGJDQVZXZElDQk9rN0YwelhHWjZjZDhxbkhLYjlKZWNuSmh4OXJCb21vWFhyN1ZhU3I4ZTkwLWFn?oc=5",
+          "date": "Mon, 21 Sep 2026 23:30:00 GMT",
+          "source_country": "FR",
+          "country": "FR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "FR",
+          "llm_subject": "US, Denmark and Greenland sign security deal to bolster Arctic security - France"
+        },
+        {
+          "title": "Macron: Only sovereign Lebanon can disarm Hezbollah; condemns Israeli violations - Haaretz",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdXhmc18tZ0dLdGFiZWVYbklRV3ZsaUYxeUxhX0VoU2phT0p2Mk5SODIxWjdka3hkSVdMbXRUQmQxdHlmdW8wQnFSckd4UXRtcHcwY2I1aWc3Vk5MbnM2dFJYWGhGRVNhaGlhQ3FHVkpta2JFLXV0VVJ4bHN3ZF9ZeXlVTkJleXhHR3BFaTVjbHJOLWRQc3dOc19qN2pZY3AwUFNfZFZFM2RLZDQ0RHpmMnVHR2pLX09JUnJicVlOLXN3VVdhVHBnSC1FMkdCWDlGMW54ajNRbFNhX2V2VzdJbFBNX3d3N1JsUm5GbjRibmw2WmNvT3g1SDNwRW51RktnSU1ZTUFJWnFMSFBVczZfMlVLZVZORmhN?oc=5",
+          "date": "Tue, 22 Sep 2026 19:50:00 GMT",
+          "source_country": "FR",
+          "country": "FR",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "FR",
+          "llm_subject": "Macron: Only sovereign Lebanon can disarm Hezbollah; condemns Israeli violations"
         }
       ]
     },
@@ -35712,6 +35757,21 @@ window.WTI_DATA = {
           "llm_subject": "India’s economy could triple in 10 years; Bitcoin surges past $87,000; Trump-Xi "
         },
         {
+          "title": "Economy’s swell, but reputation? Why India’s next growth story depends on how the world sees it - The Economic Times",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc3F3TkFBRW0wbkEtSXJYTUFxR21DV0FKM2JqeHRjX2V2d2NqWnViRE9KcHZCa3kzNmI2VG9acFpLSklhNkdhVW9KSzJjMnRyckJHS3YwaWFnSFZCdFAzRVR3cTYyeExhOFVUZGZyRkdjNklrWFVyMkVJNGJjNTJEZHJzZGtrZ2IycXlQSXh6LXhyZGlSeGRHMzNSTVdVOV9razJiM3hBWHdSR2pjYVlvYTdEdm1ZMHJXb0tBbmduckc4S2pwVWtKOVFIaWZBQS0tQ3lDTjRkWjktVzBQTEtjeFJXTjdHZ1BVbE93QklmUloxM2QxYWZMUHZwRdIBgAJBVV95cUxOSzQxQ2xnUjRhRVRWX0lTbDNYQUlVc0VhX3VXS0UxRGtvOXJ1dXp0Q2daVHlkUi1MOUVzMUY5Y1RaN0pyRG9KZ2RiZS1uNDUxa1REYUN0T1VKbTZ5bzR3VjVramx0SkhSZUZVX0xZUjhkNnJuQVJKNTB3aUwzd0RVNlR4OHJpSm1hTnpRRVdNMEY3Wl9mNGI2QzhSaHptc0JiLVA0NzJrX2ZGeW1vc2JsRERVNmRqOE92MDJXTkNwRUZ2M1I2cThVd1lidWpEX3NjaUJPaF9MVUZRck5MdERzS3ZnVFNCNVdBbUI3djMxZE5nS1lyME5VbkVZejYtV3I1?oc=5",
+          "date": "Tue, 22 Sep 2026 17:32:35 GMT",
+          "source_country": "IN",
+          "country": "IN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IN",
+          "llm_subject": "Economy’s swell, but reputation? Why India’s next growth story depends on how th"
+        },
+        {
           "title": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South - Microsoft Source",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOVWxvdHhBQ2NwNWdDdDZzeU1LSVhYZHJyUjJNVnNVcC1SMzdEMG16azhlMS00V0xyTzF5YXdfVDljdEdYbTNFOFBZMDFIcE5BVTRwRVd1RzNCb0NsMmxla3otRlJSYVpqRm0zLWptRWVfamxkaURiTjQxSlBMdzdjNG5oVnpJcFUySktzaDFjOWs4SDFBcHBaSXkyeml2a1I3NkdLbTdiRkhKTmt3MGtRMXVOd19DT2k4Q1U2UVlIZm9tSF9jbk9KRTRLSnNmWVA3bEJoaFZpUFBmT0g4Nnl1NUc2ZkRkWHJZSGl2blBVR043NGxwX1ZNUXRuamcyTHJ6Wk1EVktQNlZBdmV6ck84VldZdFZyQ0dETU9DbS1ZbGdpY2hhWjdIUExiZm5KRmdUeWtrYzZNX3hIMWhtT18zaTNuYVAxaFI5V2YwQngyWDNCd2dSS2c?oc=5",
@@ -35727,7 +35787,7 @@ window.WTI_DATA = {
           "llm_subject": "AI ambition into action: Microsoft brings AI-ready capabilities across its India"
         },
         {
-          "title": "Why do so few women work in India? - The Japan Times",
+          "title": "Why do so few women work in India? - japantimes.co.jp",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOVN6UnhaNUlJOHhsTHlzbU1PaEltOVJtenRTTGN3ZVB1clhWMW80WjREV2JEYXpiX2JjYjY1b1oxTHlnY1VJNWdDdmd3MEtmamI3czV0R052LUxMRENVNzRmZkYxMFlXQjJaUERzQUwtODEyemwxV01HNk1TdTFUamdkT2c0LTg?oc=5",
           "date": "Tue, 22 Sep 2026 01:29:00 GMT",
@@ -35739,7 +35799,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IN",
-          "llm_subject": "Why do so few women work in India? - The Japan Times"
+          "llm_subject": "Why do so few women work in India? - japantimes.co.jp"
         },
         {
           "title": "The Parle-G Economic Index: What a ₹5 Biscuit Reveals About India’s Economy - IndraStra Global",
@@ -35755,36 +35815,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IN",
           "llm_subject": "The Parle-G Economic Index: What a ₹5 Biscuit Reveals About India’s Economy - In"
-        },
-        {
-          "title": "India's economy could triple in 10 years: JPMorgan CEO Jamie Dimon | He also met FM Nirmala Sitharaman | Inshorts - Inshorts",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalpESHJ6V1lKaVd2OFhtUkxpcGdaMG4tdkt3T0dZV2hiNzZyWDFsS3F1amRORF9DU09BLTJ1MFFOLTlBd1NaMHp3UUE0QllrSlpSX1dNanRQSkhTUlVIM205R0xIWGV0cTl2OXYyVEhuRzlvZlAwMXVRRXN2VGNzczdNTGNVSGpsZmV2cjdEUF9EczhWSmM0eTAxX1BsNllxM0tfX3dMUGlKaHFmemfSAbMBQVVfeXFMTjlUclNvWUpxVXU3OTZOelduUFhKck9jZ1k0dGNPSS1uY0pMampUd2RXNENaZG95em5EVk9IQnZEcjdzQXhtMmNoTk9sak5ialVLX3E5SDlSc291bUFDVURyOUZleTVIRWhqQVEwWmIyWk12RlktTlpsWEF1RkZFYW56WEQ4cG5JZmRFVjlwV21MeFZpczlqZ3VsSWIwcHdwLWtaS3dFMWRyVkJyakRDQjIxUms?oc=5",
-          "date": "Tue, 22 Sep 2026 16:18:03 GMT",
-          "source_country": "IN",
-          "country": "IN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IN",
-          "llm_subject": "India's economy could triple in 10 years: JPMorgan CEO Jamie Dimon | He also met"
-        },
-        {
-          "title": "India scores high on latest WEF standings: Growth outlook strongest, but some ground lost with MNCs - economictimes.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbXgtVGN3T3hQUENfU2xNUXJLSm1aTGE4czEzNFhYTVJIZm5lN1l4R3FNZk1WVzFVNDFpemJYQUZWc0RmRzVocXN3X3ZuMnA2cXdzeDZpVHk0bTFHYnJFQTZxcFVYMmdLNTJqSmFCTFhLZkZhODJkSDFRZHZZSXJ5SzBtdDdQckJZdGN2NVBSWkpwMDdTX1JBemdQVHlIU1lCVmlqUlVwUFdHVjcxYTVILWdBQWhfZVBveHo0X2F1ZzNOSVRxWTFoVDRRbE9qbHRSMjRKUzhYSU1qVmkxQTdjQkJ6X1pKTkt4TFpJN3k5QmhkYWtrOElmek4wbWxIM1hpV2hhRU130gGLAkFVX3lxTE1KM2lldVBnZDMycS1hWkMzc1hvTE9DNHFPdWNPLW1pZHdfcVJOY29wXzVuMzRORnJLeEYwWlBmUUlubms2c2pQZE45Ynh4djJhMFRGdGF4bTNmb1NyLUZlX1U2UHBQQ21kMWRtOTI2ZmVYLUJ2Uk5tLVZfd1dqeEdiZFp0ZzJWUWhEaXFaMGVUaUpNeGxEUG5aSEl2ZmRNNWtsS2F3dy13dFl4VGtHOUN5X1RkSU8yLXJqb3JKYmJVS1E2TklWU2pJN0hhSTBiR2Y0b0stSlY1YUphNEdlZmNnQXctakZCS2RIcjA1elVvdm1SRU5HcW50dHpsaGo1Vzg3VUVGUHNwTHNNaw?oc=5",
-          "date": "Tue, 22 Sep 2026 14:03:55 GMT",
-          "source_country": "IN",
-          "country": "IN",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IN",
-          "llm_subject": "India scores high on latest WEF standings: Growth outlook strongest, but some gr"
         },
         {
           "title": "India’s economy could triple in 10 years; Bitcoin surges past $87,000; Trump-Xi dinner draws tech chiefs - LinkedIn",
@@ -35817,10 +35847,10 @@ window.WTI_DATA = {
           "llm_subject": "India to continue prudent fiscal management, chief economic advisor says - Reute"
         },
         {
-          "title": "Why the Xi-Modi meeting did not deliver an economic reset - The Indian Express",
+          "title": "Estimating is not fudging: Decoding the needless jump from 'GDP is estimated' to 'GDP can't be trusted' - The Economic Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0VPOU00WnVSSVhtZEluNWlZMTFXR0JxSThYSzZnTlBCMXZZYUpuU2VqVGlxUTUtRmNTOUU2TnNic1Z6YzJmazNxSzNqWDFteW9IajdKZHdmQVlXS0hTXzN1ZjFRa3FTZ0JBVFlXbVJGczJmR21jUXdCQ09XM3NOcS0yOU1ST1Y1Z2JkVFh6dkZHTWZpRzRWV18xdFpOYXM5ajQ2bkFBdmhtX2JBTnJyMmdnSnk5TzFCcTVocWdtNNIBxgFBVV95cUxPUGpIbEJkWlZ4dGFYTEFwU2RtMEM0alBDUDJfUk1JQ1B2YU9udEhUUVhteGVBbUQtN2dJa2MtRjdxdFlxR0pPQ29VUDJ5ZmJQd3lKTXFpODlHbWQ1ODZmTmhqQjhZTUg0U3ZSWllaZko0XzhyeFM5bzV1dEg1YmpzR3V1OEZSY29aN296WXpscE93VW9RQjBxVGtMN2xyeFRaS2pQU2MyRlJJWm91WUNPNVJVY0hLVjRQR1ZCSHN4Nnp4QUl3TGc?oc=5",
-          "date": "Tue, 22 Sep 2026 06:54:25 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVVRBcy14Y0pPT2p2MW9MWjgxZ3VpV0ZaZjBrMlFPcGZLSW90T1gxSjBSOEJZdU0tcjdFUDdWNzlSSzlnSVlNUVF4Vm1vVnJWQVVZOVlyNlg2cE9jc1c3aUpyeWRITzd4QjlScjVMR0EwMUVzcXFUV1ppYTlpeXlTZGJZa2dtYTNmeG5XeHFmMFdjQzFXN3lCMzRaSjFqZ3l1SWZMc0tTOGxfbk5FSXhDTnZ6cThEZHNlelZqZTZvMzNBQ2tZUXhadkFSNEtHbEdGdTJ2dXRCVVZNMmdoV295YUhRcHJHcS1fUWYxWGxDZ19xU1QydDZaVUZMdGx2T3dGOEt3?oc=5",
+          "date": "Tue, 22 Sep 2026 17:29:55 GMT",
           "source_country": "IN",
           "country": "IN",
           "category": "neutral",
@@ -35829,7 +35859,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IN",
-          "llm_subject": "Why the Xi-Modi meeting did not deliver an economic reset - The Indian Express"
+          "llm_subject": "Estimating is not fudging: Decoding the needless jump from 'GDP is estimated' to"
+        },
+        {
+          "title": "Why foreign investors are pulling out of India despite its strong economic growth - CNBC TV18 - LinkedIn",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlJBMEVuU09rY3FTdk5aclhKQ04xUTR6UWZFUEJaUGlQdnI2R0Z5UDdTVFBTR0RpVDduODRScVdhNjdRaWxFRDlJN2ozTklNcWRiTFhyTDJUdktNNWxjWVdCcmVGTWFoamVQbkVrc01ieXNFaW1wOEwtOXpPZHhaUUZUXzlhSHl6NC13UVhib2g1UmRtSmtwemU0bHVNbzQ5b3JvTGJyYVczTFJ0M1A2d0c5MGFMdw?oc=5",
+          "date": "Tue, 22 Sep 2026 13:45:09 GMT",
+          "source_country": "IN",
+          "country": "IN",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IN",
+          "llm_subject": "Why foreign investors are pulling out of India despite its strong economic growt"
         },
         {
           "title": "\"Dead Economy\": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV",
@@ -35847,10 +35892,10 @@ window.WTI_DATA = {
           "llm_subject": "\"Dead Economy\": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV"
         },
         {
-          "title": "India fastest-growing economy, but taxation and rules can deter investment: JPMorgan CEO Jamie Dimon - The Economic Times",
+          "title": "India's economy could triple in 10 years: JPMorgan CEO Jamie Dimon | He also met FM Nirmala Sitharaman | Inshorts - Inshorts",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbFZ3eVMybVNhdmtXOEZBemM4S1U2ZDFwU3Q4eHh0Sk84eVN5Y0RpaXdxTFFRREF2Zy1nSzZ4VFJISEl6ZzM3VXRxNEdmdU1JcXppTFpSUUdvTHU2dnVlUy1aVS1MME05d0lWVXBIVE5TdEx6S0FDNWJydTFiUmg3aWFBLVU3M1pOamQxZTVMQk5ERVN3UkdjZTctVnJlb3ZpejNCMTlId2w1bXdRMEtubXMtbmc2WE1KYUN3dUY5d2JSTV9QSVlqcTVoN2NCSElfRTV0MTM0bjRXOXpaVmZWY1ZsZ1J3dHQxd3FLU1NFZkZJel8ybUtNQWl1WVFpV2pMd0HSAfsBQVVfeXFMTUxnYW5iRXpiYWJuX2xlLS1oeG5XOHkxQnJzNDR2TUg2WGhpSlRjNng1WnhJT0w0amQ3V2ROS2tVZTROYjVma29yWFhwdUVwaUNoVGZhRmtXVmtCYTZBazFwQTFhNndadEdEbzQ1ZTJsNE9uX3IyVy1WSDlJdTRIaVpIYkk0S19TdExsa0w3RlpabDUyMjNQeEdTYUs0aklPZ3NnMThJb2xveF9vNkZsNGlRN25pX1NpUkxqdk9oeFF1djJOVmRlbnkyN0dObUJWYWtpUG9scHZaWjduTjZxc3Q0eVpmRDM5UC1zdTh3dmthcWp0czRTeENKeUk?oc=5",
-          "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalpESHJ6V1lKaVd2OFhtUkxpcGdaMG4tdkt3T0dZV2hiNzZyWDFsS3F1amRORF9DU09BLTJ1MFFOLTlBd1NaMHp3UUE0QllrSlpSX1dNanRQSkhTUlVIM205R0xIWGV0cTl2OXYyVEhuRzlvZlAwMXVRRXN2VGNzczdNTGNVSGpsZmV2cjdEUF9EczhWSmM0eTAxX1BsNllxM0tfX3dMUGlKaHFmemfSAbMBQVVfeXFMTjlUclNvWUpxVXU3OTZOelduUFhKck9jZ1k0dGNPSS1uY0pMampUd2RXNENaZG95em5EVk9IQnZEcjdzQXhtMmNoTk9sak5ialVLX3E5SDlSc291bUFDVURyOUZleTVIRWhqQVEwWmIyWk12RlktTlpsWEF1RkZFYW56WEQ4cG5JZmRFVjlwV21MeFZpczlqZ3VsSWIwcHdwLWtaS3dFMWRyVkJyakRDQjIxUms?oc=5",
+          "date": "Tue, 22 Sep 2026 16:18:03 GMT",
           "source_country": "IN",
           "country": "IN",
           "category": "neutral",
@@ -35859,13 +35904,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IN",
-          "llm_subject": "India fastest-growing economy, but taxation and rules can deter investment: JPMo"
+          "llm_subject": "India's economy could triple in 10 years: JPMorgan CEO Jamie Dimon | He also met"
         },
         {
-          "title": "IMF chief says world economy faces multiple risks despite resilience - India Shipping News",
+          "title": "Look beyond premiumisation: FM Nirmala Sitharaman to India Inc - The Economic Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcm1KM2VDY1ZUUzV6Zk1LQWR0YUhOTTI4TXFqeTVGN3JWc2lLS3lyOFNTTHJZeUg2MzhxeW5mS2FCNkJ3U3h0dHRVQ0VqYVlaYzZJa01mQ2VUUHk5RHFlZGRJZHNLVGVqR0tuVnJ1S1IwZThwQ2F0NXh2WUt3M2ZsWm9TMUtkQ0o5ZzI2VGxXc2JZNnBoU3ZOSlFyelM4YUYyWHdzVlhVM21WVlE?oc=5",
-          "date": "Tue, 22 Sep 2026 03:42:30 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXg1c0x2UF9PX1VyT3RrVUFQTEFJajZMcXZZbHUtVWdkWE14SWVHS1dpaUF5X1lXdXY4ZFdLRDgxSmg5X04zS0J6Y2F6Z0xuSmNHUkplUDFxRFJtMVRlUEpLT2pqZ1YwLXNEZV9FRmY3Z0NocEZwbHZITUVpLUlPYTNZcDduOG4wanprRTdFT2d6d3Nyekt1TGtGNVJVanNOMmlRNzNnWHZQWDduOWpSV04wR28yOUtPNEdCbGlEajlGYWNXZU56WXo1NUdCX3dl0gHWAUFVX3lxTE95UW83SHJ2dDRjVzZrR0tDU3lrcjhSN3BZSWFkUjVjcnEwTmt4bXNiZk1DVGF2M0JKNnFXQ1VuZzZ5ekhVOTV2OXpMOUhwM2daXzNBLXd2N3pvRjl2OHhQMEgzZVZVVEtTczV6SkxqZXNTMENOUzJyUk9EZ05nZ0FJNGRYcjdwYktFWWxURVUtNU5iazVLdWQ3azQySG1PY29JelVZUUJRbDU4eTFlMHRHN3B2eTBJZGRIMHJydy05cVpkOXczRVpTeFc0MVdBa1pNSDA4Z2c?oc=5",
+          "date": "Tue, 22 Sep 2026 18:39:34 GMT",
           "source_country": "IN",
           "country": "IN",
           "category": "neutral",
@@ -35874,13 +35919,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IN",
-          "llm_subject": "IMF chief says world economy faces multiple risks despite resilience - India Shi"
+          "llm_subject": "Look beyond premiumisation: FM Nirmala Sitharaman to India Inc - The Economic Ti"
         },
         {
-          "title": "India co-sponsors inaugural partners for multilateralism summit at UN - economictimes.com",
+          "title": "Why the Xi-Modi meeting did not deliver an economic reset - The Indian Express",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeEEwcTN5TndVakZaWDhSUmJFWGtZUTJmX2U4U21TM2pyQjlaMW11d1NLbG04akF4T3dMTmFQLTNiNURMRTk4R0ZKeWFaaVJZMXRteGlhZXU2b0xqWm5GNFFLYUV1eXdHckQzdndVcUJLUFJUWEFSWE5fZUcycjRENUhIYVJveUVwMl9IOFdHUTFERGt4QXZiTlZQTUpYbngwYlp1NlNxTkU1RDZ5blI1cHhsWlpULWswTjVqS191SXhPT3BLSDJyQmFxd2h5cUU?oc=5",
-          "date": "Tue, 22 Sep 2026 04:22:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0VPOU00WnVSSVhtZEluNWlZMTFXR0JxSThYSzZnTlBCMXZZYUpuU2VqVGlxUTUtRmNTOUU2TnNic1Z6YzJmazNxSzNqWDFteW9IajdKZHdmQVlXS0hTXzN1ZjFRa3FTZ0JBVFlXbVJGczJmR21jUXdCQ09XM3NOcS0yOU1ST1Y1Z2JkVFh6dkZHTWZpRzRWV18xdFpOYXM5ajQ2bkFBdmhtX2JBTnJyMmdnSnk5TzFCcTVocWdtNNIBxgFBVV95cUxPUGpIbEJkWlZ4dGFYTEFwU2RtMEM0alBDUDJfUk1JQ1B2YU9udEhUUVhteGVBbUQtN2dJa2MtRjdxdFlxR0pPQ29VUDJ5ZmJQd3lKTXFpODlHbWQ1ODZmTmhqQjhZTUg0U3ZSWllaZko0XzhyeFM5bzV1dEg1YmpzR3V1OEZSY29aN296WXpscE93VW9RQjBxVGtMN2xyeFRaS2pQU2MyRlJJWm91WUNPNVJVY0hLVjRQR1ZCSHN4Nnp4QUl3TGc?oc=5",
+          "date": "Tue, 22 Sep 2026 06:54:25 GMT",
           "source_country": "IN",
           "country": "IN",
           "category": "neutral",
@@ -35889,13 +35934,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IN",
-          "llm_subject": "India co-sponsors inaugural partners for multilateralism summit at UN - economic"
+          "llm_subject": "Why the Xi-Modi meeting did not deliver an economic reset - The Indian Express"
         },
         {
-          "title": "India's economy could triple in 10 years: JPMorgan CEO Jamie Dimon - CNBC TV18",
+          "title": "BRICS for an economic bridge - The New Indian Express",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3cyVG02UU04d3NWODJLaGhOLWY5NHc5aTZtdTRUaVd4dGlzTU5pblV1UlJwOENGeE9RcDc0bXVWMENzQnVxS0FWQTBOSFFSUkI2RGtzeWVEUDZpM0lYSEZ3OHdQMmpRbGZuTlN2SzdOMXVlWUZtQkw0WTlsM1hUMnB6S3pjYVBDZnctSnJHa0tMVHFQaFYwTktUVWZ5eTg0QXQtUWZfM0c0OEkwX3RB0gG0AUFVX3lxTFBTVGJxcG5FWFJiQ3NnT1IwTk02NWgzUXdtMGhld0xsZ0lpY3pxblBOZno2eVR3c2g5d1paRzJrZk12ajByMzRORS1MbzJqVWtONHpybk5ERmxxbmVfYU5nZk1Eb196UXgxSFBEcXJEem5rZGl3OVlPXzJmWjBkR3VtTTVhV3pzRGpOMUFoN2xNM3JpOWRtbnlrbEhDWXl2RENmdzUtb2xySWRrclNVYlJndU9XQg?oc=5",
-          "date": "Tue, 22 Sep 2026 01:35:08 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnBXV05qbEdrd3l0bm1yb3VQOTJLNkxVNnpFeE9XZTJpMVBTMnVTOG9uME5RaVFwVWRrTUJCeTh3dnNwVVh2cmtEQVY3anRZOG9senVCWnlacVFPNU1KNEJjazdUeWRqUzFiZGhEMGpMT1V3US1iMDRJRTlGUWJrYi1yaHE3Yksz0gGWAUFVX3lxTE1vb2o0bU1BRkxzNnUzMkcxOWdIQV84a3Mwa3J3Y3F5NXpnMDcxVmxIMTFsd1dpd3pISEZ5SC1ubE9fc25ONmNnWDM2YmZ5WUZiQTI4RDBocVB5Nk5OQjlZNE9KNUtMWDdBb0Q0YXp0YUNPNk9mQlltSV9NVE5weWx4ckplZVNqOXB2WDdrUGpPQ3NYajZyZw?oc=5",
+          "date": "Tue, 22 Sep 2026 18:30:00 GMT",
           "source_country": "IN",
           "country": "IN",
           "category": "neutral",
@@ -35904,7 +35949,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IN",
-          "llm_subject": "India's economy could triple in 10 years: JPMorgan CEO Jamie Dimon - CNBC TV18"
+          "llm_subject": "BRICS for an economic bridge - The New Indian Express"
         }
       ]
     },
@@ -37932,14 +37977,59 @@ window.WTI_DATA = {
     },
     "TW": {
       "name": "Taiwan",
-      "index": 3.77,
-      "raw_score": 1.53,
+      "index": 2.08,
+      "raw_score": 0.53,
       "status": "STABLE",
       "events": [
         {
-          "title": "No reason not to improve ties with Taiwan: Manila - taipeitimes.com",
+          "title": "How China Could Use Geo-Economics and Narrative Warfare to Reshape Asia After Taiwan - Homeland Security Today",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95R3BCOWxlYVFpTnI3T2VtUnotbU5hVUhSVVFLVmsxNFFjNmg0YlJVU2JFblNqMUhaNEQ4RURQMHEyc3JBSENuaF81VGFBVVQtMm5PaW4wbm1sZTUzZmVWcTVEWTdhNFZ6dU1CNDVoTEhCQU04WTgwYUN3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTUdVRmxscWtYa1hXZUhxalFXZm10WXh0UDVnUGJsd09IcGZlN2Z4WDJwWFRWR1ZRdkFiN3FXOTB3amFjeGFWLXVyaUYwWWJoenlFNXI5OWpRbFRTQVVqaWhjZndEUkVDRnZaMXVvdGNCWkNDTmZmUU95VC1fdU40eDZ1TGFVeC1xYTJ2UXh3SkNQLVJhdnFOX05zZkpJbXJCMHAxQnRNczFHc2p5TzRLYlpmRTVRaUx4NmxpbUZ1cmNzSWNYNWRIMU5LZXJaYnZ2ZnpMVHBHOUs5eFZPS2c?oc=5",
+          "date": "Tue, 22 Sep 2026 12:36:59 GMT",
+          "source_country": "TW",
+          "country": "TW",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TW",
+          "llm_subject": "How China Could Use Geo-Economics and Narrative Warfare to Reshape Asia After Ta"
+        },
+        {
+          "title": "Paraguay's China debate is about more than market size - upi.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkY5SjRzZ3kwSEI0S1VRUHh5TmNaTF9fQVVwQVZHbW9VVlZsR0VOM0pTNEdKcFd1cEtCaWJ6UFNBLVNqTVB1NU1yNndzS2E0dHdFbExTRG1oYlAzckVFa1BmTDZLSjNLYTJ5b1gxRVdxUm80SklCTEUyZ0h1RWtlcHVGZzV6ZTBadEVUYm5VamxnSVpXSF9yNW1LYmJiOW9SSTBPUDFhWGPSAa4BQVVfeXFMUFpIZEFoLXRHU01XYUVLZWRLc0ZRMjdFSVdNOE5IYVhDbU1HZ24tOXhudUNPNlhaaEk4akhUTlVGM3p4VldkWFg1Sl9CbVlFblltbW9GZEdVbFVRSEhUNlBIV2Z4b1ZpMlhxRGpNSGlNLVNyUUJLVldwOXUtYWdZTWhHTURHSTNsRGloVEE1VzRCRngxemdzYmE5STRIMzZvc0JTYlVlNE5oR19CNWlB?oc=5",
+          "date": "Tue, 22 Sep 2026 14:03:29 GMT",
+          "source_country": "TW",
+          "country": "TW",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TW",
+          "llm_subject": "Paraguay's China debate is about more than market size - upi.com"
+        },
+        {
+          "title": "How rising house prices have forced Taiwan to settle for ‘haunted homes’ - timesofindia.indiatimes.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWXVMRGZJN2Y2enpYWng2VndYaFE3MEV5V05td3MzQ1JGZHAtb1BhYktqaVEyOWRxZDdPTHdYa3M2Mks2UTBUN2pKdzF5U2JnbXdGQUo4eHJGRU1NUlN1aV9IWUhoeXFUdHhVaURxejE5SFlFS1Q1UXFMbmtyNFBSSTBHRTJoNGFFRzlYM0dEdEo0Zm1xQWZ4TE1keGVjb09ZMzZCc1NOU2JpeUhIV3VWM2N2ZmNiYTBEakx1RW01REhCVU10NGVpOTZaOUtkZFlqYXVnQ3ItSzRXeENYaEhkTDFsWdIB6AFBVV95cUxNNWxYZmpLbDFNVnIwUTRrZlVkOG5fS2JQR1lqYTQ2TXpzMmh1NmJDaUc5ZTV0NjJIRUpIOU5VUkdCZlNOLXZkQ3d5a3V0cUFnUFBfUmYzMGljYk9JNC1zS3h5ZDBQdGpva2wycDd6eDNmZk9jYkhKemZVSGZZWnFwdElkcUtYX2dXMWxVcDZpMUpOMDNUdTBJNEZnaG9tTmpvZm1OLXBMSmo1ZUZ6bGkxWjFnMkJ3XzRwajZFa3JyY05IRkhJN0hQbjlyb3JjZTBYX0FfMnRfTjR3dkk0aXhqbzFyQUdZRUZ5?oc=5",
+          "date": "Tue, 22 Sep 2026 16:07:00 GMT",
+          "source_country": "TW",
+          "country": "TW",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "TW",
+          "llm_subject": "How rising house prices have forced Taiwan to settle for ‘haunted homes’ - times"
+        },
+        {
+          "title": "Consumer confidence improves - Taipei Times",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lY3dDTmpSd2d0M054U21heERBeVZWcVlMeGRKWHVMQXo3V3U4cG54RnlwaDI0Sk5rV2dwbUxHdFdKX0owSlZkSHBLc3I1cWhCUjRqS3lScUl5SjJsczZQQzZBNnZtS3U3NzRhdmVKN1ZFMzRLSnc?oc=5",
           "date": "Mon, 21 Sep 2026 16:00:00 GMT",
           "source_country": "TW",
           "country": "TW",
@@ -37949,13 +38039,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "No reason not to improve ties with Taiwan: Manila - taipeitimes.com"
+          "llm_subject": "Consumer confidence improves - Taipei Times"
         },
         {
-          "title": "Two New Zealand navy ships transit Taiwan Strait - taipeitimes.com",
+          "title": "Economic outlook, risk appetite climb in Taiwan: Survey - Focus Taiwan",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xSld4bFZ3b0k0VV80R1VLdDczWE9xTTI2QnRicThTQjNnNkdaUzJrNUpkM09QUkRiM1NreENkQTZmU1NjNER3WFBKaVQ3UDJSeUJjT0ZBUzY5elBDdmtHUjgtT3pLSUYzcjN5bEMzZTljcEhVX0FQT25B?oc=5",
-          "date": "Mon, 21 Sep 2026 16:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nOHBkVTR1QmNjQmRjRU1IZHNrM1Z3eWJqMGEwYjRhTVVsTWU4OElSZFVSUXktLTlYTGJtWGRndnVKdnZjcWlfc2hqUVE5aXdwT0ZhWVBNQQ?oc=5",
+          "date": "Mon, 21 Sep 2026 06:27:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -37964,28 +38054,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Two New Zealand navy ships transit Taiwan Strait - taipeitimes.com"
+          "llm_subject": "Economic outlook, risk appetite climb in Taiwan: Survey - Focus Taiwan"
         },
         {
-          "title": "Micron Taiwan’s Taoyuan union plans strike vote - Taiwan News",
+          "title": "Taiwan minister says he was not \"belittled\" in China during official visit - Investing.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TQ1VScXR5WWU0MFhxS1pmLUhJcmZxYm5FdHhReWs2T2JsRHhOMHJYLXZ0TVpyZmFUN1ZhUUlIcFVJSklEOFpERk9aRU5wSHExdEVHbw?oc=5",
-          "date": "Tue, 22 Sep 2026 12:45:00 GMT",
-          "source_country": "TW",
-          "country": "TW",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TW",
-          "llm_subject": "Micron Taiwan’s Taoyuan union plans strike vote - Taiwan News"
-        },
-        {
-          "title": "The US’ Taiwan policy will not change, official says - taipeitimes.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FcTlzTUpTcUV3MmpIdlJIem5mX3BfYUVmdFBGUkVlWmFvOTNadHZPNzdKYVlZelV5TGNZWkFEMmxUdkNwLS1DMkY0ekQ4dzVDWjMxdzJLXzFsNmRDOG5zQ1FuNmlNTkltUDJPXy1IQU9RaEc1VnUtZzN3?oc=5",
-          "date": "Tue, 22 Sep 2026 03:31:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTlFZHNtSEgtLU1WQ0d0aTd5Mk1lZnN1cXkxRFZsbGlDUW5fVXhrcFVpcTJLWTNpYlRUZ3k0eS1FcjA0VGp3QkI3c2NVTURGTkNvYU1oYzdjcFNLVG5UejA2V2NKX0lYY1h3OVZTVTZ4WFYxallmZ2w2WGQxeWZQZWhuU0R2R3k4MmpKU1NsTFotanhKNjB5dzFVY0NKOVhqUXhMdE5KYkZZanE3b21NSlhpZ3JOSk9STmxJdWp1aV9DdHdFZktSWg?oc=5",
+          "date": "Tue, 22 Sep 2026 10:31:57 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -37994,13 +38069,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "The US’ Taiwan policy will not change, official says - taipeitimes.com"
+          "llm_subject": "Taiwan minister says he was not \"belittled\" in China during official visit - Inv"
         },
         {
-          "title": "Eswatini Deputy PM Thulisile Dladla makes 3rd Taiwan visit this year - Taiwan News",
+          "title": "US, Japan and South Korea launch economic-security talks before Xi summit - SCMP",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNkdMSUdOa00ySTFWcEdqLUp0Y3luLW1Kc3FBc09lVGJwUGpGdFlYTk5DOWRFV1poam02Y2thZzFYYjMzTkpEU3ktU3Nudm0zcl94VnNlTU4?oc=5",
-          "date": "Tue, 22 Sep 2026 06:27:29 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcl9zcUZOZzE2TjNJckdHeUJaUmZSMTBxYXl3OGM5eldnd1BnVzM5RU9JS2p4TEpMZVRfcjFjbFV2VEVEeWZlZ05MVHZTSy1taUM3bE1Qb3o1bm9FT180MzgydXQzMWZNeUFaR1pwejY1RnBLR3kyUDktcVpGY1NfNFFOTjF1STFrb19WNTE0QnZqNGdTTVdWQVhIOHZaMXRVSGFlbWRQczNES3FGR3NORzBsLTlWX1o3My0tUdIBvAFBVV95cUxPZ3NHWlBYcTRuREJ6cExqTGNYWHdjOTJpbFVLT2xVS0VaU1BpV1RVbGZZcElHeVVmVmtKa0pKTWRBZldvbVhUdGVac0I1b3VranRoV2ZwUzd2Q29hREJpbzJYajNaNW5ROWtVTWNnVVBoaG1HNmh5RXFEMGRFSWxTWUtDdnBSRlFjY2NEbFVzSVdJTnBOaHV0bVVaenZGZ1BvUXR1M25MbG1HcXJoZDdXLWpncDR5cmxKTnAweg?oc=5",
+          "date": "Mon, 21 Sep 2026 20:22:31 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38009,13 +38084,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Eswatini Deputy PM Thulisile Dladla makes 3rd Taiwan visit this year - Taiwan Ne"
+          "llm_subject": "US, Japan and South Korea launch economic-security talks before Xi summit - SCMP"
         },
         {
-          "title": "Taiwan will not yield freedom: VP - taipeitimes.com",
+          "title": "New Zealand Shares Rise, Templeton Emerging Markets Investment Trust Reports Taiwan Semiconductor Manufacturing as Top Portfolio Holding - Yahoo Finance Australia",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNQURXS1lEc3lnUHBpWnhObDNQa05tNHVsMXdDaTJXT2dGVlpKdThhWXgybjRPd1ozaEVrUlpBZ192Z2pDcDdfZlFRYVgyNWc5VU1lUzVlanRPTVJQdk1qZWRKeUs0enFud1RIcDFMdTJhUXpIUFcyYkpB?oc=5",
-          "date": "Tue, 22 Sep 2026 03:31:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHJVdEo5dFlxV0hyLVlTVlZvbkVkOHFsTmpVTkswZl9pcDNYR1B2ODA5WjNlRVV0Y2JyaV9TVFBjZlBiUENoRG9pRWQ3ODF4c0l6YW80cEdjU1NaNGpaYkhTOE1NNXVOS1l0cnlwM2FkcEd1UEVfbGV2VlQzOGlVLTc5c3EySmxjTTVMdGlyY0I?oc=5",
+          "date": "Tue, 22 Sep 2026 05:31:34 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38024,13 +38099,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwan will not yield freedom: VP - taipeitimes.com"
+          "llm_subject": "New Zealand Shares Rise, Templeton Emerging Markets Investment Trust Reports Tai"
         },
         {
-          "title": "Shen closes gap with Chiang in Taipei mayoral poll - Taiwan News",
+          "title": "Lai says culture must grow alongside Taiwan’s economy - Taiwan News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xX1lNOFlQbGtqTGFvcGZOZUZXZThWVFI1cmVScHY4c3Jmc3hORzNDTE8xN0plWTNqQlpxa1pOY3NLd196YmJUUy0zOV9TbXp6Uk5QVg?oc=5",
-          "date": "Tue, 22 Sep 2026 12:45:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Yc01KOHBUTkNXNU5sOFNXQnlMRWZjM3M0bFJYTWVLdV9qalFOelZNNlY2YXd0dDB1bXI5UFpSWjhFTEdoOF9PWTdFRXZHXy1VRWZUbFVFVnk?oc=5",
+          "date": "Mon, 21 Sep 2026 05:12:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38039,28 +38114,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Shen closes gap with Chiang in Taipei mayoral poll - Taiwan News"
+          "llm_subject": "Lai says culture must grow alongside Taiwan’s economy - Taiwan News"
         },
         {
-          "title": "Taiwan faces 2.6m daily cyberattacks, minister says - taipeitimes.com",
+          "title": "Taiwan August export orders hit record high value, strong AI demand leads - thestar.com.my",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hZEVNM3BpazVseXdtaU80TXRrSW9ERGlEbFl6U3FDcDhUOUpjTEZiTU1xMVVqVElZTXBkaTUxSTRnak5aLVNzaW9iaWRUeDFFZzhUa1Z0NldyTW9xRjlYY0tTTVdoaHBnQ21hbFl1ZnlRa2xSZkRhaUZR?oc=5",
-          "date": "Tue, 22 Sep 2026 03:31:59 GMT",
-          "source_country": "TW",
-          "country": "TW",
-          "category": "terrorism",
-          "weight": 7.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TW",
-          "llm_subject": "Taiwan faces 2.6m daily cyberattacks, minister says - taipeitimes.com"
-        },
-        {
-          "title": "US, Japan, South Korea emphasize Taiwan Strait peace in joint statement - Taiwan News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HX3FOckNyTGNxdUpsVDVlRklLNFlydkNKZDQ5MUY5R3lfcl9YTkdfUndHUFpVbERTT2trXzB4cUVFc1ZHOG1DWTItN3hydzFaQ0ZrRw?oc=5",
-          "date": "Tue, 22 Sep 2026 06:00:11 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMFVsSHB5T2V1YmRxOGsxVUNmU0VIS05SZGdZVzlYcGZDaWg2ZDVNNi1NY3lBbGxsWGJwa1M0ZUlucWl0akVnTVpldDZsUlNxYW1ONTFESE5OQS1xVDFtSmFGV2tld2Z6aUhKbXZ0ZkhSYk9OYzdXaVRkSmZtbGtIUUFKQ1dsNlRzNUczdTl3RHFlZmRGOHdiVXJWT3Bma2V3UmZ2QUFLOWxLQ0w3WFBFWGhWX19MRzdya3owWmk5UkF0c0wyUDJxcVMxZmg1dw?oc=5",
+          "date": "Tue, 22 Sep 2026 08:45:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38069,13 +38129,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "US, Japan, South Korea emphasize Taiwan Strait peace in joint statement - Taiwan"
+          "llm_subject": "Taiwan August export orders hit record high value, strong AI demand leads - thes"
         },
         {
-          "title": "Taiwan labor minister’s APEC meeting in China goes smoothly: MOL - taipeitimes.com",
+          "title": "Manila’s claim of standing by one-China policy while pursuing economic cooperation with Taiwan region may risk new friction with China, move to hurt itself: expert - Global Times",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fc3RILWdPUWZrQThXTGk0THc5cmkxbnBqd2RlbVpaeUtzeFZHVVpVNGdEdnFiLTNRVF9tVlA1OThsQXhzY3dZRkdfZURPeXlacS05Vjh0VkdmOWRGdkc1NUI5REVKVGUxMGkyU1hIWTNxRHNuR1NlTkJn?oc=5",
-          "date": "Tue, 22 Sep 2026 03:31:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fLVZsX2ZaVlc3bWhadVVQRDJIcmlxUEs5eDRDU3RxTEdZZUlQb0lReVJzeHllSHF3cEtZZGx6M29JZGdkbjIxUWV4ZzBlZFVkTnhqNUdhMjZNZjRRRjZxTnVR?oc=5",
+          "date": "Mon, 21 Sep 2026 05:09:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38084,28 +38144,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwan labor minister’s APEC meeting in China goes smoothly: MOL - taipeitimes.c"
+          "llm_subject": "Manila’s claim of standing by one-China policy while pursuing economic cooperati"
         },
         {
-          "title": "Air Canada Receives Gold Brandon Hall Group Excellence Award for Leadership Development Program - Taiwan News",
+          "title": "Taiwan's August Export Orders Top $100 Billion for First Time; Full-Year Total Poised to Reach $1.1 Trillion - finance.biggo.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SRHNuc0FVSDNEQmZ3ODBZREtVUmk0QWc0ZE1TSUtaVGZqRVptZUdXT2stVXlKMFBVMzU1LWhObEZTT0lnY1dDSDVIZU9VWU1EbEVGZ0RGaVg?oc=5",
-          "date": "Tue, 22 Sep 2026 13:40:00 GMT",
-          "source_country": "TW",
-          "country": "TW",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "TW",
-          "llm_subject": "Air Canada Receives Gold Brandon Hall Group Excellence Award for Leadership Deve"
-        },
-        {
-          "title": "Lithuanian edition of Wu Ming-yi’s ‘The Man with the Compound Eyes’ released - taipeitimes.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yaElmZkZHU3I4RFlEVmJPRzEzOGttZmZQM1dVVVdPQ0NJbG9tVmxQYWRiWEJNcUxKMEt2REZlb1hheVU1MGZpeG9TTlpZNjcwa25lRUFkaTZ0OW92dHBmZXdDNkoyN1RFRmNUY1JSZndYUmNocFR0eGpB?oc=5",
-          "date": "Tue, 22 Sep 2026 03:31:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4Tm9fS1NpOVFJX2dqa3YxLU9oUDRiOHBGOEpGZEo4amhfb3JLS2JLWnBlRzNORldweEo5eTIwVzQ1WDh0TDR4a0VOR3NzUFhnQVN6YnJPNGtQcURlNEZDYWMxTGU3SktkZm9OUUNweFV4Z3Z1Wnc?oc=5",
+          "date": "Tue, 22 Sep 2026 10:35:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38114,13 +38159,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Lithuanian edition of Wu Ming-yi’s ‘The Man with the Compound Eyes’ released - t"
+          "llm_subject": "Taiwan's August Export Orders Top $100 Billion for First Time; Full-Year Total P"
         },
         {
-          "title": "Taiwan begins National Day flyover rehearsals Wednesday - Taiwan News",
+          "title": "Why Luckin Coffee struggles to cross the Taiwan Strait - ThinkChina",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVlUyWXpKcXRPOTBOUW9aeEdNTHdaQmFucEV0a3VHYlZGUzdhbHR6QzRlX0VmRjg0cnBfOFpkY3JTNHBseklxYlI5YzBkOVFFOWVrXw?oc=5",
-          "date": "Tue, 22 Sep 2026 08:09:43 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3QtNkFyV1FzYTNZT3VEaUZpdTAtOVZnXzZkendvQnllSHJNMmtCak01c2pySTFKQU5LTDhUbUVLb2Fyc1JIWmdPQVFaZTlqSm5uTmQtNWpzNWZhUzdZVFJKTFQ3dE5tWVkzODQyMnNzcmpMakRDeE41VGs4WGdZUnRFckNHWE1V?oc=5",
+          "date": "Mon, 21 Sep 2026 05:38:41 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38129,13 +38174,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Taiwan begins National Day flyover rehearsals Wednesday - Taiwan News"
+          "llm_subject": "Why Luckin Coffee struggles to cross the Taiwan Strait - ThinkChina"
         },
         {
-          "title": "Ministry to revise indoor air quality regulations - taipeitimes.com",
+          "title": "Cathay Financial Survey: Over Half of Taiwanese Expect GDP Growth Above 11%, Taiwan Stock Market Risk Appetite Rebounds - finance.biggo.com",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wR0d0NEVhWlVjNjJVMGwwYXNtNF9VaFR3ZWFobXRaQVBEZEpzOWRMNVJlNzNPcWhodVZrQk5RbEJ0dzhfLVFvT1BJbVBZOFdUZmhwdzdqN1dBM01MYUp4dEZaZlNlc2haSlFocnY4X1RTdlJjLS1wR2ZB?oc=5",
-          "date": "Tue, 22 Sep 2026 03:31:59 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBielhmOXBkQXItRlJVRjJlOEVLcnhZNldzR3JTYWNzSTlpYzFUdkJ6UmdZTXpjaWJLWmFrNjItSHIyWmFGOFJnaWVEbVNpM09VS3FRV0hlQ1d0ZHRzdHoyMmhzdGp2ajRRMHhjMm1aeDFZMXhOeXc?oc=5",
+          "date": "Mon, 21 Sep 2026 01:35:00 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38144,13 +38189,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "Ministry to revise indoor air quality regulations - taipeitimes.com"
+          "llm_subject": "Cathay Financial Survey: Over Half of Taiwanese Expect GDP Growth Above 11%, Tai"
         },
         {
-          "title": "American EcoFuels Inc. (OTC: AEFI) Appoints Veteran Engineering Executive Jeff Saxinger as Chief Technology Officer - Taiwan News",
+          "title": "Carney is forging new partnerships. A trade agreement remains unsigned since April - ipolitics.ca",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wV3F6dnh0YS1rdUplRmxYVFR6N3JFMENJQ29WRDlzdF85V043OTIyelVDNmdJWDVxRWNlanhYQ1dZZ0RtLS13U0F3dlB0WjRnSXpnT2l6V3E?oc=5",
-          "date": "Tue, 22 Sep 2026 12:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmRmTS1MNmhVR0JIVkVscTduMUR4WTloQkk2b0lmbktiLTcyVmhLUzdPeXFNeVZveTB6TzBFaThPWnotaVVPcVBKT0RkOWYyZTNGN2lhVDhSTU9YLVREM1RBQzBjSXZOUzY3cDJjbWdoZTJubVFnbEFqTGNxVWhHcmdjNUlpVUtwQkN1QTl0RzdGMUh6WVFyNHBVQ0FtbzdUb1N6VHp2dGZoclB1Z0VmVjdkZ1JiRGVsUlE?oc=5",
+          "date": "Mon, 21 Sep 2026 21:11:11 GMT",
           "source_country": "TW",
           "country": "TW",
           "category": "neutral",
@@ -38159,7 +38204,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "TW",
-          "llm_subject": "American EcoFuels Inc. (OTC: AEFI) Appoints Veteran Engineering Executive Jeff S"
+          "llm_subject": "Carney is forging new partnerships. A trade agreement remains unsigned since Apr"
         }
       ]
     },
@@ -38398,25 +38443,10 @@ window.WTI_DATA = {
     },
     "AU": {
       "name": "Australia",
-      "index": 3.03,
-      "raw_score": 1.07,
+      "index": 3.87,
+      "raw_score": 1.6,
       "status": "STABLE",
       "events": [
-        {
-          "title": "Australians love these cars. Experts have 'real security concerns' - ABC News & Headlines – Australian Broadcasting Corporation",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1h5XzZNRXRDQlhHSTQ1a0NXaHVENkFSbTFzeWJycWlXQUtKMUNtUlk2M2tXRXdUREJCOU5iaXNmcDI2c0tMUzVKdGYyY3BSbkdvWmxTb0JUX0NOTTFvUEo2cW1yTHk0dWhvc29RLXNTbzVsb2Q3SUJtM1hyUGlGU2llLTdKcGhtRldTbHpSZWQzbU1YQ3A5bGFERzlqVEVIMlBRM2VjSGdRTVEyVWR4Q3pDSQ?oc=5",
-          "date": "Sun, 20 Sep 2026 19:00:56 GMT",
-          "source_country": "AU",
-          "country": "AU",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AU",
-          "llm_subject": "Australians love these cars. Experts have 'real security concerns' - ABC News & "
-        },
         {
           "title": "Australia to seek UN security council seat from 2029 - Reuters",
           "translated_title": null,
@@ -38431,36 +38461,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AU",
           "llm_subject": "Australia to seek UN security council seat from 2029 - Reuters"
-        },
-        {
-          "title": "Australia faces EV trap, warnings mount as Labor fails to act - The Australian",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkFSa2I1LUJaNlNZRkFva0xUNWpvRHJJeG56Ukh3bFhSaENpaWszWGM0WEdfZ3Bnb09Xa25ISVZTMlVzbWp4M0FQQjR3RktYT3Q1N080NFBoZHV5RGlBay0tM2ViNGN3TUFCajlzWkxFSF9rNXVYZHJQeERYdFZnekljNWZBQjltOXB3YThURTU3VDV0MUNQMHNVUHE3eWw1NmhndFF1Ni1fZWNQSFo3blpMSTNQR1BvTDY2Sm9fZElNZlV5SVNhcm52cEtCZGdyMUNaU01ocWZOUVUt?oc=5",
-          "date": "Mon, 21 Sep 2026 10:09:00 GMT",
-          "source_country": "AU",
-          "country": "AU",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AU",
-          "llm_subject": "Australia faces EV trap, warnings mount as Labor fails to act - The Australian"
-        },
-        {
-          "title": "Australia confirms jet parts went missing in Hong Kong, sparking China security fears - ABC News & Headlines – Australian Broadcasting Corporation",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDB2WnNxakNTV2xiZjF3NV9EVVFFaUZpZkZ4QjJDel9aLVNYZmRFRF9kUmNxZHNQMVdJczAtbkZua2Y2Y3QtaEFFSXAxWXlNaEdCNjFVNGJXMk05cjJYS215OUpvMGk4Qm44UnBLUlVzSDdMR0RzUjU3WXRUWGprRzhnN25fTVM2dmtlb1JTTjJIYzA2RVZOb1c2ZWdVdC1odUtESVI1SThsWFNwZlp1cjFR?oc=5",
-          "date": "Tue, 22 Sep 2026 04:07:29 GMT",
-          "source_country": "AU",
-          "country": "AU",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AU",
-          "llm_subject": "Australia confirms jet parts went missing in Hong Kong, sparking China security "
         },
         {
           "title": "Some cheap smart glasses are a security disaster - Malwarebytes",
@@ -38478,7 +38478,37 @@ window.WTI_DATA = {
           "llm_subject": "Some cheap smart glasses are a security disaster - Malwarebytes"
         },
         {
-          "title": "Albanese launches bid for UN security council seat and names former Murdoch aide to top diplomatic post - The Guardian",
+          "title": "AUKUS at Five: Progress, Challenges, and the Way Forward - csis.org",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjhoY0tvcC0zSlVocEFOWUp5bXVyU2d1anRuTEhzN0t3a2pNcDNzSFB5TlpVbWNkcDdwMDhRWlVaLXFUejVBNTdrQjhBQU5xMlBBanNLZW9LVW5aQVI2aFk0UTFMWEZsaG1sQXU1LUZRazBsR3h3LW91TC1nQnZWYVZn?oc=5",
+          "date": "Tue, 22 Sep 2026 18:17:31 GMT",
+          "source_country": "AU",
+          "country": "AU",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AU",
+          "llm_subject": "AUKUS at Five: Progress, Challenges, and the Way Forward - csis.org"
+        },
+        {
+          "title": "False Advertising: Albanese, Digital Safety And Australia’s Security Council Bid – OpEd - Eurasia Review",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlc1dTlVbkh3RDRhbkhobm1FV1V1QnhzVFk1UFU3M0s4MjBNNy10aWR2VEd4Vlhpb2NwLURvUlU3Rl9TSkRKR3hOQ1A2ckdaTTdVbkRIcTN1UGp4UnpYa2VhTFEzLWNyTmtldXFsclJPbzh5ai1DbUN0SXJVdEJ0QlhpcW02NmpCYklLVHNQdWhuNWJsNVQ5cnJWaExaRmxJZDItNE9NOFRhSDVCVlZNWnBQV29iUkluLUcyaElvUQ?oc=5",
+          "date": "Tue, 22 Sep 2026 16:29:55 GMT",
+          "source_country": "AU",
+          "country": "AU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AU",
+          "llm_subject": "False Advertising: Albanese, Digital Safety And Australia’s Security Council Bid"
+        },
+        {
+          "title": "Albanese launches bid for UN security council seat and names former Murdoch aide to top diplomatic post - theguardian.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUkpIUEUwckxZRENyVE1iaWhleXlSVWRfX1RYc3VtVzFlVDNDeEJZdjRVcDBwRi1fYTBDZVU3M25KdklXMEVReDdVVXdZTU5vMjNEWkpvNmhIcHBDT0lLOEdmWHpTYXlVeXBVYVBmUHBRakx1QkZJUGZRMl9OemhnMG1KcjRUS3daT3BPd2ZPNkhlYkxlNk5OOExyMEg1UW1RSENtaG44V3hJWkw4N1A3aHJ0SDlpU3hEUkpyVTdCNGZtQ1QwSlc5eWdUS2MzTnZNdWJwU3ZMUHBOV2M?oc=5",
           "date": "Mon, 21 Sep 2026 00:37:00 GMT",
@@ -38493,19 +38523,19 @@ window.WTI_DATA = {
           "llm_subject": "Albanese launches bid for UN security council seat and names former Murdoch aide"
         },
         {
-          "title": "Joint press release following trilateral EU-Australia Leaders meeting - consilium.europa.eu",
+          "title": "Read: US strikes security deal with Greenland, Denmark - Yahoo News Australia",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOUpPelNKUGlLOXh1TVRab0pwVGlsZmVfOVJmQ1BjcExVVkVnblhZQWxNWEk1VFhNMjRFZlJmT1JINnJaVXdMR3RCbWVjREpHOGNLanBOS2dGTzVzMUtscEdkOFJUYkRud1NLMEpfZjJnVU81dnFoVFBLRm8zMDNmSHgzM09JZUtJc19BMG9hWS1XcVN3MG9hZ3Y3Uzl5c0FEcnU3V0NTYm1uYnFZQlAta2wyS0kyR3ppUllpQUhuMlJVeDRqSDE0clZvWURXcWNUNDRZ?oc=5",
-          "date": "Mon, 21 Sep 2026 20:37:47 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ya2dSdlR0dlhQVjM0blJFaWhfdGpJNlk4Yk94eXA2eTN0QjVGN1pnMHVCaHpPYXlrRTRsOHNjckQ1MnVSZ2E5TzA0R1QyN0RlT1p2MWQ5NWVKOWRxU0haOEVpaUZKU0lMbFBaQVNpZ1pCclRkZGcwajFR?oc=5",
+          "date": "Tue, 22 Sep 2026 16:21:04 GMT",
           "source_country": "AU",
           "country": "AU",
-          "category": "neutral",
-          "weight": 0.0,
+          "category": "military_conflict",
+          "weight": 8.0,
           "confidence": 0.45,
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AU",
-          "llm_subject": "Joint press release following trilateral EU-Australia Leaders meeting - consiliu"
+          "llm_subject": "Read: US strikes security deal with Greenland, Denmark - Yahoo News Australia"
         },
         {
           "title": "Australia launches bid for United Nations Security Council seat - Australian Minister for Foreign Affairs",
@@ -38523,10 +38553,10 @@ window.WTI_DATA = {
           "llm_subject": "Australia launches bid for United Nations Security Council seat - Australian Min"
         },
         {
-          "title": "False Advertising: Albanese, Digital Safety and Australia’s Security Council Bid - Modern Ghana",
+          "title": "Joint press release following trilateral EU-Australia Leaders meeting - consilium.europa.eu",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0lvM3Vma3ZqSWpOc2dTSXRLczhWTERKaGNSSjBXWmZIY2NRN3NtTUw1b0NJZm13Um1vMnA2LUxnc3NNeG5zeWtROGt0TExMc0x1b3NiVXVud25XY1FyRWU0WnJmVWZqY2pDR3NBU3hnZjRVS1JubW5OTDE0UWRwRnZDVEQ1RVdGdjhmMTRIZjVrM2YwVXfSAZQBQVVfeXFMTWlYbmpHWC03MFpuWWs1MUhGTzlUSnlQSHFyTDlYclh4Y19zRURnQmVaZjBZR2NUOE5TZlhNWTZzSmlDOVFHeVpuRHNEWEN2OXpuT1BiSElTN1hXUklFa1NMOGNWMFJjVUs0VHBDSDRGeU5kWG9EcGV6SzdDSS1hRTFNd1BDV1JJdzJGM1ctUlNNUm4ycg?oc=5",
-          "date": "Tue, 22 Sep 2026 12:11:15 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOUpPelNKUGlLOXh1TVRab0pwVGlsZmVfOVJmQ1BjcExVVkVnblhZQWxNWEk1VFhNMjRFZlJmT1JINnJaVXdMR3RCbWVjREpHOGNLanBOS2dGTzVzMUtscEdkOFJUYkRud1NLMEpfZjJnVU81dnFoVFBLRm8zMDNmSHgzM09JZUtJc19BMG9hWS1XcVN3MG9hZ3Y3Uzl5c0FEcnU3V0NTYm1uYnFZQlAta2wyS0kyR3ppUllpQUhuMlJVeDRqSDE0clZvWURXcWNUNDRZ?oc=5",
+          "date": "Mon, 21 Sep 2026 20:37:47 GMT",
           "source_country": "AU",
           "country": "AU",
           "category": "neutral",
@@ -38535,10 +38565,10 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AU",
-          "llm_subject": "False Advertising: Albanese, Digital Safety and Australia’s Security Council Bid"
+          "llm_subject": "Joint press release following trilateral EU-Australia Leaders meeting - consiliu"
         },
         {
-          "title": "Albanese: Climate Change Is A Security Issue For The Pacific - Sustainability Magazine",
+          "title": "Albanese: Climate Change Is A Security Issue For The Pacific - sustainabilitymag.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUo3c2lBTWhWME1WaC0xT3pnQW9tdjFBTDNVajhHQ0dwaFFJcHpGRG9YbF8tLWZKYkJyekY0Y3VNdHZzcHduWVVxN0ZBWks0Vnh4NF8yLS1zM19nWDJ4ZVMzblBLYmNsNHBEY09RRC05dEVpRDNMeFpjbGpyeEJpRFQtTE1kZHNUYkJNZzVrMWhmUGhi?oc=5",
           "date": "Mon, 21 Sep 2026 18:02:34 GMT",
@@ -38550,7 +38580,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AU",
-          "llm_subject": "Albanese: Climate Change Is A Security Issue For The Pacific - Sustainability Ma"
+          "llm_subject": "Albanese: Climate Change Is A Security Issue For The Pacific - sustainabilitymag"
         },
         {
           "title": "View from The Hill: Albanese seeks to advance Australia’s middle power diplomacy via UN Security Council seat - The Conversation",
@@ -38568,10 +38598,40 @@ window.WTI_DATA = {
           "llm_subject": "View from The Hill: Albanese seeks to advance Australia’s middle power diplomacy"
         },
         {
+          "title": "Australia seeks non-permanent UN Security Council seat for 2029-2030 - سانا",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SZjU2cUo1TFFHdGtMVWtreFBBRmhZSERxdVJrOTBqNXNkVUhEOTlKaDRwOXRHQWZwWmhudUVvUlNUUEJCb0lJeW9FTldqR2J6bUpV?oc=5",
+          "date": "Mon, 21 Sep 2026 10:19:14 GMT",
+          "source_country": "AU",
+          "country": "AU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AU",
+          "llm_subject": "Australia seeks non-permanent UN Security Council seat for 2029-2030 - سانا"
+        },
+        {
+          "title": "How Australia will sell its bid for a UN Security Council seat - Inquirer.net",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2NoTUZ6S0EzTnR2dFRZXzRkRVNFTVVYS2p4dWRfMGtHQVgwRkZTQlVwZkdxSmIwanVidWRKRXF0Y2RkejNaYTNseE5Eb1R4UE9sMHZOVlYtNXRyNW8xZjRzWGtCOHU3RW9EWjdJd1FNVllLZjVzWWtqb1VlTGtLODBXc3RHejVxaEpMLUdrWmpJZlFqOVhZa0E3X2Zwc0F3WUVjaGV30gGrAUFVX3lxTE1JMEJUUWJsUkVRcnE2ZGJUNGlSZWFXSXZFZzlCRmwtQVp3UVVCanFGc0o4dDllZXJmWVZmd1lyc0xtRDg5ZjN6X3lkQ1c1YmpwLWRiMlVaR3VXcnlJSlJYWjBaY0MzMTJxczJ2XzBDcmRMVy1ObVhLMGRHUnFqV21nbW14T1dwLWNUVTE4V3hRcnMzVnJHSUJOb0tJU0pnOHdFVmRza0pNcGJ2Yw?oc=5",
+          "date": "Mon, 21 Sep 2026 02:50:00 GMT",
+          "source_country": "AU",
+          "country": "AU",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "AU",
+          "llm_subject": "How Australia will sell its bid for a UN Security Council seat - Inquirer.net"
+        },
+        {
           "title": "NT can deliver energy and national security - The Australian",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ1d6QzBxVjJGVFpYclRyQzdMN1pQQ0xLc21oTmQzTHRHQ1ZlQlBJN29BMnMyMm9zSzM5ODZ0UUU2Y0hPWDhQcXJnanpiR29PdlpUQ1ZNQURPeV9lNGxPZlZXLWU4R0RHVmZnbnZtN0hhMDNVbE1nYkZMSnIwbE9FSElpXzUzTzdjYzkyY1pWNTNmbnRTNnBOU1NJS3FhbUVIdWs5LW8wbzcyOWlKcHVMem94a1o5R3lyV3RfalFaREVhX3d1bkE3QWtsYUlkU0NyYlh2MDZiTXhGUGFpTS1aa1pUelQ?oc=5",
-          "date": "Tue, 22 Sep 2026 13:31:48 GMT",
+          "date": "Tue, 22 Sep 2026 15:01:51 GMT",
           "source_country": "AU",
           "country": "AU",
           "category": "neutral",
@@ -38583,22 +38643,7 @@ window.WTI_DATA = {
           "llm_subject": "NT can deliver energy and national security - The Australian"
         },
         {
-          "title": "EU, Australia talk trade, security, global issues - Breakingthenews.net",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzZzb3BvNk51T0VSTllhdmlqT0tvQnJrT1owWmVxc3JZdGhSZjBiV3kwUGM0cE9WbTVVLXE2eUtBU2Q3b21nb0VWQ2JXaWM2cEZ3dHZxX2hxdGVzMGJXSFhSZ21DTEZqS0pjc0h4M1R5TWhYYzRpZzVuaUVHcmRIeEdYNFRSY04waFpEbVV4LUtHa3psN0E?oc=5",
-          "date": "Mon, 21 Sep 2026 21:22:00 GMT",
-          "source_country": "AU",
-          "country": "AU",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "AU",
-          "llm_subject": "EU, Australia talk trade, security, global issues - Breakingthenews.net"
-        },
-        {
-          "title": "Protect the person, not just the network - The Strategist | ASPI's analysis and commentary site",
+          "title": "Protect the person, not just the network - aspistrategist.org.au",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQ0FEUmY5SXYtMzJybmtYVjhRR3NEclhaMk4zeHp0bUVtdXl0ZmNwRnh3YWU5VGRYVXg4SkpuWHdmWEtpVnRSUlJscjl3YVItajdMMk0yXy1rRzNMdWRSbTRsWmg4Q0pIemxoTU0yT3dmSEdVZFFMUXhGSzBfMm8?oc=5",
           "date": "Tue, 22 Sep 2026 05:34:25 GMT",
@@ -38610,13 +38655,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AU",
-          "llm_subject": "Protect the person, not just the network - The Strategist | ASPI's analysis and "
+          "llm_subject": "Protect the person, not just the network - aspistrategist.org.au"
         },
         {
-          "title": "Darktrace and Fujitsu to lift cyber defence capabilities - Australian Defence Magazine",
+          "title": "Trump officially makes Rubio national security adviser - Yahoo News Australia",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUxjenZvMzM5OG9VVG9DLWRvWEdtMHlpUFRTNXEyMmFNSTZwQ1VQN0VLa2pVRmxCY2JIRkpfMGxLbWxqUUoyY3pHaWVjeVR2VmhDaU5aaWhaLWx5UGstdVNQdUVZYWNVR3NRUHNzQmNOMzBmMkJSMUtPdDA2YzRhbWJFT0pWdFdjX2E1dXBIRDVaSXFETkV5MEQ0bEQxNE56NV9DYlhR?oc=5",
-          "date": "Tue, 22 Sep 2026 06:05:37 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzJndXUzUHptanNmQjM3cm40Tk9iRDhnR19uYnptVkNNVEczb2ZxTF8yV3drUVRjM0h0RGJQblB2MGFMWTE5WU1mZXN1bVpfU3hvbHlEV25pOVItZEQ5TVg1eGtIZWEtakRzNHJVQnkxNTFGT2VPQ1Jjb1FaeTl5SGtrakY?oc=5",
+          "date": "Tue, 22 Sep 2026 17:30:29 GMT",
           "source_country": "AU",
           "country": "AU",
           "category": "neutral",
@@ -38625,7 +38670,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "AU",
-          "llm_subject": "Darktrace and Fujitsu to lift cyber defence capabilities - Australian Defence Ma"
+          "llm_subject": "Trump officially makes Rubio national security adviser - Yahoo News Australia"
         }
       ]
     },
@@ -38864,100 +38909,10 @@ window.WTI_DATA = {
     },
     "CD": {
       "name": "DR Congo",
-      "index": 3.16,
-      "raw_score": 1.14,
+      "index": 3.03,
+      "raw_score": 1.07,
       "status": "STABLE",
       "events": [
-        {
-          "title": "Democratic Republic of the Congo - Central Africa, Conflict, Resources - Britannica",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0FYQXJtVUNFY2J2RzBGZmNOdW95ZzB1eDV3ZW02V3piY2tVVzA5MUdjZURObmJoRkJETjJWRzlTcUdPZ0wybnNnS2tRTFJDYVkxS2xyQWQwXzNOSnBaUUMtRGZWZHkwTWxiQ0hmdUR2OFhnRndVa05pNnVtVGlqR0J0bFpfdE9RbWdWSDVyV2t2czhKSmVkSHpGLW01RDlQSlhobA?oc=5",
-          "date": "Sat, 19 Sep 2026 05:00:00 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CD",
-          "llm_subject": "Democratic Republic of the Congo - Central Africa, Conflict, Resources - Britann"
-        },
-        {
-          "title": "DRC: Opposition leaders condemn death of politician during 15 September protest - africanews.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjB3V29RbFRPWV9hSmhCSkh6akFYdmNRVGw5aHp4bkcwOFBibDdFNTRyMDM1R2p0QW5IRUYzU0MzeTZZbzNycHhjNWZoQ3lXV0o2MTJuODIzSXVFbGJZU2FnREhYVW9EQXZwNkctLVprbVljLTZZNWp5dUtxaGJ4UXpCT0lpT0ltU3FTTEF2Q2tzVFhzR25vWkE5aUhHWDNRT2lWckpleGY5ckHSAbABQVVfeXFMTnZ0Uk9zeG9xN2FhUUlnc1hBWWR4M01tWjI2OWxkX2tuUnlsZWNlLUtTTE8wYVVqWHlSbTNBWVRZN3lFYUpZemlZdkRXeFNNdE9CX09HTUZjMmNIVlh2OThfRGszVzhEUDVHanpRTUZfaVJxZ3lPNEhuMU13cDhpU19BSEFiaks3dVNTZlZBTEtmZG9yZHE1UlVjd3JDelNnOV80NjZUbHdoY244R2tjanU?oc=5",
-          "date": "Fri, 18 Sep 2026 05:17:12 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CD",
-          "llm_subject": "DRC: Opposition leaders condemn death of politician during 15 September protest "
-        },
-        {
-          "title": "Beyond M23: Addressing the Underlying Drivers of the DRC Conflict - Africa Center for Strategic Studies",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZzJZN2Nfb014a3Jlelp6cE1mV2pZem9QeTJ0elpQUmN3ci1tVV9qYzQ5bEQydHRhVEhsaXRJb2R1WldrQXhpRmxzNzZxdC1BQXJFbDF1dTBBb0FCYWRWejl1TFRXXzNDRUZkN3NNYWl6OHlQVkJjMzMwNS16dw?oc=5",
-          "date": "Wed, 29 Jul 2026 07:00:00 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CD",
-          "llm_subject": "Beyond M23: Addressing the Underlying Drivers of the DRC Conflict - Africa Cente"
-        },
-        {
-          "title": "After peace talks stall, can a national dialogue help DR Congo find a way forward? - The New Humanitarian",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmpxUGhfQ0JneWRMZHpwYWY5OUpFWWpvTzVCR05nUG8zellZTm42UHFmbTRvQWNTQVBSZlVRSGtnRHk5TndXdnZSRnpNVmRvbmtEa20yRWw0Z0h5dGdzNnhjMmV1RXdxSVYxTjlaOTFxTnpCMG9Pc2cxcTZuMFI2aHg5c2FoRjZZSkdvRUUydXdHUXpVMXlwRTNwZGZEMElVal9JN3dTRW9UMEo3aUZaNHUzaDEtWEF2SDNyNmd6dkc4LTE1Ri15Rk54OA?oc=5",
-          "date": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CD",
-          "llm_subject": "After peace talks stall, can a national dialogue help DR Congo find a way forwar"
-        },
-        {
-          "title": "DRC’s constitutional battle: The fight over the 2028 vote - aljazeera.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXhwOHM5RENLbzVnUDdqQlQ4RG9sSVZ4REpjWUFDcEg5UTJWTFltUGVJVUJiUkRPcmJBdUFfWGpIVjlIYVg5Z0FTc3J0RFFMRTZMWnNMN3pYUEkxcUxpODVlQkhrdXEzWWE5U3hWR3U5TTR3VlZsalo3UFRRNXlmOUs1YmF2WjZQMTF5bXRQSnAtM0xYdUlxVUNmNTPSAaIBQVVfeXFMT2pSVk5EQXB4NmZLaFpSbmE1dnV5UU56bVVRRWVucEROVl9Cald0c3lRRU5NWEpiNVRuT2ZiVElyYmhMb2RuTXd2LWtFWGlpc1FZdlVGa0RSRmExLTB5UnRWZUZGUTRpVENzMG1OSzRVc0YwOXVqZ29DYUdyU2tpcnhOZllWM1Z0U0kzNmU1cHE3anYwaE81T1R2emFMUndNbHhn?oc=5",
-          "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CD",
-          "llm_subject": "DRC’s constitutional battle: The fight over the 2028 vote - aljazeera.com"
-        },
-        {
-          "title": "Rwanda–DR Congo Geneva Talks Conclude With Focus On Security Commitments And FDLR - Trendsnafrica",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXdrRmJUeUVSbWpSSHlYRWdIZ3hReF9vdmFmaGJvd29ZalFFVlg3QjBNXzFmd3NMb0JIQktrNS12WVJ5MWozMUptRTlkcG5JSjZtZnVpRVpEOE5HQnRfbE1GdkZHUl84NWpveG14VXZiY0tkZFp5VkUwS0k2amNzWXZibkFlcDRLTnNYNEQtdG5KM1dOYjBhNFRaMW14cWd4aXNvNGs4ZlFyVXJq0gG0AUFVX3lxTE1mdTZPZlhhTnhjdjZKcUVxQmtwaHVWZUFaMVp6ZDBKdnhWVVVYN2RBWEhJRHlFM212N0h1YUtZVWVQaUtoSU9wMFI4ZjJqS2tCRFJSV0J1SUNNV054MDQ3WG1yc3NjRzExT1BvVExNSWM2VDVRVG1vRThnUFRaa0Z3cElvNXNmZ0pKVDBlZE1JT29DTW9rWmg4dk44QW5yVU1aUXNvLU83T3ZOMjRIVnRjX1hzSg?oc=5",
-          "date": "Mon, 21 Sep 2026 06:38:21 GMT",
-          "source_country": "CD",
-          "country": "CD",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "CD",
-          "llm_subject": "Rwanda–DR Congo Geneva Talks Conclude With Focus On Security Commitments And FDL"
-        },
         {
           "title": "Democratic Republic of the Congo - Resources, Power, Economy - Britannica",
           "translated_title": null,
@@ -39049,6 +39004,21 @@ window.WTI_DATA = {
           "llm_subject": "Ebola vaccine trial begins in DR Congo - UN News"
         },
         {
+          "title": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcERpM1dsVEtzMzBJX0JoRnlfNGhwazVPcVV4Q1pGajNwbTdEajdvT0JUai1VVWdqdnhvWTdmYUFERW5EbWtCVWNaMHJnLXJvNlVNRDB1cGxka3FmaWxQZ3VTdEg0UlZsanBEbm1VVVBDb2lGWmxVd0s0T3VJd2RoLXdERjRhVWlBSFE?oc=5",
+          "date": "Mon, 21 Sep 2026 20:05:02 GMT",
+          "source_country": "CD",
+          "country": "CD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CD",
+          "llm_subject": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP"
+        },
+        {
           "title": "DR Congo to probe violence, death of protestor at anti-govt rally - africanews.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDFzUm1ER3gyLWxDR25mM2M2X2dBZEMxSU9nMXlLY0pwX0UxTGhwc1BGSXYzNXRzUUtCVWVMNjBnbnpSMDJVdDhfLTdCVGQ3dllmVGNUSm1TT1pjai02ekMxRFFrb01zVFRzOG5EbG5xYXlEaXRBZktQWkIwUm1BVm1fRmNlbmRjZERMTWNzQ3psZDRXdGNMQVg5VnJ4eGQzYTdLT1p30gGrAUFVX3lxTFBoVUFxSkhLSHVabzR6dW5yNW0yUVZuS00xT0dkTUdKSXVRbVBmNE9BT0UtS09LMVJLTzYxeGViODhiNmZzdWl2ZzlTWkVZOFo2bGVaWjZMQ18tY05hV051ZzBDMFhZTUk1aUZsZ2VVWVp6YXBQLWxHeW5GSmdzb1lYaFJmRHVhS0R5ZXYtQzh6d1VRQlE1UVl4Y21Va0hTeVE3dFM0cmx3T2x4TQ?oc=5",
@@ -39077,6 +39047,96 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "CD",
           "llm_subject": "DR Congo delegation begins study tour of NCDMB’s local content model - Realnews "
+        },
+        {
+          "title": "Democratic Republic of the Congo - Central Africa, Conflict, Resources - Britannica",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0FYQXJtVUNFY2J2RzBGZmNOdW95ZzB1eDV3ZW02V3piY2tVVzA5MUdjZURObmJoRkJETjJWRzlTcUdPZ0wybnNnS2tRTFJDYVkxS2xyQWQwXzNOSnBaUUMtRGZWZHkwTWxiQ0hmdUR2OFhnRndVa05pNnVtVGlqR0J0bFpfdE9RbWdWSDVyV2t2czhKSmVkSHpGLW01RDlQSlhobA?oc=5",
+          "date": "Sat, 19 Sep 2026 05:00:00 GMT",
+          "source_country": "CD",
+          "country": "CD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CD",
+          "llm_subject": "Democratic Republic of the Congo - Central Africa, Conflict, Resources - Britann"
+        },
+        {
+          "title": "DRC: Opposition leaders condemn death of politician during 15 September protest - africanews.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjB3V29RbFRPWV9hSmhCSkh6akFYdmNRVGw5aHp4bkcwOFBibDdFNTRyMDM1R2p0QW5IRUYzU0MzeTZZbzNycHhjNWZoQ3lXV0o2MTJuODIzSXVFbGJZU2FnREhYVW9EQXZwNkctLVprbVljLTZZNWp5dUtxaGJ4UXpCT0lpT0ltU3FTTEF2Q2tzVFhzR25vWkE5aUhHWDNRT2lWckpleGY5ckHSAbABQVVfeXFMTnZ0Uk9zeG9xN2FhUUlnc1hBWWR4M01tWjI2OWxkX2tuUnlsZWNlLUtTTE8wYVVqWHlSbTNBWVRZN3lFYUpZemlZdkRXeFNNdE9CX09HTUZjMmNIVlh2OThfRGszVzhEUDVHanpRTUZfaVJxZ3lPNEhuMU13cDhpU19BSEFiaks3dVNTZlZBTEtmZG9yZHE1UlVjd3JDelNnOV80NjZUbHdoY244R2tjanU?oc=5",
+          "date": "Fri, 18 Sep 2026 05:17:12 GMT",
+          "source_country": "CD",
+          "country": "CD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CD",
+          "llm_subject": "DRC: Opposition leaders condemn death of politician during 15 September protest "
+        },
+        {
+          "title": "Beyond M23: Addressing the Underlying Drivers of the DRC Conflict - Africa Center for Strategic Studies",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZzJZN2Nfb014a3Jlelp6cE1mV2pZem9QeTJ0elpQUmN3ci1tVV9qYzQ5bEQydHRhVEhsaXRJb2R1WldrQXhpRmxzNzZxdC1BQXJFbDF1dTBBb0FCYWRWejl1TFRXXzNDRUZkN3NNYWl6OHlQVkJjMzMwNS16dw?oc=5",
+          "date": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "source_country": "CD",
+          "country": "CD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CD",
+          "llm_subject": "Beyond M23: Addressing the Underlying Drivers of the DRC Conflict - Africa Cente"
+        },
+        {
+          "title": "After peace talks stall, can a national dialogue help DR Congo find a way forward? - The New Humanitarian",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmpxUGhfQ0JneWRMZHpwYWY5OUpFWWpvTzVCR05nUG8zellZTm42UHFmbTRvQWNTQVBSZlVRSGtnRHk5TndXdnZSRnpNVmRvbmtEa20yRWw0Z0h5dGdzNnhjMmV1RXdxSVYxTjlaOTFxTnpCMG9Pc2cxcTZuMFI2aHg5c2FoRjZZSkdvRUUydXdHUXpVMXlwRTNwZGZEMElVal9JN3dTRW9UMEo3aUZaNHUzaDEtWEF2SDNyNmd6dkc4LTE1Ri15Rk54OA?oc=5",
+          "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+          "source_country": "CD",
+          "country": "CD",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CD",
+          "llm_subject": "After peace talks stall, can a national dialogue help DR Congo find a way forwar"
+        },
+        {
+          "title": "DRC’s constitutional battle: The fight over the 2028 vote - Al Jazeera",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXhwOHM5RENLbzVnUDdqQlQ4RG9sSVZ4REpjWUFDcEg5UTJWTFltUGVJVUJiUkRPcmJBdUFfWGpIVjlIYVg5Z0FTc3J0RFFMRTZMWnNMN3pYUEkxcUxpODVlQkhrdXEzWWE5U3hWR3U5TTR3VlZsalo3UFRRNXlmOUs1YmF2WjZQMTF5bXRQSnAtM0xYdUlxVUNmNTPSAaIBQVVfeXFMT2pSVk5EQXB4NmZLaFpSbmE1dnV5UU56bVVRRWVucEROVl9Cald0c3lRRU5NWEpiNVRuT2ZiVElyYmhMb2RuTXd2LWtFWGlpc1FZdlVGa0RSRmExLTB5UnRWZUZGUTRpVENzMG1OSzRVc0YwOXVqZ29DYUdyU2tpcnhOZllWM1Z0U0kzNmU1cHE3anYwaE81T1R2emFMUndNbHhn?oc=5",
+          "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "source_country": "CD",
+          "country": "CD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CD",
+          "llm_subject": "DRC’s constitutional battle: The fight over the 2028 vote - Al Jazeera"
+        },
+        {
+          "title": "Rwanda–DR Congo Geneva Talks Conclude With Focus On Security Commitments And FDLR - Trendsnafrica",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXdrRmJUeUVSbWpSSHlYRWdIZ3hReF9vdmFmaGJvd29ZalFFVlg3QjBNXzFmd3NMb0JIQktrNS12WVJ5MWozMUptRTlkcG5JSjZtZnVpRVpEOE5HQnRfbE1GdkZHUl84NWpveG14VXZiY0tkZFp5VkUwS0k2amNzWXZibkFlcDRLTnNYNEQtdG5KM1dOYjBhNFRaMW14cWd4aXNvNGs4ZlFyVXJq0gG0AUFVX3lxTE1mdTZPZlhhTnhjdjZKcUVxQmtwaHVWZUFaMVp6ZDBKdnhWVVVYN2RBWEhJRHlFM212N0h1YUtZVWVQaUtoSU9wMFI4ZjJqS2tCRFJSV0J1SUNNV054MDQ3WG1yc3NjRzExT1BvVExNSWM2VDVRVG1vRThnUFRaa0Z3cElvNXNmZ0pKVDBlZE1JT29DTW9rWmg4dk44QW5yVU1aUXNvLU83T3ZOMjRIVnRjX1hzSg?oc=5",
+          "date": "Mon, 21 Sep 2026 06:38:21 GMT",
+          "source_country": "CD",
+          "country": "CD",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "CD",
+          "llm_subject": "Rwanda–DR Congo Geneva Talks Conclude With Focus On Security Commitments And FDL"
         }
       ]
     },
@@ -39939,10 +39999,205 @@ window.WTI_DATA = {
     },
     "IQ": {
       "name": "Iraq",
-      "index": 2.08,
-      "raw_score": 0.53,
+      "index": 3.03,
+      "raw_score": 1.07,
       "status": "STABLE",
       "events": [
+        {
+          "title": "Iraqi premier, US secretary of state discuss expanding strategic partnership, economic ties - Anadolu Ajansı",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGdzb3hTWXI4RklOc2JjUjdjbTllNVpsbjF5S1VqNzRkZUwwcVFNZ1VzRWtQWFB6cy1hSDF1YWx3SEc1cGMwRmZlSG1JTlRXWWIwY0ZGNGNyX0ZuRzhCQU5QSXFHSFc5NGd3NmVqeWlQMlFJdmNqOW44a09pcXJzTUkxYWVhYzdrbF9icnVEc0JZZ1ZJclJQLXBTOFhobVZDT2c1bUI2UjhlR3lZbWRVMklKTFRrellBUmhqVGVPWm1RVXJ1b0d3?oc=5",
+          "date": "Tue, 22 Sep 2026 07:10:47 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "Iraqi premier, US secretary of state discuss expanding strategic partnership, ec"
+        },
+        {
+          "title": "Shafaq News..Saudi Arabia denies tanker purchases raised Iraqi oil transport costs - شفق نيوز",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZ6amRCaGpaajFLMG5XaExRQ1BhV1ZfaHdKMGxLWUdmWldHZ3FhZ0ZvVFpSelQybUhFbE1xQUliVWJRb3oyT2w5WUZ3QXNDbTUwRmxJeEFieEg1QzJNSmJqRmtiX3VSMVRncWd2SW9xLVNxUHFoZlAtcG95ZVJQdmVuNDFmazZsWEcwNXp1ZFdrb2xqajZoLXlhOUNRMFQwc1pCMHRn?oc=5",
+          "date": "Tue, 22 Sep 2026 17:17:33 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "Shafaq News..Saudi Arabia denies tanker purchases raised Iraqi oil transport cos"
+        },
+        {
+          "title": "PM Al Zaidi meets Marco Rubio in New York, pledges state monopoly over arms - IraqiNews",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2lDRmRWU213VHRYNk5VNGU4QXVUUTQ0cVN3bnlXTERvYjFNUm9iby00dWJkdWFHNFAyVkRnTTlPMkxJa3B0dVZONk8xdXZFTkZDSG5QX29oZzhVRGRxWUFYdk9fc1RJYy1zQkdwNVVUM2oxZlVIRzl3NER5aTBaSWxiamY1UG9ZLUxsa0tKdHpoaTlpdmVIazYwa0NRNGs?oc=5",
+          "date": "Tue, 22 Sep 2026 07:02:31 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "PM Al Zaidi meets Marco Rubio in New York, pledges state monopoly over arms - Ir"
+        },
+        {
+          "title": "CBI limits traveler access to official-rate dollars twice yearly - rudaw.net",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDlPZG1JWm9JRkdSRW1aVDJBa3NRMTBaRnN0NThudEluNmt3ZnVST1hvQ0p6SWcxOUJYYnpiNUtHUGFZV3pMak5ya0xJb25qRnVkLTg4VFpPWmw4NjJ1cXZtZnFURDZQ?oc=5",
+          "date": "Tue, 22 Sep 2026 11:45:44 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "CBI limits traveler access to official-rate dollars twice yearly - rudaw.net"
+        },
+        {
+          "title": "The security and economic gamble facing Iraq - Tehran Times",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWRRZjhQQThiTjlIMkxDUXpKeGNIUTd6Q1A2NHVSaUFPalgwWkluVGpQLXNpVDJrZ1l5dmttSjYyajdLVEtMRXJXMTJSTUlTSDUzcVdhd2F0LVZVanRSWThkdlZFaXB1TmlGMzNjbFdMY2M1cXh4TzNtaUdkM3UySnRqN0VKeG0wWDlpaw?oc=5",
+          "date": "Mon, 21 Sep 2026 17:45:58 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "The security and economic gamble facing Iraq - Tehran Times"
+        },
+        {
+          "title": "Idle workers, empty wharves: Hormuz blockade hits Iraq’s oil hub of Basra - Malay Mail",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSk56Vk1YM282azVZQS1kZHN1TGNTNTdPQ2x3bTJkOFhRTl9YNXRzOE1Gcl9LQUc5XzlsSTE0ZFU3OXJFaEZEYVhDZ3dIMnNUZDlwcmlDQU00eHJQWDE5Z1pmeGhwemRhaG1XeF90UTV1TXA1QUhYMTFqbklBdjR5S3dNb2xsM2NWdWNNQ1QzZVZtR2VYTS1pWHZSQ1VSMmt0aVVOakNNaHZIWHFYNU13LW1ha1RSbm91UEx2MkU0TWM1a2vSAcgBQVVfeXFMUEJPY2JQMDh5UFNkNjVrU2JBWC1IWHU4NnR3Y0ZkLXlfSUxVa2VTU1ExTjd6QmtQc1NxVmVXRlFKU3JrQmJFcWpYQXlMcXRFd29lLTFwQzZUWTNPYnN2c3ZCc256N2Q1UFhVNVdVY1Jyd1BVeUhDdDBLNWo0ZDJNUjExNWpYNk1tWGFPN2hENERHUVhnOGRHd1phUldSOXlfSzR4Z0h5RnVpSk9GemlkVmhnSWxxV0diRXI4blc4dDc2Tm5rUWpTOEQ?oc=5",
+          "date": "Tue, 22 Sep 2026 13:02:39 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "Idle workers, empty wharves: Hormuz blockade hits Iraq’s oil hub of Basra - Mala"
+        },
+        {
+          "title": "Shafaq News..Erdogan: Turkiye supports Iraq state authority - شفق نيوز",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZWWlVdy02b1htSF9HTTYxV3E2WVoxa0N6d3pEaWd2ZTRWX0pzTEpYdTdocmwtUGFUU2Y4RWZSNWFGY2Z0MmpBeWJXSU1heVdpcWRYUmJXRHNDWlhkYXZUVHBIVWxIUHY4NXNLNkdnRWk4TU9MVjFjTDhWa0tyQQ?oc=5",
+          "date": "Tue, 22 Sep 2026 17:08:57 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "Shafaq News..Erdogan: Turkiye supports Iraq state authority - شفق نيوز"
+        },
+        {
+          "title": "Shafaq News..Iraq renews weapons control pledge in US talks - شفق نيوز",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVE9IYUVzazRURWE2WVg4MWJxUVlrUHkyRnh4LVEzU1A5TEd3LUFzeDNSeXBfOHBUbWpRYXc1WTlOc1dEUFh0SWNTcjdWZ0JTQngxUWtMR296bTVPUERwV2gzR29laXBWdi10eWhsTmxPNHdJMmgxS0JEWDF6QQ?oc=5",
+          "date": "Tue, 22 Sep 2026 13:35:37 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "Shafaq News..Iraq renews weapons control pledge in US talks - شفق نيوز"
+        },
+        {
+          "title": "Shafaq News..Iraq bank deposits fall 3.7% in July - شفق نيوز",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41d0JwTlFSQmZHYTZheWI0d3dvdzlzbXFiOXJMbmowZm1tQ0Z2YV9BUXNpZFBDOUZ1cVFXU1RSMkxia1lUVXd5bU9JUE5JdDBDZEE3YkdvektHTTFPLXR1TGhOTnUzamRUYWN1Z0s2NWE1T28?oc=5",
+          "date": "Mon, 21 Sep 2026 11:25:53 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "Shafaq News..Iraq bank deposits fall 3.7% in July - شفق نيوز"
+        },
+        {
+          "title": "Shafaq News..Gold prices dip in Baghdad, Erbil - شفق نيوز",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kcVhWMVhqT09WRThUZ2t4dFRfQnpMN1h4RldNRk40Tmt1N0N2WFVNMjh5SjFKMXVGenZaVHZiOVI1SVJKMzl6amxMYng1dlkwUl9HM2loMWNCUllERTdUXzUtRklrc1NTdDZ4NEFoVFBNMWUx?oc=5",
+          "date": "Tue, 22 Sep 2026 08:49:10 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "Shafaq News..Gold prices dip in Baghdad, Erbil - شفق نيوز"
+        },
+        {
+          "title": "War Leaves Iraq’s Oil Hub Idle as Workers, Trucks Struggle - newsofbahrain.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81U3NsQ3lPSzk1RGR3Z0VQXzN4aTdZSG1aVmpkWGxVSnRCN25uNmVTZmtQWGx2dmU0TnJ4bGxYbmJHZ1QwYmFqd3JsdFR2S1loNURaczdYZkFvOFE?oc=5",
+          "date": "Tue, 22 Sep 2026 09:00:43 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "War Leaves Iraq’s Oil Hub Idle as Workers, Trucks Struggle - newsofbahrain.com"
+        },
+        {
+          "title": "What the End of Operation Inherent Resolve Means for Iraq and Syria - War on the Rocks",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2hXODFnNDZlNEhLZGlFck1idkhHWGtRdWlzbDB6ODlUWjkwdlo1cGlJcjBEYTJCY0tKSGF0Um51VWZ1ZUtiLXdnN19yMUZLVXBuNjZ3NWRBeFJjU2EyUG5SWXYtVlBmT0JGVzlfVlpNVksyTzN0STQ0WWhWZC1IMFJ2MXVIRXJBQ01lZTB4VXhPLXUzRExvTDBn?oc=5",
+          "date": "Tue, 22 Sep 2026 19:53:56 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "What the End of Operation Inherent Resolve Means for Iraq and Syria - War on the"
+        },
+        {
+          "title": "How Kurdish autonomy is pulled into Iraq's disarmament debate - Amwaj.media",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmF2akRCWDdKNWpTTXpGT0h2R2VtS3pkNDVtMjFjSFpxOFlrUl9qeFBoeGpSYWdHYkl3bUVET3BxRzFhRUF1OGhFQk9yUmtyU1JKWk5rZ295QU1vYUFELVB3eWtJRHNWWHJxUngzRDVWeG1ydG1sQ3BweV91SU1Zek9VM3ZZYzVlVkNzS3p2X2toWkdQbVN2cVotTFdINUpGdzFmQXlvbU9Qdw?oc=5",
+          "date": "Tue, 22 Sep 2026 13:00:58 GMT",
+          "source_country": "IQ",
+          "country": "IQ",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "IQ",
+          "llm_subject": "How Kurdish autonomy is pulled into Iraq's disarmament debate - Amwaj.media"
+        },
         {
           "title": "Iraq plans disarm Iran-backed militias by June 2027 - IraqiNews",
           "translated_title": null,
@@ -39959,40 +40214,10 @@ window.WTI_DATA = {
           "llm_subject": "Iraq plans disarm Iran-backed militias by June 2027 - IraqiNews"
         },
         {
-          "title": "How Iraqi Kurdish autonomy has been pulled into Baghdad’s disarmament debate - Amwaj.media",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUdmY2FDMHlpc0lnRDEzNnoxUHNtWlFnRTJsOTI0YWhpR3VoMFIwb0gzOW16TGxscXA1WGU4X0dDWTRDQUJTU3dZckpHdHFZWnFHMmI4MDZDTWdLNHoyTktqcjJaRm0ycGtFd0JvaDI0dGkyQmE3MXdNcVppT0dycm03NmlvYWZKY0pjUFBNWEphMGE0YW5PdThjZUtxNlJfY2phdi1YM1k0dGlsTVRV?oc=5",
-          "date": "Tue, 22 Sep 2026 01:00:41 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "How Iraqi Kurdish autonomy has been pulled into Baghdad’s disarmament debate - A"
-        },
-        {
-          "title": "Iraq sets June 2027 deadline to disarm Iran-backed militias - middle-east-online.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVRkNlJWaXJDZWtGTzF2bWh0eG5kQW9ENXpsSWszMWpFZnk2aURLQ29xYXpWNDVGZndSZFc3QVg5bktrU1RXejlQZjdjcGpjTnNVYnZYWUxrdzhvZjJvd19heEIxZmM3WXMycnhtZEZ3Q3pMdEVMQ1Y5SjNsQXI3MlhoTmVPN213WEd3ZmthbVJGN3ZV?oc=5",
-          "date": "Tue, 22 Sep 2026 06:34:52 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Iraq sets June 2027 deadline to disarm Iran-backed militias - middle-east-online"
-        },
-        {
-          "title": "Iraqi top security official discusses arms control, regional relations with US envoy - Rudaw",
+          "title": "Iraqi top security official discusses arms control, regional relations with US envoy - rudaw.net",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BT2NNTzhfWWxSZHU5c3JyaGpXak0wREhUQkx1NHo2V2VWbFJCbFc2SWV5MDNXOXRJbEhRTUFJM0h2UmdYZ2VBbGRwYTZNNVM4UUtvOGxmZFh6T0JhdXc?oc=5",
-          "date": "Tue, 22 Sep 2026 14:38:17 GMT",
+          "date": "Tue, 22 Sep 2026 15:38:17 GMT",
           "source_country": "IQ",
           "country": "IQ",
           "category": "neutral",
@@ -40002,171 +40227,6 @@ window.WTI_DATA = {
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "IQ",
           "llm_subject": "Iraqi top security official discusses arms control, regional relations with US e"
-        },
-        {
-          "title": "Eyes on Sept 30 deadline as Iraq moves toward full security control - Hürriyet Daily News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFNidEw2NlNvOUFzblRoMGNjMU42SEhQQ1lnaHU2UGIxenFxN3ZISF9KOFFZVWUzSXd3ZzNzN18yUGVSQU1GX1ZhZjAzMVdrbXFSdlY0dWZjdUVZbU9JeVcxQjdGNzBiRGRxa2RaNjMtRVV0cFFMdXBKRFBJWnNNUGRjUGtCd1hEVGd3enFuMGNYdHdZYm8zZ3J5MXhYZmlnT1VNeXdpOWR3YzRB?oc=5",
-          "date": "Mon, 21 Sep 2026 08:21:09 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Eyes on Sept 30 deadline as Iraq moves toward full security control - Hürriyet D"
-        },
-        {
-          "title": "Blasts near Iraq's Erbil airport linked to security activity, local authorities say - Arab News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWnM1c2VYM2JuWDNlTHM2bTlQQm5RU1FMOXp2TkpYVkNTVjF0OXFHU2dxdXh2YmJ2TjhnbHZKN3UwcU0yc3hiWkFyeElud1cyNFpxUmlwU2FVcUJXdW9VRnJDeXU0TEdtWXNPUGowSGppeUVwb09iLVpxWTV2YjhXeVRPbW9BN0ctQ1RkMGpKaXRkVDFjT29pRTFrd3BrNGdsMUFxOFFMNXRROFllbHExZDVfZ1hsSk8ydXYtVG1sQ2V4UVha?oc=5",
-          "date": "Sun, 20 Sep 2026 17:08:59 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Blasts near Iraq's Erbil airport linked to security activity, local authorities "
-        },
-        {
-          "title": "Shafaq News..Iraq dismantles 250 drug networks in 100 days - شفق نيوز",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDZXY0JuZld0WTQzVi1vMjdsMV9wbkZVa3dkR0ZBbGtGNXVqUldMd3NPNmcySzNMcUplaFIzcEcxTUM5allkNXJlUVAwUGNrMTd1SWYweEgybFJ1NTNxaHBMOEJTUEcyY1E5Zk9LaDNDM084WlE2aTRFWUlab0JnZWJ3?oc=5",
-          "date": "Tue, 22 Sep 2026 09:09:43 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Shafaq News..Iraq dismantles 250 drug networks in 100 days - شفق نيوز"
-        },
-        {
-          "title": "Iraq’s security risks amid US withdrawal - tehrantimes.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMlVnTHlGSWpNSG1rMjdKS2daNXJzRlVNOXVrV25oVnZ2WmVyV0ZMQUI5dFd4Q08yT082clRzaHIzc2dMbWdTeDFMOE12UTlMU2RTeGFGb3hxenUzWG1ldVk4VWpDRFFrVENSa0xrVVdWYUtXcmxpMTNweHAwQ2VHQ1U0blhodXM?oc=5",
-          "date": "Sun, 20 Sep 2026 17:05:45 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Iraq’s security risks amid US withdrawal - tehrantimes.com"
-        },
-        {
-          "title": "Kurds alarmed as Trump pulls military equipment from Iraq to Jordan before blowing up Iran? | Hindustan Times - Hindustan Times",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSl9TN2pOb2wzRTVqUlB0OHRsTWpfbFJ0SjNlUDBNS2xxZTZuSDh1UUxYUjlpN3o1cVlxNGdnbWdnRlBpWGxPa3JPQlNFeFoyeVl1Y3hna2FVdUdWV3g3RDdJbjEzVmFMWHg4VlZUbHhGdXZXX2lHVjBkeFFxOERnOU5MNXV4dzkyb0QwRWVmcTg5VS0wOTNqS2tWYWlwZ01YOFhvcV81TE96MVd2aHc5REs3NFdKZndnQnRYdE1XTi02VGVyTkJsbC1hTjBtUVExSVhFVlpZZWM3OG5mNUJtMTYteWpGY3RWc25uRmQ2S2E2Z9IB9wFBVV95cUxOU05Ra3pLd3VLSGhQekF1Z3J4TUNReVRYRGFWTzI3WWxiVUVwelNOT3BiQ0F6NkVDSHdDa0dHbWFzN3VsZkRTOFYxcWMyT2RwZjZCUHJadG1GdXp4bGRZSWdTVzljZFQ4Z0N4bkRXQWlmcHd1R1B0aWtNYVEtdUpYWjdCQ2xYZVZzZ0xqeFFTYnVBZDVycHJyVEM1UmI2ZnFfbEZ6UEZnMEZpblRydnBOZzdKSG9oVVBURnhIMTlHbVhNUVBoc2pfM1pxem1TTDVNeGpPSE8taENtUjFmYmRpYTVSY1FGazZSUEEzNC1oWmdMQTFBTEhN?oc=5",
-          "date": "Tue, 22 Sep 2026 16:27:11 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Kurds alarmed as Trump pulls military equipment from Iraq to Jordan before blowi"
-        },
-        {
-          "title": "Shafaq News..Iraq faces security risks as US withdrawal nears - شفق نيوز",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbWJBem5UV3ZRM1lxcm4wQWdMZ2xzTDBCT0RnTzhFTDkzZkhLUUFaUU95el8tYTNFRkpjbDVuSGFYTS1pbWUyVWg3T2xKdDU1b2FFYzhpTFlMa2k0TDltVUpPVjltRHAzX3prRHBNVmVKZE5LTm90OFliN3JBN0V2Z0RxMXB3Zw?oc=5",
-          "date": "Mon, 21 Sep 2026 20:31:44 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Shafaq News..Iraq faces security risks as US withdrawal nears - شفق نيوز"
-        },
-        {
-          "title": "The security and economic gamble facing Iraq - tehrantimes.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWRRZjhQQThiTjlIMkxDUXpKeGNIUTd6Q1A2NHVSaUFPalgwWkluVGpQLXNpVDJrZ1l5dmttSjYyajdLVEtMRXJXMTJSTUlTSDUzcVdhd2F0LVZVanRSWThkdlZFaXB1TmlGMzNjbFdMY2M1cXh4TzNtaUdkM3UySnRqN0VKeG0wWDlpaw?oc=5",
-          "date": "Mon, 21 Sep 2026 17:45:58 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "The security and economic gamble facing Iraq - tehrantimes.com"
-        },
-        {
-          "title": "Iraq joins Trump-GCC talks in New York focused on Iran - IraqiNews",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXVIel9oVk1Kby1SMERYR3dUZ1Z2aFJrekpzOG5kSXZEM0kyb25zXzNZNTZULUd1STc4Q2VCR2lhb05vbFVvTlpacTlnVzBLZTZNcUFwUUtpemItR1VjWV9QbUpjN2syRmlKaVotWnR3SG5zdEttT09ONEN1RkFSazV3NmRhNVktWmFLMWFFcw?oc=5",
-          "date": "Mon, 21 Sep 2026 05:58:36 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Iraq joins Trump-GCC talks in New York focused on Iran - IraqiNews"
-        },
-        {
-          "title": "Shafaq News..Iraqi army chief hails unification of Peshmerga - شفق نيوز",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jNFlORWhXS1FPdTQ5OVQ5MThTaW45N1BGQXdad1VLc0JPWWlWeldoMnM3Y0N1VXN3SEtSYmNuQUdRR0VxRks0Tms3MUdTemVKY3daMFI3dEtVWTNpcUV5OHZFNVF4ZXZwWE8wYWktNmtBa3B0SUtycy1uWkNxRlE?oc=5",
-          "date": "Tue, 22 Sep 2026 11:15:15 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Shafaq News..Iraqi army chief hails unification of Peshmerga - شفق نيوز"
-        },
-        {
-          "title": "Shafaq News..Al-Zaidi: Peshmerga unification strengthens Iraq’s security - شفق نيوز",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHVRVUx6cTUwZkxMZ3gwUTdocXZ5RnVTR09UWHBQUEJQMHFVT0UtVlAyUjhqYnhpdXRhQWlvcTBUd0pNY2c3YkNYaXdhZDNNRUdhNGdTTUZ5N21CNkpTRlR3UnhRUnZwazdqczVNUXZ1SEZuU0NzUlluUFRIMnlvVTJjN29uMFVXbk41R2hB?oc=5",
-          "date": "Mon, 21 Sep 2026 14:15:46 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Shafaq News..Al-Zaidi: Peshmerga unification strengthens Iraq’s security - شفق ن"
-        },
-        {
-          "title": "Shafaq News..Six municipal employees detained in Iraq’s Dhi Qar - شفق نيوز",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcm5oMEZqMTBrR1NDeWlpc05Na3FqMlBvZklQYkx6Q0hCck04WjRkV3NkYk5ESGtDR3NhTHRUbjRYSzFhR19ISERJcHFHQ3RoU0Y5ZkZMT2RhQ0Rjb01ubUFhbXo2Vjh5M2dKMWtJMndaSHRhUXAzdHNTSXREcVFVMzdGSDVXWGdP?oc=5",
-          "date": "Tue, 22 Sep 2026 12:16:11 GMT",
-          "source_country": "IQ",
-          "country": "IQ",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "IQ",
-          "llm_subject": "Shafaq News..Six municipal employees detained in Iraq’s Dhi Qar - شفق نيوز"
         }
       ]
     },
@@ -41142,15 +41202,30 @@ window.WTI_DATA = {
     },
     "PK": {
       "name": "Pakistan",
-      "index": 5.1,
-      "raw_score": 2.53,
-      "status": "ELEVATED",
+      "index": 3.03,
+      "raw_score": 1.07,
+      "status": "STABLE",
       "events": [
         {
-          "title": "PTI March Puts Islamabad on High Alert With 23,000 Security Personnel Deployed - The Media Line",
+          "title": "Iran war’s peacemakers also have skin in the game - Semafor",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTVsRHNzZGV4eUx6QUszUmgtaWVqODVmRlpWdzZsV0I2ZzBHRWhrUko2ZVM4M256eWFBcFF6OGxhSEgtcEg3UDA4Tmo5bjlVWXVpOS1MSmUxY1dLSFdQVGFKUnhGRE8wX091dElFbTVKVDIxb3pkQlV2V1NSdkhLemRqOG1taVJnODg5T3ptbmhSbGRKTUpxWW1rZG01bUdHT0s3a05vdmZldEJIMDlteER6WQ?oc=5",
-          "date": "Tue, 22 Sep 2026 15:42:30 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzlKTjNYZWttSHNZckpuVlRfclUyOHowcTl2cnpzcFk3UmJrLUwtVVRqUkx1VHNGTEh6NnN1Z1BhOW5IMUZYblRQSUNYQjNpYnhNVERjYjg2Z2xRNFFUUzgwQTNqRl9waktaWlkxa2FJY2toS3VJNFVFVTJhTi1Ray1PVHJpc1IwZ2JUeEIwYVJqZW5PNFE?oc=5",
+          "date": "Tue, 22 Sep 2026 01:05:00 GMT",
+          "source_country": "PK",
+          "country": "PK",
+          "category": "military_conflict",
+          "weight": 8.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "PK",
+          "llm_subject": "Iran war’s peacemakers also have skin in the game - Semafor"
+        },
+        {
+          "title": "Pakistan/Saudi Arabia/Turkey • Mecca defence pact takes economic turn - Intelligence Online",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHRqR2VhMWlZZGZtQ3F3bEliLWlGLWF3RUN2aEpNQ1NSdURoTEUxdWduczNQSEszSW9mcVZYRmpCcGpQWUlhOUZDYkFUQU84TVk4SWlOS3Y5THd1R0xfZ0xrZWJDS0N2N2pKSVM1bExrMVBCV3VvTHdkS0YtR2RCRV9Ta3ZObHFQNHpVN1NhdU56aUFMcDc1SWtZM1JGb3d3NU9yYnJnUmRId3RnaExBSWhpOGktZkdwR0NCdktB?oc=5",
+          "date": "Tue, 22 Sep 2026 07:11:26 GMT",
           "source_country": "PK",
           "country": "PK",
           "category": "neutral",
@@ -41159,22 +41234,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "PK",
-          "llm_subject": "PTI March Puts Islamabad on High Alert With 23,000 Security Personnel Deployed -"
-        },
-        {
-          "title": "Pakistan Attacks Afghanistan To Undermine Security, Reconstruction, Says Taliban Official - Afghanistan International",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54S2FFRmY1NGJhWjk5dHNMRFJZYnZXM0dtaXBjbm5oUDRvb240M0Q3Q2s4Y0RkTmhPSU82akMyMlc0SEpCWWgtUzBUNDdYR3M?oc=5",
-          "date": "Tue, 22 Sep 2026 12:20:00 GMT",
-          "source_country": "PK",
-          "country": "PK",
-          "category": "terrorism",
-          "weight": 7.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "PK",
-          "llm_subject": "Pakistan Attacks Afghanistan To Undermine Security, Reconstruction, Says Taliban"
+          "llm_subject": "Pakistan/Saudi Arabia/Turkey • Mecca defence pact takes economic turn - Intellig"
         },
         {
           "title": "Pakistan’s US opening looks well beyond the next crisis - Asia Times",
@@ -41192,6 +41252,36 @@ window.WTI_DATA = {
           "llm_subject": "Pakistan’s US opening looks well beyond the next crisis - Asia Times"
         },
         {
+          "title": "Pakistan’s economy grows beyond targets - Arab News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRG1pX0hsSlpCbW9nVDVwNThQYk10eFhJUjBtdy1vdjBudmJqTzJmR2tnUDdnaWJXUU1lcnJ1ME10Yi1DUThhTVpXR29JYW43ekxJNzhtLWdObzZ3UTJ5NVNuNlJSZUh5OXZ2aHdfelg2bFNSUFRlcjMwUlI1YW5VU0w3bWVQdw?oc=5",
+          "date": "Mon, 21 Sep 2026 06:47:21 GMT",
+          "source_country": "PK",
+          "country": "PK",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "PK",
+          "llm_subject": "Pakistan’s economy grows beyond targets - Arab News"
+        },
+        {
+          "title": "Pakistan just set a reserve record. Much of it is borrowed money - ThePrint",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHJEWmxLZ1hEY19nN05mVnJ1R0c1emhYR0xocE02S2ZsR3lBT0p5TzRpT1FpWFFCSDJfT2hxOGs2Yk9vWk12WVg0eVdSM013eUE0UjJtaHVUNHRsazY0dnFSYjQyYXVtby0wbUVDRVNqd3pfc0RFOElTcXkyODJIcHFIZTEyTkZpUGtmM9IBkgFBVV95cUxPbWZZU1BLUG5NOGMteXg1b1lJNTB0dmtTX2l3ZGhSbUczTXQ4dTA2eUlLVWlya3huWmpsd1Y0QUk2TnUtSURXQUQ3c1FIX24xS3JjNlVtam5zamhzcHVINkZiYTN3NTNJNWlFQlo3M0RSTy13T0hPT3FYMVVYTUZyZnBZcERMTnh1YVdfLUdIeTNrZw?oc=5",
+          "date": "Tue, 22 Sep 2026 03:00:34 GMT",
+          "source_country": "PK",
+          "country": "PK",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "PK",
+          "llm_subject": "Pakistan just set a reserve record. Much of it is borrowed money - ThePrint"
+        },
+        {
           "title": "Blood and Bedrock: How Pakistan's Mineral Ambitions Collide with Its Peripheries - orfonline.org",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDlIWlpNa05OeVBkbkpBU1BKdzZ3ZHFTU3pEbUxJZXVwVEczZVREXzZoV0t6eEdqdURFbWwwZlkzV2xCc09yeVcySUtSMzR2cHlhWGVOQTJ6UlpEaDBqQ2c1TTBCeEt6TDFPOHdrVnlhR01zdUI5UmJ0SXFxZ1BQOUhDTVRYTWZrMVZ6c0UzY2gyajltV2hBcm5Cbjd6c0RFa1lCc25yU1pJaUtZcVM0elljdzBua3BRblE?oc=5",
@@ -41207,10 +41297,10 @@ window.WTI_DATA = {
           "llm_subject": "Blood and Bedrock: How Pakistan's Mineral Ambitions Collide with Its Peripheries"
         },
         {
-          "title": "The Politics of Hydraulic Deflection: The Myth of Upstream Deprivation in Pakistan's Indus Basin Crisis - NatStrat",
+          "title": "Pak thaw critical for Punjab - The Tribune",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPXzZuaXcwaDBIMktTMUtRX0NfUkVscU10Q2hBMldYYzhRd1pGMHNDa004a3Z1TFJGSVlNN0UzbTZHSWluUmJxYUYtRW5BNlp5aFhvRmZDWGp2TlNTcXlJZFR5c0NxSHhnS0lVU0JhaG40Y2g0YlJ4bHc1SVBEUXdFUU9BV3pYN0IzbkVtbFNXWjk3bG03VmhPNy1UQ3lqd3FqcXRLNzgzeU1FYllkOXAtbWV4MDVoVXowa1pUWnlZVkZwSExEZlNrSkEyMTRZVnJTM0k1RnlWUmVtbDRXWURJVmpXem1FSEtXazlTRmtpdUVLQTJfZVE?oc=5",
-          "date": "Tue, 22 Sep 2026 10:19:47 GMT",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wa2theS13TE5raEFyRnN6amgyMW9uQm9icTJLTGpyRjNDd2cxNGw4MmJkdVBIazRKRmxaaVRYb3FVeExLOERpQmZQWFlDWnFWS1NibkNqcGtEd091LU5MT3JsRVlOZkMxTU11T0tVNV84b0U3NU92bGFRa9IBf0FVX3lxTFBHU096WDZTcUEwdE1oX3hxUFVyQW1EMi1RNXZBbFJfNlRyQ0s0aWM2VTlNTDlrWUhNeTZHTlpnUWNrM2Y0d3I3Zmp6NEw0SXp3VFRnWVZmWXNja1c3ZF9DUXdGY0gySktYQjRTM2g0cmxWelEyZVk0UEp3UllSRDg?oc=5",
+          "date": "Tue, 22 Sep 2026 19:30:54 GMT",
           "source_country": "PK",
           "country": "PK",
           "category": "neutral",
@@ -41219,43 +41309,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "PK",
-          "llm_subject": "The Politics of Hydraulic Deflection: The Myth of Upstream Deprivation in Pakist"
+          "llm_subject": "Pak thaw critical for Punjab - The Tribune"
         },
         {
-          "title": "Pakistan: A Patron of Last Resort for Middle East Security? - Middle East Council on Global Affairs",
+          "title": "Pakistan braces for protests as govt warns of $400 million daily loss - The Times of India",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDMtakM5eHRuQkxXTVNkaTVYU3NxWlRFY3gxejRNRXcyN2lFQkw1c1JaYXJHcC1GeXZRSnM1cWVlX3hTbnNodEF0c05xNmJqSlRQekc3ck4tQ2U5b1dmT3h6R1FfNmtmNUg1al9KMWRSSUpIblQzekFhRTgwQzdYdTdXR0xQcGNXVWRxOFoxZmlpbjV0RnI0?oc=5",
-          "date": "Mon, 21 Sep 2026 12:58:28 GMT",
-          "source_country": "PK",
-          "country": "PK",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "PK",
-          "llm_subject": "Pakistan: A Patron of Last Resort for Middle East Security? - Middle East Counci"
-        },
-        {
-          "title": "Saudi Arabia, Pakistan reaffirm commitment to Mecca defence pact - TRT World",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLaURJYU1wMzlGMVVncFRrQmV2MG5MUjEzQVU4N0k3ajVyU0tDTWJZQ0h2N1B5M2RMbnBCSUkwYVdNaDN5V1ZtOFBCMG1JWDByWUtOdVRoWkY?oc=5",
-          "date": "Tue, 22 Sep 2026 07:58:49 GMT",
-          "source_country": "PK",
-          "country": "PK",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "PK",
-          "llm_subject": "Saudi Arabia, Pakistan reaffirm commitment to Mecca defence pact - TRT World"
-        },
-        {
-          "title": "Pakistan says airstrikes in Afghanistan kill 28 militants; Kabul reports 3 civilians killed - The Washington Post",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTnBxR29tMGlRMWE2aTRYdFdKVzFDYkJnLUtxbVI3UTV2bkE2bkkwaEFFamVHUHJ1aXExNlZjNWt3RlhHdE5rZ1BfcFlhOGNOcVJYN0dNeFZPNGtHLWpWbDdOY0x5anc3X1FuRG5RMlMtYm9nUUtzSjJPMGFLN05sWmFORTAzSzQyVnB5MU9FNXZ4XzYyNmwxRVNhMVhyZC1wVU5LX3R3REQxU3VoSUNYdVVPakRPOGpSbl9aQ0JDV2dXb05HUGhRQzM3TW1rSHYySVJIN2xFUlFhX1U?oc=5",
-          "date": "Mon, 21 Sep 2026 17:58:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmhjcDM0SW9yUUZuc3dFTjFmVm1HN1R4bW5JZFBWMEpnM256QzlIZGFBaGp3bE9VU2pJNWJMOG95S2JYc0pRaU5CS3I3VjdIbWl4aHVLS3Z3TU1JX1VQOFZxUDVNMGN0ancxbVJ2aGNicXRUZ190NlVTb3VTTHJhVENOYVJyS2V0SDFhZFRNM1FmdkZtRGNxMEVVa0lPdlpFaGhXVTlzTHN1YnpiaVN1dU43NE41WmVFbThJcF9tRk5obFNwZXdNOU1tcG5jVEluZFlURXZLdlQ2Zl9uMlHSAeMBQVVfeXFMUDNxNXhacVcxOS1fNjJPMEgzR0E0TWtaN2J3NFJ5WGYwQ2RfNkNtOTlDaUVkS0VlY01OZHk5U2RyMVFJaXJpQ3VobEdFaTJuNWZKbGd5RHctcDRHNHVCUDZpZHFleHd4RndUVTBuQncxemxYVVF3OVI3WkxBT1NZNXpDUlgzVi1pQWRQN0VCU01RdThTa2RjUll2VVdGbUEyVkZqeWhMdnF5QWVtS2xUMVZrMDZhN0tfQUh6ZmNnYndoMlhEaU5BUEZGSWo4cjZGT0xvN0RxLTF3b21JM0M5MlZLZE0?oc=5",
+          "date": "Mon, 21 Sep 2026 03:57:00 GMT",
           "source_country": "PK",
           "country": "PK",
           "category": "military_conflict",
@@ -41264,13 +41324,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "PK",
-          "llm_subject": "Pakistan says airstrikes in Afghanistan kill 28 militants; Kabul reports 3 civil"
+          "llm_subject": "Pakistan braces for protests as govt warns of $400 million daily loss - The Time"
         },
         {
-          "title": "Does Mecca Pact demand Pakistan enter Yemen conflict? - Responsible Statecraft",
+          "title": "Why is China Rethinking Its Investment in Pakistan? - India Narrative",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GcDRhX1p6ejN3TXE4V0pqVy1ZN3ZBY001WGFrb3Jtd0ZPU0RqR2JtT3FiYkw2ZjdkdUJaeWoxMHNUeEhJdGNTeDMxTEJMZ0dWTEJ0S1dhRHpQNjdaNjFLZDd0UHE5eERTVFZNcEZhSQ?oc=5",
-          "date": "Mon, 21 Sep 2026 04:09:07 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmpqRXpEdDdET0pXLUozOS1GM19nLVpCRmxRTURBNGpLQXNadzhnT1pBYzNOV0hKRVlHWUxkcUpUckNrb0lORjljdEttNV9HcVUwWjVvdmFST181VklGYmtISk1QNTg2TF9lZDN4czhPS2ZOTE50cFhDMlI4c3VOcDJfWjE2QmtQY0hyOE84cWtYeDdP?oc=5",
+          "date": "Mon, 21 Sep 2026 00:31:00 GMT",
           "source_country": "PK",
           "country": "PK",
           "category": "neutral",
@@ -41279,28 +41339,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "PK",
-          "llm_subject": "Does Mecca Pact demand Pakistan enter Yemen conflict? - Responsible Statecraft"
+          "llm_subject": "Why is China Rethinking Its Investment in Pakistan? - India Narrative"
         },
         {
-          "title": "Egypt, Saudi Arabia, Türkiye, and Pakistan condemn attacks targeting Saudi Arabia - Egypt Today",
+          "title": "Pezeshkian: US pressure pushing Iran, Pakistan closer - Breakingthenews.net",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1E3dWhwM0V1SnJZMVdnaVVEX0EzM19IRW1PX2FLbzUtTnBRWlJBMEo1SlZOUlhYdW5uckRfVTNtc3R3ZjZtRHRMRmRFMUkxSHFMMFBoZVJIQVFQcGYwV29oSGlmMV85VXgza3JiSEdXcTJjcEtyWF9fVlhxYnQtT0V6Smx5RU82eGlseXhKZXlpMUE3ZW9VVXo0NTg4bDc0VktMekJLUlpaYWw2dlFNdElLYWVpQXNwLVBLWQ?oc=5",
-          "date": "Tue, 22 Sep 2026 04:04:00 GMT",
-          "source_country": "PK",
-          "country": "PK",
-          "category": "terrorism",
-          "weight": 7.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "PK",
-          "llm_subject": "Egypt, Saudi Arabia, Türkiye, and Pakistan condemn attacks targeting Saudi Arabi"
-        },
-        {
-          "title": "Pakistan and US may expand partnership ahead of New York meeting — Dawn - UA.NEWS",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHA0UkVGaEtHR3dnTTBRd29BWTViNlc0NXlTM0pOa1VyUUFVZzhSRUZXczRGQnpwMW9neEkteFBmSFpFUC1rWTNvbDRUd1Y4RkJ6ZmlTS2xjMmlZTHlhaHUxbTZ2WFRUSVQzUzNXWklCUTYzd2gyWWE5c2hwbzI2UXFUa1F2VU80TjdYVDR5Z0lsZUQ3SjY5RkdudHhEc2dCOEQwTXJSLUVJQQ?oc=5",
-          "date": "Tue, 22 Sep 2026 05:17:41 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVhkbTBhRURxdnA1WmY3SnhLUXFPWF9IV2FzUTlKZWROVDlLTjB1V3c2SUdKdzhmdU9wdnNTQi1yVEIwTkQ5Tm5BTWZseXFmNXRlOTNIQ21kcnplcE9PcGxnUDRQbUxiTGdYaEp5dWtNbFlXbzBBNGNWeFpCaXl4RmdQVTZSMFVvTUhUMVNPc0c1NDJVaktoM21FZVlqQQ?oc=5",
+          "date": "Mon, 21 Sep 2026 19:02:00 GMT",
           "source_country": "PK",
           "country": "PK",
           "category": "neutral",
@@ -41309,43 +41354,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "PK",
-          "llm_subject": "Pakistan and US may expand partnership ahead of New York meeting — Dawn - UA.NEW"
+          "llm_subject": "Pezeshkian: US pressure pushing Iran, Pakistan closer - Breakingthenews.net"
         },
         {
-          "title": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul says 3 killed - Bozeman Daily Chronicle",
+          "title": "Pakistan’s Military Inc: The Business Empire Behind the Uniform - 10net.in",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONWMwV0xFOVJvMDdKc3VZSDlUWFQtODdjTWRRV2pobW1UaE5vQVBpVU5JS2swOGVQVDY2WUxXc202cWFVTkJCS2JTMFBFWFl4U0FaRGFYSUtZbmlHTjlXNFlmZ3VhejRTNklFeEdDMlJDeUYwYVVLMDF5Z1RsVUd5VzZVaW85bXBEY2NuZHNCT0ctQ3ZoVk1kUGJYSGg4ZDh3NnFFak4tblF3YkdSVUJpaVJyVVotODBzSFRrZWlRdDhxWTVsYkl5cjBLYVNLci03czNvQV9FcmJxOU5VOV9HOWhhT3h4RDhLYlgwakVMUmY4a3Q4czRuWHQxVVJzdmJfY2ZwVTV6VmtPQ3JHU2NiNzNtdEJxU3picWFzTFBJaUoyNXpqbDBrc2Rn?oc=5",
-          "date": "Mon, 21 Sep 2026 05:35:38 GMT",
-          "source_country": "PK",
-          "country": "PK",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "PK",
-          "llm_subject": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Ka"
-        },
-        {
-          "title": "Pakistan launches airstrikes into Afghanistan overnight, killing three - upi.com",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjJXZ1BLMDNYUkdncTVRa2ZFN0ZEZ1h1X0p0Z1A1UHcwaFFDRDE5MC13TVY4d255Tm9MdW15ZWtNUExNRmxKY1ZMMnRFMDlkLWx2MHRERzA3SXhaczJQS0VBb0ZUQUVJc3RwYlZjUEhFbVl6OHhxbDFDLUEwMHRSYjk1Smk4Z094eUttcXdNbFZHRy10N0tZV2twQnhodDZ2bWFuZWY5Yy00NWN30gGyAUFVX3lxTFA4M3dNbnNPRk5fejNXWVJDN0JUMWlEd0NzV1NTZGxQV3ZRUkZQTXdkeUI3RXJ3OGtpaS1iU2lTM1B4U0szamxpRV9sYmdGM0RZOUJNVDdSUGpraDQxYTJGcy1MaURVa2hzTnFxWEprRE1wZkJlUW5PVzM3R3B0Wi1WZzVmcFppRE1yMHFGVHJsMkJRWjk0TUxPZHZCQkg1OHhhMUI5bHV1NWpQV1FTdUdnbUE?oc=5",
-          "date": "Mon, 21 Sep 2026 07:05:44 GMT",
-          "source_country": "PK",
-          "country": "PK",
-          "category": "military_conflict",
-          "weight": 8.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "PK",
-          "llm_subject": "Pakistan launches airstrikes into Afghanistan overnight, killing three - upi.com"
-        },
-        {
-          "title": "Pakistan’s security ‘inextricably linked’ with Afghanistan - Arab News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDNZNEo3cnBISmZYNnJaOXFldGt0M3FWZGpGdUQxQUlucjd4clpxZ2R5QUwzcUwxak9uTzVtZDBXXzZ1cmozTU9UNEVLdjItS21HZm5pVG1hZ1NnU09aZGx1bTc0U0FkTVhpd21lZVdaaWVjUDR3NmtJTTF0SWFUNW45Zy1MdU1oWnd0ZlVwSmtqWmlMRmEwLQ?oc=5",
-          "date": "Mon, 21 Sep 2026 01:07:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWNOdlNDRS1sMnlKQkNMSEg1Y2RhYmxZc0RpUml2bEtCVTE2MlBXam9ULVNvLWIzc3IxV0hSU2JMYjhnRUVwbVphM0xDTHZnTWdudzZmMkNjV1ZnZVE4NzRqT3cxVngtYlp6VEtDOXNmWXV2c1d5YW5QUjJ3UjFuT2tOMWRORHRTMFE?oc=5",
+          "date": "Tue, 22 Sep 2026 15:35:46 GMT",
           "source_country": "PK",
           "country": "PK",
           "category": "neutral",
@@ -41354,13 +41369,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "PK",
-          "llm_subject": "Pakistan’s security ‘inextricably linked’ with Afghanistan - Arab News"
+          "llm_subject": "Pakistan’s Military Inc: The Business Empire Behind the Uniform - 10net.in"
         },
         {
-          "title": "Imran Khan’s Sister Detained as Pakistan Tightens Security Ahead of PTI’s Islamabad March - The Media Line",
+          "title": "ADB-Backed Panda Bond Brings New Capital and Stronger Infrastructure Rules to Pakistan’s Economy - Devdiscourse",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWkyWGR1ZS16b1c2LXpxb3Y4MDE5ME84UTdacHFtbVBzbTFuWU5ER0ZXSktrWG0xWmpoQ3lKZVktSjBKY0xzWll6UWpaU2RNSWg3WlBIU1c5Rmx6MF9wUTl1MFhNYzFfb1ZmamQzY0pBTjVFZ2I3WUdiRWw2WWZjUXVCbWtkZ2lWS09JYTd3aENpczU3MVRNTmh5VGktRjZ6cWdCQXk5YmR1VHRrcm54NEJ0aURMa2NUMW5vMXkyTmo?oc=5",
-          "date": "Mon, 21 Sep 2026 22:27:24 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2YwdC1nNk1QaE9udXhEQ1V6NmZvdzRxQ1ZGYWVHQWEzblNyYmZfNXNhVlNINEJ4R2FQVVc1OWxXTGplcER6dkZNUmxYT2F5ZXFRenN0TTBVNEF3ZXN1RlUzSFMtXzBpY1d6R2NiTGpvOTZmd0c0QVpBT2tBM3dYWXg2U0p6Q2MyZVZXYXF6SV9GMzJvTU9XTG42LUlna3lOU0N3S0JMUW04Y1d6WE5QckJYNy1fNkRVSGpJVW5jM24taEZUOEtuS2pLTmthOHJPQjJ4YVE0MDdaWGhLVFBR0gHkAUFVX3lxTE1RcG1HSU90WVBnOENHSy1IWmFnbU1ZWTJFbHBHREwxbVFLeXBiVzZDRUp3aUo1TXRNbXppeXdDV2RocS1ZLWRjeXVmMWMwNkQ3ZUZKZGtGR283ZXBMZzNOQ19NenZQOWJJU3NZeXBnb21rNHQ0ZHAwNkkwdC1ORVFXQkFuN2JYc0xGZUlvXzVyQzFJT2JMY2tOVkVFMzNVdUZvV0kwckl4a284REl1MklKVXU1SFRsRzFfaHg0VGM4ek1jb3JrcWpXQmtSZklyMU1ibTNJUXhoczFoaVJ2Sk16azZrdw?oc=5",
+          "date": "Mon, 21 Sep 2026 05:12:20 GMT",
           "source_country": "PK",
           "country": "PK",
           "category": "neutral",
@@ -41369,7 +41384,52 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "PK",
-          "llm_subject": "Imran Khan’s Sister Detained as Pakistan Tightens Security Ahead of PTI’s Islama"
+          "llm_subject": "ADB-Backed Panda Bond Brings New Capital and Stronger Infrastructure Rules to Pa"
+        },
+        {
+          "title": "EU, Pakistan sign $74.6 million agreements to boost investment, clean energy, rule of law - Arab News PK",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWtBZ19fNW9SdE9CODV1c1ZrV3hEcUVUSTcxbnBTUm5BU191VUZiQnBsNjMzbVpjeTZadjdjUHRyM3NyVVVLWEhPZUxYcFZ1cm1ULWt2d05lamFhSVdnSGV2QzhxZFdaa1piZV9oaTZiLWVmWld1c1RzRU85ckR1Z0JhTXg4LXB6cHhLYWlfZDBudFNBLWkwd2Q4eTlydG5wRl9QN0ttZWFWSE5fZnNKcURLSzN3TFREeDhQT1REN3VWMkU?oc=5",
+          "date": "Tue, 22 Sep 2026 00:48:38 GMT",
+          "source_country": "PK",
+          "country": "PK",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "PK",
+          "llm_subject": "EU, Pakistan sign $74.6 million agreements to boost investment, clean energy, ru"
+        },
+        {
+          "title": "Climate neutral - Dawn",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DQVhSZm9vVlJCekxua0VMT1hfdWNIdjEtQWtWXzlSZG5lRWZhR0hGQ3RudzFIRUsyRUF4LUNXQlhxRklaRG1ERNIBTkFVX3lxTE94UDRKX2N3YnRaLTl4UGg0RHVodXl1VmlyNEhUN2VxeDFzd2FIel9IUUdXSmdZSWVIOWVFblRLWWNieWVIbzFSSVV3N1o0QQ?oc=5",
+          "date": "Tue, 22 Sep 2026 02:22:25 GMT",
+          "source_country": "PK",
+          "country": "PK",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "PK",
+          "llm_subject": "Climate neutral - Dawn"
+        },
+        {
+          "title": "Global Conflicts | Pakistan Economy | Economic Pressure | Inflation | Oil Prices - Aaj News",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhVmZnY3BYVTFXTURtZC0wcFVYbm0yRVFUV3d0UlhKYXNxLWlEU2NkSHdwdnk2N0VDdTNDMTlTb0VkY3BiOEtVRDFDTTc?oc=5",
+          "date": "Mon, 21 Sep 2026 07:20:13 GMT",
+          "source_country": "PK",
+          "country": "PK",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "PK",
+          "llm_subject": "Global Conflicts | Pakistan Economy | Economic Pressure | Inflation | Oil Prices"
         }
       ]
     },
@@ -41379,21 +41439,6 @@ window.WTI_DATA = {
       "raw_score": 1.07,
       "status": "STABLE",
       "events": [
-        {
-          "title": "ZAWYA: Saudi Arabia's economy is projected to grow by 6.1% in 2027 - TradingView",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFQ4UUZBTFl1MGhMeWxBWWFrWm8xLUZUeUt2eGVhVlFyV2d1QjZXQUxybmp5X0FVbzdvY2c2cmhIZHFkYnpuWTA1SUJmRzkzbkhiaXoxZ29xUVc2azZ2cmlFeXg3UEZ0S2pjNlk5Rm1xSWpuVUR5UTQydnM3YVlFWlRmWTdRdWliWkVReUdHUlU1UWQyTFVRaE5ocWJKSlhvUm95cEpLWHFMcmdMQUstZ2ZsU3dORDRGQUsxR3ljZWJETW9YOUZxVGJubExzd1RKdFB6WHhTZw?oc=5",
-          "date": "Tue, 22 Sep 2026 04:03:00 GMT",
-          "source_country": "SA",
-          "country": "SA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SA",
-          "llm_subject": "ZAWYA: Saudi Arabia's economy is projected to grow by 6.1% in 2027 - TradingView"
-        },
         {
           "title": "Saudi Arabia at 96 marks an economic transformation - Arab News",
           "translated_title": null,
@@ -41440,10 +41485,10 @@ window.WTI_DATA = {
           "llm_subject": "‘We will destroy your economy’: Houthi leaders warn Saudi Arabia in joint statem"
         },
         {
-          "title": "Saudi Arabia’s new EV brand Ceer unveils debut model - electrive.com",
+          "title": "Saudi Arabia's economy is projected to grow by 6.1% in 2027 - Zawya",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEFqYTVvLWdjTGM2M09WYmRxcmNGQVZJeUh4cmtmT09fVG02dkJ6SEJqOXQ0QTd5RFByZHpiaks0OVBibjhDQzhFTDV3MndfMEVWcXNrOW55WEZnRXZtc0ZfOW96LVdSUFRnalM2MDRFem5IUElSTWdLN2RXYjE3T2taekE3MDJRODdqdU01cmJEMWs?oc=5",
-          "date": "Tue, 22 Sep 2026 10:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREQxLUZFZ3k5cUQ2TlZZNlNKMHkzb2xGSWFCMXc3WXRQaHVGOWNBMUNCRFFyXzdwSTAySllvcHlyV3E3SUJDa09Db0Zoelk3S0NmejQwTUlUeDduRGM2QUZPRzNfb2FvT0dNal9ubnVwUkNrYm10bURmZXNYOXhWcWNhMWdsRTBYc1NQUUViaFh6Q3VDY0tmODRvZXVWSEk?oc=5",
+          "date": "Tue, 22 Sep 2026 04:06:56 GMT",
           "source_country": "SA",
           "country": "SA",
           "category": "neutral",
@@ -41452,7 +41497,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SA",
-          "llm_subject": "Saudi Arabia’s new EV brand Ceer unveils debut model - electrive.com"
+          "llm_subject": "Saudi Arabia's economy is projected to grow by 6.1% in 2027 - Zawya"
         },
         {
           "title": "Saudi Arabia’s Ceer unveils first cars as it targets $8 billion GDP contribution by 2034 - Fast Company Middle East",
@@ -41470,7 +41515,22 @@ window.WTI_DATA = {
           "llm_subject": "Saudi Arabia’s Ceer unveils first cars as it targets $8 billion GDP contribution"
         },
         {
-          "title": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - South China Morning Post",
+          "title": "Saudi Arabia’s new EV brand Ceer unveils debut model - electrive.com",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEFqYTVvLWdjTGM2M09WYmRxcmNGQVZJeUh4cmtmT09fVG02dkJ6SEJqOXQ0QTd5RFByZHpiaks0OVBibjhDQzhFTDV3MndfMEVWcXNrOW55WEZnRXZtc0ZfOW96LVdSUFRnalM2MDRFem5IUElSTWdLN2RXYjE3T2taekE3MDJRODdqdU01cmJEMWs?oc=5",
+          "date": "Tue, 22 Sep 2026 10:00:00 GMT",
+          "source_country": "SA",
+          "country": "SA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SA",
+          "llm_subject": "Saudi Arabia’s new EV brand Ceer unveils debut model - electrive.com"
+        },
+        {
+          "title": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - scmp.com",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWdaSGs5NE1oU0N6aTNoczNCdXZBWDk0Zjc5TmRZMGdadGpnbDhOLWRMN0lPNW1UUHJfaHpIZnRsQktYQnItb3ozOGZEVUJzTS11c1cyUFhWd0g3X0NIbDR1cmJCN1RnMng0SUNfZFRmZFJTaUZyWndLMWV5X2FXT3lzaVNDMTRpR3NNVHZDc2t5STJmd2VPM01FaEM1eVJ5WWNCb0VfTTBZcFRPUWNKeGdXaDV1X3J3eU9VR1V4czd4T0dzNjhB0gHHAUFVX3lxTE8yNmJBcnlDSlNWNUxhNjg5RHFlR3d2NkVwcmtKTzNqVExueXpia0NYWlV3aEVHUGxRZTdaN2J4dXZ1ZG1NMzg1NGVFU2d2TnZRbmZMaDNDTFVOXzFKMTdiZDJQUVdIeXYwWUllWl9yNzFfQThuaG1Ob0tjand0RVNzR0t4MXNjQVhMZjExWUp0WFNHcV9ZV2hhN2F0VW5wZDhsLWN6V1d0NXJpTGpfQU5yZ0daZTlPN2F6LWpkT3dUQlBqMS1qVWs?oc=5",
           "date": "Tue, 22 Sep 2026 03:00:06 GMT",
@@ -41482,7 +41542,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SA",
-          "llm_subject": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - South Chin"
+          "llm_subject": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - scmp.com"
         },
         {
           "title": "Saudi Arabia Celebrates 96th National Day Amid Diversified Economic Growth, Expanding Role in Gulf Integration March - Fana News -",
@@ -41500,10 +41560,10 @@ window.WTI_DATA = {
           "llm_subject": "Saudi Arabia Celebrates 96th National Day Amid Diversified Economic Growth, Expa"
         },
         {
-          "title": "What is Project mBridge, the China-led payment platform that Saudi Arabia has quit - ThePrint",
+          "title": "Shafaq News..Saudi Arabia denies tanker purchases raised Iraqi oil transport costs - شفق نيوز",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS3hNWE1XQ3BEUWFsbnVPOV8tMFJhUlRmdTJXZDFCWm44a0NBVnF5Si1xTHVoTG02dFRZZ2NlZUtobEU5SllRem5odGlSMk04QU42a1BlR3JMT2djVXMtb19jRDJDV01JQkJsanI2bnRVNHJDM2RUOXdZam53NmlTLW9sRjhzWUpDXzBfTVNJOUx4NFZZVmhIQVV2Tmh3TW81cS13c0ViVzByRXNvTFl1ajkxVVZKWknSAbwBQVVfeXFMTlo0dXlWZ2wxd2s2eC1OTm1XNUZ1VWlQajEtYmhkLVRIcC1jbWpCQWlaWHRLZUF6Q21hMmJzOTg2T1A4cWhIVXAwWnhJQkV1VnVadjNkLVg3TWJ0anEzYlRMS0ZOTVNQSUZZRlVYczgwMlFORHFQSWdlTDI3cnJhNmtzTmQ0YmRpZF9vd2RySFZKbzdXeTc3MDlIM3pOVmhXcVFQTmdzNDJ2bnpTR0lOZ0JCYTVZVVJfUks2bFU?oc=5",
-          "date": "Tue, 22 Sep 2026 08:53:42 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZ6amRCaGpaajFLMG5XaExRQ1BhV1ZfaHdKMGxLWUdmWldHZ3FhZ0ZvVFpSelQybUhFbE1xQUliVWJRb3oyT2w5WUZ3QXNDbTUwRmxJeEFieEg1QzJNSmJqRmtiX3VSMVRncWd2SW9xLVNxUHFoZlAtcG95ZVJQdmVuNDFmazZsWEcwNXp1ZFdrb2xqajZoLXlhOUNRMFQwc1pCMHRn?oc=5",
+          "date": "Tue, 22 Sep 2026 17:17:33 GMT",
           "source_country": "SA",
           "country": "SA",
           "category": "neutral",
@@ -41512,7 +41572,22 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SA",
-          "llm_subject": "What is Project mBridge, the China-led payment platform that Saudi Arabia has qu"
+          "llm_subject": "Shafaq News..Saudi Arabia denies tanker purchases raised Iraqi oil transport cos"
+        },
+        {
+          "title": "UAE ranked No.1 Arab digital economy as Saudi Arabia, Bahrain, Qatar and Oman make top group - Arabian Business",
+          "translated_title": null,
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXFiTWJxcS1MQ3l0VlYyUDhjaXFySWhkQnp5Sjh0YnBRRF9zREZuZjljemdQQzF4bTY3LV9VblFNYUZKYU15eVJsbE1sMy1PcnJhdXllNVM2SmttUWFSV2pyUlhhMVhmSDlqay13cUM3NGJtdzROVFZQbnBqVUQ3RXN5WG0tT3BBUlYyZWltWjE3NXFpSFM2LVBsM2VPUk9zT2NrRWk4SlRoMllNOUhCZGViVVZ3aV9wQnBGNFhsZFpodmJVMElGVnZQc1M1SzFSQ2U5eGhYX2kyQQ?oc=5",
+          "date": "Tue, 22 Sep 2026 20:57:32 GMT",
+          "source_country": "SA",
+          "country": "SA",
+          "category": "neutral",
+          "weight": 0.0,
+          "confidence": 0.45,
+          "ai_model": "heuristic-v1",
+          "attribution_method": "heuristic-v1",
+          "llm_primary_country": "SA",
+          "llm_subject": "UAE ranked No.1 Arab digital economy as Saudi Arabia, Bahrain, Qatar and Oman ma"
         },
         {
           "title": "Riyadh reaches top 50 of Oxford Economics Global Cities Index for the first time - Arab News",
@@ -41545,21 +41620,6 @@ window.WTI_DATA = {
           "llm_subject": "Saudi Arabia's economy is projected to grow by 6.1% in 2027 - Saudi Gazette"
         },
         {
-          "title": "Saudi deputy minister of economy and planning meets with UN official in Riyadh - Arab News",
-          "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1BiUGFVMmRuaUxkUHRRWmRGREFvUzJPckU2QjJOWVp6cVB1c1dfTnZrbTdONl9ZQ0dlMG8yMFl6QVZhaDNGRzFLcEY5cUV5SUhKZFdROE9tOThtajhsOWFlUkFlX0V0RjdsWC16Ny10U09nYnpfLS1DTEdxUFRoRXgyMHVrWWU0dFB6RDlDdFoydFNDaVIweXZBMWdfeFAwa1V0YVdhWnR3YWQxVHM3TUU0MlE3ODc5ZkdYREZUMUlFdw?oc=5",
-          "date": "Mon, 21 Sep 2026 19:00:35 GMT",
-          "source_country": "SA",
-          "country": "SA",
-          "category": "neutral",
-          "weight": 0.0,
-          "confidence": 0.45,
-          "ai_model": "heuristic-v1",
-          "attribution_method": "heuristic-v1",
-          "llm_primary_country": "SA",
-          "llm_subject": "Saudi deputy minister of economy and planning meets with UN official in Riyadh -"
-        },
-        {
           "title": "ASFAR Opens Gamra Mountain Resort in Al Baha - Public Investment Fund",
           "translated_title": null,
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUtFQVUxLVQ1MGVDcFJEcHhRSVJrWGU3eHEwcHJuQUFWdHNVTlRTRzZmMlFyMG5EXzFTQnFCT1RHWjNNRDdnc0lUMHZ2dUZ6UWJYbFFwZ0ZWbU5JWVRQSWwtWm00MjZMWEFOSjZITWFlVGlOZGVoM3J1RWNLblVmbGFsbGtrNzBtaXNhWEY4cTQtbUdIWkZnWUd2Y19Nbk9hTWs5SHZHVEpzS3pL?oc=5",
@@ -41575,10 +41635,10 @@ window.WTI_DATA = {
           "llm_subject": "ASFAR Opens Gamra Mountain Resort in Al Baha - Public Investment Fund"
         },
         {
-          "title": "Saudi Arabia reveals first Ceer cars as EXOBOT sedan and SUV launch $29bn economic drive - Arabian Business",
+          "title": "Beyond celebration: Saudi Arabia marks its 96th year with Vision 2030 in motion - Arab Times Kuwait News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnV6MTZ3REFxTjFudHhqUmxKeTFJN2NhMURuTzRXRkVrZzdvbXlQWDNVcmNuZG82MDIzbUw2WFFNQVFQUXBwSTVQdWRLN2Q0VVRmb2NMbTVnWnQ2T21hekQ5TjNxMDl4MWdYLVBEYzl2QjJhMVlTQzllNGZ4RUNmakpiTHR4WGNGVFNYRDFuak5nOXpx?oc=5",
-          "date": "Mon, 21 Sep 2026 18:59:05 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFBOU5YX1l3VFZPdk5vZmhNenJVbnhyeUlJM29EZGxnY2xPNFF4UDItR285SlNSOGpONUlNMmhyQUE1UHFYTjJXMmtaOTZGSm56UDFocmdVc3g2SFp0akQwM0lPcnNLdG1BdWZxdzNnay02dEx4YzBhZFh3dzJpQmRCLXk4Sy1OczV0WGNfZUh6aXB6Z3UyUzdROGVDUmM2QUs3VU4xWGpQbmVBU0VnRFF6MTBkaEE?oc=5",
+          "date": "Tue, 22 Sep 2026 20:32:06 GMT",
           "source_country": "SA",
           "country": "SA",
           "category": "neutral",
@@ -41587,13 +41647,13 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SA",
-          "llm_subject": "Saudi Arabia reveals first Ceer cars as EXOBOT sedan and SUV launch $29bn econom"
+          "llm_subject": "Beyond celebration: Saudi Arabia marks its 96th year with Vision 2030 in motion "
         },
         {
-          "title": "Saudi Arabia’s CEER EXOBOT Revealed: 850 HP EV Sedan and SUV Lead Kingdom’s Auto Industry Push - Autopunditz",
+          "title": "Saudi deputy minister of economy and planning meets with UN official in Riyadh - Arab News",
           "translated_title": null,
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1N0eHZxOGVCemNhaUw4ODJIZHNEMDBNdlhObmt0d0d3TFN5b2Z5ZV91UFpzaDVOX2JPQmw5UE5XMU13X19hbUxTTWtfVUFTQUNzWThMNnRFLXNSa0gzdlozUjF1RGoza0hzS2M4Rk9sWTZMaV90VFFXTXlEMnlHdTRR?oc=5",
-          "date": "Tue, 22 Sep 2026 15:33:58 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1BiUGFVMmRuaUxkUHRRWmRGREFvUzJPckU2QjJOWVp6cVB1c1dfTnZrbTdONl9ZQ0dlMG8yMFl6QVZhaDNGRzFLcEY5cUV5SUhKZFdROE9tOThtajhsOWFlUkFlX0V0RjdsWC16Ny10U09nYnpfLS1DTEdxUFRoRXgyMHVrWWU0dFB6RDlDdFoydFNDaVIweXZBMWdfeFAwa1V0YVdhWnR3YWQxVHM3TUU0MlE3ODc5ZkdYREZUMUlFdw?oc=5",
+          "date": "Mon, 21 Sep 2026 19:00:35 GMT",
           "source_country": "SA",
           "country": "SA",
           "category": "neutral",
@@ -41602,7 +41662,7 @@ window.WTI_DATA = {
           "ai_model": "heuristic-v1",
           "attribution_method": "heuristic-v1",
           "llm_primary_country": "SA",
-          "llm_subject": "Saudi Arabia’s CEER EXOBOT Revealed: 850 HP EV Sedan and SUV Lead Kingdom’s Auto"
+          "llm_subject": "Saudi deputy minister of economy and planning meets with UN official in Riyadh -"
         }
       ]
     },
@@ -42390,10 +42450,10 @@ window.WTI_DATA = {
     }
   },
   "early_warning": {
-    "issued_at": "2026-09-22T16:54:36.158130+00:00",
+    "issued_at": "2026-09-22T21:15:40.068915+00:00",
     "horizon": "0-7 days",
     "classification": "precursor-anomaly-watch-not-event-probability",
-    "score": 44.3,
+    "score": 41.3,
     "level": "WATCH",
     "confidence": "MEDIUM",
     "confidence_score": 55.0,
@@ -42401,34 +42461,32 @@ window.WTI_DATA = {
       {
         "id": "narrative_pressure",
         "label": "Narrative precursor pressure",
-        "score": 52.6,
+        "score": 52.3,
         "available": true,
-        "events_considered": 2721,
-        "precursor_event_count": 18,
-        "precursor_share": 0.0066,
-        "severe_event_share": 0.0974,
-        "independent_sources": 1135,
+        "events_considered": 2725,
+        "precursor_event_count": 15,
+        "precursor_share": 0.0055,
+        "severe_event_share": 0.0958,
+        "independent_sources": 1146,
         "countries_with_precursors": [
           "BJ",
           "BS",
           "CH",
           "CU",
           "EE",
-          "IR",
+          "IQ",
           "LI",
           "LS",
-          "RU",
           "SK",
           "TN",
-          "TO",
-          "TW"
+          "TO"
         ],
         "signals": [
           {
             "id": "force_posture",
             "label": "Force Posture",
-            "event_count": 5,
-            "independent_sources": 5,
+            "event_count": 3,
+            "independent_sources": 3,
             "cross_source_confirmed": true,
             "evidence": [
               {
@@ -42441,19 +42499,19 @@ window.WTI_DATA = {
                 ]
               },
               {
-                "country": "IR",
-                "title": "Protests Spread in Iran as State Media Warns of Economic Choke Points and Security Mobilization Expands - National Council of Resistance of Iran - NCRI",
-                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTzdHdURtWUtXZHhQbUNYX2s4RThQbEh5dDk2VktBZFJGM1djcWhvendUS3JXQm5wTXhTYm1FcE96SXlFa01fMTFxSTUzSWtLMmg4a25xN2FZaEZ5cE0tN1EzY21jZmViSHJlZGhXWHBqV0Fpc0NSX0kwR3Y5aEIyUEF2X0xOc1RUWVFfSDB5dGN1b0lVQWNmN20yY1dLVjhiWmRCMTFZdkFEekM4eGVsQVpQX3NSRnBNdVZ0Uzd4UkFmU0dEMVJTWnYtVHBBUHhCQ1RRa3RqUEpVMU9KRVE?oc=5",
-                "source": "ncri",
+                "country": "LS",
+                "title": "Lesotho’s Treason Case Against Tšepo Lipholo: Nationalist Mobilization, State Stability, and Regional Security Implications - Robert Lansing Institute",
+                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR1JqNlQtQVlzTGNtYUhyNFBaMDdLMDA0bVZBNVBReTFrV0ZyaExBbDJ4U0FqeEU2N3B0bzVEWWFZU09VM05Ib0NoZEg4Ul80b0tPNE5LTWhfZk9sRzFjNTAtVmotRFVYNkQ1ZE9aOXIxQks0NG5sS1JMbHFua0wwT2pQUTF0aW05ZGU5bjZNcFloRXZmVUh4WS1fR25hQ2dEZlI4b1lLMFhkVEY0NW1GZ1ZjMFJjWm0tcUIyYXlGZWZJQUN1Y3RDU19DVGxnRnFnLTNuSlY3UWo3bUlsZExfRlRDdzdHN2JFYVhuakFrUWNUUQ?oc=5",
+                "source": "robert lansing institute",
                 "terms": [
                   "mobilization"
                 ]
               },
               {
-                "country": "LS",
-                "title": "Lesotho’s Treason Case Against Tšepo Lipholo: Nationalist Mobilization, State Stability, and Regional Security Implications - Robert Lansing Institute",
-                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR1JqNlQtQVlzTGNtYUhyNFBaMDdLMDA0bVZBNVBReTFrV0ZyaExBbDJ4U0FqeEU2N3B0bzVEWWFZU09VM05Ib0NoZEg4Ul80b0tPNE5LTWhfZk9sRzFjNTAtVmotRFVYNkQ1ZE9aOXIxQks0NG5sS1JMbHFua0wwT2pQUTF0aW05ZGU5bjZNcFloRXZmVUh4WS1fR25hQ2dEZlI4b1lLMFhkVEY0NW1GZ1ZjMFJjWm0tcUIyYXlGZWZJQUN1Y3RDU19DVGxnRnFnLTNuSlY3UWo3bUlsZExfRlRDdzdHN2JFYVhuakFrUWNUUQ?oc=5",
-                "source": "robert lansing institute",
+                "country": "TN",
+                "title": "In Tunisia, social tension rises… without mass mobilization - L'Orient Today",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYU1PT3dRckIwRGRWWWhuU25taHNSWWt2TjVkOW1oOFdlaFdvVVJOOTFLSzFpbFJkVlNOY054MGxNdFBPVVlKS19iVHk4RU1UTEhDazExRy1aRXZuS3dZM0xscmJ6UDg1UWkwbTFDZ3ktX1lMSVBaMUlWeDFDQ005ajVBLUJFY2RuQlNnSGVIX2hLLXMtMTNQQ0tRR0JtZ3RMNlJXSE8walZwTGNpS3p3?oc=5",
+                "source": "l'orient today",
                 "terms": [
                   "mobilization"
                 ]
@@ -42486,15 +42544,6 @@ window.WTI_DATA = {
             "cross_source_confirmed": true,
             "evidence": [
               {
-                "country": "IR",
-                "title": "Iran's economy faces another blockade: Red tape and gridlock are clogging up land routes - fortune.com",
-                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2ZZWXFHeXFfUWh5VDdveE52cXJHN3BJbE1iaTI1V0RldWlqaU53WEFhbDRlb3lVRkN1UlB1blpBUGxsYjJ2MUNBME9hcXlJbk1BamE3eHhwUlpLU0FhWk1XbVF6WHRaYm1RLVM5dEhwcjk4ZnFSNmFUWXhucVBWSkFUZXA5UXFQM3publRCMDk3Sy16NDNCS3AzbHF2NDg?oc=5",
-                "source": "fortune.com",
-                "terms": [
-                  "blockade"
-                ]
-              },
-              {
                 "country": "SK",
                 "title": "Fico does not want Slovakia to be drawn into the war under Article 5 of the NATO Treaty - ukrmedia.news",
                 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00Z2E3TkY5QVQxaVVWdlUxaFBCT3l0bTMyaFdVTER2OTM3eFlBRi1yOUFNamZkV0RlVEJHck81M1o3TXRrSF9waHh1NTNGY1Y4c1cxWElNV29XRlFoQ211cExTZkFhRmZfNmZlaHhUUjZ4VTVMUWVjd0NOOWVwZw?oc=5",
@@ -42511,14 +42560,23 @@ window.WTI_DATA = {
                 "terms": [
                   "article 5"
                 ]
+              },
+              {
+                "country": "BJ",
+                "title": "North Korea fires ballistic missile, Seoul calls emergency meeting - Benin Web TV",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDBMeHNFc2xjczhFZmdESTlDYkdwODVxNHFCM29IcmVNYVI0X1dBNVRHUngzTXk0dlVieWx1cDJfcUNNQVVYREJGUjJhSjZoSnMxYm1feEo2UmdoY2had0lwUnh5TXg4ZUVFVlFoY2RVcWRueTg5VExDaGlKa29rLUU3M012bmRHbWQySWh5Q1N6eVBXRnc?oc=5",
+                "source": "benin web tv",
+                "terms": [
+                  "emergency meeting"
+                ]
               }
             ]
           },
           {
             "id": "systems_disruption",
             "label": "Systems Disruption",
-            "event_count": 6,
-            "independent_sources": 6,
+            "event_count": 5,
+            "independent_sources": 5,
             "cross_source_confirmed": true,
             "evidence": [
               {
@@ -42582,32 +42640,32 @@ window.WTI_DATA = {
       {
         "id": "synchronized_acceleration",
         "label": "Synchronized threat acceleration",
-        "score": 31.1,
+        "score": 23.7,
         "available": true,
         "entities_compared": 195,
-        "rising_entities": 13,
-        "rising_share": 0.0667,
-        "mean_positive_change": 1.485,
+        "rising_entities": 11,
+        "rising_share": 0.0564,
+        "mean_positive_change": 1.114,
         "largest_changes": [
           {
-            "entity": "TW",
-            "change": 2.77
+            "entity": "GB",
+            "change": 1.72
           },
           {
-            "entity": "AF",
-            "change": 2.72
+            "entity": "UA",
+            "change": 1.6
           },
           {
-            "entity": "CA",
-            "change": 2.44
+            "entity": "EG",
+            "change": 1.51
           },
           {
-            "entity": "DZ",
-            "change": 2.03
+            "entity": "BR",
+            "change": 1.08
           },
           {
-            "entity": "SO",
-            "change": 1.69
+            "entity": "ID",
+            "change": 1.08
           }
         ]
       }
@@ -42617,7 +42675,7 @@ window.WTI_DATA = {
         "id": "narrative_pressure",
         "level": "HEIGHTENED",
         "title": "Narrative precursor pressure",
-        "score": 52.6,
+        "score": 52.3,
         "why": "Threat-language concentration and cross-source confirmation exceed routine conditions."
       }
     ],
@@ -43891,11 +43949,21 @@ window.WTI_DATA = {
           "cross_market_dislocation": 0.0,
           "synchronized_acceleration": 31.1
         }
+      },
+      {
+        "timestamp": "2026-09-22T21:15:40.068915+00:00",
+        "score": 41.3,
+        "level": "WATCH",
+        "components": {
+          "narrative_pressure": 52.3,
+          "cross_market_dislocation": 0.0,
+          "synchronized_acceleration": 23.7
+        }
       }
     ],
     "data_health": {
-      "events_considered": 2721,
-      "independent_sources": 1135,
+      "events_considered": 2725,
+      "independent_sources": 1146,
       "market_series_available": 0,
       "available_components": 2
     },
@@ -43974,7 +44042,7 @@ window.WTI_DATA = {
   "groups": {
     "oecd": {
       "name": "OECD",
-      "index": 2.17,
+      "index": 1.7,
       "status": "STABLE",
       "member_count": 38,
       "active_members": 38,
@@ -44022,7 +44090,7 @@ window.WTI_DATA = {
     },
     "g7": {
       "name": "G7",
-      "index": 2.32,
+      "index": 1.54,
       "status": "STABLE",
       "member_count": 7,
       "active_members": 7,
@@ -44039,7 +44107,7 @@ window.WTI_DATA = {
     },
     "g20": {
       "name": "G20",
-      "index": 2.05,
+      "index": 2.03,
       "status": "STABLE",
       "member_count": 19,
       "active_members": 19,
@@ -44068,7 +44136,7 @@ window.WTI_DATA = {
     },
     "eu": {
       "name": "European Union",
-      "index": 2.44,
+      "index": 2.25,
       "status": "STABLE",
       "member_count": 27,
       "active_members": 27,
@@ -44105,7 +44173,7 @@ window.WTI_DATA = {
     },
     "usmca": {
       "name": "USMCA",
-      "index": 2.0,
+      "index": 1.0,
       "status": "STABLE",
       "member_count": 3,
       "active_members": 3,
@@ -44118,7 +44186,7 @@ window.WTI_DATA = {
     },
     "nato": {
       "name": "NATO",
-      "index": 2.43,
+      "index": 1.85,
       "status": "STABLE",
       "member_count": 32,
       "active_members": 32,
@@ -44160,7 +44228,7 @@ window.WTI_DATA = {
     },
     "asean": {
       "name": "ASEAN",
-      "index": 1.5,
+      "index": 1.93,
       "status": "STABLE",
       "member_count": 10,
       "active_members": 10,
@@ -44180,7 +44248,7 @@ window.WTI_DATA = {
     },
     "au": {
       "name": "African Union",
-      "index": 2.54,
+      "index": 2.67,
       "status": "STABLE",
       "member_count": 54,
       "active_members": 54,
@@ -44244,7 +44312,7 @@ window.WTI_DATA = {
     },
     "brics": {
       "name": "BRICS",
-      "index": 2.11,
+      "index": 2.32,
       "status": "STABLE",
       "member_count": 11,
       "active_members": 11,
@@ -44281,7 +44349,7 @@ window.WTI_DATA = {
     },
     "cis": {
       "name": "CIS",
-      "index": 3.36,
+      "index": 3.34,
       "status": "STABLE",
       "member_count": 9,
       "active_members": 9,
@@ -44300,7 +44368,7 @@ window.WTI_DATA = {
     },
     "mercosur": {
       "name": "MERCOSUR",
-      "index": 1.36,
+      "index": 2.23,
       "status": "STABLE",
       "member_count": 4,
       "active_members": 4,
@@ -44314,7 +44382,7 @@ window.WTI_DATA = {
     },
     "sco": {
       "name": "SCO",
-      "index": 2.41,
+      "index": 2.28,
       "status": "STABLE",
       "member_count": 9,
       "active_members": 9,
@@ -44334,19 +44402,19 @@ window.WTI_DATA = {
   },
   "rankings": {
     "highest_threat": [
-      "QA",
-      "AF",
       "UA",
+      "QA",
+      "IR",
+      "AF",
       "PG",
       "CH",
       "AE",
-      "IR",
       "ER",
-      "PK",
+      "SD",
       "LV"
     ],
     "lowest_threat": [
-      "TV",
+      "CA",
       "CR",
       "IN",
       "MC",
@@ -44360,21 +44428,27 @@ window.WTI_DATA = {
   },
   "rankings_table": [
     {
+      "iso2": "UA",
+      "name": "Ukraine",
+      "index": 7.42,
+      "status": "CRITICAL"
+    },
+    {
       "iso2": "QA",
       "name": "Qatar",
       "index": 7.37,
       "status": "CRITICAL"
     },
     {
-      "iso2": "AF",
-      "name": "Afghanistan",
-      "index": 6.97,
+      "iso2": "IR",
+      "name": "Iran",
+      "index": 6.27,
       "status": "ELEVATED"
     },
     {
-      "iso2": "UA",
-      "name": "Ukraine",
-      "index": 5.82,
+      "iso2": "AF",
+      "name": "Afghanistan",
+      "index": 6.27,
       "status": "ELEVATED"
     },
     {
@@ -44396,21 +44470,15 @@ window.WTI_DATA = {
       "status": "ELEVATED"
     },
     {
-      "iso2": "IR",
-      "name": "Iran",
-      "index": 5.25,
-      "status": "ELEVATED"
-    },
-    {
       "iso2": "ER",
       "name": "Eritrea",
       "index": 5.23,
       "status": "ELEVATED"
     },
     {
-      "iso2": "PK",
-      "name": "Pakistan",
-      "index": 5.1,
+      "iso2": "SD",
+      "name": "Sudan",
+      "index": 4.61,
       "status": "ELEVATED"
     },
     {
@@ -44420,20 +44488,8 @@ window.WTI_DATA = {
       "status": "ELEVATED"
     },
     {
-      "iso2": "LB",
-      "name": "Lebanon",
-      "index": 4.61,
-      "status": "ELEVATED"
-    },
-    {
       "iso2": "GN",
       "name": "Guinea",
-      "index": 4.56,
-      "status": "ELEVATED"
-    },
-    {
-      "iso2": "RU",
-      "name": "Russia",
       "index": 4.56,
       "status": "ELEVATED"
     },
@@ -44450,9 +44506,15 @@ window.WTI_DATA = {
       "status": "ELEVATED"
     },
     {
-      "iso2": "CA",
-      "name": "Canada",
+      "iso2": "RU",
+      "name": "Russia",
       "index": 4.52,
+      "status": "ELEVATED"
+    },
+    {
+      "iso2": "EG",
+      "name": "Egypt",
+      "index": 4.43,
       "status": "ELEVATED"
     },
     {
@@ -44492,14 +44554,14 @@ window.WTI_DATA = {
       "status": "ELEVATED"
     },
     {
-      "iso2": "SY",
-      "name": "Syria",
+      "iso2": "CG",
+      "name": "Congo",
       "index": 3.87,
       "status": "STABLE"
     },
     {
-      "iso2": "CG",
-      "name": "Congo",
+      "iso2": "ZA",
+      "name": "South Africa",
       "index": 3.87,
       "status": "STABLE"
     },
@@ -44522,6 +44584,18 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
+      "iso2": "LB",
+      "name": "Lebanon",
+      "index": 3.87,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "AU",
+      "name": "Australia",
+      "index": 3.87,
+      "status": "STABLE"
+    },
+    {
       "iso2": "SO",
       "name": "Somalia",
       "index": 3.77,
@@ -44534,9 +44608,15 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "TW",
-      "name": "Taiwan",
+      "iso2": "IL",
+      "name": "Israel",
       "index": 3.77,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "GB",
+      "name": "United Kingdom",
+      "index": 3.67,
       "status": "STABLE"
     },
     {
@@ -44546,27 +44626,9 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "SD",
-      "name": "Sudan",
-      "index": 3.57,
-      "status": "STABLE"
-    },
-    {
       "iso2": "ML",
       "name": "Mali",
       "index": 3.36,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "ZA",
-      "name": "South Africa",
-      "index": 3.31,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "FR",
-      "name": "France",
-      "index": 3.31,
       "status": "STABLE"
     },
     {
@@ -44612,26 +44674,20 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "CD",
-      "name": "DR Congo",
-      "index": 3.16,
-      "status": "STABLE"
-    },
-    {
       "iso2": "MY",
       "name": "Malaysia",
       "index": 3.14,
       "status": "STABLE"
     },
     {
-      "iso2": "DE",
-      "name": "Germany",
-      "index": 3.03,
+      "iso2": "AR",
+      "name": "Argentina",
+      "index": 3.04,
       "status": "STABLE"
     },
     {
-      "iso2": "TR",
-      "name": "Türkiye",
+      "iso2": "DE",
+      "name": "Germany",
       "index": 3.03,
       "status": "STABLE"
     },
@@ -44696,8 +44752,20 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "AU",
-      "name": "Australia",
+      "iso2": "CD",
+      "name": "DR Congo",
+      "index": 3.03,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "IQ",
+      "name": "Iraq",
+      "index": 3.03,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "PK",
+      "name": "Pakistan",
       "index": 3.03,
       "status": "STABLE"
     },
@@ -44708,26 +44776,8 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "EG",
-      "name": "Egypt",
-      "index": 2.92,
-      "status": "STABLE"
-    },
-    {
       "iso2": "LT",
       "name": "Lithuania",
-      "index": 2.92,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "AR",
-      "name": "Argentina",
-      "index": 2.92,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "IL",
-      "name": "Israel",
       "index": 2.92,
       "status": "STABLE"
     },
@@ -44804,12 +44854,6 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "MM",
-      "name": "Myanmar",
-      "index": 2.33,
-      "status": "STABLE"
-    },
-    {
       "iso2": "KG",
       "name": "Kyrgyzstan",
       "index": 2.33,
@@ -44876,20 +44920,20 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
+      "iso2": "MM",
+      "name": "Myanmar",
+      "index": 2.15,
+      "status": "STABLE"
+    },
+    {
       "iso2": "EE",
       "name": "Estonia",
       "index": 2.12,
       "status": "STABLE"
     },
     {
-      "iso2": "JP",
-      "name": "Japan",
-      "index": 2.08,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "US",
-      "name": "United States",
+      "iso2": "TR",
+      "name": "Türkiye",
       "index": 2.08,
       "status": "STABLE"
     },
@@ -44914,6 +44958,12 @@ window.WTI_DATA = {
     {
       "iso2": "YE",
       "name": "Yemen",
+      "index": 2.08,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "BR",
+      "name": "Brazil",
       "index": 2.08,
       "status": "STABLE"
     },
@@ -44978,6 +45028,12 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
+      "iso2": "ID",
+      "name": "Indonesia",
+      "index": 2.08,
+      "status": "STABLE"
+    },
+    {
       "iso2": "VA",
       "name": "Vatican City",
       "index": 2.08,
@@ -44998,12 +45054,6 @@ window.WTI_DATA = {
     {
       "iso2": "GR",
       "name": "Greece",
-      "index": 2.08,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "MA",
-      "name": "Morocco",
       "index": 2.08,
       "status": "STABLE"
     },
@@ -45032,8 +45082,8 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "IQ",
-      "name": "Iraq",
+      "iso2": "TW",
+      "name": "Taiwan",
       "index": 2.08,
       "status": "STABLE"
     },
@@ -45056,9 +45106,9 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "GB",
-      "name": "United Kingdom",
-      "index": 1.95,
+      "iso2": "FR",
+      "name": "France",
+      "index": 2.02,
       "status": "STABLE"
     },
     {
@@ -45188,6 +45238,24 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
+      "iso2": "JP",
+      "name": "Japan",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "SY",
+      "name": "Syria",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "US",
+      "name": "United States",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
       "iso2": "AD",
       "name": "Andorra",
       "index": 1.0,
@@ -45268,12 +45336,6 @@ window.WTI_DATA = {
     {
       "iso2": "UG",
       "name": "Uganda",
-      "index": 1.0,
-      "status": "STABLE"
-    },
-    {
-      "iso2": "BR",
-      "name": "Brazil",
       "index": 1.0,
       "status": "STABLE"
     },
@@ -45404,12 +45466,6 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
-      "iso2": "ID",
-      "name": "Indonesia",
-      "index": 1.0,
-      "status": "STABLE"
-    },
-    {
       "iso2": "KZ",
       "name": "Kazakhstan",
       "index": 1.0,
@@ -45470,8 +45526,20 @@ window.WTI_DATA = {
       "status": "STABLE"
     },
     {
+      "iso2": "MA",
+      "name": "Morocco",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
       "iso2": "TV",
       "name": "Tuvalu",
+      "index": 1.0,
+      "status": "STABLE"
+    },
+    {
+      "iso2": "CA",
+      "name": "Canada",
       "index": 1.0,
       "status": "STABLE"
     },

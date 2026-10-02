@@ -49,3 +49,7 @@ required writing at the **end**. Complements the user-global doctrine in `~/.cla
 - **2026-06-29:** tier-selection logic stays in the workflow (not the Python script) but is
   now hardened (base-10 + soft-fail + consumer default) rather than moved — minimal blast
   radius, keeps the schedule→tier mapping visible in one place.
+
+## 2026-10-02 — Shared public design
+
+User-approved data-first design applied to the public frontend. Design version 2026.10, local IBM Plex fonts, responsive collection navigation. See docs/monarch-design.md for source, scope and verification.

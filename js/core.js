@@ -28,6 +28,16 @@ const WTI = {
     return date && !Number.isNaN(date.getTime()) ? date.toLocaleString() : '--';
   },
 
+  evidenceContext() {
+    const countries = Object.values(this.data?.countries || {});
+    const events = countries.flatMap(country => Array.isArray(country.events) ? country.events : []);
+    if (!events.length) return 'No event attribution details are available in this snapshot.';
+    const heuristic = events.filter(event => event.attribution_method === 'heuristic-v1').length;
+    const neutralOnly = countries.filter(country => Array.isArray(country.events) && country.events.length > 0 && country.events.every(event => event.category === 'neutral')).length;
+    const neutralLabel = neutralOnly === 1 ? 'country row contains' : 'country rows contain';
+    return `${heuristic} of ${events.length} retained events use lower-confidence heuristic attribution. ${neutralOnly} ${neutralLabel} only events classified as neutral. Indexed rows measure represented countries, not the completeness or reliability of their evidence; a low score does not establish safety.`;
+  },
+
   renderEarlyWarning() {
     const warning = this.data?.early_warning;
     const componentsEl = document.getElementById('early-warning-components');
@@ -84,9 +94,10 @@ const WTI = {
     document.getElementById('main-index').textContent = this.getIndex(meta).toFixed(2);
     document.getElementById('status-text').textContent = meta.status || '--';
     document.getElementById('countries-active').textContent =
-      `ACTIVE: ${meta.countries_active || 0} / ${meta.countries_total || 0}`;
+      `${meta.countries_active || 0} / ${meta.countries_total || 0}`;
     document.getElementById('coverage-text').textContent =
       `${Math.round((meta.coverage_ratio || 0) * 100)}%`;
+    document.getElementById('evidence-context').textContent = this.evidenceContext();
     const last = meta.generated_at ? new Date(meta.generated_at) : null;
     document.getElementById('last-update').textContent =
       last && !Number.isNaN(last.getTime()) ? last.toLocaleString() : '--';

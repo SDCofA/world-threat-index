@@ -30,7 +30,9 @@ jobs:
         with:
           node-version: 22
       - name: Verify evidence context
-        run: node --test tests/wti/evidence-context.test.mjs
+        run: node --test tests/wti/*.test.mjs
+      - name: Version deployed data and application by content
+        run: node scripts/version-assets.mjs .
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:

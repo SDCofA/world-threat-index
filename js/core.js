@@ -24,8 +24,11 @@ const WTI = {
   },
 
   formatDateTime(value) {
-    const date = value ? new Date(value) : null;
-    return date && !Number.isNaN(date.getTime()) ? date.toLocaleString() : '--';
+    const raw = typeof value === 'string' ? value.trim() : '';
+    // Legacy workflow timestamps were generated on UTC runners without a zone suffix.
+    const zoned = /^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d(?:\.\d+)?$/.test(raw) ? `${raw}Z` : raw;
+    const date = zoned ? new Date(zoned) : null;
+    return date && !Number.isNaN(date.getTime()) ? `${date.toLocaleString('en-GB', { timeZone: 'UTC' })} UTC` : '--';
   },
 
   evidenceContext() {
@@ -98,9 +101,7 @@ const WTI = {
     document.getElementById('coverage-text').textContent =
       `${Math.round((meta.coverage_ratio || 0) * 100)}%`;
     document.getElementById('evidence-context').textContent = this.evidenceContext();
-    const last = meta.generated_at ? new Date(meta.generated_at) : null;
-    document.getElementById('last-update').textContent =
-      last && !Number.isNaN(last.getTime()) ? last.toLocaleString() : '--';
+    document.getElementById('last-update').textContent = this.formatDateTime(meta.generated_at);
     this.renderEarlyWarning();
   },
 };

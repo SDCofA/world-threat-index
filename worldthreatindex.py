@@ -6,7 +6,7 @@ import json
 import logging
 import os
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from wti_core.feeds import FeedEngine
@@ -240,7 +240,7 @@ class WTIAnalyzer:
         status = status_from_index(main_index)
         rankings = build_rankings(merged_countries, self.registry_by_iso2)
         coverage = len([c for c in merged_countries if merged_countries[c].get("index")]) / len(self.registry)
-        issued_at = datetime.now().isoformat()
+        issued_at = datetime.now(timezone.utc).isoformat()
         early_warning = build_early_warning(
             merged_countries,
             product="wti",
@@ -259,7 +259,7 @@ class WTIAnalyzer:
                 "countries_active": len(merged_countries),
                 "coverage_ratio": round(coverage, 2),
                 "version": "1.0.0",
-                "next_update": (datetime.now().replace(minute=0, second=0, microsecond=0) + timedelta(hours=2)).isoformat(),
+                "next_update": (datetime.now(timezone.utc).replace(minute=0, second=0, microsecond=0) + timedelta(hours=2)).isoformat(),
                 "publishable": publish_meta,
             },
             "countries": merged_countries,

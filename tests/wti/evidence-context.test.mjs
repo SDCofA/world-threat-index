@@ -25,3 +25,12 @@ test('reports actual fallback and neutral-only counts without equating rows to e
 test('handles missing event details without presenting invented counts', () => {
   assert.match(contextFor({ AA: { events: [] } }), /No event attribution details/);
 });
+
+test('legacy UTC timestamps and explicit offsets refer to the same displayed time', () => {
+  const sandbox = { window: { WTI_DATA: {} }, document: { addEventListener() {} } };
+  vm.runInNewContext(`${source}\nwindow.subject = WTI;`, sandbox);
+  const format = sandbox.window.subject.formatDateTime;
+  assert.equal(format('2026-10-28T08:29:55'), format('2026-10-28T11:29:55+03:00'));
+  assert.match(format('2026-10-28T08:29:55'), /08:29:55 UTC$/);
+  assert.equal(format('invalid'), '--');
+});
